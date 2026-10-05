@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Atlas Criminal de América Latina</title>
+<meta name="description" content="Atlas interactivo de las principales organizaciones criminales vigentes en América Latina: presencia territorial, delitos por país y vínculos internacionales, con fuentes citadas.">
+<meta name="referrer" content="no-referrer">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,500..800&family=IBM+Plex+Mono:wght@400;500&family=Public+Sans:ital,wght@0,400..700;1,400&display=swap">
+<link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+<!--CUERPO-->
+<header class="masthead">
+  <div class="masthead__id">
+    <p class="eyebrow">Crimen organizado · corte <time id="corte" datetime="">—</time></p>
+    <h1>Atlas Criminal de América Latina</h1>
+    <p class="lede" id="lede">Organizaciones criminales vigentes, su presencia territorial, los delitos que ejecutan en cada país y sus vínculos internacionales, con fuentes citadas.</p>
+  </div>
+  <dl class="tally" id="tally"></dl>
+  <div class="masthead__tools">
+    <button class="btn" id="theme" type="button" aria-label="Cambiar tema">Tema: sistema</button>
+  </div>
+</header>
+
+<div class="bar">
+  <div class="bar__inner">
+    <nav class="tabs" role="tablist" aria-label="Vistas">
+      <button class="tab" role="tab" id="tab-mapa" aria-controls="view-mapa" data-view="mapa" type="button">Mapa de presencia</button>
+      <button class="tab" role="tab" id="tab-red" aria-controls="view-red" data-view="red" type="button">Red de vínculos</button>
+      <button class="tab" role="tab" id="tab-matriz" aria-controls="view-matriz" data-view="matriz" type="button">Delitos × territorio</button>
+      <button class="tab" role="tab" id="tab-fichas" aria-controls="view-fichas" data-view="fichas" type="button">Organizaciones</button>
+      <button class="tab" role="tab" id="tab-metodo" aria-controls="view-metodo" data-view="metodo" type="button">Método y fuentes</button>
+    </nav>
+    <div class="filters" role="group" aria-label="Filtros">
+      <div class="seg" id="f-familia" role="group" aria-label="Familia de organización"></div>
+      <label class="field" for="f-delito">Delito
+        <select id="f-delito"></select>
+      </label>
+      <label class="field" for="f-org">Organización
+        <select id="f-org"></select>
+      </label>
+      <button class="btn btn--quiet" id="f-limpiar" type="button" hidden>Quitar filtros</button>
+      <span class="filters__status" id="f-status" aria-live="polite"></span>
+    </div>
+  </div>
+</div>
+
+<main id="main">
+  <section class="view" id="view-mapa" role="tabpanel" aria-labelledby="tab-mapa">
+    <div class="view__head">
+      <h2 id="map-title">Presencia documentada por país</h2>
+      <p id="map-help">Seleccione un país para ver qué organizaciones operan allí, en qué zonas y con qué delitos. Elija una organización en los filtros para ver su alcance.</p>
+    </div>
+    <div class="map-layout">
+      <div class="panel map-wrap">
+        <svg class="map-svg" id="map" role="img" aria-labelledby="map-title"></svg>
+        <div class="map-controls">
+          <div class="seg" role="group" aria-label="Encuadre del mapa">
+            <button type="button" data-extent="region" aria-pressed="true">América Latina</button>
+            <button type="button" data-extent="mundo" aria-pressed="false">Mundo</button>
+          </div>
+        </div>
+        <div class="map-zoom">
+          <button class="btn" type="button" id="zoom-in" aria-label="Acercar">+</button>
+          <button class="btn" type="button" id="zoom-out" aria-label="Alejar">−</button>
+        </div>
+        <div class="legend" id="map-legend"></div>
+      </div>
+      <aside class="panel side" id="map-side" aria-label="Detalle del mapa"></aside>
+    </div>
+  </section>
+
+  <section class="view" id="view-red" role="tabpanel" aria-labelledby="tab-red" hidden>
+    <div class="view__head">
+      <h2>Red de vínculos</h2>
+      <p>Alianzas, suministro, lavado, rivalidades y escisiones vigentes entre organizaciones y con actores fuera de la región. Pase el cursor sobre un nodo para aislar sus vínculos; selecciónelo para abrir su ficha. Arrastre para reordenar.</p>
+    </div>
+    <div class="panel net-wrap">
+      <div class="legend" id="net-legend"></div>
+      <svg class="net-svg" id="net" role="img" aria-label="Grafo de vínculos entre organizaciones"></svg>
+    </div>
+    <div class="panel" style="margin-top:16px">
+      <div class="view__head" style="padding:12px 14px 0">
+        <h2 style="font-size:var(--fs-l)">Vínculos visibles</h2>
+        <p id="net-count"></p>
+      </div>
+      <div class="table-scroll"><table class="links-table" id="net-table"></table></div>
+    </div>
+  </section>
+
+  <section class="view" id="view-matriz" role="tabpanel" aria-labelledby="tab-matriz" hidden>
+    <div class="view__head">
+      <h2>Delitos × territorio</h2>
+      <p>Cada celda indica cuántas organizaciones del atlas ejecutan ese delito en ese país, según las fuentes citadas. Seleccione una celda para ver cuáles y en qué zonas; seleccione un delito para filtrar todas las vistas.</p>
+    </div>
+    <div class="cards-tools">
+      <div class="seg" role="group" aria-label="Orden de filas" id="m-sort">
+        <button type="button" data-sort="region" aria-pressed="true">Por región</button>
+        <button type="button" data-sort="total" aria-pressed="false">Por número de organizaciones</button>
+      </div>
+      <div class="legend" id="m-legend" style="border:0;padding:0"></div>
+    </div>
+    <div class="panel table-scroll" style="padding:10px 12px">
+      <table class="matrix" id="matrix"></table>
+    </div>
+  </section>
+
+  <section class="view" id="view-fichas" role="tabpanel" aria-labelledby="tab-fichas" hidden>
+    <div class="view__head">
+      <h2>Organizaciones</h2>
+      <p>Fichas con origen, situación a la fecha de corte, liderazgo, designaciones oficiales, presencia, delitos, vínculos y fuentes.</p>
+    </div>
+    <div class="cards-tools">
+      <label class="field" for="q">Buscar
+        <input id="q" type="search" placeholder="Nombre o alias" autocomplete="off">
+      </label>
+      <div class="seg" role="group" aria-label="Orden" id="c-sort">
+        <button type="button" data-sort="nombre" aria-pressed="true">A–Z</button>
+        <button type="button" data-sort="paises" aria-pressed="false">Más países</button>
+        <button type="button" data-sort="vinculos" aria-pressed="false">Más vínculos</button>
+      </div>
+    </div>
+    <div class="cards" id="cards"></div>
+  </section>
+
+  <section class="view" id="view-metodo" role="tabpanel" aria-labelledby="tab-metodo" hidden>
+    <div class="method-grid">
+      <div class="prose" id="metodo"></div>
+      <div>
+        <h2 style="font-family:var(--font-display);font-stretch:82%;font-size:var(--fs-xl);margin:0 0 8px">Fuentes consultadas</h2>
+        <p style="margin:0 0 12px;color:var(--ink-2);font-size:var(--fs-s)" id="biblio-sum"></p>
+        <div id="biblio"></div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-foot">
+  <p id="foot">Atlas elaborado con fuentes abiertas. La presencia y los vínculos reflejan lo documentado por las fuentes citadas a la fecha de corte; no constituyen una imputación judicial.</p>
+</footer>
+
+<aside class="drawer" id="drawer" role="dialog" aria-modal="false" aria-labelledby="drawer-title" hidden>
+  <div class="drawer__bar">
+    <span class="drawer__crumb" id="drawer-crumb"></span>
+    <div style="display:flex;gap:6px">
+      <button class="btn" type="button" id="drawer-back" hidden>Volver</button>
+      <button class="btn" type="button" id="drawer-close">Cerrar</button>
+    </div>
+  </div>
+  <div class="drawer__body" id="drawer-body"></div>
+</aside>
+<div class="tip" id="tip" role="tooltip" hidden></div>
+<!--/CUERPO-->
+
+<script src="assets/vendor/d3.v7.9.0.min.js"></script>
+<script src="assets/vendor/topojson.v3.0.2.min.js"></script>
+<script src="data/geo.js"></script>
+<script src="data/atlas.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

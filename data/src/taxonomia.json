@@ -1,0 +1,53 @@
+{
+  "delitos": [
+    {"id": "cocaina", "nombre": "Tráfico de cocaína", "corto": "Cocaína", "def": "Producción, acopio, transporte o exportación de cocaína y pasta base."},
+    {"id": "sinteticas", "nombre": "Drogas sintéticas", "corto": "Sintéticas", "def": "Producción o tráfico de fentanilo, metanfetamina y otras drogas sintéticas, incluido el desvío de precursores."},
+    {"id": "otras_drogas", "nombre": "Marihuana, heroína y otras drogas", "corto": "Otras drogas", "def": "Cultivo o tráfico de marihuana, amapola y heroína, y otras sustancias de origen vegetal."},
+    {"id": "narcomenudeo", "nombre": "Narcomenudeo", "corto": "Narcomenudeo", "def": "Venta minorista de drogas (microtráfico) y control de puntos de venta."},
+    {"id": "extorsion", "nombre": "Extorsión", "corto": "Extorsión", "def": "Cobro de piso o vacunas, control de mercados legales y préstamos usureros (gota a gota)."},
+    {"id": "secuestro", "nombre": "Secuestro", "corto": "Secuestro", "def": "Privación ilegítima de libertad con fines económicos o de control, incluido el secuestro de migrantes."},
+    {"id": "sicariato", "nombre": "Sicariato y homicidio", "corto": "Sicariato", "def": "Homicidio por encargo y violencia letal organizada contra rivales, autoridades o población."},
+    {"id": "trata", "nombre": "Trata de personas", "corto": "Trata", "def": "Captación y explotación de personas, en especial explotación sexual y trabajo forzoso."},
+    {"id": "migrantes", "nombre": "Tráfico de migrantes", "corto": "Migrantes", "def": "Facilitación de cruces fronterizos irregulares a cambio de pago, y cobro de tránsito a migrantes."},
+    {"id": "armas", "nombre": "Tráfico de armas", "corto": "Armas", "def": "Adquisición, contrabando o venta ilegal de armas, municiones y explosivos."},
+    {"id": "mineria", "nombre": "Minería ilegal", "corto": "Minería", "def": "Extracción ilegal de oro y otros minerales, o extorsión y control sobre ella."},
+    {"id": "ambiental", "nombre": "Delitos ambientales", "corto": "Ambiental", "def": "Tala ilegal, tráfico de fauna y flora, pesca ilegal y acaparamiento de tierras."},
+    {"id": "combustible", "nombre": "Robo y contrabando de combustible", "corto": "Combustible", "def": "Sustracción de ductos (huachicol), contrabando y adulteración de combustibles."},
+    {"id": "contrabando", "nombre": "Contrabando de mercancías", "corto": "Contrabando", "def": "Ingreso o comercio ilegal de bienes (cigarrillos, alimentos, productos falsificados)."},
+    {"id": "lavado", "nombre": "Lavado de activos", "corto": "Lavado", "def": "Ocultamiento del origen ilícito de fondos mediante empresas, bienes, finanzas o activos virtuales."},
+    {"id": "fraude", "nombre": "Fraude y ciberdelito", "corto": "Fraude", "def": "Estafas, fraudes telefónicos o digitales, fraude financiero y ciberdelito."},
+    {"id": "robo", "nombre": "Robo", "corto": "Robo", "def": "Robo de vehículos, de carga o asaltos organizados."},
+    {"id": "reclutamiento", "nombre": "Reclutamiento de menores", "corto": "Reclutamiento", "def": "Reclutamiento, uso o utilización de niños, niñas y adolescentes."}
+  ],
+  "niveles": [
+    {"id": "base", "nombre": "Base", "def": "Territorio de origen o centro de mando de la organización."},
+    {"id": "consolidada", "nombre": "Consolidada", "def": "Control territorial o estructura estable documentada."},
+    {"id": "operativa", "nombre": "Operativa", "def": "Células, rutas, emisarios o socios con actividad documentada."},
+    {"id": "limitada", "nombre": "Limitada", "def": "Presencia puntual o reportes aislados de fuentes confiables."}
+  ],
+  "vinculos": [
+    {"id": "alianza", "nombre": "Alianza", "def": "Cooperación operativa o pacto entre organizaciones."},
+    {"id": "suministro", "nombre": "Suministro", "def": "Relación de proveedor y comprador de drogas, precursores o armas. La flecha apunta al receptor cuando la dirección es conocida."},
+    {"id": "lavado", "nombre": "Lavado", "def": "Prestación de servicios de lavado de activos."},
+    {"id": "rivalidad", "nombre": "Rivalidad", "def": "Disputa armada o competencia violenta por territorios o mercados."},
+    {"id": "escision", "nombre": "Escisión", "def": "Facción derivada de otra organización."}
+  ],
+  "tipos": [
+    {"id": "cartel", "nombre": "Cártel", "familia": "narco"},
+    {"id": "red_estatal", "nombre": "Red con agentes estatales", "familia": "narco"},
+    {"id": "faccion", "nombre": "Facción carcelaria", "familia": "faccion"},
+    {"id": "megabanda", "nombre": "Megabanda", "familia": "faccion"},
+    {"id": "pandilla", "nombre": "Pandilla", "familia": "faccion"},
+    {"id": "grupo_armado", "nombre": "Grupo armado", "familia": "armado"}
+  ],
+  "familias": [
+    {"id": "narco", "nombre": "Cárteles y redes de narcotráfico"},
+    {"id": "faccion", "nombre": "Facciones, megabandas y pandillas"},
+    {"id": "armado", "nombre": "Grupos armados"}
+  ],
+  "confianza": [
+    {"id": "alta", "nombre": "Alta", "def": "Respaldo de una fuente oficial o de dos fuentes independientes."},
+    {"id": "media", "nombre": "Media", "def": "Respaldo de una fuente confiable."},
+    {"id": "baja", "nombre": "Baja", "def": "Reportes no corroborados o disputados."}
+  ]
+}
