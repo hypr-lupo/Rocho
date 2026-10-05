@@ -1,0 +1,369 @@
+{
+  "id": "red-marset",
+  "nombre": "Red de Sebastián Marset",
+  "corto": "Red Marset",
+  "alias": [
+    "Organización narcotraficante de Marset (Marset DTO)",
+    "Organización Marset"
+  ],
+  "tipo": "cartel",
+  "pais_origen": "URY",
+  "fundacion": "2018-2019 (tras la salida de prisión de Marset en Uruguay en 2018; base en Paraguay desde 2019 y en Santa Cruz, Bolivia, desde 2022)",
+  "resumen": "La red de Sebastián Marset es una organización de intermediación (brokerage) de cocaína. Según la fiscalía de EE. UU., distribuyó miles de kilos de cocaína, con hasta 10 toneladas por envío, desde Sudamérica hacia Europa. Lavó sus ganancias a través de operadores financieros, clubes de fútbol y empresas pantalla. Operó desde Paraguay y luego desde Santa Cruz de la Sierra (Bolivia) hasta la captura de Marset, el 13 de marzo de 2026, y dependía de redes de corrupción en Paraguay y Bolivia.",
+  "situacion_actual": "La Fuerza Especial de Lucha Contra el Narcotráfico (FELCN) de Bolivia y la DEA capturaron a Marset el 13 de marzo de 2026 en Santa Cruz y lo trasladaron de inmediato a EE. UU. El 16 de marzo compareció ante el tribunal federal de Alexandria (Virginia). Una acusación sustitutiva del 25 de junio de 2026 le imputa conspiración para narcoterrorismo, conspiración para poseer cocaína a bordo de buques bajo jurisdicción estadounidense y lavado de dinero; el juicio está fijado para el 11 de enero de 2027. En agosto de 2026, el Gobierno boliviano atribuyó a personas cercanas a Marset una ola de unos diez homicidios en Santa Cruz, incluida una emboscada en San Matías. El 1 de octubre de 2026, un operativo con apoyo de la DEA detuvo a 14 personas, entre ellas el fiscal general Roger Mariaca, enviado a prisión preventiva el 3 de octubre y acusado de proteger a la organización; Bolivia investiga además rutas por el Chaco paraguayo. En Paraguay, el senador Erico Galeano fue condenado a 13 años el 3 de marzo de 2026 en la causa A Ultranza PY, y la madre de los hijos de Marset espera audiencia preliminar el 4 de noviembre de 2026. Según el ministro del Interior uruguayo, sus principales lugartenientes en Uruguay fueron detenidos en 2025. La red está debilitada y sin un sucesor identificado, pero sus rutas siguen en uso.",
+  "estructura": "No es un cartel territorial, sino una red de intermediación. Marset coordinaba vuelos de cocaína producida en Bolivia hacia pistas en Paraguay. Desde allí la droga bajaba por la hidrovía Paraguay-Paraná y se embarcaba hacia África y Europa. El operador financiero Federico Santoro Vassallo, con base en Paraguay, cobraba en euros las ganancias en Europa mediante correos y «tokens» y las reintroducía en el sistema bancario mediante transferencias, a veces a través de bancos corresponsales de EE. UU. La red lavaba dinero mediante clubes de fútbol (Deportivo Capiatá en Paraguay y Leones del Torno en Bolivia), empresas pantalla, comercio de vehículos y criptoactivos. Contaba con socios paraguayos, entre ellos Miguel Ángel Insfrán, acusado de dirigir la red junto a Marset y a la espera de juicio. También se apoyaba en funcionarios corruptos en Paraguay y Bolivia, en lugartenientes en Uruguay y en familiares.",
+  "lideres": [
+    {
+      "nombre": "Sebastián Enrique Marset Cabrera",
+      "alias": "",
+      "rol": "Líder",
+      "estado": "Detenido en EE. UU.: capturado el 13 de marzo de 2026 en Santa Cruz (Bolivia) y procesado en el Distrito Este de Virginia, con juicio fijado para el 11 de enero de 2027",
+      "fuente_ids": [
+        "s1",
+        "s3",
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "nombre": "Federico Ezequiel Santoro Vassallo",
+      "alias": "Capitán",
+      "rol": "Operador de lavado de activos con base en Paraguay",
+      "estado": "Condenado en EE. UU. a 15 años de prisión el 23 de julio de 2025, tras declararse culpable el 21 de mayo de 2025",
+      "fuente_ids": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "nombre": "Gianina García Troche",
+      "alias": "",
+      "rol": "Presunta operadora de lavado (empresas pantalla); madre de los hijos de Marset",
+      "estado": "Detenida en Paraguay, acusada formalmente el 20 de mayo de 2026; audiencia preliminar fijada para el 4 de noviembre de 2026",
+      "fuente_ids": [
+        "s13",
+        "s5"
+      ]
+    }
+  ],
+  "designaciones": [],
+  "delitos": [
+    "cocaina",
+    "lavado",
+    "sicariato"
+  ],
+  "presencia": [
+    {
+      "pais": "BOL",
+      "nivel": "base",
+      "zonas": [
+        "Santa Cruz de la Sierra",
+        "El Torno (club Leones del Torno)",
+        "San Matías (frontera con Brasil)"
+      ],
+      "delitos": [
+        "cocaina",
+        "lavado",
+        "sicariato"
+      ],
+      "nota": "Fue el centro de mando desde 2022 hasta la captura de Marset (13 de marzo de 2026). Tras la captura se incautaron 16 aeronaves. El Gobierno atribuyó a redes cercanas a Marset homicidios ocurridos en agosto de 2026, y en octubre de 2026 se desarticuló una red de protección integrada por fiscales y policías.",
+      "fuente_ids": [
+        "s1",
+        "s3",
+        "s6",
+        "s9",
+        "s10",
+        "s14"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "PRY",
+      "nivel": "operativa",
+      "zonas": [
+        "Asunción",
+        "Capiatá (club Deportivo Capiatá)",
+        "Chaco paraguayo",
+        "Hidrovía Paraguay-Paraná",
+        "Salto del Guairá (frontera con Brasil)"
+      ],
+      "delitos": [
+        "cocaina",
+        "lavado"
+      ],
+      "nota": "Fue el epicentro logístico y financiero entre 2019 y 2022. La Operación A Ultranza PY desmanteló gran parte de la estructura, pero Bolivia investiga en 2026 rutas aéreas por el Chaco paraguayo. El ministro de la Senad afirmó que la red corrompió a funcionarios paraguayos.",
+      "fuente_ids": [
+        "s1",
+        "s5",
+        "s6",
+        "s7",
+        "s9",
+        "s11",
+        "s13"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "URY",
+      "nivel": "operativa",
+      "zonas": [
+        "Montevideo (Cerro Norte)",
+        "Cárceles uruguayas"
+      ],
+      "delitos": [
+        "cocaina"
+      ],
+      "nota": "Uruguay es el país de origen de Marset. Allí operaba con lugartenientes ligados a clanes de Montevideo, detenidos en 2025 según el ministro del Interior. Según El País de Uruguay, Marset trasladó a su red métodos del PCC en las cárceles.",
+      "fuente_ids": [
+        "s1",
+        "s5",
+        "s12"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "BRA",
+      "nivel": "operativa",
+      "zonas": [],
+      "delitos": [
+        "cocaina"
+      ],
+      "nota": "Según la acusación de EE. UU., la organización traficaba cocaína en Brasil. Según InSight Crime, operaba en zonas fronterizas.",
+      "fuente_ids": [
+        "s1",
+        "s6"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "BEL",
+      "nivel": "operativa",
+      "zonas": [],
+      "delitos": [
+        "cocaina"
+      ],
+      "nota": "Es un mercado de destino de la cocaína según la acusación de EE. UU. No hay detalle sobre estructuras locales.",
+      "fuente_ids": [
+        "s1",
+        "s2"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "NLD",
+      "nivel": "operativa",
+      "zonas": [],
+      "delitos": [
+        "cocaina"
+      ],
+      "nota": "Es un mercado de destino de la cocaína según la acusación de EE. UU. No hay detalle sobre estructuras locales.",
+      "fuente_ids": [
+        "s1",
+        "s2"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "PRT",
+      "nivel": "operativa",
+      "zonas": [],
+      "delitos": [
+        "cocaina"
+      ],
+      "nota": "Es un mercado de destino de la cocaína según la acusación de EE. UU. No hay detalle sobre estructuras locales.",
+      "fuente_ids": [
+        "s1",
+        "s2"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "USA",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [
+        "lavado"
+      ],
+      "nota": "Según la acusación, la red lavó ganancias del narcotráfico a través de bancos corresponsales estadounidenses: al menos 5 millones de euros de un envío de 2021. Marset está detenido en Alexandria (Virginia) a la espera de juicio.",
+      "fuente_ids": [
+        "s1",
+        "s2",
+        "s8"
+      ],
+      "confianza": "alta"
+    }
+  ],
+  "vinculos": [
+    {
+      "destino": "pcc",
+      "tipo": "alianza",
+      "descripcion": "Marset entabló contactos con integrantes del PCC durante su reclusión en Uruguay (2013-2018) y luego operó en Bolivia, donde el PCC mantiene vínculos con productores de cocaína. Según El País de Uruguay, incorporó métodos y códigos del PCC en su red uruguaya. En octubre de 2025 difundió un video con hombres armados bajo una bandera del PCC. La fiscalía de EE. UU. lo vincula con el PCC para sustentar el cargo de narcoterrorismo, lo que la defensa disputa.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s4",
+        "s5",
+        "s7",
+        "s12"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "clan-del-golfo",
+      "tipo": "alianza",
+      "descripcion": "Según la defensa de Marset, citada por OCCRP y ABC Color, la fiscalía de EE. UU. busca vincularlo con el Clan del Golfo para sostener el cargo de narcoterrorismo. No se han hecho públicos los detalles de esa relación.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s7"
+      ],
+      "confianza": "baja"
+    }
+  ],
+  "notas_controversia": "La defensa admite que Marset es narcotraficante, pero niega actividades en EE. UU. y la jurisdicción estadounidense: sostiene que la transferencia cuestionada se hizo entre bancos no estadounidenses. También impugna sus confesiones a la DEA, obtenidas sin abogado, y los cargos de narcoterrorismo basados en su presunta relación con el PCC y el Clan del Golfo. El juez debe resolver las mociones antes del 6 de noviembre de 2026. La atribución de los homicidios de agosto de 2026 en Santa Cruz a personas cercanas a Marset es una afirmación del Gobierno boliviano aún no probada judicialmente. El video en que Marset llama «amigo» al exfiscal Mariaca no ha sido verificado de forma independiente. El vínculo con el atentado de septiembre de 2025 contra la fiscal general de Uruguay es indirecto: el padre de uno de los condenados había sido condenado por vínculos con Marset. Su presunta implicación en el asesinato del fiscal paraguayo Marcelo Pecci (Colombia, 2022) no está probada. Tras la captura no hay un sucesor identificado. Erland Ivar García López, alias «El Colla», antiguo operador de vuelos de la red y en espera de juicio en Bolivia, sobrevivió a un atentado en 2024 y fue amenazado por Marset en 2025.",
+  "confianza_general": "alta",
+  "fuentes": [
+    {
+      "id": "s1",
+      "titulo": "Uruguayan fugitive arrives in the United States to face charges of laundering proceeds of his drug-trafficking organization",
+      "editor": "Departamento de Justicia de EE. UU., Fiscalía del Distrito Este de Virginia",
+      "fecha": "2026-03-16",
+      "url": "https://www.justice.gov/usao-edva/pr/uruguayan-fugitive-arrives-united-states-face-charges-laundering-proceeds-his-drug",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s2",
+      "titulo": "Alleged international drug trafficker indicted; Prolific Uruguayan money launderer pleads guilty",
+      "editor": "Departamento de Justicia de EE. UU., Fiscalía del Distrito Este de Virginia",
+      "fecha": "2025-05-21",
+      "url": "https://www.justice.gov/usao-edva/pr/alleged-international-drug-trafficker-indicted-prolific-uruguayan-money-launderer",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s3",
+      "titulo": "5 Things To Know About the Capture of Sebastián Marset",
+      "editor": "InSight Crime",
+      "fecha": "2026-03-13",
+      "url": "https://insightcrime.org/news/5-things-sebastian-marset-capture/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s4",
+      "titulo": "The Rise and Fall of Sebastián Marset",
+      "editor": "InSight Crime",
+      "fecha": "2026-03-13",
+      "url": "https://insightcrime.org/news/timeline-rise-fall-sebastian-marset/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s5",
+      "titulo": "What Marset's Capture Tells Us About the Cocaine Business",
+      "editor": "InSight Crime",
+      "fecha": "2026-03-16",
+      "url": "https://insightcrime.org/news/marset-capture-cocaine-business/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s6",
+      "titulo": "The Corruption Engine Behind Sebastián Marset's Empire",
+      "editor": "InSight Crime",
+      "fecha": "2026-03-30",
+      "url": "https://insightcrime.org/news/corruption-engine-behind-sebastian-marset-empire/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s7",
+      "titulo": "Defensa de Marset admite que es narco, pero niega actividades en EE.UU.",
+      "editor": "ABC Color",
+      "fecha": "2026-09-25",
+      "url": "https://www.abc.com.py/internacionales/2026/09/25/defensa-de-marset-admite-que-es-narco-pero-niega-actividades-en-eeuu/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s8",
+      "titulo": "Por hacerse el simpático, Sebastián Marset podría pasar el resto de su vida en prisión en Estados Unidos",
+      "editor": "ABC Color",
+      "fecha": "2026-09-17",
+      "url": "https://www.abc.com.py/policiales/2026/09/17/por-hacerse-el-simpatico-sebastian-marset-podria-pasar-el-resto-de-su-vida-en-prision-en-estados-unidos/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s9",
+      "titulo": "Caso Marset: Bolivia desmantela red de encubrimiento e investiga rutas en el Chaco paraguayo",
+      "editor": "ABC Color",
+      "fecha": "2026-10-01",
+      "url": "https://www.abc.com.py/internacionales/2026/10/01/caso-marset-bolivia-desmantela-red-de-encubrimiento-e-investiga-rutas-en-el-chaco-paraguayo/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s10",
+      "titulo": "Prisión preventiva para el exfiscal general de Bolivia acusado de proteger a Marset",
+      "editor": "ABC Color",
+      "fecha": "2026-10-04",
+      "url": "https://www.abc.com.py/internacionales/2026/10/03/dan-prision-preventiva-al-exfiscal-general-de-bolivia-acusado-de-proteger-al-narcotrafico/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s11",
+      "titulo": "Marset también corrompió a funcionarios en Paraguay, dice ministro de la Senad",
+      "editor": "ABC Color",
+      "fecha": "2026-10-01",
+      "url": "https://www.abc.com.py/policiales/2026/10/01/marset-tambien-corrompio-a-funcionarios-en-paraguay-dice-ministro-de-la-senad/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s12",
+      "titulo": "Medio uruguayo afirma que Marset copió métodos de bandas criminales de Brasil como el PCC",
+      "editor": "ABC Color",
+      "fecha": "2026-09-22",
+      "url": "https://www.abc.com.py/internacionales/2026/09/22/medio-uruguayo-destaca-como-marset-copio-metodos-de-bandas-criminales-de-brasil-como-el-pcc/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s13",
+      "titulo": "A Ultranza: defensa de Gianina García cuestiona “dilación” de jueza para preliminar",
+      "editor": "ABC Color",
+      "fecha": "2026-09-18",
+      "url": "https://www.abc.com.py/nacionales/2026/09/18/a-ultranza-defensa-de-gianina-garcia-cuestiona-dilacion-de-jueza-para-preliminar/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s14",
+      "titulo": "El Gobierno de Bolivia vinculó la ola de asesinatos a las redes cercanas al narcotraficante uruguayo Sebastián Marset",
+      "editor": "Infobae",
+      "fecha": "2026-08-07",
+      "url": "https://www.infobae.com/america/america-latina/2026/08/07/el-gobierno-de-bolivia-vinculo-la-ola-de-asesinatos-a-las-redes-cercanas-al-narcotraficante-uruguayo-sebastian-marset/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s15",
+      "titulo": "Los chats de Marset: rechazó entregarse a la DEA, amenazó al agente y dijo que sería delincuente toda la vida",
+      "editor": "Infobae",
+      "fecha": "2026-09-14",
+      "url": "https://www.infobae.com/america/america-latina/2026/09/14/los-chats-de-marset-rechazo-entregarse-a-la-dea-amenazo-al-agente-y-dijo-que-seria-delincuente-toda-la-vida/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s16",
+      "titulo": "Atentado contra la fiscal general de Uruguay: viajes a Bolivia, vínculos con Marset y un plan para borrar las pruebas",
+      "editor": "Infobae",
+      "fecha": "2026-09-15",
+      "url": "https://www.infobae.com/america/america-latina/2026/09/15/atentado-contra-la-fiscal-general-de-uruguay-viajes-a-bolivia-vinculos-con-marset-y-un-plan-para-borrar-las-pruebas/",
+      "categoria": "prensa",
+      "verificada": true
+    }
+  ]
+}

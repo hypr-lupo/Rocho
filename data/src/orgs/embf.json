@@ -1,0 +1,360 @@
+{
+  "id": "embf",
+  "nombre": "Estado Mayor de Bloques y Frente (EMBF), facción de Calarcá",
+  "corto": "EMBF",
+  "alias": [
+    "EMBF",
+    "Estado Mayor de Bloques y Frentes",
+    "disidencias de Calarcá",
+    "FARC de Calarcá"
+  ],
+  "tipo": "grupo_armado",
+  "pais_origen": "COL",
+  "fundacion": "2024: escisión del Estado Mayor Central tras la suspensión del cese al fuego en marzo de 2024; las estructuras que siguieron en la mesa del gobierno de Gustavo Petro se agruparon como EMBF bajo el mando de Calarcá.",
+  "resumen": "Facción disidente de las antiguas FARC-EP que se separó del EMC de Iván Mordisco en 2024 para continuar en la Paz Total. La dirige Alexander Díaz Mendoza, alias Calarcá Córdoba, e integra el Bloque Jorge Suárez Briceño, el Bloque Magdalena Medio, el Frente Comandante Raúl Reyes y el Frente 33 del Catatumbo. Se financia con cocaína, minería ilegal de oro y coltán, extorsión y tala ilegal, y disputa territorio con el EMC y el ELN.",
+  "situacion_actual": "El 28 de agosto de 2026 el gobierno de Abelardo de la Espriella dio por terminada la mesa con el EMBF (Resolución 343, por 'ausencia de voluntad de paz') y revocó la calidad de representantes de sus negociadores; la Fiscalía reactivó el 31 de agosto las órdenes de captura contra 27 integrantes, entre ellos Calarcá, Jhon Mechas y Andrey Avendaño. El 27 de agosto la Operación Amón, un bombardeo en El Retorno (Guaviare), dejó 11 muertos, incluido alias Urías Perdomo, jefe de la estructura Rodrigo Cadete. En septiembre y octubre siguieron bajas y capturas en Guaviare y en el norte de Antioquia, como la de alias Lobo, del Frente 36, en Valdivia el 5 de octubre. La Fiscalía acusó en ausencia a Calarcá el 4 de agosto de 2026 por tres masacres en Guaviare, y él sigue prófugo. En el Catatumbo el Frente 33 mantiene la guerra con el ELN iniciada en enero de 2025, con desplazamientos masivos en Tibú y El Tarra en 2026; en junio de 2026 la zona de ubicación temporal prevista en Tibú seguía sin implementarse por la inseguridad.",
+  "estructura": "Mando de Alexander Díaz Mendoza (Calarcá Córdoba), que dirige también el Bloque Jorge Suárez Briceño (Llanos del Yarí en Caquetá, sur del Meta y Guaviare; incluye la estructura Rodrigo Cadete). El Bloque Magdalena Medio está a cargo de alias Richard Suárez y actúa en Magdalena Medio, Bajo Cauca y Antioquia, donde las autoridades atribuyen a la facción el Frente 36 (norte de Antioquia). El Frente 33 (Catatumbo, con proyección a Zulia, Venezuela) responde a Javier Alfonso Velosa García (Jhon Mechas), y el Frente Comandante Raúl Reyes completa la estructura. Carlos Eduardo García Téllez (Andrey Avendaño) encabezó su vocería política. InSight Crime lo identificó como el segundo grupo armado de mayor crecimiento entre 2018 y 2025.",
+  "lideres": [
+    {
+      "nombre": "Alexander Díaz Mendoza",
+      "alias": "Calarcá Córdoba",
+      "rol": "Comandante general del EMBF y del Bloque Jorge Suárez Briceño",
+      "estado": "Prófugo; acusado en ausencia por la Fiscalía el 04-08-2026 (homicidios, secuestros, desapariciones, tortura y reclutamiento de menores); orden de captura reactivada el 31-08-2026 tras el cierre de la mesa",
+      "fuente_ids": [
+        "s2",
+        "s5",
+        "s4"
+      ]
+    },
+    {
+      "nombre": "Javier Alfonso Velosa García",
+      "alias": "Jhon Mechas / John Catatumbo",
+      "rol": "Comandante del Frente 33 (Catatumbo)",
+      "estado": "Prófugo; orden de captura reactivada el 31-08-2026",
+      "fuente_ids": [
+        "s1",
+        "s5"
+      ]
+    },
+    {
+      "nombre": "Carlos Eduardo García Téllez",
+      "alias": "Andrey Avendaño",
+      "rol": "Negociador y vocero político",
+      "estado": "Prófugo; orden de captura reactivada el 31-08-2026",
+      "fuente_ids": [
+        "s1",
+        "s5"
+      ]
+    },
+    {
+      "nombre": "Alias Richard Suárez (nombre no divulgado)",
+      "alias": "Richard",
+      "rol": "Comandante del Bloque Magdalena Medio",
+      "estado": "Prófugo; orden de captura reactivada el 31-08-2026",
+      "fuente_ids": [
+        "s1",
+        "s5"
+      ]
+    },
+    {
+      "nombre": "Willington Henao Gutiérrez",
+      "alias": "Mocho Olmedo",
+      "rol": "Cabecilla del Frente 33",
+      "estado": "Detenido desde febrero de 2025, cuando se entregó en Teorama (Norte de Santander); extradición a EE. UU. (Distrito Sur de Florida) firmada el 26-08-2026 y formalizada el 03-09-2026; recluido en La Picota a la espera de traslado",
+      "fuente_ids": [
+        "s9",
+        "s10"
+      ]
+    },
+    {
+      "nombre": "Juan Antonio Agudelo Salazar",
+      "alias": "Urías Perdomo",
+      "rol": "Jefe de la estructura Rodrigo Cadete y mano derecha de Calarcá; exgestor de paz",
+      "estado": "Abatido el 27-08-2026 en la Operación Amón, El Retorno (Guaviare)",
+      "fuente_ids": [
+        "s6"
+      ]
+    },
+    {
+      "nombre": "Wilmar Elías Zuleta Pulgarín",
+      "alias": "Lobo / Emanuel",
+      "rol": "Cabecilla de comisión del Frente 36",
+      "estado": "Capturado el 05-10-2026 en La Paulina, Valdivia (Antioquia)",
+      "fuente_ids": [
+        "s7"
+      ]
+    }
+  ],
+  "designaciones": [],
+  "delitos": [
+    "cocaina",
+    "mineria",
+    "extorsion",
+    "secuestro",
+    "sicariato",
+    "reclutamiento",
+    "ambiental"
+  ],
+  "presencia": [
+    {
+      "pais": "COL",
+      "nivel": "base",
+      "zonas": [
+        "Guaviare: El Retorno, Calamar, San José del Guaviare",
+        "Caquetá: Llanos del Yarí",
+        "Meta (sur)",
+        "Putumayo",
+        "Huila",
+        "Tolima",
+        "Amazonas",
+        "Cauca",
+        "Valle del Cauca",
+        "Nariño",
+        "Norte de Santander (Catatumbo): Tibú, El Tarra, Teorama",
+        "Antioquia: Valdivia, San Andrés de Cuerquia, Amalfi, Anorí",
+        "Bajo Cauca",
+        "Magdalena Medio"
+      ],
+      "delitos": [
+        "cocaina",
+        "mineria",
+        "extorsion",
+        "secuestro",
+        "sicariato",
+        "reclutamiento",
+        "ambiental"
+      ],
+      "nota": "Territorio de origen. Núcleo en las sabanas del Yarí y Guaviare; guerra con el ELN en el Catatumbo y presión militar en el norte de Antioquia (Frente 36).",
+      "fuente_ids": [
+        "s1",
+        "s2",
+        "s3",
+        "s6",
+        "s7",
+        "s8",
+        "s15",
+        "s16"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "VEN",
+      "nivel": "limitada",
+      "zonas": [
+        "Zulia (frontera con el Catatumbo)"
+      ],
+      "delitos": [
+        "cocaina"
+      ],
+      "nota": "El Frente 33 opera en la franja fronteriza con Zulia para distribución de cocaína; tras la salida de Maduro (3-1-2026) la presencia de las disidencias en Venezuela es inestable.",
+      "fuente_ids": [
+        "s11"
+      ],
+      "confianza": "media"
+    }
+  ],
+  "vinculos": [
+    {
+      "destino": "emc",
+      "tipo": "escision",
+      "descripcion": "El EMBF surgió en 2024 como escisión del EMC por la decisión de continuar en la Paz Total tras la suspensión del cese al fuego.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s1",
+        "s14"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "emc",
+      "tipo": "rivalidad",
+      "descripcion": "Disputa armada por coca, minería y corredores en Guaviare, Caquetá, Meta, Putumayo y Amazonas; cerca de 50 muertos en combates en Guaviare a finales de mayo de 2026 y otros 26 en enero de 2026.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s1",
+        "s3",
+        "s12"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "eln",
+      "tipo": "rivalidad",
+      "descripcion": "Guerra en el Catatumbo desde enero de 2025 entre el Frente 33 y el Frente Nororiental del ELN, con ataques con drones y desplazamientos masivos en 2026.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s1",
+        "s8"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "eln",
+      "tipo": "alianza",
+      "descripcion": "Alianzas tácticas reportadas en Bajo Cauca y Magdalena Medio frente a la expansión del Clan del Golfo, en paralelo con la guerra en el Catatumbo.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s1"
+      ],
+      "confianza": "baja"
+    },
+    {
+      "destino": "clan-del-golfo",
+      "tipo": "rivalidad",
+      "descripcion": "Disputa con la expansión del Clan del Golfo (EGC) en Bajo Cauca y Magdalena Medio.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s1"
+      ],
+      "confianza": "media"
+    }
+  ],
+  "notas_controversia": "El nombre aparece como 'Estado Mayor de Bloques y Frente' (InSight Crime) y 'Estado Mayor de Bloques y Frentes' (ONU, prensa). La pertenencia del Frente 36 (norte de Antioquia) al EMBF la afirman el gobierno y la prensa en 2026, pero reportes anteriores lo asociaban con el EMC. No se identificó una designación terrorista específica del EMBF: la designación estadounidense FTO/SDGT de 'FARC-EP' (1-12-2021) es anterior a la escisión de 2024 y no hay aclaración oficial sobre su alcance. En noviembre de 2025 la prensa colombiana reveló archivos atribuidos a Calarcá que habrían mostrado contactos con un general del Ejército y un funcionario de inteligencia, lo que llevó a suspensiones disciplinarias luego levantadas en marzo de 2026; este análisis no verificó las fuentes primarias de ese caso. Comunidades del Catatumbo denunciaron en 2025 un supuesto favorecimiento estatal al Frente 33 en su guerra con el ELN; la acusación no fue verificada aquí.",
+  "confianza_general": "alta",
+  "fuentes": [
+    {
+      "id": "s1",
+      "titulo": "General Staff of Blocks and Front (EMBF)",
+      "editor": "InSight Crime",
+      "fecha": "2026-06-09",
+      "url": "https://insightcrime.org/colombia-organized-crime-news/general-staff-of-blocks-and-front-embf/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s2",
+      "titulo": "Alexander Díaz, alias 'Calarcá Córdoba'",
+      "editor": "InSight Crime",
+      "fecha": "2026-08-05",
+      "url": "https://insightcrime.org/colombia-organized-crime-news/alexander-diaz-alias-calarca-cordoba/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s3",
+      "titulo": "Misión de Verificación de las Naciones Unidas en Colombia. Informe del Secretario General (S/2026/528)",
+      "editor": "Consejo de Seguridad de las Naciones Unidas",
+      "fecha": "2026-06-26",
+      "url": "https://colombia.unmissions.org/sites/default/files/2026-10/sp_n6290045.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s4",
+      "titulo": "De la Espriella cierra mesas de diálogo de la 'Paz Total' con 'Calarcá' y otros dos grupos armados",
+      "editor": "El Colombiano",
+      "fecha": "2026-08",
+      "url": "https://www.elcolombiano.com/colombia/de-la-espriella-cierra-mesas-dialogo-paz-total-calarca-grupos-armados-DC40429947",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s5",
+      "titulo": "Reactivan órdenes de captura contra 'Calarcá', 'Araña' y más cabecillas",
+      "editor": "Noticias RCN",
+      "fecha": "2026-09-01",
+      "url": "https://www.noticiasrcn.com/colombia/reactivan-ordenes-de-captura-contra-calarca-arana-y-mas-cabecillas-1056415",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s6",
+      "titulo": "Sube a 11 los guerrilleros muertos en bombardeo en Guaviare, entre ellos Urías Perdomo, gestor de paz del Gobierno Petro y cercano a Calarcá",
+      "editor": "Infobae",
+      "fecha": "2026-08-27",
+      "url": "https://www.infobae.com/colombia/2026/08/27/sube-a-11-los-guerrilleros-muertos-en-bombardeo-en-guaviare-entre-ellos-urias-perdomo-gestor-de-paz-del-gobierno-petro-y-cercano-a-calarca/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s7",
+      "titulo": "Capturan en Valdivia a alias 'Lobo', cabecilla del Frente 36 de las disidencias de 'Calarcá'",
+      "editor": "Blu Radio",
+      "fecha": "2026-10-05",
+      "url": "https://www.bluradio.com/regiones/antioquia/capturan-en-valdivia-a-alias-lobo-cabecilla-del-frente-36-de-las-disidencias-de-calarca-rg10",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s8",
+      "titulo": "Conflicto entre ELN y disidencias de Farc produjo nuevo desplazamiento de 784 personas en Catatumbo",
+      "editor": "El Colombiano",
+      "fecha": "2026-06-03",
+      "url": "https://www.elcolombiano.com/colombia/desplazamiento-catatumbo-crisis-humanitaria-eln-frente33-PP37298575",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s9",
+      "titulo": "'Muñeca' y 'Mocho Olmedo': el dossier de los otros capos que están a punto de ser extraditados a Estados Unidos",
+      "editor": "El Tiempo",
+      "fecha": "2026-09-25",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/muneca-y-mocho-olmedo-el-dossier-de-los-otros-capos-que-estan-a-punto-de-ser-extraditados-a-estados-unidos-3588874",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s10",
+      "titulo": "Presidente De la Espriella firmó extradición de cinco integrantes de grupos ilegales que hicieron parte de los diálogos con el Gobierno Petro",
+      "editor": "El País (Cali)",
+      "fecha": "2026-08-26",
+      "url": "https://www.elpais.com.co/colombia/presidente-de-la-espriella-firmo-extradicion-de-cinco-integrantes-de-grupos-ilegales-que-hicieron-parte-de-los-dialogos-con-el-gobierno-petro-2653.html",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s11",
+      "titulo": "FARC Dissidents in Venezuela",
+      "editor": "InSight Crime",
+      "fecha": "2026-08-14",
+      "url": "https://insightcrime.org/venezuela-organized-crime-news/farc-in-venezuela/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s12",
+      "titulo": "Reportan casi medio centenar de muertos en combates entre dos disidencias de las FARC",
+      "editor": "Telemundo (EFE)",
+      "fecha": "2026-05-28",
+      "url": "https://www.telemundo.com/noticias/noticias-telemundo/internacional/reportan-casi-medio-centenar-de-muertos-en-combates-entre-dos-disidenc-rcna347431",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s13",
+      "titulo": "On the Radar: The End of Colombia's Total Peace?",
+      "editor": "InSight Crime",
+      "fecha": "2026-09",
+      "url": "https://insightcrime.org/news/on-the-radar-the-end-of-colombias-total-peace/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s14",
+      "titulo": "Central General Staff – FARC Dissidents",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-01",
+      "url": "https://insightcrime.org/colombia-organized-crime-news/ex-farc-mafia-central-general-staff/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s15",
+      "titulo": "What Criminal Challenges Does Colombia's Next President Face?",
+      "editor": "InSight Crime",
+      "fecha": "2026-05-28",
+      "url": "https://insightcrime.org/news/criminal-challenges-colombia-next-president/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s16",
+      "titulo": "Golpe a las disidencias de Calarcá: habría fallecido alias Leito, señalado por ataque que dejó 13 policías muertos",
+      "editor": "Semana",
+      "fecha": "2026-09-13",
+      "url": "https://www.semana.com/nacion/medellin/articulo/golpe-a-las-disidencias-de-calarca-habria-fallecido-alias-leito-senalado-por-ataque-que-dejo-13-policias-muertos/202623/",
+      "categoria": "prensa",
+      "verificada": true
+    }
+  ]
+}

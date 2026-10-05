@@ -1,0 +1,209 @@
+{
+  "id": "clan-rotela",
+  "nombre": "Clan Rotela",
+  "corto": "Clan Rotela",
+  "alias": [
+    "Rotela Clan",
+    "CR"
+  ],
+  "tipo": "faccion",
+  "pais_origen": "PRY",
+  "fundacion": "2007 (Tobatí, departamento de Cordillera)",
+  "resumen": "El Clan Rotela es la principal organización criminal de origen paraguayo. La fundó en 2007 Armando Javier Rotela Ayala y se dedica sobre todo a la venta minorista de crack y cocaína en barrios de Asunción y del departamento Central, con fuerte presencia en el sistema penitenciario. Mantiene una rivalidad violenta con el Primeiro Comando da Capital (PCC) dentro y fuera de las cárceles. Su líder la dirige desde prisión, con familiares que gestionan las finanzas.",
+  "situacion_actual": "Desde la Operación Veneratio del 18 de diciembre de 2023, que retomó la cárcel de Tacumbú y trasladó a unos 800 reclusos, Armando Javier Rotela permanece aislado en la Penitenciaría de Máxima Seguridad «Martín Mendoza» (Emboscada). El clan perdió así su principal bastión carcelario, y el Global Organized Crime Index 2025 lo describe como debilitado. Rotela acumula condenas de 8, 27 y 30 años; la última fue confirmada el 20 de abril de 2026. El 27 de abril de 2026, la Sala Constitucional rechazó su impugnación del régimen estricto. Sus hijos fueron detenidos el 13 de julio de 2026, y en junio de 2026 la policía incautó el teléfono de su pareja, que podría contener información sobre lavado de dinero, después de que fuera raptado en Ñemby un presunto distribuidor del clan. Sus células siguen activas en Asunción y Central: en julio de 2026 se detuvo a integrantes en Luque, Asunción y Villa Elisa (este último por el homicidio de un simpatizante del PCC). El 29 de junio de 2026, un integrante fue asesinado en Pedro Juan Caballero en una presunta disputa interna.",
+  "estructura": "Es una estructura jerárquica de base familiar. Armando Javier Rotela la dirige desde prisión, con su primo Óscar como colíder según InSight Crime. Su madre, sus hermanos y sus parejas gestionan las operaciones y el dinero; la Operación Kaolin, de junio de 2025, detuvo a familiares. Cuenta con un brazo armado llamado «La Jungla» y con «pasilleros» o «soldados» en las cárceles. Emplea a menores en la distribución y en la comisión de delitos. Sus integrantes son en su mayoría microtraficantes y consumidores: más de 1.000 según InSight Crime y hasta unos 4.000 en su apogeo según la prensa. Opera en más de 15 penitenciarías.",
+  "lideres": [
+    {
+      "nombre": "Armando Javier Rotela Ayala",
+      "alias": "",
+      "rol": "Fundador y líder",
+      "estado": "Detenido en la Penitenciaría de Máxima Seguridad «Martín Mendoza» (Emboscada) desde diciembre de 2023. Condenas de 8, 27 y 30 años (la última confirmada el 20 de abril de 2026) y procesos pendientes por el motín de Tacumbú de octubre de 2023.",
+      "fuente_ids": [
+        "s1",
+        "s2",
+        "s3",
+        "s10",
+        "s11"
+      ]
+    }
+  ],
+  "designaciones": [],
+  "delitos": [
+    "narcomenudeo",
+    "cocaina",
+    "sicariato",
+    "lavado",
+    "robo",
+    "reclutamiento"
+  ],
+  "presencia": [
+    {
+      "pais": "PRY",
+      "nivel": "base",
+      "zonas": [
+        "Asunción: Bañado Sur, Bañado Norte, Chacarita, San Felipe, Ricardo Brugada, Roberto L. Petit, San Antonio",
+        "Lambaré",
+        "Ñemby",
+        "Villa Elisa",
+        "San Lorenzo",
+        "Luque (Campo Grande)",
+        "Tobatí (Cordillera)",
+        "Penitenciaría Martín Mendoza (Emboscada)",
+        "Departamento de Concepción",
+        "Pedro Juan Caballero (Amambay)",
+        "Penitenciarías de Misiones y San Pedro"
+      ],
+      "delitos": [
+        "narcomenudeo",
+        "cocaina",
+        "sicariato",
+        "lavado",
+        "robo",
+        "reclutamiento"
+      ],
+      "nota": "Su base está en barrios marginales de Asunción y del departamento Central, además de las cárceles. Vende crack y cocaína al por menor, ordena homicidios desde prisión y lava dinero a través de familiares. Algunos integrantes han sido detenidos por robos agravados. Disputa pabellones y territorio con el PCC.",
+      "fuente_ids": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s9",
+        "s10",
+        "s11",
+        "s12"
+      ],
+      "confianza": "alta"
+    }
+  ],
+  "vinculos": [
+    {
+      "destino": "pcc",
+      "tipo": "rivalidad",
+      "descripcion": "Enfrentamiento por el control del narcomenudeo y de los pabellones penitenciarios desde al menos junio de 2019, cuando el PCC mató a diez integrantes del clan en la penitenciaría de San Pedro. El conflicto continúa: el 15 de julio de 2026 fue capturado un presunto miembro del clan por el homicidio de un simpatizante del PCC en Villa Elisa (julio de 2025).",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s1",
+        "s5",
+        "s8",
+        "s11",
+        "s12"
+      ],
+      "confianza": "alta"
+    }
+  ],
+  "notas_controversia": "Las cifras de integrantes son dispares: más de 1.000 según InSight Crime y hasta unos 4.000 en su apogeo según la prensa. El Global Organized Crime Index 2025 describe al clan como debilitado desde la intervención de 2023, mientras que la prensa de 2026 registra células activas y autoproclamados jefes en Lambaré. Algunas atribuciones de pertenencia se basan en publicaciones en redes sociales (detenciones de julio de 2026) o en hipótesis policiales, como la disputa interna detrás del homicidio de Pedro Juan Caballero. No hay presencia documentada fuera de Paraguay ni designaciones oficiales.",
+  "confianza_general": "alta",
+  "fuentes": [
+    {
+      "id": "s1",
+      "titulo": "Rotela Clan (perfil criminal)",
+      "editor": "InSight Crime",
+      "fecha": "2026-07-16",
+      "url": "https://insightcrime.org/paraguay-organized-crime-news/rotela-clan/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s2",
+      "titulo": "Lejos de los privilegios en Tacumbú, Rotela acciona contra estricto régimen en Emboscada",
+      "editor": "ABC Color",
+      "fecha": "2026-05-01",
+      "url": "https://www.abc.com.py/policiales/2026/05/01/lejos-de-los-privilegios-en-tacumbu-rotela-acciona-contra-estricto-regimen-en-emboscada/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s3",
+      "titulo": "Arresto y cárcel para los hijos del multicondenado Armando Javier Rotela",
+      "editor": "ABC Color",
+      "fecha": "2026-07-15",
+      "url": "https://www.abc.com.py/policiales/2026/07/15/arresto-y-carcel-para-los-hijos-del-multicondenado-armando-javier-rotela/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s4",
+      "titulo": "Sicariato en Pedro Juan Caballero: apuntan al Clan Rotela",
+      "editor": "ABC Color",
+      "fecha": "2026-06-30",
+      "url": "https://www.abc.com.py/policiales/2026/06/30/sicariato-en-pedro-juan-caballero-apuntan-al-clan-rotela/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s5",
+      "titulo": "Capturan en Villa Elisa a miembro del Clan Rotela por crimen de integrante del PCC",
+      "editor": "ABC Color",
+      "fecha": "2026-07-15",
+      "url": "https://www.abc.com.py/policiales/2026/07/15/capturan-en-villa-elisa-a-miembro-del-clan-rotela-por-crimen-de-integrante-del-pcc/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s6",
+      "titulo": "Teléfono incautado en caso de rapto podría contener información sobre lavado de dinero del Clan Rotela",
+      "editor": "ABC Color",
+      "fecha": "2026-06-28",
+      "url": "https://www.abc.com.py/policiales/2026/06/28/telefono-incautado-en-caso-de-rapto-podria-contener-informacion-sobre-lavado-de-dinero-del-clan-rotela/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s7",
+      "titulo": "Vídeo: caen tres jóvenes de entre 18 y 19 años vinculados al Clan Rotela",
+      "editor": "ABC Color",
+      "fecha": "2026-07-27",
+      "url": "https://www.abc.com.py/policiales/2026/07/27/caen-tres-jovenes-de-entre-18-y-19-anos-vinculados-al-clan-rotela/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s8",
+      "titulo": "Tatuajes del crimen: cómo reconocerlos y significados",
+      "editor": "ABC Color",
+      "fecha": "2026-07-17",
+      "url": "https://www.abc.com.py/nacionales/2026/07/17/tatuajes-un-codigo-criminal-marcado-en-la-piel/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s9",
+      "titulo": "Lambaré: autoproclamado jefe del Clan Rotela volcó su camioneta",
+      "editor": "ABC Color",
+      "fecha": "2026-05-31",
+      "url": "https://www.abc.com.py/policiales/2026/05/31/lambare-autoproclamado-jefe-del-clan-rotela-volco-su-camioneta/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s10",
+      "titulo": "Fiscalía de Paraguay acusa a miembros del Clan Rotela por motín en cárcel Tacumbú en 2023 (EFE)",
+      "editor": "Infobae / EFE",
+      "fecha": "2024-12-22",
+      "url": "https://www.infobae.com/america/agencias/2024/12/22/fiscalia-de-paraguay-acusa-a-miembros-del-clan-rotela-por-motin-en-carcel-tacumbu-en-2023/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s11",
+      "titulo": "‘El Monstruo’ compartirá cárcel con Armando Rotela, el ‘zar del microtráfico’ y criminal más peligroso de Paraguay",
+      "editor": "Infobae",
+      "fecha": "2025-09-26",
+      "url": "https://www.infobae.com/peru/2025/09/26/el-monstruo-compartira-carcel-con-armando-rotela-el-zar-del-microtrafico-y-criminal-mas-peligroso-de-paraguay/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s12",
+      "titulo": "Global Organized Crime Index 2025: Paraguay",
+      "editor": "Global Initiative Against Transnational Organized Crime",
+      "fecha": "2025",
+      "url": "https://ocindex.net/country/paraguay",
+      "categoria": "investigacion",
+      "verificada": true
+    }
+  ]
+}

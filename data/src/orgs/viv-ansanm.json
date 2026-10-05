@@ -1,0 +1,476 @@
+{
+  "id": "viv-ansanm",
+  "nombre": "Viv Ansanm (coalición de pandillas de Haití)",
+  "corto": "Viv Ansanm",
+  "alias": [
+    "Living Together",
+    "Vivir Juntos",
+    "G9 an Fanmi e Alye",
+    "Fòs Revolisyonè G9 an Fanmi e Alye",
+    "G-Pèp",
+    "Gran Grif (Baz Gran Grif, gang de Savien)"
+  ],
+  "tipo": "pandilla",
+  "pais_origen": "HTI",
+  "fundacion": "Anunciada públicamente el 22 de septiembre de 2023 en Puerto Príncipe por la unión de las federaciones G9 y G-Pèp; se consolidó con los ataques coordinados contra instituciones del Estado desde el 29 de febrero de 2024. Gran Grif fue creada hacia 2016 en Savien (Artibonito) por el exdiputado Prophane Victor.",
+  "resumen": "Coalición de unas 20 pandillas haitianas cuyo portavoz es el expolicía Jimmy Chérizier (alias Barbecue). Domina la mayor parte de Puerto Príncipe y corredores de los departamentos Oeste, Centro y Artibonito. Se financia con secuestros, extorsión (peajes ilegales, cobros a casas de remesas y transportistas) y robo de carga, trafica armas y recluta menores de forma coercitiva. Gran Grif, la mayor pandilla del Artibonito, se incluye aquí como aliada, aunque EE. UU. y la ONU la designaron por separado; EE. UU. designó a ambas como Organizaciones Terroristas Extranjeras con efecto desde el 5 de mayo de 2025.",
+  "situacion_actual": "Desde diciembre de 2025, las operaciones de la Policía Nacional, las Fuerzas Armadas, contratistas privados con drones y la Fuerza de Supresión de Pandillas (GSF, autorizada por la resolución 2793 de septiembre de 2025) frenaron la expansión en Puerto Príncipe y recuperaron zonas como Bel-Air y Delmas. Aun así, el Panel de Expertos de la ONU informó en septiembre de 2026 que la mayor parte de la capital sigue bajo control de las pandillas y que hubo una nueva ola de violencia en el bajo Artibonito, Centro y Sudeste. Ningún líder principal ha sido capturado ni abatido: el 14 de enero de 2026 drones alcanzaron residencias de Chérizier en Delmas 6 sin resultado conocido. La coalición sufrió combates internos, como los que debilitaron a Les Argentins en diciembre de 2025, y en abril de 2026 Gran Grif anunció una alianza con Kokorat San Ras. Las masacres continuaron: Gran Grif atacó comunidades de Petite-Rivière-de-l'Artibonite el 29 y 30 de marzo de 2026, y la coalición mató al menos a 47 personas en Kenscoff el 23 y 24 de agosto de 2026. El 29 de septiembre de 2026 la resolución 2829 prorrogó la GSF hasta el 31 de marzo de 2027, con un despliegue todavía muy inferior al máximo autorizado de 5.550 efectivos. En el plano judicial, EE. UU. imputó a Vitel'homme Innocent por la conspiración para asesinar a Jovenel Moïse (acusación revelada en septiembre de 2026) y ofrece recompensas por Chérizier y por Johnson André (alias Izo).",
+  "estructura": "Alianza de pandillas autónomas que une a la federación G9 an Fanmi e Alye de Chérizier y al bloque G-Pèp. Entre sus integrantes están Delmas 6, 5 Segond (Village de Dieu), Grand Ravine, Kraze Baryè, 400 Mawozo, Les Argentins (Bel-Air), Canaan/Taliban, Ti Bwa, Krache Dife y Tokyo. Cada pandilla conserva su propio jefe y la cooperación entre ellas varía según los intereses de los líderes. A comienzos de 2026 se estimaban unos 12.000 miembros, de los cuales unos 3.000 bien armados y con experiencia. 400 Mawozo actúa como principal importador de armas de la alianza por su cercanía a la frontera dominicana. En el Artibonito, Gran Grif (dirigida por Luckson Elan) y Kokorat San Ras forman un polo aliado.",
+  "lideres": [
+    {
+      "nombre": "Jimmy Chérizier",
+      "alias": "Barbecue",
+      "rol": "Portavoz y líder de Viv Ansanm; jefe de G9 an Fanmi e Alye y de la pandilla de Delmas 6",
+      "estado": "Prófugo en Haití. Está sancionado por la ONU (HTi.001) y por EE. UU.; fue acusado en EE. UU. de conspirar para violar sanciones (acusación revelada el 12 de agosto de 2025), con una recompensa de hasta 5 millones de dólares. Sobrevivió a ataques con drones en 2025 y el 14 de enero de 2026",
+      "fuente_ids": [
+        "s1",
+        "s2",
+        "s6"
+      ]
+    },
+    {
+      "nombre": "Johnson André",
+      "alias": "Izo",
+      "rol": "Líder de 5 Segond (Village de Dieu, Puerto Príncipe)",
+      "estado": "Prófugo. Está sancionado por la ONU (HTi.002) y EE. UU. ofrece hasta 1 millón de dólares por él desde febrero de 2026",
+      "fuente_ids": [
+        "s2",
+        "s14",
+        "s1"
+      ]
+    },
+    {
+      "nombre": "Renel Destina",
+      "alias": "Ti Lapli",
+      "rol": "Líder de Grand Ravine",
+      "estado": "Prófugo; sancionado por la ONU (HTi.003)",
+      "fuente_ids": [
+        "s2",
+        "s1"
+      ]
+    },
+    {
+      "nombre": "Wilson Joseph",
+      "alias": "Lanmò San Jou",
+      "rol": "Líder de 400 Mawozo (Croix-des-Bouquets)",
+      "estado": "Prófugo; sancionado por la ONU (HTi.004)",
+      "fuente_ids": [
+        "s2",
+        "s1"
+      ]
+    },
+    {
+      "nombre": "Vitel'homme Innocent",
+      "rol": "Líder de Kraze Baryè (Tabarre y Torcelle)",
+      "estado": "Prófugo y buscado por el FBI, con una recompensa de 2 millones de dólares (febrero de 2026). Fue imputado en EE. UU. por conspirar para matar o secuestrar a Jovenel Moïse (acusación revelada en septiembre de 2026)",
+      "fuente_ids": [
+        "s1",
+        "s13",
+        "s22"
+      ]
+    },
+    {
+      "nombre": "Kempes Sanon",
+      "alias": "Kempes",
+      "rol": "Líder de Les Argentins (Bel-Air)",
+      "estado": "Prófugo. Está sancionado por la ONU (HTi.009) y la OFAC (17 de octubre de 2025). Su pandilla quedó muy debilitada tras los combates internos de diciembre de 2025 y él se refugió con otros jefes de la coalición",
+      "fuente_ids": [
+        "s2",
+        "s7",
+        "s1"
+      ]
+    },
+    {
+      "nombre": "Jeff Larose",
+      "alias": "Jeff",
+      "rol": "Líder de la pandilla Canaan",
+      "estado": "Prófugo",
+      "fuente_ids": [
+        "s2"
+      ]
+    },
+    {
+      "nombre": "Christ-Roi Chéry",
+      "alias": "Chrisla",
+      "rol": "Líder de Ti Bwa (Carrefour)",
+      "estado": "Prófugo",
+      "fuente_ids": [
+        "s2"
+      ]
+    },
+    {
+      "nombre": "Luckson Elan",
+      "rol": "Líder de Gran Grif (Artibonito)",
+      "estado": "Prófugo y sancionado por la ONU (HTi.007); se le atribuye haber reivindicado el ataque de marzo de 2026 en Petite-Rivière-de-l'Artibonite",
+      "fuente_ids": [
+        "s2",
+        "s12"
+      ]
+    },
+    {
+      "nombre": "Dimitri Hérard",
+      "rol": "Exjefe de la Unidad de Seguridad General del Palacio Nacional; presunto facilitador que entrena y arma a líderes de la coalición",
+      "estado": "Prófugo desde su fuga de prisión en 2024; sancionado por la ONU (HTi.008) y la OFAC (17 de octubre de 2025)",
+      "fuente_ids": [
+        "s7",
+        "s2"
+      ]
+    }
+  ],
+  "designaciones": [
+    {
+      "autoridad": "Gobierno de la República Dominicana (Decreto 104-25)",
+      "categoria": "Organizaciones terroristas (26 pandillas haitianas, entre ellas las integrantes de Viv Ansanm y Gran Grif)",
+      "fecha": "2025-03-04",
+      "fuente_ids": [
+        "s20",
+        "s19"
+      ]
+    },
+    {
+      "autoridad": "Departamento de Estado de EE. UU.",
+      "categoria": "Organización Terrorista Extranjera (FTO), aplicable a Viv Ansanm y a Gran Grif; firmada el 22 de abril de 2025 y vigente desde su publicación",
+      "fecha": "2025-05-05",
+      "fuente_ids": [
+        "s3"
+      ]
+    },
+    {
+      "autoridad": "Departamento de Estado de EE. UU.",
+      "categoria": "Terrorista Global Especialmente Designado (SDGT), aplicable a Viv Ansanm y a Gran Grif",
+      "fecha": "2025-05-05",
+      "fuente_ids": [
+        "s4"
+      ]
+    },
+    {
+      "autoridad": "Consejo de Seguridad de la ONU (Comité 2653)",
+      "categoria": "Entidades sancionadas: Viv Ansanm y Gran Grif (HTe.001), con congelamiento de activos, prohibición de viaje y embargo de armas",
+      "fecha": "2025-07-08",
+      "fuente_ids": [
+        "s5",
+        "s2"
+      ]
+    }
+  ],
+  "delitos": [
+    "secuestro",
+    "extorsion",
+    "sicariato",
+    "armas",
+    "trata",
+    "migrantes",
+    "reclutamiento",
+    "robo"
+  ],
+  "presencia": [
+    {
+      "pais": "HTI",
+      "nivel": "base",
+      "zonas": [
+        "Puerto Príncipe (Bel-Air, Village de Dieu, Grand Ravine)",
+        "Delmas (Delmas 6, Delmas 31)",
+        "Croix-des-Bouquets",
+        "Tabarre (Torcelle)",
+        "Carrefour",
+        "Kenscoff",
+        "Mirebalais",
+        "Saut-d'Eau",
+        "Lascahobas (intentos de toma)",
+        "Pont-Sondé (Saint-Marc)",
+        "Savien",
+        "Liancourt",
+        "Petite-Rivière-de-l'Artibonite",
+        "Montrouis",
+        "L'Estère",
+        "Verrettes",
+        "Dessalines",
+        "Carretera Nacional 3",
+        "Pasos fronterizos de Malpasse y Belladère",
+        "Departamento Sudeste"
+      ],
+      "delitos": [
+        "secuestro",
+        "extorsion",
+        "sicariato",
+        "armas",
+        "trata",
+        "migrantes",
+        "reclutamiento",
+        "robo"
+      ],
+      "nota": "Controla la mayor parte de Puerto Príncipe y corredores clave de los departamentos Oeste, Centro y Artibonito, y en 2026 se extendió al Sudeste. Cobra peajes ilegales, extorsiona a casas de remesas y se hace pasar por policía. En 2025 la violencia de las pandillas causó 5.915 muertes y el reclutamiento de menores aumentó un 200 %. Las fuentes también mencionan tráfico de drogas, sin especificar el tipo.",
+      "fuente_ids": [
+        "s1",
+        "s2",
+        "s9",
+        "s11",
+        "s12",
+        "s16",
+        "s23"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "DOM",
+      "nivel": "operativa",
+      "zonas": [
+        "Dajabón",
+        "Puerto de Haina",
+        "Paso fronterizo Malpasse–Jimaní",
+        "Paso fronterizo Belladère–Elías Piña"
+      ],
+      "delitos": [
+        "armas"
+      ],
+      "nota": "Por República Dominicana pasan armas y municiones hacia la coalición: se desvía munición del Ejército y la Policía dominicanos, y el 25 de febrero de 2025 se incautó en Haina un fusil Barrett destinado a 400 Mawozo y Canaan. En junio de 2025 fueron detenidos cerca de Dajabón tres miembros que intentaban comprar drones explosivos.",
+      "fuente_ids": [
+        "s2",
+        "s21",
+        "s19",
+        "s15"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "USA",
+      "nivel": "operativa",
+      "zonas": [
+        "Pasadena (Texas)"
+      ],
+      "delitos": [
+        "armas"
+      ],
+      "nota": "EE. UU. es la principal fuente de armas, enviadas por mar ocultas en mercancía usada, incluidos fusiles calibre .50 adquiridos por el jefe de 400 Mawozo. Chérizier recaudó fondos entre la diáspora haitiana con un intermediario detenido en Pasadena (Texas) en julio de 2025.",
+      "fuente_ids": [
+        "s6",
+        "s2"
+      ],
+      "confianza": "alta"
+    }
+  ],
+  "vinculos": [
+    {
+      "destino": "ext-armas-eeuu-rd",
+      "tipo": "suministro",
+      "descripcion": "Redes de tráfico venden armas y municiones a 400 Mawozo y Canaan: las exportan desde EE. UU., directamente o vía República Dominicana, y añaden munición desviada de arsenales dominicanos. Entre ellas figuran fusiles Barrett incautados en Haina (febrero de 2025) y en Croix-des-Bouquets (noviembre de 2025).",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s2",
+        "s1"
+      ],
+      "confianza": "alta"
+    }
+  ],
+  "notas_controversia": "Viv Ansanm se describe como una alianza flexible y no como una estructura jerárquica: la cooperación entre pandillas varía según los intereses de sus jefes y hay combates internos, como la destrucción de Les Argentins en diciembre de 2025 (confianza media). La pertenencia de Gran Grif a la coalición es discutida. Algunas fuentes la sitúan en el bloque G-Pèp y Rewards for Justice la trata junto a Viv Ansanm; la Global Initiative la describe como un grupo local del Artibonito; EE. UU. y la ONU la designaron como entidad separada (confianza baja). Las estimaciones de control territorial (del 70 % al 90 % de la capital) y de miembros (de 12.000 a 20.000) difieren entre fuentes. La campaña de drones, apoyada por contratistas extranjeros, causó víctimas civiles y es cuestionada por organizaciones de derechos humanos. Las cifras de muertos en masacres difieren entre la policía y las ONG: en Jean-Denis van de 16 a más de 70, y en Kenscoff de 30 a 47. Hay indicios de vínculos con actores políticos y exfuncionarios, como Dimitri Hérard y un exalcalde de Arcahaie detenido en República Dominicana, pero siguen bajo investigación.",
+  "confianza_general": "alta",
+  "fuentes": [
+    {
+      "id": "s1",
+      "titulo": "Report to Congress on The Security Situation in Haiti 2026",
+      "editor": "Departamento de Estado de EE. UU.",
+      "fecha": "2026-09-11",
+      "url": "https://www.state.gov/wp-content/uploads/2026/09/Report-to-Congress-on-The-Security-Situation-in-Haiti-2026-HRC1519287-Accessible-9.11.2026.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s2",
+      "titulo": "Interim report of the Panel of Experts on Haiti submitted pursuant to resolution 2794 (2025) [S/2026/241]",
+      "editor": "Consejo de Seguridad de la ONU (vía ecoi.net)",
+      "fecha": "2026-03-27",
+      "url": "https://www.ecoi.net/en/document/2139062.html",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s3",
+      "titulo": "Foreign Terrorist Organization Designations of Viv Ansanm and Gran Grif (Public Notice 12710, FR Doc. 2025-07464)",
+      "editor": "Departamento de Estado de EE. UU. / Federal Register (GovInfo)",
+      "fecha": "2025-05-05",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2025-05-05/html/2025-07464.htm",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s4",
+      "titulo": "Specially Designated Global Terrorist Designations of Viv Ansanm and Gran Grif (FR Doc. 2025-07468)",
+      "editor": "Departamento de Estado de EE. UU. / Federal Register",
+      "fecha": "2025-05-05",
+      "url": "https://www.federalregister.gov/documents/2025/05/05/2025-07468/specially-designated-global-terrorist-designations-of-viv-ansanm-and-gran-grif",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s5",
+      "titulo": "Public Notice: Security Council 2653 Sanctions Committee Adds 2 Entries to Its Sanctions List (SC/16113)",
+      "editor": "Central Bank of The Bahamas",
+      "fecha": "2025-07-09",
+      "url": "https://www.centralbankbahamas.com/bank-supervision/un-security-council-sanctions-notices/public-notice-security-council-2653-sanctions-committee-adds-2-entries-to-its-sanctions-list",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s6",
+      "titulo": "Haitian Gang Leader 'Barbecue' Indicted for Conspiracy to Violate U.S. Sanctions",
+      "editor": "Departamento de Justicia de EE. UU.",
+      "fecha": "2025-08-12",
+      "url": "https://www.justice.gov/opa/pr/haitian-gang-leader-barbecue-indicted-conspiracy-violate-us-sanctions",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s7",
+      "titulo": "Treasury Sanctions Terrorist Viv Ansanm Affiliates",
+      "editor": "Departamento del Tesoro de EE. UU.",
+      "fecha": "2025-10-17",
+      "url": "https://home.treasury.gov/news/press-releases/sb0282",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s8",
+      "titulo": "Security Council extends Gang Suppression Force in Haiti, adopting resolution 2829 (2026) (SC/16466)",
+      "editor": "Naciones Unidas, Cobertura de reuniones",
+      "fecha": "2026-09-29",
+      "url": "https://press.un.org/en/2026/sc16466.doc.htm",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s9",
+      "titulo": "Security Council Committee Established Pursuant to Resolution 2653 (2022) concerning Haiti Discusses Final Report of Panel of Experts (SC/16452)",
+      "editor": "Naciones Unidas, Comunicados de prensa",
+      "fecha": "2026-09-14",
+      "url": "https://press.un.org/en/2026/sc16452.doc.htm",
+      "categoria": "oficial",
+      "verificada": false
+    },
+    {
+      "id": "s10",
+      "titulo": "Haiti, July 2026 Monthly Forecast",
+      "editor": "Security Council Report",
+      "fecha": "2026-07",
+      "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-07/haiti-35.php",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s11",
+      "titulo": "U.N. extends mandate of Haiti anti-gang force",
+      "editor": "UPI",
+      "fecha": "2026-09-29",
+      "url": "https://www.upi.com/Top_News/World-News/2026/09/29/latam-haiti-un-gang-supression-force-extended/3271790697449/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s12",
+      "titulo": "At least 70 killed, 30 wounded in Haiti gang attack, rights group says",
+      "editor": "Al Jazeera",
+      "fecha": "2026-03-31",
+      "url": "https://www.aljazeera.com/news/2026/3/31/at-least-70-killed-30-wounded-in-haiti-gang-attack-rights-group-says",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s13",
+      "titulo": "18 Moïse assassination suspects extradited from Haiti to US, Haitians react",
+      "editor": "The Haitian Times",
+      "fecha": "2026-09-21",
+      "url": "https://haitiantimes.com/2026/09/21/haiti-extradits-moise-case-suspects-to-us-federal-court/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s14",
+      "titulo": "US offers $1M reward for Haitian gang leader Johnson 'Izo' André",
+      "editor": "The Haitian Times",
+      "fecha": "2026-02-19",
+      "url": "https://haitiantimes.com/2026/02/19/us-1-million-reward-haiti-gang-leader/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s15",
+      "titulo": "Drone Strikes Shake Haiti's Gangs but Leave Legal and Strategic Questions",
+      "editor": "InSight Crime",
+      "fecha": "2025-06-24",
+      "url": "https://insightcrime.org/news/drone-strikes-shake-haiti-gangs-leave-legal-strategic-questions/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s16",
+      "titulo": "From Port-au-Prince to the periphery: The ruralization of Haitian gang violence",
+      "editor": "Global Initiative Against Transnational Organized Crime",
+      "fecha": "2026-09-04",
+      "url": "https://globalinitiative.net/analysis/from-port-au-prince-to-the-periphery-the-ruralization-of-haitian-gang-violence/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s17",
+      "titulo": "Viv Ansanm and Gran Grif (oferta de recompensa)",
+      "editor": "Rewards for Justice, Departamento de Estado de EE. UU.",
+      "fecha": "2025-05",
+      "url": "https://rewardsforjustice.net/rewards/viv-ansanm-and-gran-grif/",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s18",
+      "titulo": "Viv Ansanm : Vivre ensemble, combattre en unité - l'alliance qui refaçonne le monde des gangs en Haïti",
+      "editor": "ACLED",
+      "fecha": "2024-10",
+      "url": "https://acleddata.com/system/files/2026-01/Translation_French_Viv-Ansanm-Living-together-fighting-united-the-alliance-reshaping-Haiti-s-gangland.docx.pdf",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s19",
+      "titulo": "Discurso del Ministro de Relaciones Exteriores de República Dominicana",
+      "editor": "Ministerio de Relaciones Exteriores de la República Dominicana (MIREX)",
+      "fecha": "2025-07-02",
+      "url": "https://mirex.gob.do/discurso-del-ministro-de-relaciones-exteriores-de-republica-dominicana/",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s20",
+      "titulo": "Désignation de Viv Ansanm et Gran Grif d'organisations terroristes étrangères par les États-Unis: analyses, enjeux et perspectives",
+      "editor": "Centre d'Analyse et de Recherche en Droits de l'Homme (CARDH)",
+      "fecha": "2025-05-19",
+      "url": "https://cardh.org/wp-content/uploads/2025/05/Revisee-CARDH_Designation-Terroristes_Analyses_Enjeux_Perspectives_19-Mai-2025.pdf",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s21",
+      "titulo": "Terroristas detenidos en RD por drones suicidas pertenecen a banda haitiana 'Viv Ansanm'",
+      "editor": "Listín Diario",
+      "fecha": "2025-06-13",
+      "url": "https://listindiario.com/la-republica/20250613/terroristas-detenidos-rd-comprar-drones-suicidas-pertenecen-banda-criminal-viv-ansanm_861805.html",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s22",
+      "titulo": "FBI Places Vitel'homme Innocent Back on Its Most Wanted List",
+      "editor": "Le Nouvelliste",
+      "fecha": "2026-02-24",
+      "url": "https://lenouvelliste.com/en/article/264560/fbi-places-vitelhomme-innocent-back-on-its-most-wanted-list",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s23",
+      "titulo": "Violence flares in Haiti as gang attack kills 30 people",
+      "editor": "Al Jazeera",
+      "fecha": "2026-08-24",
+      "url": "https://www.aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people",
+      "categoria": "prensa",
+      "verificada": true
+    }
+  ]
+}

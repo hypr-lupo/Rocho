@@ -1,0 +1,381 @@
+{
+  "id": "pulpos",
+  "nombre": "Los Pulpos",
+  "corto": "Los Pulpos",
+  "alias": [
+    "Los Pulpos de Trujillo",
+    "Pulpos Nueva Generación (facción en Chile)"
+  ],
+  "tipo": "megabanda",
+  "pais_origen": "PER",
+  "fundacion": "Década de 1990, en el distrito de El Porvenir (Trujillo, La Libertad), por los hermanos Miller, Nilton, Eddy y Jhon Cruz Arce.",
+  "resumen": "Los Pulpos son una organización criminal de base familiar nacida en Trujillo. Se dedica a la extorsión, el secuestro y el sicariato, y cada vez más a la 'protección' y extorsión de la minería aurífera de Pataz. Desde 2014 la dirigió Jhonsson Smit Cruz Torres, alias Jhonsson Pulpo, bajo cuyo mando se expandió a Chile, donde la Fiscalía Nacional la considera una de las organizaciones extranjeras instaladas de forma estable. También registra operaciones en Ecuador y Bolivia.",
+  "situacion_actual": "El 30 de agosto de 2026 la Policía atribuyó a Los Pulpos el secuestro del empresario minero Jenss Lara y el asesinato de sus cuatro acompañantes en Trujillo. El hecho se vincula a la disputa con La Jauría por la protección del oro de Pataz, y la actuación policial en el caso fue cuestionada. El 1 de septiembre de 2026 Jhonsson Pulpo fue capturado en La Paz, con apoyo del FBI y la DEA, y entregado a Perú en Desaguadero. El 2 de octubre un tribunal de Trujillo lo condenó a 35 años de prisión por el asesinato de una comerciante en 2020. Las autoridades señalan como presunto nuevo líder a su primo Óscar Cruz Basilio, que estaría en Chile; la Corte Superior de La Libertad aprobó pedir su detención con fines de extradición. En Chile, la Operación Trujillo dejó 20 detenidos en enero de 2026 y las autoridades consideran prácticamente desarticulada la célula de Santiago. El Gobierno de Keiko Fujimori busca declarar a la banda organización terrorista mediante facultades legislativas que la Cámara de Diputados debatirá el 6 de octubre de 2026; Trujillo sigue en estado de emergencia, prorrogado desde el 23 de septiembre de 2026.",
+  "estructura": "Clan familiar (los Cruz Arce y sus descendientes) con mando centralizado y células subordinadas en Trujillo, Pataz, Lima y el extranjero. Recurre a adolescentes como sicarios, a uniformes policiales falsos y drones en los secuestros, y a explosivos contra negocios y colegios. Una red de mujeres que simulaba viajes turísticos trasladaba fondos a Chile. Sus facciones y escisiones incluyen Pulpos Nueva Generación, en Chile, y La Jauría, hoy su principal rival.",
+  "lideres": [
+    {
+      "nombre": "Jhonsson Smit Cruz Torres",
+      "alias": "Jhonsson Pulpo",
+      "rol": "Líder desde 2014",
+      "estado": "Detenido. Capturado en La Paz (Bolivia) el 1 de septiembre de 2026 y expulsado a Perú. Condenado el 2 de octubre de 2026 a 35 años de prisión por robo agravado con subsecuente muerte; investigado por el secuestro de Jenss Lara.",
+      "fuente_ids": [
+        "s3",
+        "s4",
+        "s5",
+        "s2"
+      ]
+    },
+    {
+      "nombre": "Óscar Cruz Basilio",
+      "alias": "Óscar Pulpo",
+      "rol": "Presunto nuevo líder (Pulpos Nueva Generación); primo de Jhonsson Pulpo",
+      "estado": "Prófugo, presuntamente en Chile. La Corte Superior de Justicia de La Libertad aprobó en septiembre de 2026 solicitar su detención preventiva con fines de extradición por extorsión agravada.",
+      "fuente_ids": [
+        "s6",
+        "s1"
+      ]
+    },
+    {
+      "nombre": "Jhon Smith Cruz Arce",
+      "alias": "Jhon Pulpo",
+      "rol": "Cofundador y exlíder; padre de Jhonsson Pulpo",
+      "estado": "En libertad desde 2025 tras cumplir 17 años de prisión, según InSight Crime.",
+      "fuente_ids": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "designaciones": [],
+  "delitos": [
+    "extorsion",
+    "secuestro",
+    "sicariato",
+    "mineria",
+    "robo",
+    "reclutamiento",
+    "lavado"
+  ],
+  "presencia": [
+    {
+      "pais": "PER",
+      "nivel": "base",
+      "zonas": [
+        "La Libertad: Trujillo (El Porvenir, Víctor Larco Herrera, centro de Trujillo)",
+        "La Libertad: Pataz",
+        "Lima: Barranca",
+        "Lima: Ancón (Lima Norte)"
+      ],
+      "delitos": [
+        "extorsion",
+        "secuestro",
+        "sicariato",
+        "mineria",
+        "robo",
+        "reclutamiento"
+      ],
+      "nota": "Su núcleo está en El Porvenir. Extorsiona a comerciantes, transportistas, colegios y autoridades: en febrero de 2026 el alcalde de Pataz denunció exigencias de S/ 50.000. Disputa con La Jauría la protección de mineros en Pataz. En Barranca fueron detenidos en enero de 2026 integrantes de la célula chilena. En Ancón, en septiembre de 2026, fue detenido un extorsionador que dijo pertenecer al grupo.",
+      "fuente_ids": [
+        "s1",
+        "s3",
+        "s5",
+        "s7",
+        "s8",
+        "s9",
+        "s15",
+        "s16"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "CHL",
+      "nivel": "consolidada",
+      "zonas": [
+        "Región Metropolitana: Independencia y Recoleta (norte de Santiago)",
+        "Arica",
+        "Iquique",
+        "Antofagasta"
+      ],
+      "delitos": [
+        "extorsion",
+        "sicariato",
+        "lavado"
+      ],
+      "nota": "La Fiscalía Nacional considera que se instaló de forma relativamente estable. Extorsiona a comerciantes peruanos con control territorial en Independencia y Recoleta, y se le atribuye un homicidio en febrero de 2025. La Operación Trujillo de la PDI dejó 50 detenidos entre 2023 y 2025 y 20 más en enero de 2026, tras lo cual la Fiscalía consideró la célula prácticamente desarticulada. La presencia en Arica, Iquique y Antofagasta procede de reportes de prensa.",
+      "fuente_ids": [
+        "s9",
+        "s10",
+        "s1",
+        "s14",
+        "s20"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "ECU",
+      "nivel": "operativa",
+      "zonas": [
+        "Zamora Chinchipe (Paquisha)"
+      ],
+      "delitos": [
+        "extorsion",
+        "mineria",
+        "sicariato"
+      ],
+      "nota": "En septiembre de 2025 la Policía ecuatoriana detuvo en Paquisha a alias Willy, cabecilla de Los Pulpos de Trujillo, y a otras 18 personas. Se les acusa de extorsión y minería ilegal en la frontera y, a cinco de ellos, del asesinato de cinco integrantes de Los Choneros.",
+      "fuente_ids": [
+        "s11",
+        "s1",
+        "s2"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "BOL",
+      "nivel": "limitada",
+      "zonas": [
+        "La Paz"
+      ],
+      "delitos": [],
+      "nota": "Jhonsson Pulpo residía en La Paz con otra identidad y se presentaba como empresario inmobiliario. Allí fue capturado el 1 de septiembre de 2026.",
+      "fuente_ids": [
+        "s3",
+        "s4",
+        "s2"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "ARG",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [],
+      "nota": "La presencia en Argentina es alegada: el líder se movía entre Chile, Argentina, Bolivia y Perú según la Policía boliviana. Algunos medios asociaron a la banda con hechos en Buenos Aires sin confirmación.",
+      "fuente_ids": [
+        "s2",
+        "s3",
+        "s14"
+      ],
+      "confianza": "baja"
+    }
+  ],
+  "vinculos": [
+    {
+      "destino": "ext-la-jauria",
+      "tipo": "rivalidad",
+      "descripcion": "La Jauría, escindida de Los Pulpos según InSight Crime, es su principal rival en Trujillo. La disputa por la protección de mineros y del oro de Pataz es la hipótesis principal detrás del secuestro de Jenss Lara (agosto de 2026); en 2014-2016 ambos grupos formaron 'La Gran Alianza'.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s1",
+        "s8",
+        "s6"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "choneros",
+      "tipo": "rivalidad",
+      "descripcion": "En septiembre de 2025, en Paquisha (Zamora Chinchipe, Ecuador), integrantes de Los Pulpos fueron detenidos por el asesinato de cinco miembros de Los Choneros, en una disputa por extorsión y minería ilegal.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s11",
+        "s1"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "tren-de-aragua",
+      "tipo": "rivalidad",
+      "descripcion": "InSight Crime registra enfrentamientos de Los Pulpos con el Tren de Aragua en su expansión regional, sin detalle de lugares ni fechas recientes.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s1"
+      ],
+      "confianza": "baja"
+    }
+  ],
+  "notas_controversia": "La atribución del secuestro de Jenss Lara a Los Pulpos es una hipótesis policial en disputa. Se cuestionó la identidad de los detenidos que presentó el Ministerio de Defensa, y el ministro del Interior negó que la Policía hubiera participado en la liberación del empresario. Un analista sostiene que el caso respondió a una deuda entre el empresario y la banda. Tras la polémica renunció el comandante general de la Policía, Óscar Arriola. Un exviceministro del Interior afirma que la banda funciona como 'chivo expiatorio' y que su desaparición no cambiaría la dinámica de la extorsión. Existen grupos homónimos sin relación demostrada: 'Los Pulpos de La Victoria', red de cobro de cupos a ambulantes en Gamarra (Lima) atribuida por la Fiscalía a funcionarios municipales (s18), y extorsionadores que invocan el nombre de la banda. Las fuentes difieren sobre el nombre del líder (Jhonsson o Johnsson Smit/Smith Cruz Torres; El País lo llama 'Jhon Pulpo', alias de su padre) y sobre su condena previa: InSight Crime menciona una cadena perpetua por el asesinato de 2020, y el 2 de octubre de 2026 el tribunal fijó 35 años tras su aceptación de cargos. Los Pulpos no tienen designaciones oficiales vigentes: Perú aún no los ha declarado organización terrorista (s12, s13) y el Escudo de las Américas no los incluyó en su lista del 22 de septiembre de 2026 (s17). La Libertad sigue en estado de emergencia (s19).",
+  "confianza_general": "alta",
+  "fuentes": [
+    {
+      "id": "s1",
+      "titulo": "Pulpos Criminal Profile in Peru",
+      "editor": "InSight Crime",
+      "fecha": "2025-11",
+      "url": "https://insightcrime.org/peru-organized-crime-news/pulpos-criminal-profile/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s2",
+      "titulo": "Arrest of Jhonsson Pulpo Unlikely to Slow Peru's Extortion Crisis",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-07",
+      "url": "https://insightcrime.org/news/arrest-jhonsson-pulpo-unlikely-slow-peru-extortion-crisis/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s3",
+      "titulo": "Detenido en Bolivia 'Jhon Pulpo', jefe de una banda que extendió su red criminal por Sudamérica",
+      "editor": "El País",
+      "fecha": "2026-09-01",
+      "url": "https://elpais.com/america/2026-09-01/detenido-en-bolivia-jhon-pulpo-jefe-de-una-banda-que-extendio-su-red-criminal-por-sudamerica.html",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s4",
+      "titulo": "'Jhonsson Pulpo' capturado en Bolivia: así cayó el presunto cabecilla de Los Pulpos",
+      "editor": "El Comercio (Perú)",
+      "fecha": "2026-09-01",
+      "url": "https://elcomercio.pe/peru/jhonsson-pulpo-capturado-en-bolivia-asi-cayo-el-presunto-cabecilla-de-los-pulpos-apuesplan-noticia/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s5",
+      "titulo": "Jhonsson 'Pulpo', cabecilla de Los Pulpos, es condenado a 35 años de prisión por asesinar a comerciante en Trujillo",
+      "editor": "Infobae",
+      "fecha": "2026-10-02",
+      "url": "https://www.infobae.com/peru/2026/10/02/jhonsson-pulpo-es-condenado-a-35-anos-de-carcel-por-matar-a-la-reina-de-la-papa-en-trujillo/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s6",
+      "titulo": "Tras la caída de Johnson Cruz, su primo Óscar asumió el liderazgo de la organización criminal Los Pulpos",
+      "editor": "Infobae",
+      "fecha": "2026-09-12",
+      "url": "https://www.infobae.com/peru/2026/09/12/tras-la-caida-de-johnson-cruz-su-primo-oscar-asumio-el-liderazgo-de-la-organizacion-criminal-los-pulpos/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s7",
+      "titulo": "Los Pulpos: la banda detrás del secuestro y asesinato múltiple en Trujillo que simula ser la Policía para atacar empresarios",
+      "editor": "Infobae",
+      "fecha": "2026-08-31",
+      "url": "https://www.infobae.com/peru/2026/08/31/los-pulpos-la-banda-detras-del-secuestro-y-asesinato-multiple-en-trujillo-que-simula-ser-la-policia-para-atacar-empresarios/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s8",
+      "titulo": "La guerra entre Los Pulpos y La Jauría por el oro de Pataz estaría detrás de los crímenes en Trujillo",
+      "editor": "Infobae",
+      "fecha": "2026-09-08",
+      "url": "https://www.infobae.com/peru/2026/09/08/la-guerra-entre-los-pulpos-y-la-jauria-por-el-oro-de-pataz-estaria-detras-de-los-crimenes-en-trujillo/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s9",
+      "titulo": "Sigue caza contra \"Los Pulpos\": 20 detenidos en Chile y en Perú por crimen organizado en la RM",
+      "editor": "BioBioChile",
+      "fecha": "2026-02-09",
+      "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/02/09/sigue-caza-contra-los-pulpos-mas-de-30-detenidos-en-chile-y-en-peru-por-crimen-organizado-en-la-rm.shtml",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s10",
+      "titulo": "Del Tren de Aragua a Los Pulpos: estas son las 16 bandas delictuales internacionales que ya operan en Chile",
+      "editor": "The Clinic",
+      "fecha": "2026-10-05",
+      "url": "https://www.theclinic.cl/2026/10/05/del-tren-de-aragua-a-los-pulpos-estas-son-las-16-bandas-delictuales-internacionales-que-ya-operan-en-chile/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s11",
+      "titulo": "Golpe al crimen en Zamora Chinchipe: detenido alias 'Willy' y 18 sujetos dedicados a la extorsión y minería ilegal",
+      "editor": "El Universo",
+      "fecha": "2025-09-13",
+      "url": "https://www.eluniverso.com/noticias/seguridad/golpe-al-crimen-en-zamora-chinchipe-detenido-alias-willy-y-18-sujetos-dedicados-a-la-extorsion-y-mineria-ilegal-nota/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s12",
+      "titulo": "Keiko Fujimori: \"Es fundamental declarar a Tren de Aragua, La Jauría y Los Pulpos como organizaciones terroristas\"",
+      "editor": "El Comercio (Perú)",
+      "fecha": "2026-09-11",
+      "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-es-fundamental-declarar-a-tren-de-aragua-la-jauria-y-los-pulpos-como-organizaciones-terroristas-ultimas-noticia/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s13",
+      "titulo": "Congreso: Pleno de la Cámara de Diputados debatirá este 6 de octubre dictamen sobre pedido de facultades",
+      "editor": "La República (Perú)",
+      "fecha": "2026-10-02",
+      "url": "https://larepublica.pe/politica/2026/10/02/congreso-pleno-de-la-camara-de-diputados-debatira-este-6-de-octubre-dictamen-sobre-pedido-de-facultades-hnews-79210",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s14",
+      "titulo": "¿El resurgir de Los Pulpos? Así funciona la banda criminal que nació en el norte de Perú y llegó a Chile y Argentina",
+      "editor": "Infobae",
+      "fecha": "2026-08-31",
+      "url": "https://www.infobae.com/peru/2026/08/31/el-resurgir-de-los-pulpos-asi-funciona-la-banda-criminal-que-nacio-en-el-norte-de-peru-y-llego-a-chile-y-argentina/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s15",
+      "titulo": "Alcalde de Pataz denuncia ser extorsionado por Los Pulpos: exigen S/50.000 para no atentar contra su vida",
+      "editor": "La República (Perú)",
+      "fecha": "2026-02-15",
+      "url": "https://larepublica.pe/sociedad/2026/02/15/alcalde-de-pataz-denuncia-ser-extorsionado-por-los-pulpos-exigen-s50000-para-no-atentar-contra-su-vida-1010085",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s16",
+      "titulo": "Ancón: hombre que extorsionaba a empresarios en Lima Norte asegura ser integrante de 'Los Pulpos' de Trujillo",
+      "editor": "RPP Noticias",
+      "fecha": "2026-09-23",
+      "url": "https://rpp.pe/lima/policiales/ancon-hombre-que-extorsionaba-a-empresarios-en-lima-norte-asegura-ser-integrante-de-los-pulpos-de-trujillo-noticia-1709070",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s17",
+      "titulo": "Joint Statement on Defending Hemispheric Sovereignty",
+      "editor": "U.S. Department of State",
+      "fecha": "2026-09-22",
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/joint-statement-on-defending-hemispheric-sovereignty",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s18",
+      "titulo": "Los Pulpos de La Victoria: ¿De qué se le acusa al alcalde Rubén Cano y 14 funcionarios, según la Fiscalía?",
+      "editor": "Infobae",
+      "fecha": "2026-05-12",
+      "url": "https://www.infobae.com/peru/2026/05/12/los-pulpos-de-la-victoria-de-que-se-le-acusa-al-alcalde-ruben-cano-y-sus-funcionarios-segun-las-fiscalia/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s19",
+      "titulo": "Gobierno declara estado de emergencia en Pisco ante el crimen y prorroga medidas en Tumbes y La Libertad",
+      "editor": "La República (Perú)",
+      "fecha": "2026-09-19",
+      "url": "https://larepublica.pe/sociedad/2026/09/19/gobierno-declara-estado-de-emergencia-en-pisco-ante-el-crimen-y-prorroga-medidas-en-tumbes-y-la-libertad-318744",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s20",
+      "titulo": "Estas son las bandas criminales bajo la lupa del Escudo de las Américas que ya operan en Chile",
+      "editor": "Infobae",
+      "fecha": "2026-09-24",
+      "url": "https://www.infobae.com/america/america-latina/2026/09/24/estas-son-las-bandas-criminales-bajo-la-lupa-del-escudo-de-las-americas-que-ya-operan-en-chile/",
+      "categoria": "prensa",
+      "verificada": true
+    }
+  ]
+}

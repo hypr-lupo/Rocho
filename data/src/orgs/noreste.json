@@ -1,0 +1,416 @@
+{
+  "id": "noreste",
+  "nombre": "Cártel del Noreste",
+  "corto": "Noreste",
+  "alias": [
+    "CDN",
+    "Northeast Cartel",
+    "Los Zetas (alias en las designaciones de EE. UU.)"
+  ],
+  "tipo": "cartel",
+  "pais_origen": "MEX",
+  "fundacion": "2014-2015, como escisión de Los Zetas encabezada por Miguel Ángel y Omar Treviño Morales",
+  "resumen": "Escisión de Los Zetas creada por la familia Treviño Morales, con centro de mando en Nuevo Laredo, Tamaulipas, frente al cruce terrestre más transitado con EE. UU. Su principal fuente de ingresos es el cobro sobre las mercancías lícitas e ilícitas que cruzan la frontera, además del tráfico de drogas, migrantes, armas y combustible, la extorsión y el secuestro. EE. UU. la designó Organización Terrorista Extranjera y SDGT el 20 de febrero de 2025.",
+  "situacion_actual": "El CDN mantiene el control de Nuevo Laredo bajo el liderazgo de Juan Cisneros Treviño, 'Juanito', con Abdón Federico Rodríguez García, 'Cucho', como segundo al mando y Francisco Daniel Esqueda Nieto, 'Franky Esqueda', a cargo de las operaciones tácticas (ODNI, mayo de 2026; InSight Crime, julio de 2026). Sus fundadores Miguel Ángel ('Z-40') y Omar Treviño Morales ('Z-42') fueron trasladados a EE. UU. el 27 de febrero de 2025, y Ricardo González Sauceda, 'El Ricky', detenido el 3 de febrero de 2025, fue enviado a EE. UU. el 20 de enero de 2026. OFAC sancionó a mandos y facilitadores el 21 de mayo de 2025, el 6 de agosto de 2025 y el 14 de abril de 2026 (casinos en Nuevo Laredo y Tampico, un abogado de 'Z-40' y un activista acusado de hacer campañas de desinformación). En 2026 las autoridades mexicanas detuvieron en Nuevo León a José Antonio Cortés Huerta, operador de contrabando de combustible (mayo), y en Mérida a Justo Aurelio Rivera Parrazales, presunto operador financiero (julio). Persiste la disputa con facciones del Cártel del Golfo en Ciudad Mier, Miguel Alemán y Reynosa.",
+  "estructura": "Red de células compartimentadas dirigida por miembros de la familia Treviño. Un líder general (Juan Cisneros Treviño) que controla también el brazo armado; un segundo al mando (Rodríguez García); un jefe de operaciones tácticas en Nuevo Laredo (Esqueda Nieto); jefes de plaza regionales (por ejemplo, Piedras Negras y Ciudad Victoria); responsables de armas, de tráfico de migrantes y estructuras de lavado (casinos, empresas, regalías musicales). ODNI estima más de 1.000 integrantes.",
+  "lideres": [
+    {
+      "nombre": "Juan Cisneros Treviño",
+      "alias": "Juanito",
+      "rol": "Líder del CDN y de su brazo armado desde 2022",
+      "estado": "Prófugo",
+      "fuente_ids": [
+        "s1",
+        "s7"
+      ]
+    },
+    {
+      "nombre": "Abdón Federico Rodríguez García",
+      "alias": "Cucho",
+      "rol": "Segundo al mando; narcotráfico, lavado, robo de combustible y extorsión",
+      "estado": "Prófugo; sancionado por OFAC el 6 de agosto de 2025",
+      "fuente_ids": [
+        "s1",
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "nombre": "Francisco Daniel Esqueda Nieto",
+      "alias": "Franky Esqueda",
+      "rol": "Jefe de operaciones tácticas en Nuevo Laredo",
+      "estado": "Prófugo; sancionado por OFAC el 6 de agosto de 2025",
+      "fuente_ids": [
+        "s5",
+        "s7"
+      ]
+    },
+    {
+      "nombre": "Antonio Romero Sánchez",
+      "alias": "Romeo",
+      "rol": "Mando de alto rango con operaciones en Piedras Negras (Coahuila) y Ciudad Victoria (Tamaulipas)",
+      "estado": "Sin reporte público de captura; sancionado por OFAC el 6 de agosto de 2025",
+      "fuente_ids": [
+        "s5"
+      ]
+    },
+    {
+      "nombre": "Miguel Ángel de Anda Ledezma",
+      "alias": "",
+      "rol": "Responsable de la adquisición de armas y municiones en EE. UU.",
+      "estado": "Sin reporte público de captura; sancionado por OFAC el 21 de mayo de 2025",
+      "fuente_ids": [
+        "s6"
+      ]
+    },
+    {
+      "nombre": "Eduardo Javier Islas Valdez",
+      "alias": "Crosty",
+      "rol": "Responsable del tráfico de migrantes en Nuevo Laredo y de casas de seguridad de efectivo",
+      "estado": "Sin reporte público de captura; sancionado por OFAC el 14 de abril de 2026",
+      "fuente_ids": [
+        "s4"
+      ]
+    },
+    {
+      "nombre": "Ricardo González Sauceda",
+      "alias": "El Ricky",
+      "rol": "Exjefe del brazo armado y exsegundo al mando",
+      "estado": "Detenido el 3 de febrero de 2025; trasladado a EE. UU. el 20 de enero de 2026",
+      "fuente_ids": [
+        "s6",
+        "s11"
+      ]
+    },
+    {
+      "nombre": "Miguel Ángel Treviño Morales",
+      "alias": "Z-40",
+      "rol": "Cofundador y exlíder",
+      "estado": "Trasladado a EE. UU. el 27 de febrero de 2025; en espera de juicio",
+      "fuente_ids": [
+        "s1",
+        "s12"
+      ]
+    },
+    {
+      "nombre": "Omar Treviño Morales",
+      "alias": "Z-42",
+      "rol": "Cofundador y exlíder",
+      "estado": "Trasladado a EE. UU. el 27 de febrero de 2025; en espera de juicio",
+      "fuente_ids": [
+        "s1",
+        "s12"
+      ]
+    },
+    {
+      "nombre": "José Antonio Cortés Huerta",
+      "alias": "",
+      "rol": "Presunto líder de una célula dedicada al contrabando de combustible",
+      "estado": "Detenido en Nuevo León en mayo de 2026",
+      "fuente_ids": [
+        "s9"
+      ]
+    },
+    {
+      "nombre": "Justo Aurelio Rivera Parrazales",
+      "alias": "",
+      "rol": "Presunto operador financiero y logístico",
+      "estado": "Detenido en Mérida, Yucatán, en julio de 2026",
+      "fuente_ids": [
+        "s10"
+      ]
+    }
+  ],
+  "designaciones": [
+    {
+      "autoridad": "Departamento de Estado de EE. UU.",
+      "categoria": "Organización Terrorista Extranjera (FTO)",
+      "fecha": "2025-02-20",
+      "fuente_ids": [
+        "s2",
+        "s1"
+      ]
+    },
+    {
+      "autoridad": "Departamento de Estado de EE. UU.",
+      "categoria": "Terrorista Global Especialmente Designado (SDGT, E.O. 13224)",
+      "fecha": "2025-02-20",
+      "fuente_ids": [
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "autoridad": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "categoria": "Narcotraficante extranjero significativo (Kingpin Act), como Los Zetas",
+      "fecha": "2009-04",
+      "fuente_ids": [
+        "s4"
+      ]
+    },
+    {
+      "autoridad": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "categoria": "Organización criminal transnacional (E.O. 13581), como Los Zetas",
+      "fecha": "2011-07",
+      "fuente_ids": [
+        "s4"
+      ]
+    }
+  ],
+  "delitos": [
+    "cocaina",
+    "sinteticas",
+    "otras_drogas",
+    "extorsion",
+    "secuestro",
+    "sicariato",
+    "trata",
+    "migrantes",
+    "armas",
+    "combustible",
+    "lavado"
+  ],
+  "presencia": [
+    {
+      "pais": "MEX",
+      "nivel": "base",
+      "zonas": [
+        "Nuevo Laredo (Tamaulipas)",
+        "Ciudad Mier",
+        "Miguel Alemán",
+        "Reynosa (en disputa)",
+        "Ciudad Victoria",
+        "Tampico",
+        "Piedras Negras (Coahuila)",
+        "Coahuila",
+        "Nuevo León",
+        "Monterrey",
+        "San Pedro Garza García",
+        "Allende (Nuevo León)",
+        "San Luis Potosí",
+        "Zacatecas",
+        "Chihuahua",
+        "Hidalgo",
+        "Veracruz",
+        "Ciudad de México",
+        "Mérida (Yucatán)"
+      ],
+      "delitos": [
+        "cocaina",
+        "sinteticas",
+        "otras_drogas",
+        "extorsion",
+        "secuestro",
+        "sicariato",
+        "trata",
+        "migrantes",
+        "armas",
+        "combustible",
+        "lavado"
+      ],
+      "nota": "Centro de mando en Nuevo Laredo, donde grava casi todo el flujo lícito e ilícito del cruce con Laredo; presencia en Coahuila, Nuevo León, San Luis Potosí y Zacatecas, y presencia menor en Chihuahua, Hidalgo, Veracruz y Ciudad de México. Disputa con facciones del Golfo Ciudad Mier, Miguel Alemán y Reynosa. Se detectaron operaciones financieras en Tampico (casino Diamante) y Mérida.",
+      "fuente_ids": [
+        "s1",
+        "s4",
+        "s5",
+        "s7",
+        "s8",
+        "s9",
+        "s10"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "USA",
+      "nivel": "operativa",
+      "zonas": [
+        "Laredo (Texas)",
+        "Texas",
+        "Oklahoma",
+        "Georgia",
+        "Medio Oeste"
+      ],
+      "delitos": [
+        "cocaina",
+        "sinteticas",
+        "otras_drogas",
+        "migrantes",
+        "armas",
+        "lavado"
+      ],
+      "nota": "Controla el tráfico en torno al puerto de entrada de Laredo; centros de distribución en Texas y socios en Oklahoma, Georgia y el Medio Oeste; compra de armas mediante prestanombres en EE. UU. y cruce de migrantes por el río Bravo.",
+      "fuente_ids": [
+        "s1",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "confianza": "alta"
+    }
+  ],
+  "vinculos": [
+    {
+      "destino": "golfo",
+      "tipo": "rivalidad",
+      "descripcion": "Disputa con Los Escorpiones, Los Ciclones y Los Metros del Cártel del Golfo por Reynosa y municipios fronterizos como Ciudad Mier y Miguel Alemán.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s13",
+        "s7"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "sinaloa",
+      "tipo": "suministro",
+      "descripcion": "La facción Mayiza (Los Mayitos) del Cártel de Sinaloa abastece al CDN de fentanilo, metanfetamina y cocaína que este introduce a EE. UU. por Nuevo Laredo; ambas organizaciones mantienen una alianza.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s7",
+        "s8"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "cjng",
+      "tipo": "rivalidad",
+      "descripcion": "El CDN se enfrenta desde 2019 con el CJNG y con grupos aliados de este; ODNI señala que Los Metros se aliaron con el CJNG para protegerse del CDN.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s8",
+        "s13"
+      ],
+      "confianza": "media"
+    }
+  ],
+  "notas_controversia": "Canadá no incluyó al CDN en su lista de entidades terroristas del 20 de febrero de 2025, a diferencia de las otras seis organizaciones latinoamericanas designadas por EE. UU. ese día (fuente s14). Las fuentes identifican a la facción Mayiza (Los Mayitos) del Cártel de Sinaloa como socia del CDN; otros reportes de prensa de 2025 mencionaban alianzas con Los Chapitos, sin confirmación oficial. Las designaciones estadounidenses tratan 'Los Zetas' como alias del CDN, aunque subsisten remanentes de Los Zetas con identidad propia. La relación del operador financiero Rivera Parrazales con 'La Barredora' (Tabasco) no está confirmada judicialmente.",
+  "confianza_general": "alta",
+  "fuentes": [
+    {
+      "id": "s1",
+      "titulo": "Counterterrorism Guide: Northeast Cartel (CDN) (as of May 2026)",
+      "editor": "Office of the Director of National Intelligence (ODNI)",
+      "fecha": "2026-05",
+      "url": "https://www.odni.gov/wp-content/uploads/dlm_uploads/CT-Guide-CDN_508.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s2",
+      "titulo": "Foreign Terrorist Organization Designations of Tren de Aragua, Mara Salvatrucha, Cartel de Sinaloa, Cartel de Jalisco Nueva Generacion, Carteles Unidos, Cartel del Noreste, Cartel del Golfo, and La Nueva Familia Michoacana (Public Notice 12672)",
+      "editor": "Departamento de Estado de EE. UU. / Federal Register",
+      "fecha": "2025-02-20",
+      "url": "https://public-inspection.federalregister.gov/2025-02873.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s3",
+      "titulo": "Specially Designated Global Terrorist Designations of Tren de Aragua, Mara Salvatrucha, Cartel de Sinaloa, Cartel de Jalisco Nueva Generacion, Carteles Unidos, Cartel del Noreste, Cartel del Golfo, and La Nueva Familia Michoacana (Public Notice 12671)",
+      "editor": "Departamento de Estado de EE. UU. / Federal Register",
+      "fecha": "2025-02-20",
+      "url": "https://public-inspection.federalregister.gov/2025-02870.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s4",
+      "titulo": "Treasury Sanctions Cartel-Linked Casinos and Key Associates on U.S.-Mexico Border (sb0440)",
+      "editor": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "fecha": "2026-04-14",
+      "url": "https://home.treasury.gov/news/press-releases/sb0440",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s5",
+      "titulo": "Treasury Sanctions Additional Members and Associate of Narco-Terrorist Cartel del Noreste (sb0219)",
+      "editor": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "fecha": "2025-08-06",
+      "url": "https://home.treasury.gov/news/press-releases/sb0219",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s6",
+      "titulo": "Treasury Sanctions High-Ranking Members of Foreign Terrorist Organization Cartel del Noreste (sb0146)",
+      "editor": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "fecha": "2025-05-21",
+      "url": "https://home.treasury.gov/news/press-releases/sb0146",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s7",
+      "titulo": "Northeast Cartel Profile",
+      "editor": "InSight Crime",
+      "fecha": "2026-07",
+      "url": "https://insightcrime.org/mexico-organized-crime-news/northeast-cartel/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s8",
+      "titulo": "Mexico: Drug cartels, including the Sinaloa Cartel, CJNG, Los Zetas, the Gulf Cartel, La Familia Michoacana; their activities and areas of operation (2024–August 2025)",
+      "editor": "Immigration and Refugee Board of Canada, Research Directorate (vía ecoi.net)",
+      "fecha": "2025-08-28",
+      "url": "https://www.ecoi.net/en/document/2130453.html",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s9",
+      "titulo": "Detenido el líder de una facción del Cartel del Noroeste en estado mexicano de Nuevo León",
+      "editor": "Infobae (agencias)",
+      "fecha": "2026-05-11",
+      "url": "https://www.infobae.com/america/agencias/2026/05/11/detenido-el-lider-de-una-faccion-del-cartel-del-noroeste-en-estado-mexicano-de-nuevo-leon/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s10",
+      "titulo": "Justo Aurelio Rivera, el presunto operador del Cártel del Noreste ligado a 'La Barredora'",
+      "editor": "Expansión Política",
+      "fecha": "2026-07-20",
+      "url": "https://politica.expansion.mx/mexico/2026/07/20/justo-aurelio-rivera-el-presunto-operador-del-cartel-del-noreste-ligado-a-la-barredora",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s11",
+      "titulo": "¿Quiénes son los 37 presuntos criminales que México envió a Estados Unidos?",
+      "editor": "El Imparcial",
+      "fecha": "2026-01-26",
+      "url": "https://www.elimparcial.com/mexico/2026/01/26/quienes-son-los-37-presuntos-criminales-que-mexico-envio-a-estados-unidos-los-nombres-los-carteles-senalados-y-por-que-fueron-solicitados-por-la-justicia-estadounidense/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s12",
+      "titulo": "Estos son los cárteles que fueron 'golpeados' con los traslados de 29 narcos a EEUU",
+      "editor": "Infobae",
+      "fecha": "2025-02-28",
+      "url": "https://www.infobae.com/mexico/2025/02/28/estos-son-los-carteles-mexicanos-que-fueron-golpeados-con-los-traslados-de-29-narcos-a-eeuu/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s13",
+      "titulo": "Counterterrorism Guide: Gulf Cartel (as of April 2026)",
+      "editor": "Office of the Director of National Intelligence (ODNI)",
+      "fecha": "2026-04",
+      "url": "https://www.odni.gov/wp-content/uploads/dlm_uploads/CT-Guide-Gulf-Cartel_508.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s14",
+      "titulo": "Government of Canada lists transnational criminal organizations as terrorist entities",
+      "editor": "Public Safety Canada",
+      "fecha": "2025-02-20",
+      "url": "https://www.canada.ca/en/public-safety-canada/news/2025/02/government-of-canada-lists-transnational-criminal-organizations-as-terrorist-entities.html",
+      "categoria": "oficial",
+      "verificada": true
+    }
+  ]
+}

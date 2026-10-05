@@ -1,0 +1,1278 @@
+{
+  "id": "sinaloa",
+  "nombre": "Cártel de Sinaloa",
+  "corto": "Sinaloa",
+  "alias": [
+    "Sinaloa Cartel",
+    "Federación Mexicana",
+    "Mexican Federation",
+    "CDS",
+    "Cártel del Pacífico"
+  ],
+  "tipo": "cartel",
+  "pais_origen": "MEX",
+  "fundacion": "Década de 1980, tras la fractura del Cártel de Guadalajara",
+  "resumen": "El Cártel de Sinaloa es una de las organizaciones de narcotráfico más poderosas del mundo. Tiene su base en Sinaloa y, según el NCTC de EE. UU., opera en todo México y en más de 40 países. Produce y trafica fentanilo, metanfetamina, cocaína, heroína y marihuana hacia Estados Unidos, con precursores importados de China e India. Desde septiembre de 2024 funciona como un conjunto de facciones enfrentadas: Los Chapitos, Los Mayos (La Mayiza) y Gente del Guano. Las facciones comparten rutas, proveedores y redes de lavado, pero no tienen mando ni ganancias comunes.",
+  "situacion_actual": "La guerra interna entre Los Chapitos y Los Mayos, iniciada el 9 de septiembre de 2024, cumplió dos años. Al 15 de septiembre de 2026 dejaba en Sinaloa 3.864 homicidios y 4.408 personas desaparecidas o privadas de la libertad. Los Mayos, dirigidos por Ismael Zambada Sicairos (“El Mayito Flaco”), han ganado terreno. Los Chapitos perdieron operadores clave, como Cristhian Guadalupe Pérez Pérez (“El Texas/El 01”), abatido el 7 de julio de 2026, aunque conservan plazas como Mazatlán. El conflicto se desplazó a zonas rurales y ambas facciones se fragmentaron en más de 20 células. Ismael “El Mayo” Zambada García fue condenado a cadena perpetua en Brooklyn el 20 de julio de 2026. Joaquín Guzmán López (culpable el 1 de diciembre de 2025) y Ovidio Guzmán López (culpable el 11 de julio de 2025) cooperan con la justicia estadounidense. El 29 de abril de 2026 la Fiscalía del Distrito Sur de Nueva York acusó al gobernador Rubén Rocha Moya y a otros nueve funcionarios de proteger a Los Chapitos; Rocha pidió licencia el 2 de mayo. El 29 de septiembre de 2026 OFAC sancionó a Zambada Sicairos y a 45 personas y empresas de la red de Los Mayos en Baja California. En septiembre de 2026, según The New York Times, Washington suspendió sus planes de ataques aéreos contra cárteles en México tras el endurecimiento de la política del gobierno de Sheinbaum.",
+  "estructura": "Es una organización federada sin mando único. El NCTC identifica tres facciones principales. (1) Los Chapitos: la dirigen Iván Archivaldo y Jesús Alfredo Guzmán Salazar y operan con células como Los Ninis, Los Canobbio y Martínez Larios. (2) Los Mayos o La Mayiza: los dirige Ismael Zambada Sicairos e incluyen a Los Rusos (brazo armado en Mexicali, a cargo de Juan José Ponce Félix), la célula de los hermanos Arzate García en Tijuana y al jefe de seguridad Jorge Luis Mendoza Uriarte (“Güero Chompas”). (3) Gente del Guano: la dirige Aureliano Guzmán Loera en la sierra entre Sinaloa y Durango. Las facciones comparten rutas, contactos corruptos, proveedores de químicos y redes de lavado, pero no ganancias ni cadena de mando. Se identifican más de 20 células activas en Sinaloa. El número de miembros es desconocido; el NCTC lo estima probablemente en miles.",
+  "lideres": [
+    {
+      "nombre": "Iván Archivaldo Guzmán Salazar",
+      "alias": "Iván Archivaldo",
+      "rol": "Colíder de la facción Los Chapitos",
+      "estado": "Prófugo a la fecha de corte. Sancionado por OFAC el 9 de junio de 2025, con una recompensa del Departamento de Estado de hasta 10 millones USD. Reportes de prensa de mayo de 2026 sobre contactos con EE. UU. para una entrega negociada no han sido confirmados.",
+      "fuente_ids": [
+        "s5",
+        "s12",
+        "s13"
+      ]
+    },
+    {
+      "nombre": "Jesús Alfredo Guzmán Salazar",
+      "alias": "Alfredillo",
+      "rol": "Colíder de la facción Los Chapitos",
+      "estado": "Prófugo a la fecha de corte. Sancionado por OFAC el 9 de junio de 2025, con una recompensa de hasta 10 millones USD.",
+      "fuente_ids": [
+        "s5",
+        "s12",
+        "s13"
+      ]
+    },
+    {
+      "nombre": "Ismael Zambada Sicairos",
+      "alias": "El Mayito Flaco",
+      "rol": "Líder de la facción Los Mayos (La Mayiza)",
+      "estado": "Prófugo. Acusado desde 2014 en el Distrito Sur de California y sancionado por OFAC el 29 de septiembre de 2026, que lo describe como “líder indiscutible” de Los Mayos.",
+      "fuente_ids": [
+        "s7",
+        "s13"
+      ]
+    },
+    {
+      "nombre": "Ismael Zambada García",
+      "alias": "El Mayo",
+      "rol": "Cofundador y exlíder; referente de la facción Los Mayos",
+      "estado": "Detenido en EE. UU. desde el 25 de julio de 2024. Se declaró culpable en agosto de 2025 y fue condenado a cadena perpetua el 20 de julio de 2026.",
+      "fuente_ids": [
+        "s10",
+        "s1",
+        "s21"
+      ]
+    },
+    {
+      "nombre": "Joaquín Guzmán López",
+      "alias": "",
+      "rol": "Integrante de Los Chapitos; entregó a El Mayo a las autoridades de EE. UU.",
+      "estado": "Detenido en EE. UU. desde el 25 de julio de 2024. Se declaró culpable el 1 de diciembre de 2025 y coopera con las autoridades; su audiencia fue aplazada a 2027.",
+      "fuente_ids": [
+        "s9",
+        "s18"
+      ]
+    },
+    {
+      "nombre": "Ovidio Guzmán López",
+      "alias": "",
+      "rol": "Integrante de Los Chapitos",
+      "estado": "Detenido en EE. UU. (extraditado en septiembre de 2023). Se declaró culpable el 11 de julio de 2025 y coopera con las autoridades; tiene una audiencia fijada para el 7 de diciembre de 2026 en Chicago.",
+      "fuente_ids": [
+        "s18",
+        "s12"
+      ]
+    },
+    {
+      "nombre": "Aureliano Guzmán Loera",
+      "alias": "El Guano",
+      "rol": "Líder de la facción Gente del Guano",
+      "estado": "Prófugo. Escapó del operativo del 22 de abril de 2026 en La Cebadilla, Tamazula (Durango), en el que fueron detenidos diez integrantes de su círculo cercano.",
+      "fuente_ids": [
+        "s1",
+        "s19"
+      ]
+    },
+    {
+      "nombre": "Juan José Ponce Félix",
+      "alias": "El Ruso",
+      "rol": "Líder de Los Rusos, brazo armado de Los Mayos en Mexicali",
+      "estado": "Prófugo. Sancionado por OFAC el 18 de septiembre de 2025 y nuevamente señalado el 29 de septiembre de 2026; recompensa de hasta 5 millones USD.",
+      "fuente_ids": [
+        "s6",
+        "s7"
+      ]
+    },
+    {
+      "nombre": "Alfonso Arzate García",
+      "alias": "Aquiles",
+      "rol": "Jefe de la plaza de Tijuana para Los Mayos",
+      "estado": "Prófugo. Sancionado por OFAC el 29 de septiembre de 2026.",
+      "fuente_ids": [
+        "s7",
+        "s13"
+      ]
+    },
+    {
+      "nombre": "René Arzate García",
+      "alias": "La Rana",
+      "rol": "Jefe de la plaza de Tijuana para Los Mayos",
+      "estado": "Prófugo. Sancionado por OFAC el 29 de septiembre de 2026; enfrenta cargos de narcoterrorismo en EE. UU.",
+      "fuente_ids": [
+        "s7",
+        "s13"
+      ]
+    }
+  ],
+  "designaciones": [
+    {
+      "autoridad": "Departamento de Estado de EE. UU.",
+      "categoria": "Organización Terrorista Extranjera (FTO, sección 219 de la INA)",
+      "fecha": "2025-02-20",
+      "fuente_ids": [
+        "s2",
+        "s1"
+      ]
+    },
+    {
+      "autoridad": "Departamento de Estado de EE. UU.",
+      "categoria": "Terrorista Global Especialmente Designado (SDGT, E.O. 13224)",
+      "fecha": "2025-02-20",
+      "fuente_ids": [
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "autoridad": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "categoria": "Sanción conforme a la Foreign Narcotics Kingpin Designation Act",
+      "fecha": "2009-04",
+      "fuente_ids": [
+        "s1"
+      ]
+    },
+    {
+      "autoridad": "Gobierno de Canadá (Public Safety Canada)",
+      "categoria": "Entidad terrorista listada conforme al Código Penal",
+      "fecha": "2025-02-20",
+      "fuente_ids": [
+        "s4"
+      ]
+    },
+    {
+      "autoridad": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "categoria": "Designación de la facción Los Chapitos y de Iván Archivaldo y Jesús Alfredo Guzmán Salazar (E.O. 14059 y E.O. 13224)",
+      "fecha": "2025-06-09",
+      "fuente_ids": [
+        "s5"
+      ]
+    },
+    {
+      "autoridad": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "categoria": "Designación de la facción Los Mayos y de Juan José Ponce Félix",
+      "fecha": "2025-09-18",
+      "fuente_ids": [
+        "s6"
+      ]
+    },
+    {
+      "autoridad": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "categoria": "Designación de Ismael Zambada Sicairos y de 20 personas y 25 empresas de la red de Los Mayos",
+      "fecha": "2026-09-29",
+      "fuente_ids": [
+        "s7"
+      ]
+    },
+    {
+      "autoridad": "EE. UU. y 14 gobiernos de América Latina y el Caribe (declaración Escudo de las Américas)",
+      "categoria": "Declaración conjunta no vinculante que incluye al grupo entre 24 organizaciones “narcoterroristas” por sancionar (congelamiento de activos, restricciones de visa)",
+      "fecha": "2026-09-23",
+      "fuente_ids": [
+        "s41",
+        "s42"
+      ]
+    }
+  ],
+  "delitos": [
+    "cocaina",
+    "sinteticas",
+    "otras_drogas",
+    "narcomenudeo",
+    "extorsion",
+    "secuestro",
+    "sicariato",
+    "trata",
+    "migrantes",
+    "armas",
+    "mineria",
+    "ambiental",
+    "combustible",
+    "contrabando",
+    "lavado",
+    "robo"
+  ],
+  "presencia": [
+    {
+      "pais": "MEX",
+      "nivel": "base",
+      "zonas": [
+        "Sinaloa (Culiacán, Navolato, Mazatlán, Concordia, Escuinapa, Badiraguato)",
+        "Durango (Tamazula)",
+        "Chihuahua (Triángulo Dorado)",
+        "Sonora (San Luis Río Colorado)",
+        "Baja California (Tijuana, Mexicali, Playas de Rosarito)",
+        "Nayarit",
+        "Zacatecas",
+        "Jalisco",
+        "Chiapas",
+        "Guanajuato (corredor Salamanca-Celaya)"
+      ],
+      "delitos": [
+        "cocaina",
+        "sinteticas",
+        "otras_drogas",
+        "narcomenudeo",
+        "extorsion",
+        "secuestro",
+        "sicariato",
+        "trata",
+        "migrantes",
+        "armas",
+        "mineria",
+        "ambiental",
+        "combustible",
+        "contrabando",
+        "lavado",
+        "robo"
+      ],
+      "nota": "Es el centro de mando y producción. La guerra entre Los Chapitos y Los Mayos se concentra en Sinaloa y se extiende a Sonora, Baja California, Durango y Chihuahua. Los Mayos controlan corredores fronterizos en Tijuana y Mexicali. Los Chapitos se alían con el CJNG en Guanajuato para el robo de combustible. El NCTC menciona además la prostitución entre sus fuentes de ingreso.",
+      "fuente_ids": [
+        "s1",
+        "s11",
+        "s12",
+        "s14",
+        "s19",
+        "s20",
+        "s5",
+        "s6",
+        "s7",
+        "s43",
+        "s13",
+        "s21"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "USA",
+      "nivel": "consolidada",
+      "zonas": [
+        "California",
+        "Texas",
+        "Colorado",
+        "Washington",
+        "Utah",
+        "Nevada"
+      ],
+      "delitos": [
+        "cocaina",
+        "sinteticas",
+        "otras_drogas",
+        "lavado"
+      ],
+      "nota": "Según la DEA, tiene presencia en los 50 estados. OFAC documentó en mayo de 2026 redes de Los Chapitos que recolectan efectivo en varios estados y lo convierten en criptomonedas.",
+      "fuente_ids": [
+        "s39",
+        "s8",
+        "s1",
+        "s25"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "CAN",
+      "nivel": "operativa",
+      "zonas": [],
+      "delitos": [
+        "sinteticas",
+        "lavado"
+      ],
+      "nota": "Tráfico de metanfetamina y lavado de dinero.",
+      "fuente_ids": [
+        "s29"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "GTM",
+      "nivel": "operativa",
+      "zonas": [
+        "Huehuetenango (a través de Los Huistas)"
+      ],
+      "delitos": [
+        "cocaina",
+        "sinteticas"
+      ],
+      "nota": "Lleva años establecido con una estructura descentralizada apoyada en grupos locales. Coordina la producción de fentanilo y metanfetamina, y Los Huistas le transportan cocaína hacia México.",
+      "fuente_ids": [
+        "s35",
+        "s36",
+        "s29"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "HND",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [
+        "sinteticas"
+      ],
+      "nota": "Laboratorios de metanfetamina, prensado de pastillas y contrabando de precursores en Centroamérica.",
+      "fuente_ids": [
+        "s29"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "SLV",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [
+        "sinteticas"
+      ],
+      "nota": "Laboratorios de metanfetamina y prensado de pastillas reportados en Centroamérica.",
+      "fuente_ids": [
+        "s29"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "CRI",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [
+        "cocaina",
+        "ambiental"
+      ],
+      "nota": "Tráfico de cocaína y pesca ilegal, no declarada y no reglamentada.",
+      "fuente_ids": [
+        "s29"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "PAN",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [
+        "cocaina"
+      ],
+      "nota": "Operaciones de tráfico de cocaína.",
+      "fuente_ids": [
+        "s29"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "COL",
+      "nivel": "operativa",
+      "zonas": [
+        "Medellín (Antioquia)"
+      ],
+      "delitos": [
+        "cocaina"
+      ],
+      "nota": "El 18 de junio de 2026 la Policía y la DEA capturaron en Medellín a dos hermanos mexicanos señalados como enlaces del cártel con el EGC/Clan del Golfo.",
+      "fuente_ids": [
+        "s28",
+        "s29",
+        "s11"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "ECU",
+      "nivel": "operativa",
+      "zonas": [
+        "Manta (Manabí)"
+      ],
+      "delitos": [
+        "cocaina",
+        "mineria"
+      ],
+      "nota": "Coopera con Los Choneros. Una red de pesqueros con base en Manta envía cocaína a México para Sinaloa y el CJNG (sanción de OFAC del 20 de agosto de 2026). También participa en minería ilegal de oro.",
+      "fuente_ids": [
+        "s26",
+        "s27",
+        "s29"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "PER",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [
+        "cocaina"
+      ],
+      "nota": "Operaciones de tráfico de cocaína.",
+      "fuente_ids": [
+        "s29"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "CHL",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [
+        "cocaina"
+      ],
+      "nota": "Operaciones de tráfico de cocaína.",
+      "fuente_ids": [
+        "s29"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "VEN",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [
+        "cocaina"
+      ],
+      "nota": "InSight Crime lo menciona entre los países con proveedores y distribuidores del cártel.",
+      "fuente_ids": [
+        "s11"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "ESP",
+      "nivel": "operativa",
+      "zonas": [
+        "Madrid",
+        "Valencia",
+        "Alicante",
+        "Málaga",
+        "Tenerife"
+      ],
+      "delitos": [
+        "sinteticas",
+        "otras_drogas",
+        "lavado"
+      ],
+      "nota": "Segunda fase de la Operación Saga (Policía Nacional y DEA, enero de 2026): nueve detenidos, entre ellos un miembro del cártel, metanfetamina oculta en mármol importado de México y casi 3 millones de euros en efectivo.",
+      "fuente_ids": [
+        "s31",
+        "s29"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "NLD",
+      "nivel": "operativa",
+      "zonas": [],
+      "delitos": [
+        "sinteticas",
+        "cocaina"
+      ],
+      "nota": "Laboratorios de metanfetamina con cocineros mexicanos y colaboración con redes neerlandesas. El traficante neerlandés Marco Ebben estaba integrado a la facción de El Mayo.",
+      "fuente_ids": [
+        "s29",
+        "s34"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "BEL",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [
+        "sinteticas"
+      ],
+      "nota": "Laboratorios de metanfetamina detectados.",
+      "fuente_ids": [
+        "s29"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "FRA",
+      "nivel": "limitada",
+      "zonas": [
+        "Marsella"
+      ],
+      "delitos": [
+        "sinteticas"
+      ],
+      "nota": "Laboratorio de drogas sintéticas desmantelado en 2025, con presuntos vínculos con el cártel.",
+      "fuente_ids": [
+        "s29",
+        "s30"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "POL",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [
+        "sinteticas"
+      ],
+      "nota": "Laboratorios de metanfetamina con ciudadanos mexicanos detenidos en 2025.",
+      "fuente_ids": [
+        "s29"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "ROU",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [],
+      "nota": "Redes locales sobre la ruta de los Balcanes; la actividad específica no está detallada.",
+      "fuente_ids": [
+        "s30"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "BGR",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [],
+      "nota": "Redes locales sobre la ruta de los Balcanes; la actividad específica no está detallada.",
+      "fuente_ids": [
+        "s30"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "PRT",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [
+        "cocaina",
+        "sinteticas"
+      ],
+      "nota": "Nodo logístico para cocaína y distribución de metanfetamina.",
+      "fuente_ids": [
+        "s29"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "ITA",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [
+        "cocaina"
+      ],
+      "nota": "Logística y alianzas con redes locales.",
+      "fuente_ids": [
+        "s29"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "ZAF",
+      "nivel": "operativa",
+      "zonas": [
+        "Swartruggens (Provincia del Noroeste)",
+        "Puerto de Durban"
+      ],
+      "delitos": [
+        "sinteticas"
+      ],
+      "nota": "Laboratorio industrial de metanfetamina, con capacidad de unas 5 toneladas mensuales, allanado en mayo de 2025. La policía lo atribuye a una red del cártel orientada a Australia y Nueva Zelanda; 16 mexicanos han sido detenidos desde 2024.",
+      "fuente_ids": [
+        "s32",
+        "s29"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "MOZ",
+      "nivel": "limitada",
+      "zonas": [
+        "Maputo"
+      ],
+      "delitos": [
+        "sinteticas"
+      ],
+      "nota": "Dos mexicanos detenidos en abril de 2026 en el aeropuerto de Maputo, junto con precursores químicos.",
+      "fuente_ids": [
+        "s32"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "NGA",
+      "nivel": "limitada",
+      "zonas": [
+        "Estado de Ogun",
+        "Estado de Oyo"
+      ],
+      "delitos": [
+        "sinteticas"
+      ],
+      "nota": "Laboratorios de metanfetamina con participación de mexicanos en 2026.",
+      "fuente_ids": [
+        "s29",
+        "s32"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "KEN",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [
+        "sinteticas"
+      ],
+      "nota": "Laboratorios de metanfetamina reportados.",
+      "fuente_ids": [
+        "s29"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "AUS",
+      "nivel": "operativa",
+      "zonas": [],
+      "delitos": [
+        "sinteticas"
+      ],
+      "nota": "Es un mercado prioritario de metanfetamina; se abastece desde México, el sur de África y el Pacífico.",
+      "fuente_ids": [
+        "s29",
+        "s33",
+        "s32"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "NZL",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [
+        "sinteticas"
+      ],
+      "nota": "Mercado de destino de metanfetamina.",
+      "fuente_ids": [
+        "s33",
+        "s29"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "FJI",
+      "nivel": "limitada",
+      "zonas": [
+        "Denarau"
+      ],
+      "delitos": [
+        "sinteticas"
+      ],
+      "nota": "Más de 4 toneladas de metanfetamina suministradas por el cártel y almacenadas en Fiyi rumbo a Australia y Nueva Zelanda (incautadas en enero de 2024; la investigación sigue abierta en 2026).",
+      "fuente_ids": [
+        "s33"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "CHN",
+      "nivel": "operativa",
+      "zonas": [],
+      "delitos": [
+        "sinteticas",
+        "lavado"
+      ],
+      "nota": "Proveedores de precursores químicos y redes chinas de lavado de dinero.",
+      "fuente_ids": [
+        "s1",
+        "s24",
+        "s25",
+        "s11"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "IND",
+      "nivel": "operativa",
+      "zonas": [],
+      "delitos": [
+        "sinteticas"
+      ],
+      "nota": "Proveedores de precursores químicos.",
+      "fuente_ids": [
+        "s1",
+        "s11"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "ARE",
+      "nivel": "limitada",
+      "zonas": [
+        "Dubái"
+      ],
+      "delitos": [
+        "lavado",
+        "sinteticas"
+      ],
+      "nota": "Lavado de dinero y transbordo de metanfetamina.",
+      "fuente_ids": [
+        "s29"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "IDN",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [
+        "cocaina"
+      ],
+      "nota": "Operaciones logísticas e intentos de tráfico de cocaína.",
+      "fuente_ids": [
+        "s29"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "PHL",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [
+        "cocaina"
+      ],
+      "nota": "Operaciones logísticas e intentos de tráfico de cocaína.",
+      "fuente_ids": [
+        "s29"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "KOR",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [
+        "cocaina"
+      ],
+      "nota": "Operaciones logísticas e intentos de tráfico de cocaína.",
+      "fuente_ids": [
+        "s29"
+      ],
+      "confianza": "media"
+    }
+  ],
+  "vinculos": [
+    {
+      "destino": "cjng",
+      "tipo": "rivalidad",
+      "descripcion": "El NCTC identifica al CJNG como el principal competidor del Cártel de Sinaloa en 2026. Ambos se disputan plazas en varios estados y rutas internacionales, aunque ocasionalmente coinciden en la compra de precursores.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s1",
+        "s11"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "cjng",
+      "tipo": "alianza",
+      "descripcion": "Alianza táctica entre Los Chapitos y el CJNG: dinero y sicarios en el sur de Sinaloa, Durango y Zacatecas, y cooperación en el robo de combustible en Guanajuato (mayo de 2026). El 16 de junio de 2026 García Harfuch afirmó que terminó con la muerte de El Mencho; InSight Crime la describía como vigente en septiembre de 2026.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s15",
+        "s12",
+        "s14",
+        "s43"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "choneros",
+      "tipo": "suministro",
+      "descripcion": "Los Choneros cooperan con el Cártel de Sinaloa en envíos de cocaína desde Ecuador, en particular desde la zona de Manta.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s26",
+        "s27"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "lobos",
+      "tipo": "suministro",
+      "descripcion": "Redes ecuatorianas afiliadas a Los Lobos y Los Choneros transportan cocaína hacia México, donde Sinaloa y el CJNG la introducen a EE. UU.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s27"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "clan-del-golfo",
+      "tipo": "suministro",
+      "descripcion": "Emisarios mexicanos del cártel coordinaban con el EGC/Clan del Golfo envíos de cocaína desde Antioquia hacia México, Centroamérica y EE. UU. (capturas del 18 de junio de 2026).",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s28"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "golfo",
+      "tipo": "rivalidad",
+      "descripcion": "Según el NCTC, la facción Los Metros del Cártel del Golfo se alió con el CJNG para protegerse del Cártel de Sinaloa, del Cártel del Noreste y de Los Escorpiones.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s37"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "noreste",
+      "tipo": "alianza",
+      "descripcion": "Vínculos de Los Mayos con el Cártel del Noreste, reportados en 2025 a partir de la evaluación de la DEA.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s38"
+      ],
+      "confianza": "baja"
+    },
+    {
+      "destino": "ext-cmlo",
+      "tipo": "lavado",
+      "descripcion": "Redes chinas de lavado de dinero mueven ganancias del cártel mediante transferencias espejo y lavado basado en comercio; en mayo de 2026 se acusó a dos ciudadanos chinos de lavar dinero para Sinaloa y el CJNG.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s24",
+        "s25"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "ext-precursores",
+      "tipo": "suministro",
+      "descripcion": "El cártel importa la mayoría de los precursores para fentanilo y metanfetamina de proveedores en China e India.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s1"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "ext-huistas",
+      "tipo": "suministro",
+      "descripcion": "Los Huistas transportan cocaína desde Guatemala hacia México para el Cártel de Sinaloa y el CJNG; tradicionalmente se los asocia con Sinaloa.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s36",
+        "s35"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "ext-mocro",
+      "tipo": "alianza",
+      "descripcion": "Colaboración con redes criminales neerlandesas en producción de metanfetamina y tráfico de cocaína. El traficante neerlandés Marco Ebben, integrado a la facción de El Mayo, fue asesinado en febrero de 2025.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s34",
+        "s29"
+      ],
+      "confianza": "baja"
+    }
+  ],
+  "notas_controversia": "(1) Alianza Chapitos-CJNG: el secretario de Seguridad Omar García Harfuch la negó en agosto de 2025. El 16 de junio de 2026 reconoció que existió, con dinero y sicarios del CJNG, pero dijo que terminó con la muerte de El Mencho y que no hay indicios de continuidad. En cambio, InSight Crime (septiembre de 2026) e Infobae (mayo de 2026, Guanajuato) la describen como vigente o táctica. (2) El número de facciones varía: el NCTC cuenta tres (Chapitos, Mayos, Guano). Infobae cuenta cuatro e incluye a la organización de Fausto Isidro Meza Flores, “Chapo Isidro”, aunque InSight Crime (septiembre de 2026) no registra que esta haya intervenido en la guerra. (3) Relación con el Cártel del Golfo: InSight Crime lo lista como aliado histórico o actual, mientras que el NCTC (abril de 2026) indica que su facción Los Metros se alió con el CJNG contra Sinaloa. (4) Reportes de Los Angeles Times (mayo de 2026) sobre negociaciones de Iván Archivaldo y Jesús Alfredo Guzmán Salazar para entregarse no están confirmados. (5) Rubén Rocha Moya niega las acusaciones del Distrito Sur de Nueva York. (6) Los vínculos con Los Mayos y el Cártel del Noreste provienen de un único reporte de prensa basado en la DEA (2025). (7) La atribución de los laboratorios africanos al cártel proviene de la policía sudafricana; en Nigeria y Kenia la vinculación específica con Sinaloa procede principalmente de Brookings. (8) El Mayo sostuvo que fue secuestrado y trasladado a EE. UU. contra su voluntad.",
+  "confianza_general": "alta",
+  "fuentes": [
+    {
+      "id": "s1",
+      "titulo": "Counterterrorism Guide: Sinaloa Cartel (as of May 2026)",
+      "editor": "National Counterterrorism Center (ODNI)",
+      "fecha": "2026-05",
+      "url": "https://www.odni.gov/wp-content/uploads/dlm_uploads/CT-Guide-Sinaloa-Cartel_508_2026_May.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s2",
+      "titulo": "Foreign Terrorist Organization Designations of Tren de Aragua, Mara Salvatrucha, Cartel de Sinaloa, Cartel de Jalisco Nueva Generacion, Carteles Unidos, Cartel del Noreste, Cartel del Golfo, and La Nueva Familia Michoacana (Public Notice 12672)",
+      "editor": "Departamento de Estado de EE. UU. / Federal Register",
+      "fecha": "2025-02-20",
+      "url": "https://public-inspection.federalregister.gov/2025-02873.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s3",
+      "titulo": "Specially Designated Global Terrorist Designations of Tren de Aragua, Mara Salvatrucha, Cartel de Sinaloa, Cartel de Jalisco Nueva Generacion, Carteles Unidos, Cartel del Noreste, Cartel del Golfo, and La Nueva Familia Michoacana (Public Notice 12671)",
+      "editor": "Departamento de Estado de EE. UU. / Federal Register",
+      "fecha": "2025-02-20",
+      "url": "https://public-inspection.federalregister.gov/2025-02870.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s4",
+      "titulo": "Government of Canada lists seven transnational criminal organizations as terrorist entities",
+      "editor": "Public Safety Canada",
+      "fecha": "2025-02-20",
+      "url": "https://www.canada.ca/en/public-safety-canada/news/2025/02/government-of-canada-lists-seven-transnational-criminal-organizations-as-terrorist-entities.html",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s5",
+      "titulo": "Treasury Sanctions “El Chapo’s” Children and Los Chapitos, a Fentanyl-Trafficking Faction of the Sinaloa Cartel",
+      "editor": "Departamento del Tesoro de EE. UU.",
+      "fecha": "2025-06-09",
+      "url": "https://home.treasury.gov/news/press-releases/sb0161",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s6",
+      "titulo": "Treasury Sanctions Powerful Faction of the Terrorist Sinaloa Cartel",
+      "editor": "Departamento del Tesoro de EE. UU.",
+      "fecha": "2025-09-18",
+      "url": "https://home.treasury.gov/news/press-releases/sb0252",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s7",
+      "titulo": "Treasury Sanctions Sinaloa Cartel Leadership and Corruption Networks",
+      "editor": "Departamento del Tesoro de EE. UU.",
+      "fecha": "2026-09-29",
+      "url": "https://home.treasury.gov/news/press-releases/sb0636",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s8",
+      "titulo": "Treasury Disrupts Sinaloa Cartel Narco-Terrorist Fentanyl Trafficking Operations",
+      "editor": "Departamento del Tesoro de EE. UU.",
+      "fecha": "2026-05-20",
+      "url": "https://home.treasury.gov/news/press-releases/sb0503",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s9",
+      "titulo": "Joaquin Guzman Lopez, Son of “El Chapo” and a Leader of Sinaloa Cartel, Pleads Guilty to Federal Drug Trafficking Charges",
+      "editor": "Departamento de Justicia de EE. UU. (Office of Public Affairs)",
+      "fecha": "2025-12-01",
+      "url": "https://www.justice.gov/opa/pr/joaquin-guzman-lopez-son-el-chapo-and-leader-sinaloa-cartel-pleads-guilty-federal-drug",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s10",
+      "titulo": "Mexican drug lord Ismael ‘El Mayo’ Zambada sentenced to life in US prison",
+      "editor": "Al Jazeera",
+      "fecha": "2026-07-20",
+      "url": "https://www.aljazeera.com/news/2026/7/20/mexican-drug-lord-ismael-el-mayo-zambada-sentenced-to-life-in-us-prison",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s11",
+      "titulo": "The Sinaloa Cartel: When it Formed, Who's in Charge, Where it Operates and What's New in 2026",
+      "editor": "InSight Crime",
+      "fecha": "2026-07-16",
+      "url": "https://insightcrime.org/mexico-organized-crime-news/sinaloa-cartel-profile/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s12",
+      "titulo": "The Chapitos: Who They Are, Where They Operate, and What Changed in 2026",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-09",
+      "url": "https://insightcrime.org/mexico-organized-crime-news/los-chapitos/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s13",
+      "titulo": "Dos años de guerra en el Cártel de Sinaloa: la lista de los operadores de Los Chapitos y La Mayiza detenidos y asesinados",
+      "editor": "Infobae",
+      "fecha": "2026-09-09",
+      "url": "https://www.infobae.com/mexico/2026/09/09/dos-anos-de-guerra-en-el-cartel-de-sinaloa-la-lista-de-los-operadores-de-los-chapitos-y-la-mayiza-detenidos-y-asesinados/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s14",
+      "titulo": "Guerra por el Cártel de Sinaloa: cuatro facciones y más de 20 células, así está el mapa criminal a 2 años de la caída de “El Mayo” Zambada",
+      "editor": "Infobae",
+      "fecha": "2026-07-10",
+      "url": "https://www.infobae.com/mexico/2026/07/10/guerra-por-el-cartel-de-sinaloa-cuatro-facciones-y-mas-de-20-celulas-asi-esta-el-mapa-criminal-a-2-anos-de-la-caida-de-el-mayo-zambada/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s15",
+      "titulo": "Con la muerte de ‘El Mencho’ terminó la alianza con ‘Los Chapitos’: García Harfuch",
+      "editor": "El Financiero",
+      "fecha": "2026-06-16",
+      "url": "https://www.elfinanciero.com.mx/nacional/2026/06/16/con-la-muerte-de-el-mencho-termino-la-alianza-con-los-chapitos-harfuch/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s16",
+      "titulo": "The InSight Take: Rubén Rocha Moya's Alleged Sinaloa Cartel Ties Highlight Criminal Governance in Mexico",
+      "editor": "InSight Crime",
+      "fecha": "2026-04-30",
+      "url": "https://insightcrime.org/news/insight-take-governor-alleged-sinaloa-cartel-ties-criminal-governance/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s17",
+      "titulo": "Governor of Sinaloa and Nine Other Current and Former Mexican Officials Charged with Drug Trafficking and Weapons Offenses",
+      "editor": "Fiscalía Federal del Distrito Sur de Nueva York (DOJ)",
+      "fecha": "2026-04-29",
+      "url": "https://www.justice.gov/usao-sdny/pr/governor-sinaloa-and-nine-other-current-and-former-mexican-officials-charged-drug",
+      "categoria": "oficial",
+      "verificada": false
+    },
+    {
+      "id": "s18",
+      "titulo": "Aplazan audiencia de Ovidio Guzmán por octava ocasión en EEUU: fue reprogramada para diciembre",
+      "editor": "Infobae",
+      "fecha": "2026-09-30",
+      "url": "https://www.infobae.com/mexico/2026/09/30/aplazan-audiencia-de-ovidio-guzman-por-octava-ocasion-en-eeuu-fue-reprogramada-para-diciembre/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s19",
+      "titulo": "Las 7 fugas de “El Guano”: así ha escapado el hermano de “El Chapo” de todos los operativos para capturarlo",
+      "editor": "Infobae",
+      "fecha": "2026-04-24",
+      "url": "https://www.infobae.com/mexico/2026/04/24/las-7-fugas-de-el-guano-asi-ha-escapado-el-hermano-de-el-chapo-de-todos-los-operativos-para-capturarlo/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s20",
+      "titulo": "How the Sinaloa Cartel rift is redrawing Mexico's criminal map",
+      "editor": "ACLED",
+      "fecha": "2025-05-07",
+      "url": "https://acleddata.com/report/how-sinaloa-cartel-rift-redrawing-mexicos-criminal-map",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s21",
+      "titulo": "Sinaloa, dos años bajo el fuego: 3.900 homicidios y niños que dibujan drones con bombas por la guerra de 'Chapitos' y 'Mayitos'",
+      "editor": "El Español",
+      "fecha": "2026-10-05",
+      "url": "https://www.elespanol.com/reportajes/20261005/sinaloa-anos-fuego-homicidios-ninos-dibujan-drones-bombas-guerra-chapitos-mayitos/1003744387549_0.html",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s22",
+      "titulo": "Dos años de guerra en Sinaloa: golpes, capturas y presión de EEUU obligan a los cárteles a bajar el perfil",
+      "editor": "Infobae",
+      "fecha": "2026-09-12",
+      "url": "https://www.infobae.com/mexico/2026/09/12/dos-anos-de-guerra-en-sinaloa-golpes-capturas-y-presion-de-eeuu-obligan-a-los-carteles-a-bajar-el-perfil/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s23",
+      "titulo": "Sinaloa’s War of the Splinters: Fighting Crime in Mexico under U.S. Threat (Latin America Report N°112)",
+      "editor": "International Crisis Group",
+      "fecha": "2026-07-07",
+      "url": "https://www.crisisgroup.org/rpt/latin-america-caribbean/mexico-united-states/112-sinaloas-war-splinters-fighting-crime-mexico-under-us-threat",
+      "categoria": "investigacion",
+      "verificada": false
+    },
+    {
+      "id": "s24",
+      "titulo": "FinCEN Advisory on the Use of Chinese Money Laundering Networks by Mexico-Based Transnational Criminal Organizations to Launder Illicit Proceeds (FIN-2025-A003)",
+      "editor": "Financial Crimes Enforcement Network (Departamento del Tesoro de EE. UU.)",
+      "fecha": "2025-08-28",
+      "url": "https://www.fincen.gov/system/files/2025-08/FinCEN-Advisory-CMLN-508.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s25",
+      "titulo": "Members of Transnational Money Laundering Organization Charged with Laundering Cartel Funds",
+      "editor": "Departamento de Justicia de EE. UU. (Office of Public Affairs)",
+      "fecha": "2026-05-22",
+      "url": "https://www.justice.gov/opa/pr/members-transnational-money-laundering-organization-charged-laundering-cartel-funds",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s26",
+      "titulo": "Counterterrorism Guide: Los Choneros (as of January 2026)",
+      "editor": "National Counterterrorism Center (ODNI)",
+      "fecha": "2026-01",
+      "url": "https://www.odni.gov/wp-content/uploads/dlm_uploads/CT-Guide-Los-Choneros_508.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s27",
+      "titulo": "Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels",
+      "editor": "Departamento del Tesoro de EE. UU.",
+      "fecha": "2026-08-20",
+      "url": "https://home.treasury.gov/news/press-releases/sb0610",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s28",
+      "titulo": "Dos hermanos que fungían como enlace del Cartel de Sinaloa con el 'clan del Golfo' fueron capturados por la Policía y la DEA en Medellín",
+      "editor": "El Tiempo",
+      "fecha": "2026-06-19",
+      "url": "https://www.eltiempo.com/colombia/medellin/dos-hermanos-que-fungian-como-enlace-del-cartel-de-sinaloa-con-el-clan-del-golfo-fueron-capturados-por-la-policia-y-la-dea-en-medellin-3565492",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s29",
+      "titulo": "The spiking threat: Mexican cartels in Europe, Canada, Africa, the Asia-Pacific, and Latin America",
+      "editor": "Brookings Institution",
+      "fecha": "2026-06-24",
+      "url": "https://www.brookings.edu/articles/the-spiking-threat-mexican-cartels-in-europe-canada-africa-the-asia-pacific-and-latin-america/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s30",
+      "titulo": "Latin American organized crime groups are expanding their presence in Europe",
+      "editor": "Global Initiative Against Transnational Organized Crime",
+      "fecha": "2026-09-23",
+      "url": "https://globalinitiative.net/analysis/latin-american-organized-crime-europe/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s31",
+      "titulo": "Mármol con metanfetamina y millones ocultos: las claves de la mayor red de droga en España ligada al Cártel de Sinaloa",
+      "editor": "El Universal",
+      "fecha": "2026-01-07",
+      "url": "https://www.eluniversal.com.mx/mundo/marmol-con-metanfetamina-y-millones-ocultos-las-claves-de-la-mayor-red-de-droga-en-espana-ligada-al-cartel-de-sinaloa/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s32",
+      "titulo": "Mexican cartels target Australia with their African meth",
+      "editor": "France 24 / AFP",
+      "fecha": "2026-09-24",
+      "url": "https://www.france24.com/en/live-news/20260924-mexican-cartels-target-australia-with-their-african-meth",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s33",
+      "titulo": "Australian man Sam Amine wanted in Fiji over record meth import from cartel",
+      "editor": "ABC News (Australian Broadcasting Corporation)",
+      "fecha": "2026-04-14",
+      "url": "https://www.abc.net.au/news/2026-04-14/sam-amine-wanted-for-drugs-imported-into-fiji-sinaloa-cartel/106545078",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s34",
+      "titulo": "The Life and 'Death' of the Sinaloa Cartel’s Dutch Emissary",
+      "editor": "InSight Crime",
+      "fecha": "2025-03-05",
+      "url": "https://insightcrime.org/news/life-death-sinaloa-cartel-dutch-emissary/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s35",
+      "titulo": "La muerte de 'El Mencho' y el efecto dominó en Guatemala: 252 bloqueos, una bomba y rutas del narcotráfico que cambiaron el mapa",
+      "editor": "Infobae",
+      "fecha": "2026-09-28",
+      "url": "https://www.infobae.com/guatemala/2026/09/28/la-muerte-de-el-mencho-y-el-efecto-domino-en-guatemala-252-bloqueos-una-bomba-y-rutas-del-narcotrafico-que-cambiaron-el-mapa/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s36",
+      "titulo": "The Huistas of Guatemala Lose Their Leader",
+      "editor": "InSight Crime",
+      "fecha": "2026-05-15",
+      "url": "https://insightcrime.org/guatemala-organized-crime-news/huistas/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s37",
+      "titulo": "Counterterrorism Guide: Gulf Cartel (as of April 2026)",
+      "editor": "National Counterterrorism Center (ODNI)",
+      "fecha": "2026-04",
+      "url": "https://www.odni.gov/wp-content/uploads/dlm_uploads/CT-Guide-Gulf-Cartel_508.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s38",
+      "titulo": "Mapa del narco en México 2025: Reacomodos y nuevas alianzas tras la guerra de Los Chapitos vs La Mayiza",
+      "editor": "El Financiero",
+      "fecha": "2025-05-15",
+      "url": "https://www.elfinanciero.com.mx/nacional/2025/05/15/mapa-del-narco-en-mexico-2025-reacomodos-y-nuevas-alianzas-tras-la-guerra-de-los-chapitos-vs-la-mayiza/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s39",
+      "titulo": "2025 National Drug Threat Assessment",
+      "editor": "Drug Enforcement Administration (DEA)",
+      "fecha": "2025-05",
+      "url": "https://www.dea.gov/sites/default/files/2025-07/2025NationalDrugThreatAssessment.pdf",
+      "categoria": "oficial",
+      "verificada": false
+    },
+    {
+      "id": "s40",
+      "titulo": "Trump ‘frenó’ ataques aéreos contra México por ‘endurecimiento contra cárteles’ de Sheinbaum, según NYT",
+      "editor": "El Financiero",
+      "fecha": "2026-09-23",
+      "url": "https://www.elfinanciero.com.mx/nacional/2026/09/23/trump-freno-ataques-aereos-contra-mexico-por-endurecimiento-contra-carteles-de-sheinbaum-segun-nyt/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s41",
+      "titulo": "Escudo de las Américas: Chile y otros 13 países firman declaración con EE.UU. para sancionar a 24 grupos narcoterroristas, entre ellos el Tren de Aragua",
+      "editor": "Pauta",
+      "fecha": "2026-09-23",
+      "url": "https://www.pauta.cl/actualidad/2026/09/23/escudo-de-las-americas-chile-y-otros-13-paises-firman-declaracion-con-ee-uu-para-sancionar-a-24-grupos-narcoterroristas-entre-ellos-el-tren-de-aragua.html",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s42",
+      "titulo": "Aliados latinoamericanos de Trump planean clasificar a los cárteles como 'terroristas'",
+      "editor": "The New York Times (vía Infobae)",
+      "fecha": "2026-09-22",
+      "url": "https://www.infobae.com/america/the-new-york-times/2026/09/22/aliados-latinoamericanos-de-trump-planean-clasificar-a-los-carteles-como-terroristas/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s43",
+      "titulo": "Dos alianzas reconfiguran la guerra por el huachicol en Guanajuato: CJNG con Los Chapitos y CSRL con el Cártel del Golfo",
+      "editor": "Infobae",
+      "fecha": "2026-05-25",
+      "url": "https://www.infobae.com/mexico/2026/05/25/dos-alianzas-reconfiguran-la-guerra-por-el-huachicol-en-guanajuato-cjng-con-los-chapitos-y-csrl-con-el-cartel-del-golfo/",
+      "categoria": "prensa",
+      "verificada": true
+    }
+  ]
+}

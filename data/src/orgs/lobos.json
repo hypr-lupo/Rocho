@@ -1,0 +1,610 @@
+{
+  "id": "lobos",
+  "nombre": "Los Lobos",
+  "corto": "Los Lobos",
+  "alias": [
+    "Lobos"
+  ],
+  "tipo": "megabanda",
+  "pais_origen": "ECU",
+  "fundacion": "Hacia 2015-2016 surgió como brazo de sicariato de Los Choneros en la cárcel de Turi (Azuay). Se independizó tras el asesinato de Rasquiña en diciembre de 2020 y en 2021 encabezó la coalición 'Nueva Generación' contra Los Choneros.",
+  "resumen": "Los Lobos son la mayor organización criminal de Ecuador. Cuentan con unos 8.000 integrantes, presencia en la mayoría de las provincias y un peso considerable en las cárceles. Son socios del CJNG, al que prestan seguridad y logística para el tráfico de cocaína, y obtienen ingresos de la minería ilegal de oro y la extorsión. EE. UU. los sancionó en junio de 2024 y los designó Organización Terrorista Extranjera el 4 de septiembre de 2025. Su líder, Wilmer Chavarría Barré, alias Pipo, está detenido en España desde noviembre de 2025.",
+  "situacion_actual": "Pipo fue detenido en Málaga el 16 de noviembre de 2025; vivía en España con identidad falsa desde 2022. En julio de 2026 la Audiencia Nacional rechazó extraditarlo a EE. UU., donde está acusado de narcoterrorismo en el Distrito Sur de California, y aprobó entregarlo a Ecuador. Su defensa recurrió esa decisión en agosto y septiembre de 2026. Alias Lobo Menor, acusado de articular el asesinato de Fernando Villavicencio, fue capturado en Ciudad de México el 18 de marzo de 2026 y está recluido en la Cárcel del Encuentro. No hay un sucesor claro: la organización opera de forma descentralizada, con escisiones como Sao Box y facciones regionales como Lobos Nueva Generación en El Oro. En Guayas actúa junto a Latin Kings y Lagartos, y tras la captura de Fito ganó terreno en Manabí. El 26 de agosto de 2026 los operativos Jericó y Factoría, con apoyo del Comando Sur y la DEA, detuvieron a 43 integrantes de Lobos y Choneros e inhabilitaron pistas clandestinas usadas con el CJNG. El 22 de septiembre el Escudo de las Américas los incluyó entre 24 grupos sujetos a sanciones colectivas.",
+  "estructura": "Es una red de facciones y células que estuvo bajo mando centralizado de Pipo hasta 2025. Tiene fuerte presencia carcelaria: Turi, Latacunga y pabellones de la Penitenciaría del Litoral. Opera con cabecillas regionales con autonomía en Quito, Guayas, El Oro y Manabí, brazos de sicariato y redes de extorsión. Cuenta con estructuras dedicadas a la minería ilegal y a la logística de cocaína: avionetas, pistas clandestinas y contactos portuarios. Tras la detención de Pipo y de Lobo Menor se observa una mayor descentralización y escisiones.",
+  "lideres": [
+    {
+      "nombre": "Wilmer Geovanny Chavarría Barré",
+      "alias": "Pipo",
+      "rol": "Fundador y líder máximo",
+      "estado": "Detenido en España desde el 16 de noviembre de 2025 (Málaga). La Audiencia Nacional rechazó su extradición a EE. UU. y aprobó su entrega a Ecuador en julio de 2026, decisión recurrida por su defensa. Está acusado de narcoterrorismo en el Distrito Sur de California.",
+      "fuente_ids": [
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "nombre": "Ángel Esteban Aguilar Morales",
+      "alias": "Lobo Menor",
+      "rol": "Presunto cabecilla; la Fiscalía lo acusa de articular el asesinato del candidato Fernando Villavicencio (2023)",
+      "estado": "Detenido. Capturado en Ciudad de México el 18 de marzo de 2026 y trasladado a la Cárcel del Encuentro (Ecuador) el 19 de marzo de 2026.",
+      "fuente_ids": [
+        "s9",
+        "s10"
+      ]
+    }
+  ],
+  "designaciones": [
+    {
+      "autoridad": "Presidencia de Ecuador (Decreto Ejecutivo 111)",
+      "categoria": "Organización terrorista y actor no estatal beligerante, en el marco del 'conflicto armado interno'",
+      "fecha": "2024-01-09",
+      "fuente_ids": [
+        "s21"
+      ]
+    },
+    {
+      "autoridad": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "categoria": "Sanción por narcotráfico (lista SDN, Orden Ejecutiva 14059)",
+      "fecha": "2024-06-06",
+      "fuente_ids": [
+        "s3"
+      ]
+    },
+    {
+      "autoridad": "Departamento de Estado de EE. UU.",
+      "categoria": "Organización Terrorista Extranjera (FTO)",
+      "fecha": "2025-09-04",
+      "fuente_ids": [
+        "s2"
+      ]
+    },
+    {
+      "autoridad": "Departamento de Estado de EE. UU.",
+      "categoria": "Terrorista Global Especialmente Designado (SDGT, Orden Ejecutiva 13224)",
+      "fecha": "2025-09-04",
+      "fuente_ids": [
+        "s2"
+      ]
+    },
+    {
+      "autoridad": "Escudo de las Américas (EE. UU. y 14 gobiernos de la región)",
+      "categoria": "Grupo narcoterrorista sujeto a sanciones colectivas, restricciones de visado y responsabilidad penal por apoyo material (declaración conjunta)",
+      "fecha": "2026-09-22",
+      "fuente_ids": [
+        "s20"
+      ]
+    }
+  ],
+  "delitos": [
+    "cocaina",
+    "narcomenudeo",
+    "extorsion",
+    "sicariato",
+    "secuestro",
+    "mineria",
+    "armas",
+    "lavado",
+    "robo",
+    "trata",
+    "reclutamiento",
+    "contrabando"
+  ],
+  "presencia": [
+    {
+      "pais": "ECU",
+      "nivel": "base",
+      "zonas": [
+        "Guayas (Guayaquil, Durán, Daule, vía a Salitre)",
+        "El Oro (Machala, Puerto Bolívar)",
+        "Pichincha (Quito)",
+        "Manabí",
+        "Esmeraldas",
+        "Azuay (Cuenca, cárcel de Turi)",
+        "Cotopaxi (cárcel de Latacunga)",
+        "Imbabura",
+        "Sucumbíos",
+        "Orellana (Alto Punino)",
+        "Napo",
+        "Santo Domingo de los Tsáchilas"
+      ],
+      "delitos": [
+        "cocaina",
+        "narcomenudeo",
+        "extorsion",
+        "sicariato",
+        "secuestro",
+        "mineria",
+        "armas",
+        "lavado",
+        "robo",
+        "trata"
+      ],
+      "nota": "En 2024 tenían presencia en al menos 16 de las 24 provincias y unos 8.000 integrantes. Practican la minería ilegal de oro en el sur y la Amazonía, en esta última junto a los Comandos de la Frontera. Envían cocaína por vía aérea con avionetas y pistas clandestinas en coordinación con el CJNG. Avanzaron en Manabí tras la captura de Fito. El Departamento de Estado documentó sobornos a jueces en su beneficio.",
+      "fuente_ids": [
+        "s1",
+        "s3",
+        "s5",
+        "s11",
+        "s12",
+        "s13",
+        "s15",
+        "s22",
+        "s23",
+        "s25",
+        "s26"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "PER",
+      "nivel": "operativa",
+      "zonas": [
+        "Tumbes (Puerto Pizarro, Zorritos, Cancas, Zarumilla, Aguas Verdes)",
+        "Lima (San Martín de Porres)"
+      ],
+      "delitos": [
+        "extorsion",
+        "sicariato",
+        "reclutamiento",
+        "contrabando"
+      ],
+      "nota": "Desde 2025 cobran cupos a pescadores artesanales de Tumbes junto a bandas locales, controlan rutas marítimas de contrabando y usan menores reclutados en Zarumilla. En mayo de 2026 la Policía detuvo en Lima a tres ecuatorianos de 'Los Lobos del Perú', dedicados a la extorsión y al sicariato con uso de menores. En 2023 se registró un sicario en Aguas Verdes.",
+      "fuente_ids": [
+        "s16",
+        "s28",
+        "s17",
+        "s24"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "COL",
+      "nivel": "operativa",
+      "zonas": [
+        "Putumayo (Bajo Putumayo)",
+        "Antioquia (Medellín, Itagüí)"
+      ],
+      "delitos": [
+        "cocaina"
+      ],
+      "nota": "Compran cocaína y pasta base a los Comandos de la Frontera y la trasladan hacia la costa ecuatoriana. Lobo Menor se ocultó con identidad colombiana falsa en Medellín e Itagüí antes de su captura en marzo de 2026.",
+      "fuente_ids": [
+        "s14",
+        "s15",
+        "s9"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "MEX",
+      "nivel": "limitada",
+      "zonas": [
+        "Ciudad de México (Polanco)"
+      ],
+      "delitos": [
+        "cocaina"
+      ],
+      "nota": "Son socios del CJNG. Lobo Menor fue capturado en Ciudad de México el 18 de marzo de 2026. En agosto de 2026 dos ciudadanos mexicanos vinculados al CJNG fueron detenidos en Ecuador junto con integrantes de Los Lobos.",
+      "fuente_ids": [
+        "s9",
+        "s11"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "ESP",
+      "nivel": "limitada",
+      "zonas": [
+        "Málaga"
+      ],
+      "delitos": [],
+      "nota": "Pipo residió en España desde 2022 con identidad falsa y fue detenido en Málaga el 16 de noviembre de 2025. Según el Gobierno ecuatoriano, seguía dirigiendo desde allí operaciones de minería ilegal y asesinatos.",
+      "fuente_ids": [
+        "s4",
+        "s5",
+        "s8"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "CHL",
+      "nivel": "limitada",
+      "zonas": [
+        "Región Metropolitana (Santiago, Puente Alto)"
+      ],
+      "delitos": [],
+      "nota": "El último informe de crimen organizado de la Fiscalía Nacional de Chile incluye a Los Lobos entre las 16 organizaciones extranjeras con presencia en el país. Hubo detenciones de prófugos en 2023 y 2024; el informe no detalla actividades delictivas específicas.",
+      "fuente_ids": [
+        "s18",
+        "s19"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "USA",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [
+        "cocaina"
+      ],
+      "nota": "Pipo está acusado en el Distrito Sur de California de narcoterrorismo y de conspirar para distribuir cocaína con destino a EE. UU.; la actividad alegada se extiende hasta noviembre de 2025.",
+      "fuente_ids": [
+        "s6"
+      ],
+      "confianza": "media"
+    }
+  ],
+  "vinculos": [
+    {
+      "destino": "cjng",
+      "tipo": "alianza",
+      "descripcion": "Socio principal desde 2022. Los Lobos prestan seguridad y logística al CJNG en Guayaquil y reciben pagos en cocaína; los envíos usan avionetas y pistas clandestinas. La alianza siguió activa tras la muerte de Nemesio Oseguera, alias El Mencho, el 22 de febrero de 2026.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s2",
+        "s3",
+        "s11",
+        "s27",
+        "s4"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "choneros",
+      "tipo": "rivalidad",
+      "descripcion": "Guerra con su organización de origen desde 2021 por rutas, cárceles y territorio en Manabí, Guayas y El Oro. En 2025 Los Lobos ganaron terreno en Manabí.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s1",
+        "s13",
+        "s22"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "cneb",
+      "tipo": "alianza",
+      "descripcion": "Alianza con los Comandos de la Frontera, integrantes de la CNEB, en el Bajo Putumayo y en Sucumbíos, Orellana y Napo. Los Comandos aportan cocaína, laboratorios y rutas fronterizas; Los Lobos, transporte hacia los puertos y protección de la minería ilegal. Comparten la rivalidad con Los Choneros.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s14",
+        "s15"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "emc",
+      "tipo": "alianza",
+      "descripcion": "El presidente colombiano Gustavo Petro atribuyó a Lobo Menor vínculos con Iván Mordisco. InSight Crime y El Universo mencionan suministro de cocaína por disidencias de las FARC sin precisar facciones.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s9",
+        "s1",
+        "s27"
+      ],
+      "confianza": "baja"
+    },
+    {
+      "destino": "ext-albanesas",
+      "tipo": "suministro",
+      "descripcion": "InSight Crime considera probable que cooperen con redes albanesas en los envíos de cocaína hacia Europa.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s1"
+      ],
+      "confianza": "baja"
+    },
+    {
+      "destino": "ext-lagartos",
+      "tipo": "alianza",
+      "descripcion": "Desde 2025 operan junto a Los Lagartos en zonas de Guayas.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s1",
+        "s13"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "ext-latin-kings",
+      "tipo": "alianza",
+      "descripcion": "Desde 2025 operan junto a los Latin Kings en zonas de Guayas.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s1",
+        "s13"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "ext-sao-box",
+      "tipo": "escision",
+      "descripcion": "Sao Box es una escisión de Los Lobos. Según inteligencia policial citada en octubre de 2026, se habría aliado con Los Choneros contra su organización matriz en Machala y Puerto Bolívar.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s13"
+      ],
+      "confianza": "baja"
+    },
+    {
+      "destino": "ext-chone-killers",
+      "tipo": "alianza",
+      "descripcion": "Algunas facciones de los Chone Killers actúan con Los Lobos en Durán. La fragmentación de ese grupo en unos diez subgrupos hace incierto el alcance de la alianza.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s13"
+      ],
+      "confianza": "baja"
+    },
+    {
+      "destino": "ext-tiguerones",
+      "tipo": "alianza",
+      "descripcion": "Los Tiguerones fueron aliados de Los Lobos en la coalición 'Nueva Generación' y en la colaboración con el CJNG. En 2026 solo la facción Igualitos se acerca a Los Lobos, mientras la facción Fénix se alinea con Los Choneros.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s13",
+        "s11"
+      ],
+      "confianza": "baja"
+    }
+  ],
+  "notas_controversia": "Los vínculos con disidencias de las FARC (EMC) y con redes albanesas se basan en declaraciones políticas, como la de Petro sobre Lobo Menor, y en valoraciones analíticas, sin confirmación judicial. En Perú, la presencia se sustenta en testimonios recogidos por Mongabay Latam y en detenciones puntuales. La Policía peruana describe a 'Los Lobos del Perú' como una estructura de origen ecuatoriano, sin precisar su grado de subordinación al mando en Ecuador. En Chile, la Fiscalía distingue entre 'presencia' y 'vínculo' sin detallar las actividades del grupo. La Audiencia Nacional de España consideró imprecisa la acusación estadounidense contra Pipo. Pipo alega riesgo para su vida en Ecuador y cita su testimonio contra el presidente Noboa como motivo de persecución. La cifra de 8.000 integrantes es una estimación oficial y periodística. El perfil de InSight Crime fecha por error la designación como FTO en septiembre de 2026; la fecha oficial es el 4 de septiembre de 2025.",
+  "confianza_general": "alta",
+  "fuentes": [
+    {
+      "id": "s1",
+      "titulo": "Lobos (perfil)",
+      "editor": "InSight Crime",
+      "fecha": "2026-09",
+      "url": "https://insightcrime.org/ecuador-organized-crime-news/lobos-ecuador/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s2",
+      "titulo": "Terrorist Designations of Los Choneros and Los Lobos",
+      "editor": "U.S. Department of State",
+      "fecha": "2025-09-04",
+      "url": "https://www.state.gov/releases/office-of-the-spokesperson/2025/09/terrorist-designations-of-los-choneros-and-los-lobos",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s3",
+      "titulo": "Treasury Sanctions Ecuador's Los Lobos Drug Trafficking Organization and Its Leader",
+      "editor": "U.S. Department of the Treasury",
+      "fecha": "2024-06-06",
+      "url": "https://home.treasury.gov/news/press-releases/jy2394",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s4",
+      "titulo": "Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels",
+      "editor": "U.S. Department of the Treasury",
+      "fecha": "2026-08-20",
+      "url": "https://home.treasury.gov/news/press-releases/sb0610",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s5",
+      "titulo": "Detienen en España a Wilmer Chavarría \"Pipo\", el presunto líder de la banda criminal ecuatoriana Los Lobos",
+      "editor": "BBC Mundo",
+      "fecha": "2025-11-16",
+      "url": "https://www.bbc.com/mundo/articles/czdr6r8nvvqo",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s6",
+      "titulo": "Expediente desclasificado: Estados Unidos acusa a alias 'Pipo' por el mismo delito atribuido a Maduro, el Talibán y la MS-13",
+      "editor": "Primicias",
+      "fecha": "2026-09-24",
+      "url": "https://www.primicias.ec/seguridad/estados-unidos-desclasificacion-acusacion-pipo-wilmer-chavarria-california-narcoterrorismo-133287/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s7",
+      "titulo": "Pipo, líder de Los Lobos, teme que Ecuador le extradite a Estados Unidos",
+      "editor": "La República (Ecuador), con información de EFE",
+      "fecha": "2026-09-02",
+      "url": "https://www.larepublica.ec/blog/2026/09/02/pipo-lider-de-los-lobos-teme-que-ecuador-le-extradite-a-estados-unidos/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s8",
+      "titulo": "España da paso a extradición a Ecuador de alias 'Pipo', cabecilla de Los Lobos, a casi nueve meses de su captura",
+      "editor": "Primicias",
+      "fecha": "2026-08-13",
+      "url": "https://www.primicias.ec/seguridad/espana-aprueba-extradicion-ecuador-alias-pipo-cabecilla-lobos-130220/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s9",
+      "titulo": "México captura en Polanco a uno de los asesinos del candidato presidencial ecuatoriano Fernando Villavicencio",
+      "editor": "El País",
+      "fecha": "2026-03-18",
+      "url": "https://elpais.com/mexico/2026-03-18/mexico-captura-en-polanco-a-uno-de-los-asesinos-del-candidato-presidencial-ecuatoriano-fernando-villavicencio.html",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s10",
+      "titulo": "Alias \"Lobo Menor\" llegó a Ecuador y fue trasladado a cárcel de máxima seguridad por el magnicidio de Villavicencio",
+      "editor": "Infobae",
+      "fecha": "2026-03-20",
+      "url": "https://www.infobae.com/america/america-latina/2026/03/20/alias-lobo-menor-llego-a-ecuador-y-fue-trasladado-a-carcel-de-maxima-seguridad-por-el-magnicidio-de-villavicencio/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s11",
+      "titulo": "Relación entre el CJNG y Los Lobos de Ecuador: Qué se sabe",
+      "editor": "Milenio",
+      "fecha": "2026-08-26",
+      "url": "https://www.milenio.com/policia/relacion-entre-el-cjng-y-los-lobos-de-ecuador-que-se-sabe",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s12",
+      "titulo": "Comando Sur y DEA califican como una 'victoria decisiva' operativos en Ecuador contra Los Choneros y Los Lobos",
+      "editor": "Primicias",
+      "fecha": "2026-08-26",
+      "url": "https://www.primicias.ec/seguridad/comando-sur-dea-estados-unidos-operativo-jerico-factoria-lobos-choneros-narcotrafico-ecuador-pacifico-131143/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s13",
+      "titulo": "Guerra entre bandas en Ecuador: los antiguos aliados se enfrentan y los enemigos ahora pactan",
+      "editor": "Infobae",
+      "fecha": "2026-10-01",
+      "url": "https://www.infobae.com/america/america-latina/2026/10/01/guerra-entre-bandas-en-ecuador-los-antiguos-aliados-se-enfrentan-y-los-enemigos-ahora-pactan/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s14",
+      "titulo": "Comandos de la Frontera: historia, líderes y zonas de operación",
+      "editor": "InSight Crime",
+      "fecha": "2026-10",
+      "url": "https://insightcrime.org/es/colombia-organized-crime-news/comandos-de-la-frontera/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s15",
+      "titulo": "Los grupos armados ilegales colombianos que hacen presencia en Ecuador: los Comandos de la Frontera de 'Araña' y las disidencias de 'Iván Mordisco'",
+      "editor": "Infobae",
+      "fecha": "2026-09-26",
+      "url": "https://www.infobae.com/colombia/2026/09/26/los-grupos-armados-ilegales-colombiano-que-hacen-presencia-en-ecuador-los-comandos-de-la-frontera-de-arana-y-las-disidencias-de-ivan-mordisco/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s16",
+      "titulo": "La organización criminal Los Lobos se une a piratas peruanos para extorsionar a pescadores del norte de Perú",
+      "editor": "Mongabay Latam",
+      "fecha": "2025-10-23",
+      "url": "https://es.mongabay.com/2025/10/organizacion-criminal-los-lobos-piratas-peruanos-extorsionar-pescadores/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s17",
+      "titulo": "Así operaban Los Lobos, la peligrosa banda de origen ecuatoriano que usaba a menores para asesinatos en Lima",
+      "editor": "Infobae",
+      "fecha": "2026-05-20",
+      "url": "https://www.infobae.com/peru/2026/05/20/asi-operaban-los-lobos-la-peligrosa-banda-de-origen-ecuatoriano-que-usaba-a-menores-para-asesinatos-en-lima/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s18",
+      "titulo": "Del Tren de Aragua a Los Pulpos: estas son las 16 bandas delictuales internacionales que ya operan en Chile",
+      "editor": "The Clinic",
+      "fecha": "2026-10-05",
+      "url": "https://www.theclinic.cl/2026/10/05/del-tren-de-aragua-a-los-pulpos-estas-son-las-16-bandas-delictuales-internacionales-que-ya-operan-en-chile/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s19",
+      "titulo": "Estas son las bandas criminales bajo la lupa del Escudo de las Américas que ya operan en Chile",
+      "editor": "Infobae",
+      "fecha": "2026-09-24",
+      "url": "https://www.infobae.com/america/america-latina/2026/09/24/estas-son-las-bandas-criminales-bajo-la-lupa-del-escudo-de-las-americas-que-ya-operan-en-chile/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s20",
+      "titulo": "Joint Statement on Defending Hemispheric Sovereignty",
+      "editor": "U.S. Department of State",
+      "fecha": "2026-09-22",
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/joint-statement-on-defending-hemispheric-sovereignty",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s21",
+      "titulo": "Estos son los 22 grupos del crimen organizado que pasan a ser organizaciones terroristas, según el Decreto Ejecutivo 111",
+      "editor": "El Universo",
+      "fecha": "2024-01-09",
+      "url": "https://www.eluniverso.com/noticias/politica/estas-son-los-22-grupos-del-crimen-organizado-que-pasan-a-ser-organizaciones-terroristas-segun-el-decreto-ejecutivo-111-nota/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s22",
+      "titulo": "Balance de InSight Crime de los homicidios en 2025",
+      "editor": "InSight Crime",
+      "fecha": "2026-03-11",
+      "url": "https://insightcrime.org/es/noticias/balance-insight-crime-homicidios-2025/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s23",
+      "titulo": "Global Organized Crime Index 2025 – Ecuador",
+      "editor": "Global Initiative Against Transnational Organized Crime",
+      "fecha": "2025-11",
+      "url": "https://ocindex.net/country/ecuador",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s24",
+      "titulo": "The Criminal Creep of Ecuador's Gangs Into Peru",
+      "editor": "InSight Crime",
+      "fecha": "2025-02-25",
+      "url": "https://insightcrime.org/news/the-criminal-creep-of-ecuadors-gangs-into-peru/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s25",
+      "titulo": "Designations of Former Ecuadorian Officials for Involvement in Significant Corruption Linked to Foreign Terrorist Organizations",
+      "editor": "U.S. Department of State",
+      "fecha": "2026-09-09",
+      "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/09/designations-of-former-ecuadorian-officials-for-involvement-in-significant-corruption-linked-to-foreign-terrorist-organizations",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s26",
+      "titulo": "Ecuador enfrenta hasta a 11 bandas criminales y a ocho grupos disidentes en zonas fronterizas con Colombia",
+      "editor": "Primicias",
+      "fecha": "2026-02-01",
+      "url": "https://www.primicias.ec/seguridad/ecuador-enfrenta-bandas-criminales-grupos-disidentes-zonas-frontera-colombia-114965/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s27",
+      "titulo": "Esta es la relación de Los Lobos con el cartel Jalisco Nueva Generación, cuyo principal cabecilla, alias 'Mencho', fue abatido",
+      "editor": "El Universo",
+      "fecha": "2026-02-22",
+      "url": "https://www.eluniverso.com/noticias/seguridad/esta-es-la-relacion-de-los-lobos-con-el-cartel-jalisco-nueva-generacion-cuyo-cabecilla-alias-el-mencho-fue-abatido-nota/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s28",
+      "titulo": "Extorsión y terror en altamar: pescadores peruanos pagan \"cupos\" a la red narco ecuatoriana 'Los Lobos' para poder sobrevivir",
+      "editor": "Infobae",
+      "fecha": "2025-10-27",
+      "url": "https://www.infobae.com/peru/2025/10/27/extorsion-y-terror-en-altamar-pescadores-peruanos-pagan-cupos-a-la-red-narco-ecuatoriana-los-lobos-para-poder-sobrevivir/",
+      "categoria": "prensa",
+      "verificada": true
+    }
+  ]
+}

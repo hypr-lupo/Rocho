@@ -1,0 +1,306 @@
+{
+  "id": "los-monos",
+  "nombre": "Los Monos",
+  "corto": "Los Monos",
+  "alias": [
+    "Clan Cantero",
+    "Los Monos de Rosario"
+  ],
+  "tipo": "megabanda",
+  "pais_origen": "ARG",
+  "fundacion": "Clan familiar Cantero activo en Rosario desde la década de 1990; se volcó al narcomenudeo en 2004",
+  "resumen": "Los Monos es una organización narcocriminal de base familiar (familia Cantero) que opera desde hace más de dos décadas en Rosario, provincia de Santa Fe. Controla puntos de venta minorista de drogas («búnkeres»), cobra extorsiones y ejecuta ataques armados. Sus líderes, presos en cárceles federales, siguen dirigiendo actividades desde prisión. Las condenas y el Plan Bandera la debilitaron, pero conserva células en barrios de Rosario y redes de lavado de activos.",
+  "situacion_actual": "Su líder, Ariel Máximo «Guille» Cantero, está preso en el Complejo Penitenciario Federal II de Marcos Paz. En diciembre de 2024 la justicia federal le unificó las penas en 48 años. El 11 de agosto de 2025 recibió una nueva condena de 7 años por extorsiones contra una cadena de agencias de lotería organizadas desde la cárcel. En 2026 las fuerzas federales del Plan Bandera siguieron actuando contra la red. El 5 de agosto, el Servicio Penitenciario Federal trasladó a Ariel Maximiliano «Chanchón» Cantero a una cárcel de máxima seguridad. El 11 de agosto, la Procelac detuvo al presunto contador de la organización por lavado. El 14 de septiembre, la Policía Federal detuvo a cuatro mujeres vinculadas a Los Monos que vendían drogas detrás de una escuela en el barrio Las Flores. El 13 de septiembre de 2026 se homologó la condena de una colaboradora por extorsiones y estafas ordenadas desde la cárcel. Según el Ministerio de Seguridad, los homicidios en Rosario bajaron 68,99 % respecto de 2023, y el 17 de julio de 2026 el Departamento de Estado retiró a Rosario de las zonas de mayor riesgo. En ese escenario, el grupo Los Menores ganó peso.",
+  "estructura": "Es una organización de núcleo familiar (los Cantero) con mando ejercido desde prisión. El líder transmite órdenes por teléfono y por intermediarios a células que administran búnkeres y puntos de venta en barrios de Rosario. Usa a menores («soldaditos») en la venta minoritaria y recurre a sicarios para ataques y homicidios. Parejas, familiares y testaferros lavan dinero mediante inmuebles en Rosario, Funes y Roldán y mediante cuentas financieras; un contador gestiona las finanzas. Según la acusación de enero de 2025, la cúpula también controlaba la barra brava de Newell's Old Boys y extorsionaba al club.",
+  "lideres": [
+    {
+      "nombre": "Ariel Máximo Cantero",
+      "alias": "Guille",
+      "rol": "Líder",
+      "estado": "Detenido en el Complejo Penitenciario Federal II de Marcos Paz. Penas unificadas en 48 años (diciembre de 2024) y nueva condena de 7 años por extorsión (11 de agosto de 2025).",
+      "fuente_ids": [
+        "s2",
+        "s4",
+        "s5",
+        "s11"
+      ]
+    },
+    {
+      "nombre": "Ariel Maximiliano Cantero",
+      "alias": "Chanchón",
+      "rol": "Integrante del núcleo familiar dirigente (hijo de Ariel «Viejo» Cantero y medio hermano de «Guille»)",
+      "estado": "Detenido e imputado por el homicidio agravado del subinspector Cristian Ibarra (2019). El 5 de agosto de 2026 fue trasladado de la UP N.º 11 de Piñero a una cárcel federal de máxima seguridad bajo régimen de alto riesgo.",
+      "fuente_ids": [
+        "s6",
+        "s7"
+      ]
+    },
+    {
+      "nombre": "Vanesa Barrios",
+      "alias": "",
+      "rol": "Pareja de «Guille» Cantero; operadora de lavado mediante compra de inmuebles",
+      "estado": "Condenada en agosto de 2025 a 5 años y 3 meses, pena unificada en 17 años y 3 meses",
+      "fuente_ids": [
+        "s3",
+        "s5"
+      ]
+    }
+  ],
+  "designaciones": [],
+  "delitos": [
+    "narcomenudeo",
+    "cocaina",
+    "otras_drogas",
+    "extorsion",
+    "sicariato",
+    "secuestro",
+    "lavado",
+    "fraude",
+    "reclutamiento"
+  ],
+  "presencia": [
+    {
+      "pais": "ARG",
+      "nivel": "base",
+      "zonas": [
+        "Rosario (Santa Fe): barrios Godoy, Las Flores, Empalme Graneros, Ludueña, Industrial",
+        "Villa Gobernador Gálvez",
+        "Arroyo Seco",
+        "Granadero Baigorria",
+        "San Lorenzo",
+        "Funes",
+        "Roldán",
+        "UP N.º 11 de Piñero (Santa Fe)",
+        "Complejo Penitenciario Federal II de Marcos Paz (Buenos Aires)"
+      ],
+      "delitos": [
+        "narcomenudeo",
+        "cocaina",
+        "otras_drogas",
+        "extorsion",
+        "sicariato",
+        "secuestro",
+        "lavado",
+        "fraude",
+        "reclutamiento"
+      ],
+      "nota": "Centro de operaciones en Rosario, con mando desde cárceles federales y provinciales. Vende cocaína y marihuana en búnkeres y puntos de venta, extorsiona a comercios y al club Newell's y ordena ataques armados. Fue condenada por secuestros extorsivos organizados desde prisión. Lava dinero mediante inmuebles en Funes y Roldán.",
+      "fuente_ids": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s8",
+        "s9",
+        "s10",
+        "s11",
+        "s14",
+        "s18",
+        "s19"
+      ],
+      "confianza": "alta"
+    }
+  ],
+  "vinculos": [
+    {
+      "destino": "ext-clan-alvarado",
+      "tipo": "rivalidad",
+      "descripcion": "Disputa histórica por el narcomenudeo en Rosario. Entre 2021 y 2023, una célula de la organización de Esteban Alvarado encabezada por Francisco Riquelme disputó a Los Monos los barrios Industrial, Ludueña y Empalme Graneros, con al menos 16 homicidios; el tribunal condenó a Riquelme a prisión perpetua el 29 de mayo de 2026. En 2025, ambos grupos ocupaban pabellones separados en la cárcel de Piñero.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s12",
+        "s13",
+        "s18"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "ext-los-menores",
+      "tipo": "alianza",
+      "descripcion": "La prensa señala un presunto vínculo entre Los Menores y Los Monos. InSight Crime, en cambio, presenta el auge de Los Menores como consecuencia del debilitamiento de Los Monos y del Clan Alvarado. La naturaleza de la relación no está establecida.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s15",
+        "s16"
+      ],
+      "confianza": "baja"
+    }
+  ],
+  "notas_controversia": "El Gobierno de Santa Fe afirma que las grandes bandas fueron desarticuladas («ya no hay bandas organizadas, sino grupos pequeños»), mientras que vecinos de barrios periféricos consultados por InSight Crime perciben la misma violencia. Las penas acumuladas por «Guille» Cantero varían según la fuente: el Ministerio Público Fiscal informó una unificación en 48 años en diciembre de 2024 y la prensa habla de 139 años acumulados, aunque el máximo legal es de 50. La relación con Los Menores es incierta: la prensa menciona un presunto vínculo y la literatura especializada los presenta como el grupo que ocupó el espacio dejado por Los Monos. No se hallaron designaciones oficiales de la organización.",
+  "confianza_general": "alta",
+  "fuentes": [
+    {
+      "id": "s1",
+      "titulo": "Los Monos (perfil criminal)",
+      "editor": "InSight Crime",
+      "fecha": "2026-06-04",
+      "url": "https://insightcrime.org/argentina-organized-crime-news/los-monos/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s2",
+      "titulo": "Rosario: condenan a Ariel Máximo Cantero a 19 años de prisión y le unifican todas sus penas en 48 años de prisión",
+      "editor": "Ministerio Público Fiscal de la Nación (fiscales.gob.ar)",
+      "fecha": "2024-12-02",
+      "url": "https://www.fiscales.gob.ar/narcocriminalidad/rosario-condenan-a-ariel-maximo-cantero-a-19-anos-de-prision-y-le-unifican-todas-sus-penas-en-48-anos-de-prision/",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s3",
+      "titulo": "Rosario: indagaron a la pareja del líder de la banda narcocriminal de Los Monos y a otra imputada por maniobras de lavado de activos provenientes del narcotráfico",
+      "editor": "Ministerio Público Fiscal de la Nación (fiscales.gob.ar)",
+      "fecha": "2024-11-01",
+      "url": "https://www.fiscales.gob.ar/criminalidad-economica/rosario-indagaron-a-la-pareja-del-lider-de-la-banda-narcocriminal-de-los-monos-y-a-otra-imputada-por-maniobras-de-lavado-de-activos-provenientes-del-narcotrafico/",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s4",
+      "titulo": "Así funciona la barra brava de Newell’s bajo el mando de Los Monos: el negocio y la feroz interna",
+      "editor": "Infobae",
+      "fecha": "2025-01-10",
+      "url": "https://www.infobae.com/sociedad/policiales/2025/01/10/el-capo-de-los-monos-y-dos-de-sus-laderos-fueron-acusados-de-ser-los-verdaderos-jefes-de-la-barra-de-newells/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s5",
+      "titulo": "Nueva condena para “Guille” Cantero, líder de la banda narco Los Monos: acumula 139 años de cárcel",
+      "editor": "Infobae",
+      "fecha": "2025-08-11",
+      "url": "https://www.infobae.com/sociedad/policiales/2025/08/11/nueva-condena-para-guille-cantero-lider-de-la-banda-narco-los-monos-acumula-139-anos-de-carcel/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s6",
+      "titulo": "El SPF trasladó a Ariel Maximiliano Cantero a una cárcel federal de máxima seguridad",
+      "editor": "Ministerio de Seguridad Nacional de Argentina",
+      "fecha": "2026-08-05",
+      "url": "https://www.argentina.gob.ar/noticias/el-spf-traslado-ariel-maximiliano-cantero-una-carcel-federal-de-maxima-seguridad",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s7",
+      "titulo": "Trasladaron al miembro de Los Monos Ariel Cantero a una cárcel federal de máxima seguridad",
+      "editor": "Infobae",
+      "fecha": "2026-08-05",
+      "url": "https://www.infobae.com/sociedad/policiales/2026/08/05/trasladaron-al-miembro-de-los-monos-ariel-cantero-a-una-carcel-federal-de-maxima-seguridad/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s8",
+      "titulo": "El DFI detuvo a un peligroso prófugo investigado por el asesinato de un sicario narco vinculado a la banda de “Los Monos”",
+      "editor": "Ministerio de Seguridad Nacional de Argentina",
+      "fecha": "2026-08-05",
+      "url": "https://www.argentina.gob.ar/noticias/el-dfi-detuvo-un-peligroso-profugo-investigado-por-el-asesinato-de-un-sicario-narco",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s9",
+      "titulo": "Autos, propiedades y 16 cuentas: las maniobras de lavado que le atribuyeron a “Marianito”, el contador de Los Monos en Rosario",
+      "editor": "Infobae",
+      "fecha": "2026-08-19",
+      "url": "https://www.infobae.com/sociedad/policiales/2026/08/19/autos-propiedades-y-16-cuentas-las-maniobras-de-lavado-que-le-atribuyeron-a-marianito-el-contador-de-los-monos-en-rosario/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s10",
+      "titulo": "La Policía Federal detuvo a cuatro mujeres vinculadas a los “MONOS”, acusados de vender drogas detrás de un colegio secundario",
+      "editor": "Ministerio de Seguridad Nacional de Argentina",
+      "fecha": "2026-09-14",
+      "url": "https://www.argentina.gob.ar/noticias/la-policia-federal-detuvo-cuatro-mujeres-vinculadas-los-monos-acusados-de-vender-drogas",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s11",
+      "titulo": "Extorsiones y estafas en Rosario: condenaron a Mariana Ortigala, vinculada con Los Monos",
+      "editor": "Infobae",
+      "fecha": "2026-09-13",
+      "url": "https://www.infobae.com/sociedad/policiales/2026/09/13/extorsiones-y-estafas-en-rosario-condenaron-a-mariana-ortigala-vinculada-con-los-monos/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s12",
+      "titulo": "Perpetua para Francisco Riquelme, el jefe narco que encabezó una violenta disputa con Los Monos en defensa de Esteban Alvarado",
+      "editor": "Infobae",
+      "fecha": "2026-05-29",
+      "url": "https://www.infobae.com/sociedad/policiales/2026/05/29/perpetua-para-francisco-riquelme-el-jefe-narco-que-encabezo-una-violenta-disputa-con-los-monos-en-defensa-de-esteban-alvarado/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s13",
+      "titulo": "Behind Bars in Argentina’s Organized Crime Hotspot",
+      "editor": "InSight Crime",
+      "fecha": "2025-09-15",
+      "url": "https://insightcrime.org/news/behind-bars-in-argentinas-organized-crime-hotspot/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s14",
+      "titulo": "Is Rosario, Argentina Getting Safer? Depends Who We Asked.",
+      "editor": "InSight Crime",
+      "fecha": "2025-09-15",
+      "url": "https://insightcrime.org/news/is-rosario-argentina-getting-safer-depends-who-we-asked/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s15",
+      "titulo": "Los Menores Grow Stronger Despite Crackdowns in Argentina",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-16",
+      "url": "https://insightcrime.org/news/despite-crackdowns-argentinas-menores-persist/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s16",
+      "titulo": "Suspendieron las clases en dos escuelas de Rosario tras la aparición de nuevas amenazas mafiosas",
+      "editor": "Infobae",
+      "fecha": "2026-04-29",
+      "url": "https://www.infobae.com/sociedad/policiales/2026/04/29/suspendieron-las-clases-en-dos-escuelas-de-rosario-tras-la-aparicion-de-nuevas-amenazas-mafiosas/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s17",
+      "titulo": "Rosario fue retirada de las zonas de mayor riesgo",
+      "editor": "Ministerio de Seguridad Nacional de Argentina",
+      "fecha": "2026-07-17",
+      "url": "https://www.argentina.gob.ar/noticias/rosario-fue-retirada-de-las-zonas-de-mayor-riesgo",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s18",
+      "titulo": "Global Organized Crime Index 2025: Argentina",
+      "editor": "Global Initiative Against Transnational Organized Crime",
+      "fecha": "2025",
+      "url": "https://ocindex.net/country/argentina",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s19",
+      "titulo": "Rosario: tras 84 allanamientos detuvieron a ocho integrantes de la banda de Los Monos",
+      "editor": "Ministerio Público Fiscal de la Nación (fiscales.gob.ar)",
+      "fecha": "2021-10-05",
+      "url": "https://www.fiscales.gob.ar/narcocriminalidad/rosario-tras-84-allanamientos-detuvieron-a-ocho-integrantes-de-la-banda-de-los-monos/",
+      "categoria": "oficial",
+      "verificada": true
+    }
+  ]
+}

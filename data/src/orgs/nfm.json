@@ -1,0 +1,494 @@
+{
+  "id": "nfm",
+  "nombre": "La Nueva Familia Michoacana",
+  "corto": "Familia Michoacana",
+  "alias": [
+    "LNFM",
+    "La Familia Michoacana",
+    "La Familia"
+  ],
+  "tipo": "cartel",
+  "pais_origen": "MEX",
+  "fundacion": "Década de 2010, como iteración más reciente de La Familia Michoacana (surgida en 2006)",
+  "resumen": "Iteración más reciente de La Familia Michoacana, dirigida por los hermanos Hurtado Olascoaga desde la Tierra Caliente de Guerrero, con presencia en el Estado de México, Michoacán, Morelos, Puebla y la Ciudad de México. Trafica metanfetamina, fentanilo, cocaína y heroína hacia EE. UU. y obtiene ingresos de la extorsión, el secuestro, la minería ilegal y el control de recursos forestales. Usa drones con explosivos contra rivales y comunidades. EE. UU. la designó Organización Terrorista Extranjera y SDGT el 20 de febrero de 2025.",
+  "situacion_actual": "La NFM sigue activa bajo el mando de Johnny Hurtado Olascoaga, 'El Pez', y José Alfredo Hurtado Olascoaga, 'El Fresa', quienes no han sido capturados a la fecha de corte. El 15 de abril de 2025 EE. UU. desclasificó acusaciones contra ambos en el Distrito Norte de Georgia, OFAC sancionó a cuatro hermanos Hurtado Olascoaga y el Departamento de Estado ofreció recompensas de hasta 5 y 3 millones de dólares. En 2026 el secretario de Seguridad atribuyó a la organización la privación de la libertad del alcalde de Taxco y su padre (11 al 13 de abril), las autoridades mexiquenses detuvieron a un jefe de plaza a cargo de seis municipios del sur del Estado de México (15 de marzo) y la Fiscalía de Morelos la reconoció como uno de los dos grupos nacionales activos en el estado (24 de septiembre). El 24 de septiembre de 2026 integrantes del grupo secuestraron a ocho campesinos del ejido El Balcón (Ajuchitlán del Progreso, Guerrero) y condicionaron su liberación a la entrega de bosques. Su relación con el CJNG combina enfrentamientos en Michoacán, Guerrero y el Estado de México con pactos tácticos.",
+  "estructura": "Organización de base familiar. Johnny Hurtado Olascoaga ('El Pez') es el líder principal; José Alfredo ('El Fresa') dirige las operaciones en Guerrero y el Estado de México; Ubaldo supervisa sicarios, extorsión y minería; Adita dirige finanzas y lavado. Por debajo operan lugartenientes regionales (por ejemplo, Rodolfo Maldonado Bustos en el corredor Ciudad Altamirano–Zihuatanejo–Lázaro Cárdenas), un jefe financiero (Josué Ramírez Carrera), jefes de plaza municipales y células urbanas afiliadas en el Valle de México. ODNI estima unos 5.000 integrantes.",
+  "lideres": [
+    {
+      "nombre": "Johnny Hurtado Olascoaga",
+      "alias": "El Pez",
+      "rol": "Colíder y líder principal",
+      "estado": "Prófugo; acusado en EE. UU. (septiembre de 2024); recompensa de hasta USD 5 millones (abril de 2025)",
+      "fuente_ids": [
+        "s1",
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "nombre": "José Alfredo Hurtado Olascoaga",
+      "alias": "El Fresa",
+      "rol": "Colíder; operaciones en Guerrero y el Estado de México",
+      "estado": "Prófugo; acusado en EE. UU. (septiembre de 2024); recompensa de hasta USD 3 millones (abril de 2025)",
+      "fuente_ids": [
+        "s1",
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "nombre": "Ubaldo Hurtado Olascoaga",
+      "alias": "El Flaco",
+      "rol": "Mando de sicarios, extorsión y minería ilegal",
+      "estado": "Sin reporte público de captura; sancionado por OFAC el 15 de abril de 2025",
+      "fuente_ids": [
+        "s3",
+        "s17"
+      ]
+    },
+    {
+      "nombre": "Adita Hurtado Olascoaga",
+      "alias": "La Venadita",
+      "rol": "Operadora financiera; lavado mediante tiendas de ropa usada y tráfico de armas",
+      "estado": "Sin reporte público de captura; sancionada por OFAC el 15 de abril de 2025",
+      "fuente_ids": [
+        "s3",
+        "s17"
+      ]
+    },
+    {
+      "nombre": "Josué Ramírez Carrera",
+      "alias": "El Tuerto",
+      "rol": "Líder financiero y tercero al mando",
+      "estado": "Sin reporte público de captura; sancionado por OFAC el 20 de junio de 2024",
+      "fuente_ids": [
+        "s1",
+        "s7"
+      ]
+    },
+    {
+      "nombre": "Rodolfo Maldonado Bustos",
+      "alias": "",
+      "rol": "Presunto siguiente en la línea de mando; controla rutas de Ciudad Altamirano a Zihuatanejo y Lázaro Cárdenas",
+      "estado": "Sin reporte público de captura; sancionado por OFAC el 20 de junio de 2024",
+      "fuente_ids": [
+        "s7"
+      ]
+    },
+    {
+      "nombre": "Franco Tabares Martínez",
+      "alias": "",
+      "rol": "Traficante aliado de la NFM; distribución de drogas a Atlanta y Houston",
+      "estado": "Sin reporte público de captura; acusado en el Distrito Norte de Georgia y sancionado por OFAC el 19 de julio de 2023",
+      "fuente_ids": [
+        "s5",
+        "s8"
+      ]
+    }
+  ],
+  "designaciones": [
+    {
+      "autoridad": "Departamento de Estado de EE. UU.",
+      "categoria": "Organización Terrorista Extranjera (FTO)",
+      "fecha": "2025-02-20",
+      "fuente_ids": [
+        "s2",
+        "s1"
+      ]
+    },
+    {
+      "autoridad": "Departamento de Estado de EE. UU.",
+      "categoria": "Terrorista Global Especialmente Designado (SDGT, E.O. 13224)",
+      "fecha": "2025-02-20",
+      "fuente_ids": [
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "autoridad": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "categoria": "Sanción por narcotráfico (E.O. 14059)",
+      "fecha": "2022-11-17",
+      "fuente_ids": [
+        "s6"
+      ]
+    },
+    {
+      "autoridad": "Gobierno de Canadá (Seguridad Pública)",
+      "categoria": "Entidad terrorista incluida en la lista del Código Penal (como La Familia Michoacana)",
+      "fecha": "2025-02-20",
+      "fuente_ids": [
+        "s22"
+      ]
+    }
+  ],
+  "delitos": [
+    "cocaina",
+    "sinteticas",
+    "otras_drogas",
+    "narcomenudeo",
+    "extorsion",
+    "secuestro",
+    "sicariato",
+    "trata",
+    "migrantes",
+    "armas",
+    "mineria",
+    "ambiental",
+    "lavado"
+  ],
+  "presencia": [
+    {
+      "pais": "MEX",
+      "nivel": "base",
+      "zonas": [
+        "Tierra Caliente de Guerrero",
+        "Arcelia",
+        "Ciudad Altamirano",
+        "Tlapehuala",
+        "Coyuca de Catalán",
+        "Ajuchitlán del Progreso (ejido El Balcón)",
+        "Taxco (Guerrero)",
+        "Estado de México (sur y poniente)",
+        "Zacualpan",
+        "Amanalco",
+        "Santo Tomás de los Plátanos",
+        "Villa Guerrero",
+        "Tenancingo",
+        "Malinalco",
+        "Ocuilan",
+        "Zumpahuacán",
+        "Tenango del Valle",
+        "Coatepec Harinas",
+        "Nezahualcóyotl",
+        "Michoacán (corredor a Lázaro Cárdenas)",
+        "Morelos (zona sur)",
+        "Puebla",
+        "Ciudad de México (Iztacalco, Iztapalapa)"
+      ],
+      "delitos": [
+        "cocaina",
+        "sinteticas",
+        "otras_drogas",
+        "narcomenudeo",
+        "extorsion",
+        "secuestro",
+        "sicariato",
+        "trata",
+        "migrantes",
+        "armas",
+        "mineria",
+        "ambiental",
+        "lavado"
+      ],
+      "nota": "Núcleo en la Tierra Caliente de Guerrero y el sur y poniente del Estado de México, con presencia en Michoacán, Morelos y Puebla y células afiliadas en la Ciudad de México (H1 A1) dedicadas al narcomenudeo y la extorsión. En 2026 se le atribuyen el secuestro del alcalde de Taxco y su padre, el cobro de piso en municipios mexiquenses y la presión sobre comunidades de la sierra de Guerrero para apropiarse de bosques; OFAC le atribuye extracción ilegal de mercurio y uranio.",
+      "fuente_ids": [
+        "s1",
+        "s3",
+        "s6",
+        "s9",
+        "s11",
+        "s12",
+        "s13",
+        "s14",
+        "s18",
+        "s23"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "USA",
+      "nivel": "operativa",
+      "zonas": [
+        "Atlanta (Georgia)",
+        "Houston (Texas)",
+        "Valle del Río Grande (Texas)"
+      ],
+      "delitos": [
+        "cocaina",
+        "sinteticas",
+        "otras_drogas",
+        "armas",
+        "lavado"
+      ],
+      "nota": "Actividad en cerca de un tercio de los estados según la NDTA 2025; red logística y de lavado en el área metropolitana de Atlanta, distribución en Houston, lavado mediante tiendas de ropa usada en el Valle del Río Grande y tráfico de armas hacia México.",
+      "fuente_ids": [
+        "s3",
+        "s4",
+        "s7",
+        "s8",
+        "s10"
+      ],
+      "confianza": "alta"
+    }
+  ],
+  "vinculos": [
+    {
+      "destino": "cjng",
+      "tipo": "rivalidad",
+      "descripcion": "Enfrentamientos con el CJNG en Michoacán (mayo de 2025), la Tierra Caliente de Guerrero y el Estado de México; el CJNG conserva enclaves en zonas de influencia de la NFM.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s1",
+        "s9",
+        "s15"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "cjng",
+      "tipo": "alianza",
+      "descripcion": "Pactos tácticos documentados: el CJNG suministró drones a la NFM en Guerrero (2023) y ambos comparten corredores de tráfico; OFAC (2024) identificó a un lugarteniente con conexiones con el CJNG.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s7",
+        "s15",
+        "s16"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "carteles-unidos",
+      "tipo": "alianza",
+      "descripcion": "ODNI (enero de 2026) incluye a La Nueva Familia Michoacana entre los integrantes de Cárteles Unidos frente al CJNG; otras fuentes refieren solo la participación de células de La Familia.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s21",
+        "s10"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "golfo",
+      "tipo": "suministro",
+      "descripcion": "La NFM provee metanfetamina a la facción Los Metros del Cártel del Golfo (NDTA 2025 citada por prensa).",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s19"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "ext-precursores",
+      "tipo": "suministro",
+      "descripcion": "Proveedores en China: OFAC (2023) indicó que Franco Tabares Martínez recibió fentanilo en polvo desde la RPC; la NDTA 2025 señala que facciones de La Familia controlan el puerto de Lázaro Cárdenas, clave para la importación de precursores químicos desde China.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s8",
+        "s10"
+      ],
+      "confianza": "media"
+    }
+  ],
+  "notas_controversia": "El peso real de la organización está en disputa: InSight Crime sostuvo en 2023 que el nombre 'La Nueva Familia Michoacana' ya no representaba a ningún grupo y que la población local no lo usa (s20), y su perfil actualizado en julio de 2026 la describe como 'sombra de lo que fue' (s9); en cambio, ODNI (febrero de 2026) la presenta como uno de los cárteles más poderosos del sur de México con unos 5.000 integrantes. Células urbanas como H1 A1 usan la marca de La Familia sin vínculo orgánico comprobado con la estructura de los Hurtado Olascoaga (s23). La relación con el CJNG es ambivalente y la pertenencia de la NFM a Cárteles Unidos se basa principalmente en ODNI (confianza media). Las acusaciones estadounidenses de septiembre de 2024 se desclasificaron el 15 de abril de 2025; la fuente s5 replica s4 para la lista de acusados.",
+  "confianza_general": "alta",
+  "fuentes": [
+    {
+      "id": "s1",
+      "titulo": "Counterterrorism Guide: La Nueva Familia Michoacana (LNFM) (as of February 2026)",
+      "editor": "Office of the Director of National Intelligence (ODNI)",
+      "fecha": "2026-02",
+      "url": "https://www.odni.gov/wp-content/uploads/dlm_uploads/CT-Guide-LNFM_508.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s2",
+      "titulo": "Foreign Terrorist Organization Designations of Tren de Aragua, Mara Salvatrucha, Cartel de Sinaloa, Cartel de Jalisco Nueva Generacion, Carteles Unidos, Cartel del Noreste, Cartel del Golfo, and La Nueva Familia Michoacana (Public Notice 12672)",
+      "editor": "Departamento de Estado de EE. UU. / Federal Register",
+      "fecha": "2025-02-20",
+      "url": "https://public-inspection.federalregister.gov/2025-02873.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s3",
+      "titulo": "Treasury Sanctions Leaders of La Nueva Familia Michoacana Drug Cartel (sb0087)",
+      "editor": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "fecha": "2025-04-15",
+      "url": "https://home.treasury.gov/news/press-releases/sb0087",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s4",
+      "titulo": "Leaders of La Nueva Familia Michoacana and Atlanta-Based Money Launderer Indicted",
+      "editor": "Departamento de Justicia de EE. UU. (Office of Public Affairs)",
+      "fecha": "2025-04-15",
+      "url": "https://www.justice.gov/opa/pr/leaders-la-nueva-familia-michoacana-and-atlanta-based-money-launderer-indicted",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s5",
+      "titulo": "Leaders of La Nueva Familia Michoacana and Atlanta-Based Money Launderer Indicted (defendants list)",
+      "editor": "Departamento de Justicia de EE. UU. (Office of Public Affairs)",
+      "fecha": "2025-04-15",
+      "url": "https://www.justice.gov/opa/pr/leaders-la-nueva-familia-michoacana-and-atlanta-based-money-launderer-indicted",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s6",
+      "titulo": "Treasury sanctions La Nueva Familia Michoacana and its leaders (jy1116)",
+      "editor": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "fecha": "2022-11-17",
+      "url": "https://home.treasury.gov/news/press-releases/jy1116",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s7",
+      "titulo": "Secretary Yellen Announces Sanctions Against Top Leaders of Mexico's La Nueva Familia Michoacana Drug Cartel, New Fentanyl Advisory (jy2418)",
+      "editor": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "fecha": "2024-06-20",
+      "url": "https://home.treasury.gov/news/press-releases/jy2418",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s8",
+      "titulo": "Treasury Sanctions Drug Traffickers Operating Across Europe and North America (jy1629)",
+      "editor": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "fecha": "2023-07-19",
+      "url": "https://home.treasury.gov/news/press-releases/jy1629",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s9",
+      "titulo": "Familia Michoacana: History, Leaders, and Presence in Mexico",
+      "editor": "InSight Crime",
+      "fecha": "2026-07",
+      "url": "https://insightcrime.org/mexico-organized-crime-news/familia-michoacana-mexico-profile/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s10",
+      "titulo": "Mexico: Drug cartels, including the Sinaloa Cartel, CJNG, Los Zetas, the Gulf Cartel, La Familia Michoacana; their activities and areas of operation (2024–August 2025)",
+      "editor": "Immigration and Refugee Board of Canada, Research Directorate (vía ecoi.net)",
+      "fecha": "2025-08-28",
+      "url": "https://www.ecoi.net/en/document/2130453.html",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s11",
+      "titulo": "La desaparición del alcalde de Taxco y su padre está vinculada a La Familia Michoacana",
+      "editor": "Expansión Política",
+      "fecha": "2026-04-14",
+      "url": "https://politica.expansion.mx/presidencia/2026/04/14/la-desaparicion-del-alcalde-de-taxco-y-su-padre-esta-vinculada-a-la-familia-michoacana",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s12",
+      "titulo": "Detienen a presunto jefe de plaza de la Familia Michoacana encargado de 6 municipios del Edomex",
+      "editor": "Infobae",
+      "fecha": "2026-03-15",
+      "url": "https://www.infobae.com/mexico/2026/03/15/detienen-a-presunto-jefe-de-plaza-de-la-familia-michoacana-en-6-municipios-del-edomex/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s13",
+      "titulo": "CJNG: Cártel Nueva Generación y La Familia Michoacana operan en Morelos, admite Fiscalía",
+      "editor": "El Informador",
+      "fecha": "2026-09-24",
+      "url": "https://www.informador.mx/mexico/cjng-cartel-nueva-generacion-y-la-familia-michoacana-operan-en-morelos-admite-fiscalia-20260924-0194.html",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s14",
+      "titulo": "Exigen a pueblo de Guerrero entregar sus bosques para liberar a 7",
+      "editor": "La Silla Rota",
+      "fecha": "2026-10-03",
+      "url": "https://lasillarota.com/estados/2026/10/3/exigen-a-pueblo-de-guerrero-entregar-sus-bosques-para-para-liberar-a-7-531363.html",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s15",
+      "titulo": "CJNG y Nueva Familia Michoacana: las claves de sus alianzas",
+      "editor": "Milenio",
+      "fecha": "2026-03-18",
+      "url": "https://www.milenio.com/policia/cjng-y-nueva-familia-michoacana-las-claves-de-sus-alianzas",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s16",
+      "titulo": "Mexico Drone Attacks Spike After CJNG, Familia Michoacana Alliance",
+      "editor": "InSight Crime",
+      "fecha": "2023-05-22",
+      "url": "https://insightcrime.org/news/mexico-drone-attacks-spike-after-cjng-familia-michoacana-alliance/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s17",
+      "titulo": "¿Quién es quién en la Nueva Familia Michoacana? Los cuatro hermanos que dirigen uno de los cárteles más buscados",
+      "editor": "Infobae",
+      "fecha": "2026-06-19",
+      "url": "https://www.infobae.com/mexico/2026/06/19/quien-es-quien-en-la-nueva-familia-michoacana-los-cuatro-hermanos-que-dirigen-uno-de-los-carteles-mas-buscados/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s18",
+      "titulo": "Operación Enjambre: los vínculos de alcaldes detenidos con el CJNG y La Familia Michoacana",
+      "editor": "Expansión Política",
+      "fecha": "2026-10-05",
+      "url": "https://politica.expansion.mx/presidencia/2026/10/05/operativo-enjambre-alcaldes-detenidos-cjng-sinaloa",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s19",
+      "titulo": "Esta es la forma en la que el Cártel del Golfo lleva droga de Colombia y de la Familia Michoacana a EEUU",
+      "editor": "Infobae",
+      "fecha": "2025-06-09",
+      "url": "https://www.infobae.com/mexico/2025/06/09/esta-es-forma-en-la-que-cartel-del-golfo-llevar-droga-de-colombia-y-de-la-familia-michoacana-a-eeuu/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s20",
+      "titulo": "3 Takeaways From the Return of the Familia Michoacana",
+      "editor": "InSight Crime",
+      "fecha": "2023-01-06",
+      "url": "https://insightcrime.org/news/takeaways-return-familia-michoacana/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s21",
+      "titulo": "Counterterrorism Guide: United Cartels (CU) (as of January 2026)",
+      "editor": "Office of the Director of National Intelligence (ODNI)",
+      "fecha": "2026-01",
+      "url": "https://www.odni.gov/wp-content/uploads/dlm_uploads/CT-Guide-United-Cartels_508.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s22",
+      "titulo": "Government of Canada lists transnational criminal organizations as terrorist entities",
+      "editor": "Public Safety Canada",
+      "fecha": "2025-02-20",
+      "url": "https://www.canada.ca/en/public-safety-canada/news/2025/02/government-of-canada-lists-transnational-criminal-organizations-as-terrorist-entities.html",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s23",
+      "titulo": "La conexión de la Nueva Familia Michoacana en Iztacalco, Iztapalapa y Neza",
+      "editor": "La Silla Rota",
+      "fecha": "2026-02-11",
+      "url": "https://lasillarota.com/metropoli/2026/2/11/la-conexion-de-la-nueva-familia-michoacana-en-iztacalco-iztapalapa-neza-496326.html",
+      "categoria": "prensa",
+      "verificada": true
+    }
+  ]
+}

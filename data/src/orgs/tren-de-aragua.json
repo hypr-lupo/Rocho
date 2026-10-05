@@ -1,0 +1,735 @@
+{
+  "id": "tren-de-aragua",
+  "nombre": "Tren de Aragua",
+  "corto": "Tren de Aragua",
+  "alias": [
+    "TdA",
+    "Aragua Train"
+  ],
+  "tipo": "megabanda",
+  "pais_origen": "VEN",
+  "fundacion": "Década de 2010, en la cárcel de Tocorón (estado Aragua, Venezuela); expansión transnacional desde c. 2018 siguiendo la migración venezolana.",
+  "resumen": "Megabanda venezolana surgida en la cárcel de Tocorón que entre 2018 y 2023 instaló células en Colombia, Perú y Chile, y luego tuvo presencia menor en Brasil, Ecuador, Bolivia, Estados Unidos, México y España. Sus actividades documentadas son extorsión, secuestro, trata y explotación sexual, homicidio por encargo, narcomenudeo, tráfico de armas, minería ilegal de oro y, más recientemente, fraude informático contra cajeros automáticos (jackpotting) y lavado con criptoactivos. Estados Unidos la designó Organización Terrorista Extranjera el 20 de febrero de 2025. Desde la muerte de su fundador, Niño Guerrero, en junio de 2026, funciona como una red fragmentada de franquicias.",
+  "situacion_actual": "El 12 de junio de 2026 el presidente Trump anunció la muerte de Héctor Rusthenford Guerrero Flores, alias Niño Guerrero, en un ataque del Comando Sur coordinado con el gobierno interino de Delcy Rodríguez cerca de Las Claritas (estado Bolívar). El Ministerio de Comunicación venezolano confirmó la operación conjunta. Yohan José Romero, alias Johan Petrica, quedó como el último cofundador prófugo y principal candidato a la sucesión, aunque no hay un mando unificado. Entre agosto y octubre de 2026 fueron capturados varios cabecillas regionales: Luis Saúl Pérez Nieto, alias Nairobi (jefe en Perú), en Bogotá el 27 de agosto; Ibelmery Colina Maldonado, alias R15 (jefe en Chile), en Lima; y Aníbal Canelón Aguirre, alias Prometeo, capturado en Venezuela y presentado ante un tribunal de Nebraska el 2 de octubre. Colombia, por su parte, autorizó la extradición a Chile de Larry Changa. En Estados Unidos, las autoridades informaron el 1 de julio de 2026 de cerca de 350 presuntos miembros detenidos, y el 30 de septiembre la OFAC sancionó a la red de jackpotting que operaba desde México y Venezuela. InSight Crime describe al grupo como una red dispersa de franquicias, cada vez más fragmentada, con muchas células imitadoras. En Brasil adoptó un modelo de prestador de servicios aliado al Comando Vermelho (operativo de junio de 2026).",
+  "estructura": "Red transnacional descentralizada de células y franquicias semiautónomas, dirigida históricamente desde Tocorón por un núcleo de cofundadores: Guerrero Flores, Romero y Álvarez Núñez. Tras la toma de Tocorón (septiembre de 2023) y la muerte de Guerrero (junio de 2026) no tiene una jefatura unificada. Sus componentes conocidos son el sindicato minero de Las Claritas (municipio Sifontes, Bolívar), dirigido por Johan Petrica; facciones en Chile como Los Piratas y la célula de Valparaíso; jefaturas nacionales en Perú y Chile; y redes financieras de jackpotting y lavado mediante criptoactivos y empresas fachada en Colombia, México y Chile. InSight Crime advierte que muchas células nuevas atribuidas al grupo son imitadores que aprovechan su notoriedad.",
+  "lideres": [
+    {
+      "nombre": "Héctor Rusthenford Guerrero Flores",
+      "alias": "Niño Guerrero",
+      "rol": "Fundador y máximo líder",
+      "estado": "Abatido en junio de 2026 (anunciado el 12 de junio de 2026) en una operación conjunta de Estados Unidos y Venezuela en el estado Bolívar",
+      "fuente_ids": [
+        "s1",
+        "s2",
+        "s10",
+        "s11",
+        "s12"
+      ]
+    },
+    {
+      "nombre": "Yohan José Romero",
+      "alias": "Johan Petrica",
+      "rol": "Cofundador; jefe del sindicato minero de Las Claritas (Bolívar); posible sucesor",
+      "estado": "Prófugo (julio de 2026); sancionado por la OFAC el 17 de julio de 2025",
+      "fuente_ids": [
+        "s2",
+        "s3",
+        "s7"
+      ]
+    },
+    {
+      "nombre": "Giovanny San Vicente",
+      "alias": "El Viejo",
+      "rol": "Presunto alto mando; recompensa de EE. UU. de 3 millones de dólares desde julio de 2024",
+      "estado": "Prófugo según el último reporte verificado (2026)",
+      "fuente_ids": [
+        "s1"
+      ]
+    },
+    {
+      "nombre": "Larry Amaury Álvarez Núñez",
+      "alias": "Larry Changa",
+      "rol": "Cofundador; coordinó desde el exterior células en Chile",
+      "estado": "Detenido en Colombia desde julio de 2024; Colombia autorizó su extradición a Chile (Resolución 245 de 2026, publicada el 1 de julio de 2026)",
+      "fuente_ids": [
+        "s1",
+        "s17"
+      ]
+    },
+    {
+      "nombre": "Giovanni Vicente Mosquera Serrano",
+      "alias": "",
+      "rol": "Presunto líder; incluido en la lista de los Diez Más Buscados del FBI",
+      "estado": "Prófugo según el último reporte verificado (3 de diciembre de 2025, recompensa elevada a 5 millones de dólares)",
+      "fuente_ids": [
+        "s25"
+      ]
+    },
+    {
+      "nombre": "Juan Gabriel Rivas Núñez",
+      "alias": "Juancho",
+      "rol": "Presunto alto mando que dirige minería de oro, exportación de drogas y crimen violento en varios países sudamericanos",
+      "estado": "Acusado en el Distrito Sur de Texas (diciembre de 2025) y sancionado por la OFAC el 30 de septiembre de 2026; no se reporta su captura",
+      "fuente_ids": [
+        "s4"
+      ]
+    },
+    {
+      "nombre": "Aníbal Alexander Canelón Aguirre",
+      "alias": "Prometeo / El Ingeniero",
+      "rol": "Presunto jefe de la red de jackpotting de cajeros automáticos que financia al TdA",
+      "estado": "Capturado en Venezuela (septiembre de 2026) y trasladado a EE. UU.; se declaró no culpable ante un tribunal federal de Nebraska el 2 de octubre de 2026",
+      "fuente_ids": [
+        "s4",
+        "s23"
+      ]
+    },
+    {
+      "nombre": "Luis Saúl Pérez Nieto",
+      "alias": "Nairobi / Páez",
+      "rol": "Presunto cabecilla del TdA en Perú",
+      "estado": "Detenido en Bogotá el 27 de agosto de 2026; EE. UU. solicitó su extradición",
+      "fuente_ids": [
+        "s14",
+        "s15"
+      ]
+    },
+    {
+      "nombre": "Ibelmery Adon Colina Maldonado",
+      "alias": "R15",
+      "rol": "Presunto líder del TdA en Chile",
+      "estado": "Detenido en San Martín de Porres (Lima) en agosto de 2026; el Ministerio del Interior de Perú anunció su expulsión a Chile",
+      "fuente_ids": [
+        "s16"
+      ]
+    },
+    {
+      "nombre": "Carlos Francisco Gómez Moreno",
+      "alias": "Carlos Bobby",
+      "rol": "Presunto jefe de la red de extorsión y lavado investigada en la Operación Tokio (Chile)",
+      "estado": "Detenido en Colombia (agosto de 2026)",
+      "fuente_ids": [
+        "s18"
+      ]
+    }
+  ],
+  "designaciones": [
+    {
+      "autoridad": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "categoria": "Organización Criminal Transnacional (E.O. 13581)",
+      "fecha": "2024-07-11",
+      "fuente_ids": [
+        "s4"
+      ]
+    },
+    {
+      "autoridad": "Departamento de Estado de EE. UU.",
+      "categoria": "Organización Terrorista Extranjera (FTO, sección 219 INA); firmada el 6 de febrero de 2025",
+      "fecha": "2025-02-20",
+      "fuente_ids": [
+        "s5"
+      ]
+    },
+    {
+      "autoridad": "Departamento de Estado de EE. UU.",
+      "categoria": "Terrorista Global Especialmente Designado (SDGT, E.O. 13224)",
+      "fecha": "2025-02-20",
+      "fuente_ids": [
+        "s6"
+      ]
+    },
+    {
+      "autoridad": "Gobierno de Canadá (Public Safety Canada)",
+      "categoria": "Entidad terrorista listada (Código Penal)",
+      "fecha": "2025-02-20",
+      "fuente_ids": [
+        "s9"
+      ]
+    }
+  ],
+  "delitos": [
+    "extorsion",
+    "secuestro",
+    "sicariato",
+    "trata",
+    "migrantes",
+    "armas",
+    "mineria",
+    "narcomenudeo",
+    "cocaina",
+    "contrabando",
+    "lavado",
+    "fraude",
+    "robo"
+  ],
+  "presencia": [
+    {
+      "pais": "VEN",
+      "nivel": "base",
+      "zonas": [
+        "Bolívar (municipio Sifontes: Las Claritas, Kilómetro 88, Troncal 10)",
+        "Aragua (cárcel de Tocorón, perdida en 2023)",
+        "Carabobo",
+        "Sucre",
+        "Guárico",
+        "Lara"
+      ],
+      "delitos": [
+        "mineria",
+        "extorsion",
+        "armas",
+        "fraude",
+        "lavado"
+      ],
+      "nota": "Territorio de origen. Perdió Tocorón en septiembre de 2023 y a su líder en junio de 2026, en una operación conjunta EE. UU.-Venezuela en Bolívar. Mantiene el enclave minero de Las Claritas bajo Johan Petrica. La red de jackpotting de Prometeo operaba desde Venezuela y México.",
+      "fuente_ids": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s10"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "COL",
+      "nivel": "consolidada",
+      "zonas": [
+        "Bogotá (Bosa, Kennedy, Engativá, Los Mártires, Santa Fe)",
+        "Cúcuta (Norte de Santander)",
+        "Frontera Táchira–Norte de Santander"
+      ],
+      "delitos": [
+        "extorsion",
+        "sicariato",
+        "narcomenudeo",
+        "armas",
+        "lavado"
+      ],
+      "nota": "Células permanentes. En septiembre de 2026 fueron capturados 17 presuntos integrantes en Bogotá por extorsión, homicidio, tráfico de drogas y un ataque con explosivos a la estación de Policía de Kennedy. La OFAC sancionó empresas fachada en Bogotá y Cúcuta (diciembre de 2025). Colombia es lugar de refugio y captura de cabecillas (Nairobi, Larry Changa, Carlos Bobby).",
+      "fuente_ids": [
+        "s1",
+        "s8",
+        "s14",
+        "s20",
+        "s21"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "PER",
+      "nivel": "consolidada",
+      "zonas": [
+        "Lima (Cercado: jirón Zepita)",
+        "Lima (San Martín de Porres)"
+      ],
+      "delitos": [
+        "extorsion",
+        "trata",
+        "sicariato",
+        "armas",
+        "narcomenudeo"
+      ],
+      "nota": "Estructura dirigida por Luis Saúl Pérez Nieto (Nairobi) hasta su captura en agosto de 2026, con explotación sexual, extorsión y homicidios selectivos. Tras la muerte de Niño Guerrero se fragmentó en células que compiten por territorio en Lima. En septiembre de 2026 el gobierno peruano propuso declararla organización terrorista.",
+      "fuente_ids": [
+        "s1",
+        "s15",
+        "s16",
+        "s30"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "CHL",
+      "nivel": "consolidada",
+      "zonas": [
+        "Región Metropolitana (Santiago, Lampa)",
+        "Valparaíso",
+        "Frontera con Perú",
+        "Frontera con Bolivia"
+      ],
+      "delitos": [
+        "extorsion",
+        "secuestro",
+        "sicariato",
+        "armas",
+        "narcomenudeo",
+        "lavado"
+      ],
+      "nota": "Varias células, entre ellas Los Piratas y una facción de Valparaíso, cuyos 11 miembros fueron condenados en julio de 2026 a un total de 167 años. La Operación Tokio expuso una red de lavado y extorsión a locales nocturnos que sacó unos 78.000 millones de pesos del país. El 1 de octubre de 2026 se dictó la primera condena por el secuestro y homicidio del exteniente Ronald Ojeda (febrero de 2024).",
+      "fuente_ids": [
+        "s1",
+        "s8",
+        "s16",
+        "s17",
+        "s18",
+        "s19"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "BRA",
+      "nivel": "operativa",
+      "zonas": [
+        "Roraima",
+        "Amazonas",
+        "São Paulo",
+        "Rio de Janeiro",
+        "Minas Gerais",
+        "Paraná"
+      ],
+      "delitos": [
+        "armas",
+        "cocaina",
+        "lavado",
+        "mineria",
+        "fraude"
+      ],
+      "nota": "En junio de 2026 la Policía Civil de Roraima desarticuló una rama del TdA (13 detenidos, 429 millones de reales en activos congelados). El grupo actuaba como prestador de servicios en alianza con el Comando Vermelho, sin buscar dominio territorial.",
+      "fuente_ids": [
+        "s13",
+        "s1"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "USA",
+      "nivel": "operativa",
+      "zonas": [
+        "Texas (Dallas)",
+        "Illinois (Chicago)",
+        "Nebraska",
+        "Florida (Orlando, Tampa)"
+      ],
+      "delitos": [
+        "fraude",
+        "lavado",
+        "extorsion",
+        "secuestro",
+        "sicariato",
+        "trata",
+        "narcomenudeo",
+        "robo"
+      ],
+      "nota": "Las autoridades federales informaron de cerca de 350 presuntos miembros detenidos (julio de 2026) y del jackpotting de cajeros, con pérdidas de 40,73 millones de dólares en más de 1.500 ataques a agosto de 2025. InSight Crime sostiene que no hay evidencia sólida de una expansión estructurada en el país.",
+      "fuente_ids": [
+        "s4",
+        "s22",
+        "s23",
+        "s18",
+        "s1"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "MEX",
+      "nivel": "operativa",
+      "zonas": [],
+      "delitos": [
+        "fraude",
+        "lavado"
+      ],
+      "nota": "Según el Tesoro, la red de jackpotting de Prometeo tenía base en México y Venezuela. El 30 de septiembre de 2026 se sancionaron dos empresas mexicanas, Enigma Community y Soluciones Integrales Toluca.",
+      "fuente_ids": [
+        "s4"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "ESP",
+      "nivel": "operativa",
+      "zonas": [],
+      "delitos": [
+        "fraude",
+        "lavado"
+      ],
+      "nota": "Hasta abril de 2026 la Policía Nacional había detenido a 18 miembros, entre ellos un fugitivo reclamado por EE. UU. por hackeo de cajeros. Los investigadores atribuyen al grupo la intención de replicar su estructura en España.",
+      "fuente_ids": [
+        "s24"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "ECU",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [],
+      "nota": "Solo hay reportes de presencia esporádica.",
+      "fuente_ids": [
+        "s1",
+        "s17"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "BOL",
+      "nivel": "limitada",
+      "zonas": [
+        "Frontera con Chile"
+      ],
+      "delitos": [],
+      "nota": "Hay reportes de presencia esporádica y células en la zona fronteriza con Chile.",
+      "fuente_ids": [
+        "s1"
+      ],
+      "confianza": "media"
+    }
+  ],
+  "vinculos": [
+    {
+      "destino": "cartel-soles",
+      "tipo": "alianza",
+      "descripcion": "La OFAC afirmó el 25 de julio de 2025 que el Cartel de los Soles apoya al TdA. La acusación sustitutiva de 2026 vincula a Maduro con Niño Guerrero. La relación es disputada, y la operación conjunta EE. UU.-Venezuela que mató a Guerrero en junio de 2026 contradice una alianza vigente con el aparato estatal.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s27",
+        "s29",
+        "s10"
+      ],
+      "confianza": "baja"
+    },
+    {
+      "destino": "cv",
+      "tipo": "alianza",
+      "descripcion": "Cooperación documentada en Roraima y otros estados de Brasil en tráfico de armas y drogas. Miembros del TdA pedían ser recluidos en las mismas alas carcelarias que el Comando Vermelho.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s13"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "pcc",
+      "tipo": "alianza",
+      "descripcion": "Hay reportes de cooperación en Roraima, estado dominado mayoritariamente por el PCC. El operativo de junio de 2026 muestra, sin embargo, una asociación preferente con el Comando Vermelho.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s1",
+        "s13"
+      ],
+      "confianza": "baja"
+    },
+    {
+      "destino": "eln",
+      "tipo": "rivalidad",
+      "descripcion": "Choques por el control de la frontera Táchira–Norte de Santander.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s1"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "clan-del-golfo",
+      "tipo": "rivalidad",
+      "descripcion": "Choques con las AGC/EGC por el control fronterizo entre Venezuela y Colombia.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s1"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "ext-tren-del-llano",
+      "tipo": "alianza",
+      "descripcion": "Pactos de no agresión con la megabanda venezolana Tren del Llano.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s1"
+      ],
+      "confianza": "baja"
+    }
+  ],
+  "notas_controversia": "1) Presencia en EE. UU.: el gobierno estadounidense atribuye al TdA cientos de detenidos y redes de fraude, y en marzo de 2025 invocó contra él la Ley de Enemigos Extranjeros de 1798. InSight Crime (perfil actualizado al 29 de julio de 2026) afirma que no hay evidencia sólida de una expansión estructurada en ese país y que muchas células nuevas son imitadores. 2) Vínculo con el Estado venezolano: la OFAC (julio de 2025) y la acusación sustitutiva contra Maduro (enero de 2026) lo afirman, pero es disputado, y la operación conjunta EE. UU.-Venezuela de junio de 2026 contra Niño Guerrero apunta en sentido contrario. 3) Larry Changa: el perfil de InSight Crime dice que fue extraditado a Chile en 2026; solo se verificó la autorización de Colombia (Resolución 245 de 2026), y una nota de InSight del 1 de julio de 2026 lo sitúa aún preso en Colombia. 4) Argentina: CNN informó en febrero de 2025 la inscripción del TdA en el RePET, pero el TdA no figura en el listado JSON de entidades del RePET consultado en octubre de 2026. Por eso no se incluye como designación vigente.",
+  "confianza_general": "alta",
+  "fuentes": [
+    {
+      "id": "s1",
+      "titulo": "Tren de Aragua (perfil criminal)",
+      "editor": "InSight Crime",
+      "fecha": "2026-07-29",
+      "url": "https://insightcrime.org/venezuela-organized-crime-news/tren-de-aragua/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s2",
+      "titulo": "Tren de Aragua's 'Johan Petrica': Fugitive and Potential Heir",
+      "editor": "InSight Crime",
+      "fecha": "2026-07-01",
+      "url": "https://insightcrime.org/news/tren-de-araguas-johan-petrica-fugitive-and-potential-heir/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s3",
+      "titulo": "Yohan José Romero, alias 'Johan Petrica'",
+      "editor": "InSight Crime",
+      "fecha": "2026-06-25",
+      "url": "https://insightcrime.org/venezuela-organized-crime-news/yohan-jose-romero-alias-johan-petrica/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s4",
+      "titulo": "Treasury Sanctions Financial Network of Foreign Terrorist Organization, Tren de Aragua, After Theft of Millions from U.S. Banks",
+      "editor": "Departamento del Tesoro de EE. UU.",
+      "fecha": "2026-09-30",
+      "url": "https://home.treasury.gov/news/press-releases/sb0640",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s5",
+      "titulo": "Foreign Terrorist Organization Designations of Tren de Aragua, Mara Salvatrucha, Cartel de Sinaloa, Cartel de Jalisco Nueva Generacion, Carteles Unidos, Cartel del Noreste, Cartel del Golfo, and La Nueva Familia Michoacana",
+      "editor": "Departamento de Estado de EE. UU. (Federal Register)",
+      "fecha": "2025-02-20",
+      "url": "https://www.federalregister.gov/documents/full_text/text/2025/02/20/2025-02873.txt",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s6",
+      "titulo": "Specially Designated Global Terrorist Designations of Tren de Aragua, Mara Salvatrucha, Cartel de Sinaloa, Cartel de Jalisco Nueva Generacion, Carteles Unidos, Cartel del Noreste, Cartel del Golfo, and La Nueva Familia Michoacana",
+      "editor": "Departamento de Estado de EE. UU. (Federal Register)",
+      "fecha": "2025-02-20",
+      "url": "https://www.federalregister.gov/documents/full_text/text/2025/02/20/2025-02870.txt",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s7",
+      "titulo": "Notice of OFAC Sanctions Actions (acción del 17 de julio de 2025)",
+      "editor": "OFAC, Departamento del Tesoro de EE. UU. (Federal Register)",
+      "fecha": "2025-07-21",
+      "url": "https://www.federalregister.gov/documents/full_text/text/2025/07/21/2025-13645.txt",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s8",
+      "titulo": "Notice of OFAC Sanctions Actions (acción del 3 de diciembre de 2025)",
+      "editor": "OFAC, Departamento del Tesoro de EE. UU. (Federal Register)",
+      "fecha": "2025-12-05",
+      "url": "https://www.federalregister.gov/documents/full_text/text/2025/12/05/2025-22061.txt",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s9",
+      "titulo": "Currently listed entities",
+      "editor": "Public Safety Canada",
+      "fecha": "2025-02",
+      "url": "https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s10",
+      "titulo": "US strike kills leader of Venezuela's Tren de Aragua gang, White House says",
+      "editor": "Reuters (vía Military Times)",
+      "fecha": "2026-06-13",
+      "url": "https://www.militarytimes.com/flashpoints/2026/06/13/us-strike-kills-leader-of-venezuelas-tren-de-aragua-gang-white-house-says/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s11",
+      "titulo": "Venezuela confirma la muerte del 'Niño Guerrero', máximo líder del Tren de Aragua",
+      "editor": "CNN Chile",
+      "fecha": "2026-06",
+      "url": "https://www.cnnchile.com/mundo/venezuela-confirma-la-muerte-del-nino-guerrero-maximo-lider-del-tren-de-aragua/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s12",
+      "titulo": "Presidential Determination on Major Drug Transit or Major Illicit Drug Producing Countries for Fiscal Year 2027",
+      "editor": "Casa Blanca (Federal Register)",
+      "fecha": "2026-09-18",
+      "url": "https://www.federalregister.gov/documents/full_text/text/2026/09/18/2026-19251.txt",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s13",
+      "titulo": "Brazil Crackdown Reveals New Tren de Aragua Playbook",
+      "editor": "InSight Crime",
+      "fecha": "2026-07-31",
+      "url": "https://insightcrime.org/news/brazil-crackdown-reveals-new-tren-de-aragua-playbook/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s14",
+      "titulo": "Colombia captures a suspected Tren de Aragua gang leader as US security ties deepen",
+      "editor": "Associated Press (vía ClickOnDetroit)",
+      "fecha": "2026-08-28",
+      "url": "https://www.clickondetroit.com/news/world/2026/08/29/colombia-captures-a-suspected-tren-de-aragua-gang-leader-as-us-security-ties-deepen/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s15",
+      "titulo": "'Nairobi': así operaba el detenido líder del 'Tren de Aragua' en el Perú",
+      "editor": "El Comercio (Perú)",
+      "fecha": "2026-08",
+      "url": "https://elcomercio.pe/lima/sucesos/nairobi-asi-operaba-el-detenido-lider-del-tren-de-aragua-en-el-peru-y-hombre-de-confianza-del-nino-guerrero-luis-saul-perez-ultimas-noticia/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s16",
+      "titulo": "Cae en Perú líder del Tren de Aragua en Chile con apoyo del FBI",
+      "editor": "AFP / DW (vía Yahoo Noticias)",
+      "fecha": "2026-08-29",
+      "url": "https://es-us.noticias.yahoo.com/cae-per%C3%BA-l%C3%ADder-tren-aragua-004100928.html",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s17",
+      "titulo": "Colombia autoriza extradición a Chile de 'Larry Changa', uno de los fundadores del Tren de Aragua",
+      "editor": "Univision",
+      "fecha": "2026-07-01",
+      "url": "https://www.univision.com/noticias/america-latina/colombia-autoriza-extradicion-a-chile-de-larry-changa-uno-de-los-fundadores-del-tren-de-aragua",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s18",
+      "titulo": "Tribunal da curso a solicitudes de extradición de dos venezolanos detenidos en EE.UU. por Operación Tokio",
+      "editor": "La Tercera",
+      "fecha": "2026-08-24",
+      "url": "https://www.latercera.com/nacional/noticia/tribunal-da-curso-a-solicitudes-de-extradicion-de-dos-venezolanos-detenidos-en-eeuu-por-operacion-tokio/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s19",
+      "titulo": "Caso Ronald Ojeda: Chile dicta su primera condena contra integrante del Tren de Aragua por el secuestro y homicidio del exteniente venezolano",
+      "editor": "NTN24",
+      "fecha": "2026-10-01",
+      "url": "https://www.ntn24.com/noticias-actualidad/caso-ronald-ojeda-chile-dicta-primera-condena-contra-integrante-tren-aragua-secuestro-homicidio-exteniente-venezolano-655131",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s20",
+      "titulo": "Golpe al Tren de Aragua: 17 presuntos integrantes fueron detenidos en Bogotá y otras ciudades",
+      "editor": "El Heraldo (Colombia)",
+      "fecha": "2026-09-18",
+      "url": "https://www.elheraldo.co/colombia/2026/09/18/golpe-al-tren-de-aragua-17-presuntos-integrantes-detenidos-en-bogota-y-otras-ciudades/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s21",
+      "titulo": "La lucha contra la criminalidad no se detiene: golpes contra el 'Tren de Aragua' y 'Los Buitres' en septiembre",
+      "editor": "Alcaldía Mayor de Bogotá",
+      "fecha": "2026-10-04",
+      "url": "https://bogota.gov.co/mi-ciudad/seguridad/lucha-contra-criminalidad-capturas-durante-septiembre-2026-en-bogota",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s22",
+      "titulo": "U.S. says it has arrested nearly 350 suspected Tren de Aragua members nationwide",
+      "editor": "Miami Herald (vía Yahoo News)",
+      "fecha": "2026-07-01",
+      "url": "https://www.yahoo.com/news/us/articles/u-says-arrested-nearly-350-171145850.html",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s23",
+      "titulo": "FBI Top 10 fugitive accused of ATM cyberattacks appears in U.S. court",
+      "editor": "UPI",
+      "fecha": "2026-10-03",
+      "url": "https://www.upi.com/Top_News/US/2026/10/03/venezuelan-malware-us-federal-court/9751791081528/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s24",
+      "titulo": "Cae en España un fugitivo del Tren de Aragua reclamado por Estados Unidos",
+      "editor": "Euronews (vía Yahoo Noticias)",
+      "fecha": "2026-04-07",
+      "url": "https://es-us.noticias.yahoo.com/cae-espa%C3%B1a-fugitivo-tren-aragua-083332490.html",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s25",
+      "titulo": "U.S. increases reward to $5 million for tips leading to arrest of Tren de Aragua gang leader",
+      "editor": "CBS News",
+      "fecha": "2025-12-03",
+      "url": "https://www.cbsnews.com/news/reward-5-million-tips-arrest-of-tren-de-aragua-gang-leader-giovanni-vicente-mosquera-serrano/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s26",
+      "titulo": "5 Crime Groups You Need to Know to Understand Post-Maduro Venezuela",
+      "editor": "InSight Crime",
+      "fecha": "2026-01-08",
+      "url": "https://insightcrime.org/news/5-crime-groups-you-need-to-know-to-understand-post-maduro-venezuela/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s27",
+      "titulo": "Treasury Sanctions Venezuelan Cartel Headed by Maduro",
+      "editor": "Departamento del Tesoro de EE. UU.",
+      "fecha": "2025-07-25",
+      "url": "https://home.treasury.gov/news/press-releases/sb0207",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s28",
+      "titulo": "Cartel of the Suns (perfil criminal)",
+      "editor": "InSight Crime",
+      "fecha": "2026-05-29",
+      "url": "https://insightcrime.org/venezuela-organized-crime-news/cartel-de-los-soles-profile/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s29",
+      "titulo": "How Maduro's Ouster Will Shift Criminal Dynamics in Venezuela",
+      "editor": "InSight Crime",
+      "fecha": "2026-01-05",
+      "url": "https://insightcrime.org/news/will-maduros-arrest-venezuela-shift-criminal-dynamics/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s30",
+      "titulo": "Keiko Fujimori plantea declarar grupos terroristas al Tren de Aragua, Los Pulpos y La Jauría",
+      "editor": "RPP Noticias",
+      "fecha": "2026-09-11",
+      "url": "https://rpp.pe/politica/gobierno/keiko-fujimori-plantea-declarar-grupos-terroristas-al-tren-de-aragua-los-pulpos-y-la-jauria-noticia-1706895",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s31",
+      "titulo": "Declaran al Tren de Aragua como organización terrorista también en Argentina",
+      "editor": "CNN en Español (vía WRAL)",
+      "fecha": "2025-02-25",
+      "url": "https://www.wral.com/declaran-al-tren-de-aragua-como-organizaci-n-terrorista-tambi-n-en-argentina/21879645/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s32",
+      "titulo": "RePET – Listado de entidades (JSON)",
+      "editor": "Ministerio de Justicia de Argentina",
+      "fecha": "2026-10",
+      "url": "https://repet.jus.gob.ar/xml/entidades.json",
+      "categoria": "oficial",
+      "verificada": true
+    }
+  ]
+}

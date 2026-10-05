@@ -1,0 +1,315 @@
+{
+  "id": "acsn",
+  "nombre": "Autodefensas Conquistadoras de la Sierra Nevada (ACSN, Los Pachenca)",
+  "corto": "ACSN",
+  "alias": [
+    "Los Pachenca",
+    "Autodefensas Conquistadores de la Sierra Nevada",
+    "ACMG (Autodefensas Campesinas del Magdalena y La Guajira, denominación anterior)",
+    "Frente Resistencia Tayrona (denominación anterior)"
+  ],
+  "tipo": "grupo_armado",
+  "pais_origen": "COL",
+  "fundacion": "Viene del Bloque Resistencia Tayrona de las AUC de Hernán Giraldo, desmovilizado en 2006. Se consolidó como 'Los Pachenca' hacia 2013 bajo Jesús María Aguirre Gallego, 'Chucho Mercancía', y adoptó el nombre ACSN tras 2020, bajo los hermanos Castillo Carrillo.",
+  "resumen": "Es un grupo armado de origen paramilitar, arraigado en la Sierra Nevada de Santa Marta, que controla corredores de cocaína hacia el Caribe y redes de extorsión en Magdalena, La Guajira y Cesar. Ejerce gobernanza criminal sobre comunidades, el turismo y el mercado de tierras. Protege y da logística a envíos de cocaína que salen por puertos y aeropuertos de la región. Mantiene una guerra con el EGC por el control de la Sierra Nevada.",
+  "situacion_actual": "El Consejo de Seguridad Nacional lo clasificó como Grupo Armado Organizado el 8 de agosto de 2025, lo que permite operaciones militares, incluidos bombardeos, bajo el DIH. El gobierno Petro mantuvo el espacio sociojurídico, suspendió órdenes de captura el 20 de noviembre de 2025 y firmó un acuerdo de desescalamiento en febrero de 2026. El gobierno De la Espriella terminó ese espacio con las resoluciones 348, 349 y 350, que El Nuevo Siglo fecha el 28 de agosto de 2026 y otros medios reportaron el 2 de octubre. La Fiscalía reactivó las órdenes de captura de seis voceros el 1 de septiembre (Resolución 0-0263). La Policía abatió a 'Bendito Menor', jefe del frente Javier Cáceres, el 4 de septiembre en Riohacha, y a 'Cholo', segundo al mando y financiero, el 21 de septiembre en Guachaca (Santa Marta), en una operación con siete muertos y tres capturados. Las ACSN respondieron con un paro armado en Magdalena y La Guajira que levantaron el 25 de septiembre de 2026. 'Pinocho' sigue como jefe máximo prófugo y el grupo mantiene su disputa con el EGC.",
+  "estructura": "Tiene una comandancia central encabezada por Fredy Castillo Carrillo, 'Pinocho', con un consejo de mando central. Opera por frentes: El Tiempo menciona Cristóbal Duarte (Ciénaga), Libardo Vergel (Santa Marta), Javier Cáceres (La Guajira) y Resistencia Campesina (Cesar), y en 2025 citó también el frente Troncal del Caribe; la EUAA describe siete frentes. Las cifras oficiales de 2026 hablan de 594 integrantes (334 armados y 260 en redes de apoyo); InSight Crime estimó unos 620 a fines de 2025 y otras estimaciones llegan a 1.100. Recluta sobre todo en la región, alrededor del 95 % de sus miembros son nativos, y paga salarios. Según El Tiempo, la extorsión le deja entre 6.000 y 7.000 millones de pesos al mes.",
+  "lideres": [
+    {
+      "nombre": "Fredy Castillo Carrillo",
+      "alias": "Pinocho",
+      "rol": "Jefe máximo y financiero",
+      "estado": "Prófugo a 5 de octubre de 2026. Su hijo murió en la operación del 21 de septiembre de 2026.",
+      "fuente_ids": [
+        "s1",
+        "s7",
+        "s9"
+      ]
+    },
+    {
+      "nombre": "Carmen Evelio Castillo Carrillo",
+      "alias": "Muñeca",
+      "rol": "Cofundador y codirigente",
+      "estado": "Capturado en Pereira en junio de 2024 según InSight Crime; El Tiempo (septiembre de 2026) lo sigue mencionando como dirigente y vocero. Su situación jurídica actual no está confirmada.",
+      "fuente_ids": [
+        "s1",
+        "s9"
+      ]
+    },
+    {
+      "nombre": "José Luis Pérez Villanueva",
+      "alias": "Cholo / Comando 25",
+      "rol": "Segundo al mando y financiero; coordinaba rutas de lanchas rápidas hacia Centroamérica",
+      "estado": "Abatido el 21 de septiembre de 2026 en Quebrada del Sol, corregimiento de Guachaca (Santa Marta), en una operación de la DIRAN.",
+      "fuente_ids": [
+        "s7",
+        "s8",
+        "s1"
+      ]
+    },
+    {
+      "nombre": "Naín Andrés Pérez Toncel",
+      "alias": "Bendito Menor",
+      "rol": "Comandante del frente Javier Cáceres (La Guajira)",
+      "estado": "Abatido el 4 de septiembre de 2026 en Riohacha.",
+      "fuente_ids": [
+        "s1",
+        "s9"
+      ]
+    },
+    {
+      "nombre": "Orlando Pérez Ortega",
+      "alias": "Patilizo",
+      "rol": "Mando medio y vocero en el espacio sociojurídico",
+      "estado": "Prófugo. Orden de captura reactivada el 1 de septiembre de 2026.",
+      "fuente_ids": [
+        "s4",
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "nombre": "Jhon Rafael Salazar Salcedo",
+      "alias": "Comando 200",
+      "rol": "Mando y vocero en el espacio sociojurídico",
+      "estado": "Prófugo. Orden de captura reactivada el 1 de septiembre de 2026.",
+      "fuente_ids": [
+        "s4",
+        "s1"
+      ]
+    }
+  ],
+  "designaciones": [
+    {
+      "autoridad": "Gobierno de Colombia (Consejo de Seguridad Nacional; anuncio del Ministerio de Defensa en Valledupar)",
+      "categoria": "Grupo Armado Organizado (GAO) sujeto a las reglas del Derecho Internacional Humanitario",
+      "fecha": "2025-08-08",
+      "fuente_ids": [
+        "s3",
+        "s2"
+      ]
+    }
+  ],
+  "delitos": [
+    "cocaina",
+    "extorsion",
+    "sicariato",
+    "reclutamiento",
+    "narcomenudeo",
+    "trata",
+    "lavado"
+  ],
+  "presencia": [
+    {
+      "pais": "COL",
+      "nivel": "base",
+      "zonas": [
+        "Sierra Nevada de Santa Marta",
+        "Magdalena: Santa Marta (Guachaca), Ciénaga, Puebloviejo, Zona Bananera, Fundación",
+        "La Guajira: Dibulla, Palomino, Riohacha, Maicao, Manaure, Uribia",
+        "Cesar: Valledupar, Pueblo Bello, El Copey, Río de Oro, San Martín",
+        "Atlántico: Barranquilla (presencia esporádica)",
+        "Puerto y aeropuerto Simón Bolívar de Santa Marta"
+      ],
+      "delitos": [
+        "cocaina",
+        "extorsion",
+        "sicariato",
+        "reclutamiento",
+        "narcomenudeo",
+        "trata",
+        "lavado"
+      ],
+      "nota": "Su territorio de origen, con control hegemónico de las vertientes norte y occidental de la Sierra Nevada. La alerta de la Defensoría del 2 de diciembre de 2025 cubre 21 municipios de tres departamentos. Practica extorsión generalizada, acaparamiento de tierras ligado al turismo y lavado en ese sector, y recluta menores para cobrar extorsiones y vender droga. InSight Crime reporta también expansión hacia Santander y Norte de Santander.",
+      "fuente_ids": [
+        "s1",
+        "s2",
+        "s9",
+        "s11",
+        "s12",
+        "s13"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "USA",
+      "nivel": "limitada",
+      "zonas": [
+        "Ohio (jurisdicción de la solicitud de extradición)"
+      ],
+      "delitos": [
+        "cocaina"
+      ],
+      "nota": "En julio de 2026 la DIJIN y la DEA capturaron en Santa Marta a seis personas pedidas en extradición por un tribunal federal de Ohio. La red enviaba cocaína en aeronaves privadas desde el aeropuerto de Santa Marta hacia EE. UU. y Europa, y las ACSN le daban seguridad y logística. Es una red aliada, no una célula propia.",
+      "fuente_ids": [
+        "s14",
+        "s15"
+      ],
+      "confianza": "media"
+    }
+  ],
+  "vinculos": [
+    {
+      "destino": "clan-del-golfo",
+      "tipo": "rivalidad",
+      "descripcion": "Guerra reanudada en 2021 tras un periodo de alianza bajo 'Chucho Mercancía'. Disputan corredores de cocaína en Magdalena, La Guajira, Cesar y Norte de Santander frente al avance del Bloque Nelson Darío Hurtado Simanca del EGC. En septiembre de 2026 las ACSN dijeron que su paro armado buscaba impedir la entrada del Clan del Golfo. La Defensoría señala cooperación ocasional en zonas portuarias por conveniencia económica.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s1",
+        "s11",
+        "s10",
+        "s13",
+        "s12"
+      ],
+      "confianza": "alta"
+    }
+  ],
+  "notas_controversia": "El nombre aparece como 'Conquistadoras' y 'Conquistadores' según la fuente. Las cifras de integrantes van de 250 (inteligencia militar, 2024) a 1.100 (cifra del propio grupo): 594 según datos oficiales de 2026, unos 620 según InSight Crime y 858 en 2025 según El Tiempo. La fecha del cierre del espacio sociojurídico es dudosa: El Nuevo Siglo sitúa las resoluciones presidenciales el 28 de agosto de 2026, mientras El Universal y la Presidencia las difundieron el 2 de octubre; se toma el 28 de agosto porque la Fiscalía reactivó las órdenes el 1 de septiembre. Las ACSN afirman que 'Cholo' fue ejecutado tras rendirse y que un joven de 18 años murió desarmado en la misma operación; la versión oficial habla de una operación con combates. La situación de 'Muñeca', capturado según InSight Crime en 2024, no es clara. Que el grupo se presente como 'autodefensa' es una autodefinición sin sustento en las fuentes oficiales.",
+  "confianza_general": "alta",
+  "fuentes": [
+    {
+      "id": "s1",
+      "titulo": "Autodefensas Conquistadoras de la Sierra Nevada (ACSN) (perfil)",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-25",
+      "url": "https://insightcrime.org/colombia-organized-crime-news/pachenca/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s2",
+      "titulo": "Lo que implica el reconocimiento de 'los Pachenca' como grupo armado organizado: ya hace presencia en 14 municipios de tres departamentos",
+      "editor": "El Tiempo",
+      "fecha": "2025-08",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/lo-que-implica-el-reconocimiento-de-los-pachencas-como-grupo-armado-organizado-ya-hace-presencia-en-14-municipios-de-tres-departamentos-3479807",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s3",
+      "titulo": "Gobierno autorizó uso de la fuerza tras clasificar a las Autodefensas Conquistadoras de la Sierra Nevada como grupo armado organizado",
+      "editor": "Infobae",
+      "fecha": "2025-08-08",
+      "url": "https://www.infobae.com/colombia/2025/08/08/gobierno-autorizo-uso-de-la-fuerza-tras-clasificar-a-las-autodefensas-conquistadoras-de-la-sierra-nevada-como-grupo-armado-organizado/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s4",
+      "titulo": "Fiscalía reactiva órdenes de captura contra tres grupos armados ilegales",
+      "editor": "El Nuevo Siglo",
+      "fecha": "2026-09",
+      "url": "https://www.elnuevosiglo.com.co/nacion/fiscalia-reactiva-ordenes-de-captura-contra-tres-grupos-armados-ilegales",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s5",
+      "titulo": "Gobierno De la Espriella pone fin al diálogo con los Pachenca y toma nuevas medidas",
+      "editor": "El Universal (Cartagena)",
+      "fecha": "2026-10-02",
+      "url": "https://www.eluniversal.com.co/colombia/2026/10/02/gobierno-de-la-espriella-pone-fin-al-dialogo-con-los-pachenca-y-toma-nuevas-medidas/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s6",
+      "titulo": "Gobierno indica que fin del espacio de conversación con Autodefensas Conquistadores de Sierra Nevada se dio por falta de avances hacia el sometimiento a la justicia",
+      "editor": "Presidencia de la República de Colombia",
+      "fecha": "2026-10",
+      "url": "https://www.presidencia.gov.co/prensa/Paginas/Gobierno-indica-que-fin-del-espacio-de-conversacion-con-Autodefensas-Conquistadores-261001.aspx",
+      "categoria": "oficial",
+      "verificada": false
+    },
+    {
+      "id": "s7",
+      "titulo": "Muere alias 'Cholo', presunto segundo jefe de las Autodefensas de la Sierra Nevada",
+      "editor": "El Espectador",
+      "fecha": "2026-09-21",
+      "url": "https://www.elespectador.com/judicial/muere-alias-cholo-presunto-segundo-jefe-de-las-autodefensas-de-la-sierra-nevada/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s8",
+      "titulo": "¿Qué implica la muerte de alias Cholo en línea de mando de las ACSN?",
+      "editor": "El Heraldo",
+      "fecha": "2026-09-22",
+      "url": "https://www.elheraldo.co/colombia/2026/09/22/que-implica-la-muerte-de-alias-cholo-en-linea-de-mando-de-las-acsn/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s9",
+      "titulo": "Claves para entender el poder criminal de las Autodefensas Conquistadoras de la Sierra Nevada: crueldad, sueldos millonarios y arraigo endémico",
+      "editor": "El Tiempo",
+      "fecha": "2026-09-22",
+      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/claves-para-entender-el-poder-criminal-de-las-autodefensas-conquistadoras-de-la-sierra-nevada-crueldad-sueldos-millonarios-y-arraigo-endemico-3587908",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s10",
+      "titulo": "Autodefensas Conquistadoras de la Sierra Nevada anuncian fin del paro armado en Magdalena y La Guajira: esto se sabe",
+      "editor": "Infobae",
+      "fecha": "2026-09-24",
+      "url": "https://www.infobae.com/colombia/2026/09/24/autodefensas-conquistadoras-de-la-sierra-nevada-anuncian-fin-del-paro-armado-en-magdalena-y-la-guajira-esto-se-sabe/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s11",
+      "titulo": "Defensora del Pueblo lanzó alerta sobre los sectores del Magdalena y la Guajira donde operan Los Pachenca: 'Situación de riesgo estructural'",
+      "editor": "Infobae",
+      "fecha": "2026-09-22",
+      "url": "https://www.infobae.com/colombia/2026/09/22/defensora-del-pueblo-lanzo-alerta-sobre-los-sectores-del-magdalena-y-la-guajira-donde-operan-los-pachenca-situacion-de-riesgo-estructural/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s12",
+      "titulo": "Colombia – Country Focus: 3.1.6 Autodefensas Conquistadoras de la Sierra Nevada (ACSN)",
+      "editor": "Agencia de Asilo de la Unión Europea (EUAA)",
+      "fecha": "2026-04",
+      "url": "https://www.euaa.europa.eu/colombia-country-focus/316-autodefensas-conquistadoras-de-la-sierra-nevada-acsn",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s13",
+      "titulo": "Autodefensas Conquistadores de la Sierra Nevada: tensiones entre el desarrollo turístico y la gobernanza criminal",
+      "editor": "UNODC – SAGA (Colombia)",
+      "fecha": "2024-05",
+      "url": "https://saga.unodc.org.co/es/autodefensas-conquistadores-de-la-sierra-nevada",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s14",
+      "titulo": "Cae red de narcotráfico al servicio de las Autodefensas Conquistadoras de la Sierra: 6 capturados con fines de extradición",
+      "editor": "Semana",
+      "fecha": "2026-07",
+      "url": "https://www.semana.com/nacion/articulo/cae-red-de-narcotrafico-al-servicio-de-las-autodefensas-conquistadoras-de-la-sierra-6-capturados-con-fines-de-extradicion/202636/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s15",
+      "titulo": "Capturaron a seis extraditables aliados de las Autodefensas Conquistadores de la Sierra Nevada: así traficaban droga a Estados Unidos",
+      "editor": "Infobae",
+      "fecha": "2026-07-13",
+      "url": "https://www.infobae.com/colombia/2026/07/13/capturaron-a-seis-extraditables-aliados-de-las-autodefensas-conquistadores-de-la-sierra-nevada-asi-traficaban-droga-a-estados-unidos/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s16",
+      "titulo": "Presidente Abelardo de la Espriella pone fin a designación de negociadores con el ELN y el Clan del Golfo",
+      "editor": "El País (Cali)",
+      "fecha": "2026-09-09",
+      "url": "https://www.elpais.com.co/colombia/presidente-abelardo-de-la-espriella-pone-fin-a-designacion-de-negociadores-con-el-eln-y-el-clan-del-golfo-0937.html",
+      "categoria": "prensa",
+      "verificada": true
+    }
+  ]
+}

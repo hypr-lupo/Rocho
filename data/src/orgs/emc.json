@@ -1,0 +1,441 @@
+{
+  "id": "emc",
+  "nombre": "Estado Mayor Central (EMC), facción de Iván Mordisco",
+  "corto": "EMC",
+  "alias": [
+    "EMC",
+    "EMC FARC-EP",
+    "FARC-EP (disidencias)",
+    "Estado Mayor Central de las FARC-EP",
+    "disidencias de Iván Mordisco",
+    "GAO-R FARC-EP"
+  ],
+  "tipo": "grupo_armado",
+  "pais_origen": "COL",
+  "fundacion": "2016-2017: surge del rechazo del Frente 1 de las FARC-EP al proceso de paz (julio de 2016) y se estructura como Estado Mayor Central hacia abril de 2017; Néstor Gregorio Vera Fernández (Iván Mordisco) lo dirige desde 2022. En 2024 se escindió la facción de Calarcá (EMBF).",
+  "resumen": "Principal facción disidente de las antiguas FARC-EP, dirigida por Néstor Gregorio Vera Fernández, alias Iván Mordisco. Opera con cuatro bloques y unos 21 frentes o subestructuras en el sur, el suroccidente y el oriente de Colombia y en zonas fronterizas con Venezuela. Sus rentas provienen del narcotráfico (cultivos de coca, laboratorios y rutas), la minería ilegal y la extorsión. Se retiró de la Paz Total en 2024 y mantiene confrontación armada con el EMBF y el ELN.",
+  "situacion_actual": "A la fecha de corte el EMC sigue activo, sin proceso de diálogo y bajo la ofensiva militar del gobierno de Abelardo de la Espriella (posesionado el 7 de agosto de 2026), que ofrece 5.000 millones de pesos por Mordisco y concentra operaciones en Cauca, Meta y Guaviare. En 2026 el grupo ejecutó la ola de ataques de finales de abril en Cauca y Valle del Cauca, incluido un artefacto explosivo que mató a 21 civiles en una vía del Cauca el 25 de abril, y combatió con el EMBF en Guaviare, donde a finales de mayo se recuperaron cerca de 50 cuerpos. Mordisco escapó a un bombardeo en Vaupés en marzo de 2026 y se reporta herido. La Fuerza Pública reportó abatidos a alias Marlon (20 de junio, Buenaventura; cuerpo no recuperado), a alias Tigre o Pintado del Frente Carolina Ramírez (30 de agosto, Guaviare) y a alias Felipe o Arcadio de la estructura Jaime Martínez (30 de agosto, Valle del Cauca). Pese a esas bajas, conserva capacidad de ataque con drones y explosivos en Cauca, Valle del Cauca y el sur del Tolima.",
+  "estructura": "Organización federada con mando central de Iván Mordisco y cuatro bloques con unos 21 frentes o subestructuras (InSight Crime, septiembre de 2026): Bloque Occidental Jacobo Arenas (Cauca, Valle del Cauca y Nariño; estructuras Jaime Martínez, Dagoberto Ramos y Carlos Patiño), Bloque Amazonas (Putumayo y Caquetá, con el Frente Carolina Ramírez, también activo en Guaviare), Bloque Central Isaías Pardo y Comando Conjunto de Oriente (Llanos Orientales y frontera con Venezuela; el Frente 10, aliado, opera en Arauca y Apure). En el sur del Tolima actúa la estructura Gerónimo Galeano, y en el sur del Cauca el Frente Andrés Patiño, anunciado en julio de 2025. Según cifras de la Fundación Ideas para la Paz citadas por la prensa, en 2025 el EMC tenía 4.480 integrantes. Cuenta con redes financieras, milicias urbanas y producción de drones artesanales.",
+  "lideres": [
+    {
+      "nombre": "Néstor Gregorio Vera Fernández",
+      "alias": "Iván Mordisco",
+      "rol": "Comandante máximo del EMC",
+      "estado": "Prófugo; presuntamente herido tras un bombardeo en Vaupés en marzo de 2026; el gobierno colombiano ofrece una recompensa de 5.000 millones de pesos (agosto de 2026); designado Terrorista Global Especialmente Designado (SDGT) por EE. UU. desde el 1 de diciembre de 2021",
+      "fuente_ids": [
+        "s2",
+        "s5",
+        "s15"
+      ]
+    },
+    {
+      "nombre": "Iván Jacobo Idrobo Arredondo",
+      "alias": "Marlon",
+      "rol": "Cabecilla de la estructura Jaime Martínez, señalado como mano derecha de Mordisco en el suroccidente",
+      "estado": "Abatido según el Ejército el 20-06-2026 en San Isidro, zona rural de Buenaventura (Valle del Cauca); el cuerpo no fue recuperado",
+      "fuente_ids": [
+        "s6",
+        "s7"
+      ]
+    },
+    {
+      "nombre": "Alias Tigre o Pintado (nombre no divulgado)",
+      "alias": "Tigre / Pintado",
+      "rol": "Cabecilla del Frente Carolina Ramírez (Bloque Amazonas)",
+      "estado": "Abatido en un bombardeo en Guaviare el 30-08-2026, según anuncio oficial",
+      "fuente_ids": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "nombre": "Alias Felipe o Arcadio (nombre no divulgado)",
+      "alias": "Felipe / Arcadio",
+      "rol": "Comandante de una unidad de la estructura Jaime Martínez, acusado de ataques con drones y extorsión",
+      "estado": "Abatido en el Valle del Cauca el 30-08-2026, según anuncio del presidente De la Espriella",
+      "fuente_ids": [
+        "s4"
+      ]
+    },
+    {
+      "nombre": "Andrés Calambás",
+      "alias": "Yamaha / Iván",
+      "rol": "Presunto cabecilla de la estructura Gerónimo Galeano (sur del Tolima)",
+      "estado": "Prófugo; recompensa de 500 millones de pesos anunciada el 28-08-2026",
+      "fuente_ids": [
+        "s9",
+        "s10"
+      ]
+    },
+    {
+      "nombre": "Florentino Boyocué",
+      "alias": "Leonel / Amazonas",
+      "rol": "Presunto cabecilla de la estructura Gerónimo Galeano (sur del Tolima)",
+      "estado": "Prófugo; recompensa de 500 millones de pesos anunciada el 28-08-2026",
+      "fuente_ids": [
+        "s9",
+        "s10"
+      ]
+    },
+    {
+      "nombre": "Claudia Cristina Fiaga Casierra",
+      "alias": "Claudia",
+      "rol": "Presunta administradora de fondos del narcotráfico, la extorsión y el comercio ilegal de oro",
+      "estado": "Capturada en agosto de 2026",
+      "fuente_ids": [
+        "s5"
+      ]
+    }
+  ],
+  "designaciones": [
+    {
+      "autoridad": "Departamento de Estado de EE. UU.",
+      "categoria": "Organización Terrorista Extranjera (FTO), bajo la denominación FARC-EP (alias 'FARC dissidents FARC-EP', 'GAO-R FARC-EP'); firmada el 18-11-2021 y publicada en el Federal Register",
+      "fecha": "2021-12-01",
+      "fuente_ids": [
+        "s14"
+      ]
+    },
+    {
+      "autoridad": "Departamento de Estado de EE. UU.",
+      "categoria": "Terrorista Global Especialmente Designado (SDGT, E.O. 13224) para FARC-EP y para Néstor Gregorio Vera Fernández (Iván Mordisco)",
+      "fecha": "2021-12-01",
+      "fuente_ids": [
+        "s15"
+      ]
+    }
+  ],
+  "delitos": [
+    "cocaina",
+    "mineria",
+    "extorsion",
+    "reclutamiento",
+    "sicariato",
+    "lavado"
+  ],
+  "presencia": [
+    {
+      "pais": "COL",
+      "nivel": "base",
+      "zonas": [
+        "Cauca: El Tambo, Cajibío, cañón del Micay (El Plateado), sur del Cauca (Bolívar, Sucre, Almaguer, La Vega)",
+        "Valle del Cauca: Cali, Jamundí, Buenaventura",
+        "Nariño",
+        "Tolima: Chaparral, Dolores (sur del Tolima)",
+        "Huila",
+        "Guaviare: San José del Guaviare, Calamar, Miraflores",
+        "Vaupés",
+        "Meta",
+        "Caquetá",
+        "Putumayo",
+        "Amazonas",
+        "Arauca",
+        "Casanare",
+        "Vichada",
+        "Norte de Santander"
+      ],
+      "delitos": [
+        "cocaina",
+        "mineria",
+        "extorsion",
+        "reclutamiento",
+        "sicariato",
+        "lavado"
+      ],
+      "nota": "Centro de mando y principal territorio. Conflicto con el EMBF en Guaviare y con el ELN en Arauca y el sur del Cauca; presencia limitada en Antioquia y Chocó por presión militar.",
+      "fuente_ids": [
+        "s1",
+        "s2",
+        "s3",
+        "s5",
+        "s9",
+        "s11",
+        "s12",
+        "s18"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "VEN",
+      "nivel": "limitada",
+      "zonas": [
+        "Apure",
+        "Zulia"
+      ],
+      "delitos": [
+        "cocaina"
+      ],
+      "nota": "El Frente 10, aliado del EMC, tuvo base en Apure, pero está muy debilitado o desplazado; tras la salida de Maduro (3-1-2026) la presencia de las disidencias en Venezuela es inestable o casi inexistente según InSight Crime.",
+      "fuente_ids": [
+        "s1",
+        "s13"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "ECU",
+      "nivel": "limitada",
+      "zonas": [
+        "Frontera con Nariño y Putumayo (provincias de Esmeraldas, Carchi y Sucumbíos)"
+      ],
+      "delitos": [
+        "cocaina"
+      ],
+      "nota": "Reporte periodístico sobre facciones del EMC entre los grupos colombianos que presionan la frontera ecuatoriana; sin detalle de estructuras.",
+      "fuente_ids": [
+        "s16"
+      ],
+      "confianza": "baja"
+    }
+  ],
+  "vinculos": [
+    {
+      "destino": "embf",
+      "tipo": "rivalidad",
+      "descripcion": "Guerra entre facciones desde la escisión de 2024 por corredores de coca, minería y rutas en Guaviare, Caquetá, Meta, Putumayo y Amazonas; los combates de finales de mayo de 2026 en Guaviare dejaron cerca de 50 muertos, entre ellos 11 menores.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s1",
+        "s3",
+        "s8"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "eln",
+      "tipo": "rivalidad",
+      "descripcion": "Enfrentamientos en Arauca, Apure y Norte de Santander y, desde julio de 2025, en el sur del Cauca con el nuevo Frente Andrés Patiño; pactos inestables en el sur de Bolívar.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s1",
+        "s12"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "cneb",
+      "tipo": "rivalidad",
+      "descripcion": "El Frente Carolina Ramírez del EMC es el principal rival de Comandos de la Frontera (componente de la CNEB) por corredores de tráfico en Putumayo y el sur del país.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s20",
+        "s1"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "segunda-marquetalia",
+      "tipo": "rivalidad",
+      "descripcion": "Competencia por control territorial en el sur y en la frontera con Venezuela; InSight Crime la clasifica como enemiga del EMC, aunque la Segunda Marquetalia está muy debilitada desde 2024.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s1",
+        "s21"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "clan-del-golfo",
+      "tipo": "rivalidad",
+      "descripcion": "Choques en el sur de Bolívar, el sur de Córdoba y Bajo Cauca; InSight Crime menciona también una presunta alianza táctica en Chocó contra el ELN.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s1"
+      ],
+      "confianza": "baja"
+    }
+  ],
+  "notas_controversia": "El perfil de InSight Crime (actualizado el 1-9-2026) sigue listando a alias Marlon como figura clave, aunque el Ejército lo dio por abatido el 20-6-2026 sin recuperar el cuerpo. Las cifras de integrantes varían: la FIP (citada por Vanguardia) estimó 4.480 en 2025, y no queda claro si la cifra separa al EMC del EMBF. La afiliación del Frente Acacio Medina es disputada: un perfil general de InSight lo ubica en el EMC y otros lo asocian con la Segunda Marquetalia de alias John 40. La designación FTO/SDGT de EE. UU. (2021) nombra a las 'FARC-EP' antes de la escisión de 2024; no hay aclaración oficial sobre si cubre también al EMBF. Sectores de oposición atribuyeron al EMC el atentado contra Miguel Uribe Turbay (2025), mientras que la Fiscalía lo atribuye a la Segunda Marquetalia. El reporte de presencia en Ecuador procede de una sola fuente periodística.",
+  "confianza_general": "alta",
+  "fuentes": [
+    {
+      "id": "s1",
+      "titulo": "Central General Staff – FARC Dissidents",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-01",
+      "url": "https://insightcrime.org/colombia-organized-crime-news/ex-farc-mafia-central-general-staff/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s2",
+      "titulo": "Néstor Gregorio Vera Fernández, alias 'Iván Mordisco'",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-01",
+      "url": "https://insightcrime.org/colombia-organized-crime-news/nestor-gregorio-vera-fernandez-alias-ivan-mordisco/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s3",
+      "titulo": "Misión de Verificación de las Naciones Unidas en Colombia. Informe del Secretario General (S/2026/528)",
+      "editor": "Consejo de Seguridad de las Naciones Unidas",
+      "fecha": "2026-06-26",
+      "url": "https://colombia.unmissions.org/sites/default/files/2026-10/sp_n6290045.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s4",
+      "titulo": "Colombia's president says soldiers killed a key dissident leader",
+      "editor": "PBS NewsHour (Associated Press)",
+      "fecha": "2026-08-30",
+      "url": "https://www.pbs.org/newshour/world/colombias-president-says-soldiers-killed-a-key-dissident-leader",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s5",
+      "titulo": "Se cierra el cerco contra 'Iván Mordisco': Gobierno acelera operaciones para ubicarlo en tres departamentos",
+      "editor": "El Tiempo",
+      "fecha": "2026-08-19",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/se-cierra-el-cerco-contra-ivan-mordisco-gobierno-acelera-operaciones-para-ubicarlo-en-tres-departamentos-3579329",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s6",
+      "titulo": "'Cali está blindada, luego de la muerte de alias Marlon, pero faltan más'",
+      "editor": "El Tiempo",
+      "fecha": "2026-06-21",
+      "url": "https://www.eltiempo.com/colombia/cali/cali-esta-blindada-luego-de-la-muerte-de-alias-marlon-pero-faltan-mas-y-el-llamado-al-proximo-presidente-es-priorizar-la-seguridad-alcalde-eder-3565863",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s7",
+      "titulo": "Así fue el operativo contra 'Marlon', líder de las disidencias de 'Iván Mordisco' que fue abatido por el Ejército",
+      "editor": "Infobae",
+      "fecha": "2026-06-22",
+      "url": "https://www.infobae.com/colombia/2026/06/22/revelan-nuevos-detalles-del-operativo-contra-marlon-lider-de-las-disidencias-que-fue-abatido-por-el-ejercito-milicianos-se-llevaron-su-cuerpo/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s8",
+      "titulo": "Reportan casi medio centenar de muertos en combates entre dos disidencias de las FARC",
+      "editor": "Telemundo (EFE)",
+      "fecha": "2026-05-28",
+      "url": "https://www.telemundo.com/noticias/noticias-telemundo/internacional/reportan-casi-medio-centenar-de-muertos-en-combates-entre-dos-disidenc-rcna347431",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s9",
+      "titulo": "Duro golpe a 'Iván Mordisco' en el Tolima: se reportan capturas y la recuperación de un menor",
+      "editor": "NTN24",
+      "fecha": "2026-09-23",
+      "url": "https://www.ntn24.com/noticias-actualidad/duro-golpe-a-ivan-mordisco-en-el-tolima-se-reportan-capturas-y-la-recuperacion-de-un-menor-652639",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s10",
+      "titulo": "De La Espriella ofrece $1.000 millones por información para capturar a dos jefes de las disidencias de Mordisco en Tolima",
+      "editor": "El Cronista",
+      "fecha": "2026-08-28",
+      "url": "https://www.cronista.com/colombia/actualidad-co/de-la-espriella-ofrece-1000-millones-por-informacion-para-capturar-a-dos-jefes-de-las-disidencias-de-mordisco-en-tolima/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s11",
+      "titulo": "La radiografía secreta de la Carlos Patiño: los golpes que están debilitando a uno de los brazos de Iván Mordisco",
+      "editor": "Semana",
+      "fecha": "2026-09-28",
+      "url": "https://www.semana.com/nacion/articulo/la-radiografia-secreta-de-la-carlos-patino-los-golpes-que-estan-debilitando-a-uno-de-los-brazos-de-ivan-mordisco/202600/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s12",
+      "titulo": "Disidencia de Mordisco en Cauca anuncia creación de nuevo frente 'Andrés Patiño' y ataques al ELN",
+      "editor": "El Espectador",
+      "fecha": "2025-07-02",
+      "url": "https://www.elespectador.com/colombia-20/conflicto/disidencia-mordisco-en-cauca-anuncia-creacion-de-nuevo-frente-andres-patino-y-ataques-al-eln/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s13",
+      "titulo": "FARC Dissidents in Venezuela",
+      "editor": "InSight Crime",
+      "fecha": "2026-08-14",
+      "url": "https://insightcrime.org/venezuela-organized-crime-news/farc-in-venezuela/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s14",
+      "titulo": "In the Matter of the Designation of Revolutionary Armed Forces of Colombia-People's Army (and Other Aliases) as a Foreign Terrorist Organization (2021-26091)",
+      "editor": "Departamento de Estado de EE. UU. / Federal Register",
+      "fecha": "2021-12-01",
+      "url": "https://www.federalregister.gov/documents/full_text/text/2021/12/01/2021-26091.txt",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s15",
+      "titulo": "Designation of Revolutionary Armed Forces of Colombia People's Army, Nestor Gregorio Vera Fernandez, Miguel Santanilla Botache, and Euclides Espana Caicedo as Specially Designated Global Terrorists (2021-26123)",
+      "editor": "Departamento de Estado de EE. UU. / Federal Register",
+      "fecha": "2021-12-01",
+      "url": "https://www.federalregister.gov/documents/full_text/text/2021/12/01/2021-26123.txt",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s16",
+      "titulo": "El fin de la tregua en Colombia fortaleció a las guerrillas en la frontera y elevó la presión criminal sobre Ecuador",
+      "editor": "Infobae",
+      "fecha": "2026-08-06",
+      "url": "https://www.infobae.com/america/america-latina/2026/08/06/el-fin-de-la-tregua-en-colombia-fortalecio-a-las-guerrillas-en-la-frontera-y-elevo-la-presion-criminal-sobre-ecuador/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s17",
+      "titulo": "On the Radar: Drug Lords, Dissident Groups, and Airstrikes in Latin America",
+      "editor": "InSight Crime",
+      "fecha": "2026-04-30",
+      "url": "https://insightcrime.org/news/on-the-radar-drug-lords-dissident-groups-airstrikes-latin-america/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s18",
+      "titulo": "Global Organized Crime Index 2025: Colombia",
+      "editor": "Global Initiative Against Transnational Organized Crime",
+      "fecha": "2025",
+      "url": "https://ocindex.net/country/colombia",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s19",
+      "titulo": "La paz total 'reforzó' los grupos armados durante el Gobierno de Gustavo Petro",
+      "editor": "Vanguardia",
+      "fecha": "2026-08-07",
+      "url": "https://www.vanguardia.com/politica/2026/08/07/la-paz-total-reforzo-los-grupos-armados-durante-el-gobierno-de-gustavo-petro/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s20",
+      "titulo": "Border Command",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-30",
+      "url": "https://insightcrime.org/colombia-organized-crime-news/border-command/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s21",
+      "titulo": "Second Marquetalia",
+      "editor": "InSight Crime",
+      "fecha": "2026-06-01",
+      "url": "https://insightcrime.org/colombia-organized-crime-news/segunda-marquetalia/",
+      "categoria": "investigacion",
+      "verificada": true
+    }
+  ]
+}

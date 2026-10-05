@@ -1,0 +1,519 @@
+{
+  "id": "ms13",
+  "nombre": "Mara Salvatrucha (MS-13)",
+  "corto": "MS-13",
+  "alias": [
+    "MS-13",
+    "MS13",
+    "Mara Salvatrucha",
+    "MS",
+    "La Mara"
+  ],
+  "tipo": "pandilla",
+  "pais_origen": "SLV",
+  "fundacion": "Década de 1980 en Los Ángeles (EE. UU.), entre migrantes salvadoreños; se consolidó en El Salvador, Honduras y Guatemala tras las deportaciones de los años noventa. Su cúpula transnacional (Ranfla Nacional) tiene su sede histórica en las cárceles de El Salvador.",
+  "resumen": "Pandilla transnacional surgida en Los Ángeles y consolidada en el norte de Centroamérica, organizada en clicas y programas bajo una cúpula recluida en El Salvador. Su principal fuente de ingresos es la extorsión, complementada con narcomenudeo, homicidios y, a través de su Programa México, tráfico de migrantes, secuestros y armas. EE. UU. la designó Organización Terrorista Extranjera el 20 de febrero de 2025, y Canadá, Guatemala y Honduras la declararon organización terrorista entre 2025 y 2026.",
+  "situacion_actual": "En El Salvador, el régimen de excepción vigente desde el 27 de marzo de 2022, que suma unas 92.000 detenciones según AFP, desarticuló su control territorial. El 20 de abril de 2026 comenzó un juicio masivo contra 485 presuntos cabecillas, entre ellos los 22 miembros de la llamada ranfla histórica, por unos 47.000 delitos cometidos entre 2012 y 2022; en junio de 2026 el veredicto seguía pendiente. Ese año los tribunales condenaron además clicas completas en febrero, julio, agosto y septiembre. En EE. UU., tras la designación como FTO, la Fuerza de Tarea Conjunta Vulcan y la Homeland Security Task Force sostienen procesos como la condena de ocho miembros en Houston el 21 de abril de 2026; en marzo de 2025, sin embargo, el Departamento de Justicia retiró los cargos contra César Humberto López Larios (alias Greñas) y lo deportó a El Salvador. El 17 de marzo de 2025 México detuvo en Veracruz a Francisco Javier Román Bardales (alias Veterano de Tribus), coordinador del Programa México, y lo entregó a EE. UU. Guatemala la declaró organización terrorista con el Decreto 11-2025 (publicado el 10 de noviembre de 2025). Honduras, que puso fin a su estado de excepción el 26 de enero de 2026, la declaró asociación terrorista el 18 de septiembre de 2026. En Honduras y Guatemala conserva estructuras urbanas activas, y el Ministerio de Gobernación guatemalteco atribuyó los ataques del 29 de septiembre de 2026 a su disputa con Barrio 18 y Los Caradura.",
+  "estructura": "Red descentralizada de clicas (células territoriales), cada una con primera y segunda palabra y un tesorero, que se agrupan en programas (por ejemplo, el Programa Hollywood y el Programa México). Los corredores y palabreros ejercen el mando bajo la Ranfla Nacional, el consejo de dirección recluido en El Salvador, y la Ranfla en las Calles. No hay un líder único reconocido. Las clicas de EE. UU. han recibido órdenes de la cúpula salvadoreña, incluidas aprobaciones de homicidios. En El Salvador la mayoría de los miembros está en prisión y los remanentes se dispersaron o se ocultaron.",
+  "lideres": [
+    {
+      "nombre": "Borromeo Enrique Henríquez Solórzano",
+      "alias": "Diablito de Hollywood",
+      "rol": "Presunto máximo líder histórico e integrante de la Ranfla Nacional",
+      "estado": "Detenido en El Salvador, donde cumple una condena de 87 años; es el principal acusado del juicio masivo iniciado el 20 de abril de 2026, cuyo veredicto seguía pendiente en junio de 2026",
+      "fuente_ids": [
+        "s12"
+      ]
+    },
+    {
+      "nombre": "Francisco Javier Román Bardales",
+      "alias": "Veterano de Tribus",
+      "rol": "Miembro fundador de la Ranfla en las Calles, a cargo de la zona occidental de El Salvador y coordinador del Programa México",
+      "estado": "Detenido en Veracruz (México) el 17 de marzo de 2025 y entregado a EE. UU. el 18 de marzo de 2025; procesado en el Distrito Este de Nueva York",
+      "fuente_ids": [
+        "s10"
+      ]
+    },
+    {
+      "nombre": "César Humberto López Larios",
+      "alias": "Greñas",
+      "rol": "Presunto alto mando de la Ranfla Nacional",
+      "estado": "El Departamento de Justicia retiró los cargos en marzo de 2025 y lo deportó a El Salvador (16 de marzo de 2025), donde permanece bajo custodia",
+      "fuente_ids": [
+        "s11",
+        "s19"
+      ]
+    },
+    {
+      "nombre": "Vladimir Antonio Arévalo Chávez",
+      "alias": "Vampiro",
+      "rol": "Presunto dirigente del Programa México e integrante de la Ranfla Nacional",
+      "estado": "Detenido en México en febrero de 2023 y trasladado a EE. UU.; la fiscalía pidió retirar los cargos el 1 de abril de 2025 para devolverlo a El Salvador. Su situación a la fecha de corte no está verificada",
+      "fuente_ids": [
+        "s11",
+        "s18"
+      ]
+    },
+    {
+      "nombre": "Élmer Canales Rivera",
+      "alias": "Crook",
+      "rol": "Presunto integrante de la Ranfla Nacional",
+      "estado": "Excarcelado irregularmente en El Salvador en 2021, recapturado en Chiapas (México) en noviembre de 2023 y bajo custodia de EE. UU.; su situación procesal en 2026 no está verificada",
+      "fuente_ids": [
+        "s11"
+      ]
+    }
+  ],
+  "designaciones": [
+    {
+      "autoridad": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "categoria": "Organización Criminal Transnacional (Orden Ejecutiva 13581)",
+      "fecha": "2012-10-11",
+      "fuente_ids": [
+        "s4"
+      ]
+    },
+    {
+      "autoridad": "Departamento de Estado de EE. UU.",
+      "categoria": "Organización Terrorista Extranjera (FTO), vigente desde su publicación en el Federal Register (firmada el 6 de febrero de 2025)",
+      "fecha": "2025-02-20",
+      "fuente_ids": [
+        "s2"
+      ]
+    },
+    {
+      "autoridad": "Departamento de Estado de EE. UU.",
+      "categoria": "Terrorista Global Especialmente Designado (SDGT, Orden Ejecutiva 13224)",
+      "fecha": "2025-02-20",
+      "fuente_ids": [
+        "s3"
+      ]
+    },
+    {
+      "autoridad": "Gobierno de Canadá (Public Safety Canada)",
+      "categoria": "Entidad terrorista listada conforme al Código Penal",
+      "fecha": "2025-02-20",
+      "fuente_ids": [
+        "s5"
+      ]
+    },
+    {
+      "autoridad": "Congreso de la República de Guatemala (Decreto 11-2025, Ley Antipandillas)",
+      "categoria": "Organización criminal, transnacional y terrorista, con sus clicas y subgrupos",
+      "fecha": "2025-11-10",
+      "fuente_ids": [
+        "s6"
+      ]
+    },
+    {
+      "autoridad": "Consejo Nacional de Defensa y Seguridad de Honduras",
+      "categoria": "Asociación terrorista",
+      "fecha": "2026-09-18",
+      "fuente_ids": [
+        "s7",
+        "s8"
+      ]
+    }
+  ],
+  "delitos": [
+    "extorsion",
+    "sicariato",
+    "narcomenudeo",
+    "robo",
+    "armas",
+    "migrantes",
+    "secuestro"
+  ],
+  "presencia": [
+    {
+      "pais": "SLV",
+      "nivel": "base",
+      "zonas": [
+        "La Libertad (Quezaltepeque)",
+        "San Miguel (Quelepa)",
+        "Usulután",
+        "Cabañas (Ilobasco, San Isidro)",
+        "San Salvador"
+      ],
+      "delitos": [
+        "extorsion",
+        "sicariato",
+        "narcomenudeo",
+        "armas"
+      ],
+      "nota": "País de su estructura de mando (Ranfla Nacional, recluida). Desde el régimen de excepción de marzo de 2022 perdió el control territorial: la mayoría de sus miembros está en prisión y solo quedan remanentes activos. Las condenas de 2026 corresponden sobre todo a delitos cometidos entre 2012 y 2022.",
+      "fuente_ids": [
+        "s1",
+        "s12",
+        "s13",
+        "s14",
+        "s19",
+        "s21"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "HND",
+      "nivel": "consolidada",
+      "zonas": [
+        "San Pedro Sula (colonias Satélite y San Cristóbal)",
+        "Valle de Sula"
+      ],
+      "delitos": [
+        "extorsion",
+        "narcomenudeo",
+        "armas"
+      ],
+      "nota": "Sigue siendo una amenaza relevante en los centros urbanos. En 2026 la policía desmanteló puntos de venta de droga y detuvo a miembros armados en San Pedro Sula. El Consejo Nacional de Defensa y Seguridad la declaró asociación terrorista el 18 de septiembre de 2026.",
+      "fuente_ids": [
+        "s1",
+        "s15",
+        "s7",
+        "s8"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "GTM",
+      "nivel": "consolidada",
+      "zonas": [
+        "Ciudad de Guatemala y área metropolitana"
+      ],
+      "delitos": [
+        "extorsion",
+        "sicariato"
+      ],
+      "nota": "Es menor que Barrio 18, pero mantiene estructuras urbanas dedicadas a la extorsión del transporte. En 2026 las autoridades detuvieron a 204 presuntos miembros y le atribuyen, junto con Barrio 18 y Los Caradura, ataques armados en el área metropolitana.",
+      "fuente_ids": [
+        "s1",
+        "s6",
+        "s16",
+        "s17"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "USA",
+      "nivel": "consolidada",
+      "zonas": [
+        "Houston (Texas)",
+        "Long Island (Nueva York)",
+        "Los Ángeles (California)"
+      ],
+      "delitos": [
+        "sicariato",
+        "extorsion",
+        "narcomenudeo",
+        "robo"
+      ],
+      "nota": "Tiene clicas en varias ciudades, dedicadas a la venta local de drogas y a la extorsión, con homicidios ordenados o aprobados desde El Salvador. La Fuerza de Tarea Conjunta Vulcan y la Homeland Security Task Force concentran los procesos federales.",
+      "fuente_ids": [
+        "s9",
+        "s10",
+        "s1",
+        "s4"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "MEX",
+      "nivel": "operativa",
+      "zonas": [
+        "Veracruz"
+      ],
+      "delitos": [
+        "migrantes",
+        "extorsion",
+        "secuestro",
+        "armas"
+      ],
+      "nota": "Opera a través del Programa México, formado por miembros salvadoreños exiliados que según el Departamento de Justicia se aliaron con cárteles mexicanos. Algunos líderes buscan refugio en el país.",
+      "fuente_ids": [
+        "s10",
+        "s1",
+        "s18"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "ESP",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [],
+      "nota": "InSight Crime reporta la aparición de la pandilla en España sin precisar ciudades ni actividades.",
+      "fuente_ids": [
+        "s1"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "ITA",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [],
+      "nota": "InSight Crime reporta la aparición de la pandilla en Italia sin precisar ciudades ni actividades.",
+      "fuente_ids": [
+        "s1"
+      ],
+      "confianza": "media"
+    }
+  ],
+  "vinculos": [
+    {
+      "destino": "barrio18",
+      "tipo": "rivalidad",
+      "descripcion": "Es su principal enemiga desde Los Ángeles y en toda Centroamérica. En Guatemala, las autoridades atribuyen ataques de septiembre de 2026 a la guerra territorial entre ambas y Los Caradura.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s1",
+        "s20",
+        "s16"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "ext-eme",
+      "tipo": "alianza",
+      "descripcion": "Relación de subordinación con la Mafia Mexicana (la eMe) desde los años noventa: la MS-13 paga cuotas a cambio de protección en las cárceles de California, y de esa relación proviene el número 13 de su nombre.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s1",
+        "s20"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "sinaloa",
+      "tipo": "suministro",
+      "descripcion": "El Programa México se alió con cárteles mexicanos para traficar drogas; la MS-13 actúa como compradora y distribuidora. InSight Crime menciona al Cártel de Sinaloa y el Departamento de Justicia (2025) no nombra a los cárteles.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s18",
+        "s10"
+      ],
+      "confianza": "baja"
+    },
+    {
+      "destino": "cjng",
+      "tipo": "suministro",
+      "descripcion": "InSight Crime reporta que la MS-13 obtiene drogas del CJNG a través del Programa México; no hay confirmación posterior a 2023.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s18"
+      ],
+      "confianza": "baja"
+    },
+    {
+      "destino": "golfo",
+      "tipo": "suministro",
+      "descripcion": "InSight Crime reporta alianzas del Programa México con el Cártel del Golfo para traficar drogas; no hay confirmación posterior a 2023.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s18"
+      ],
+      "confianza": "baja"
+    }
+  ],
+  "notas_controversia": "Entre 2019 y 2022, según El Faro e InSight Crime, el gobierno de Nayib Bukele negoció con la MS-13 una reducción de homicidios a cambio de beneficios penitenciarios. El gobierno niega la existencia de ese pacto (confianza baja). En 2025 el Departamento de Justicia de EE. UU. retiró los cargos contra dos dirigentes de la Ranfla Nacional, invocando consideraciones geopolíticas y de seguridad nacional, para devolverlos a El Salvador; sus críticos lo interpretan como una forma de evitar testimonios sobre ese pacto. Las fuentes discrepan sobre el nombre de pila de alias Greñas (Antonio o César Humberto López Larios). Las cifras de miembros, como los más de 30.000 miembros plenos estimados en El Salvador, provienen de informes policiales no contrastados. Las organizaciones de derechos humanos cuestionan las detenciones masivas y las muertes bajo custodia del régimen de excepción. La calificación de la pandilla como organización terrorista es objeto de debate jurídico.",
+  "confianza_general": "alta",
+  "fuentes": [
+    {
+      "id": "s1",
+      "titulo": "The MS13: Who it is, How it Operates, and What Changed in 2026?",
+      "editor": "InSight Crime",
+      "fecha": "2026-07-16",
+      "url": "https://insightcrime.org/el-salvador-organized-crime-news/mara-salvatrucha-ms-13-profile/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s2",
+      "titulo": "Foreign Terrorist Organization Designations of Tren de Aragua, Mara Salvatrucha, Cartel de Sinaloa... (Public Notice 12672, FR Doc. 2025-02873)",
+      "editor": "Departamento de Estado de EE. UU. / Federal Register (GovInfo)",
+      "fecha": "2025-02-20",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2025-02-20/html/2025-02873.htm",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s3",
+      "titulo": "Specially Designated Global Terrorist Designations of Tren de Aragua, Mara Salvatrucha... (FR Doc. 2025-02870)",
+      "editor": "Departamento de Estado de EE. UU. / Federal Register",
+      "fecha": "2025-02-20",
+      "url": "https://www.federalregister.gov/documents/2025/02/20/2025-02870/specially-designated-global-terrorist-designations-of-tren-de-aragua-mara-salvatrucha-cartel-de",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s4",
+      "titulo": "Treasury Sanctions Latin American Criminal Organization (MS-13 designada como Organización Criminal Transnacional)",
+      "editor": "Departamento del Tesoro de EE. UU.",
+      "fecha": "2012-10-11",
+      "url": "https://home.treasury.gov/news/press-releases/tg1733",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s5",
+      "titulo": "Government of Canada lists transnational criminal organizations as terrorist entities",
+      "editor": "Public Safety Canada",
+      "fecha": "2025-02-20",
+      "url": "https://www.canada.ca/en/public-safety-canada/news/2025/02/government-of-canada-lists-transnational-criminal-organizations-as-terrorist-entities.html",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s6",
+      "titulo": "Congreso publica ley para el combate frontal a las maras o pandillas",
+      "editor": "Prensa Libre",
+      "fecha": "2025-11-10",
+      "url": "https://www.prensalibre.com/guatemala/politica/congreso-publica-ley-para-el-combate-frontal-a-las-maras-o-pandillas-breaking/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s7",
+      "titulo": "Honduras declara a pandillas como 'terroristas' (AFP)",
+      "editor": "La Nación (Costa Rica)",
+      "fecha": "2026-09-19",
+      "url": "https://www.nacion.com/el-mundo/honduras-declara-a-pandillas-como-terroristas/G72LTRTGKBHMRO4OVZRUECGMNE/story/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s8",
+      "titulo": "Honduras declara como terroristas a la Mara Salvatrucha y el Barrio 18 (AFP)",
+      "editor": "El Universal (México)",
+      "fecha": "2026-09",
+      "url": "https://www.eluniversal.com.mx/mundo/honduras-declara-como-terroristas-a-la-mara-salvatrucha-y-el-barrio-18-congreso-busca-ampliar-facultades-y-atribuciones-a-jueces/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s9",
+      "titulo": "MS-13 Members Sentenced to Decades in Prison for Brutal Murders Committed at the Direction of Gang Leaders in El Salvador",
+      "editor": "Departamento de Justicia de EE. UU.",
+      "fecha": "2026-04-21",
+      "url": "https://www.justice.gov/opa/pr/ms-13-members-sentenced-decades-prison-brutal-murders-committed-direction-gang-leaders-el",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s10",
+      "titulo": "High-Ranking MS-13 Leader Arraigned in Long Island Federal Court on Terrorism and Racketeering Charges",
+      "editor": "Departamento de Justicia de EE. UU.",
+      "fecha": "2025-03-19",
+      "url": "https://www.justice.gov/opa/pr/high-ranking-ms-13-leader-arraigned-long-island-federal-court-terrorism-and-racketeering",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s11",
+      "titulo": "Bukele Gets Trump to Toss the Work of Vulcan, the Task Force that Pursued MS-13",
+      "editor": "El Faro",
+      "fecha": "2025-06-24",
+      "url": "https://beta.elfaro.net/en/el-salvador-en/bukele-gets-trump-to-toss-the-work-of-vulcan-the-task-force-that-pursued-ms-13",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s12",
+      "titulo": "La Fiscalía de El Salvador anticipa condenas de miles de años en un juicio masivo contra pandilleros (AFP)",
+      "editor": "SWI swissinfo.ch",
+      "fecha": "2026-06-08",
+      "url": "https://www.swissinfo.ch/spa/la-fiscal%C3%ADa-de-el-salvador-anticipa-condenas-de-miles-de-a%C3%B1os-en-un-juicio-masivo-contra-pandilleros/91547214",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s13",
+      "titulo": "El Salvador: 24 integrantes de la MS-13 fueron condenados a hasta 626 años de cárcel",
+      "editor": "Infobae",
+      "fecha": "2026-09-11",
+      "url": "https://www.infobae.com/el-salvador/2026/09/11/el-salvador-24-integrantes-de-la-ms-13-fueron-condenados-a-hasta-626-anos-de-carcel/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s14",
+      "titulo": "El tribunal de San Salvador condena a 42 miembros de la MS-13 por agrupaciones ilícitas y narcotráfico",
+      "editor": "Infobae",
+      "fecha": "2026-08-23",
+      "url": "https://www.infobae.com/el-salvador/2026/08/23/el-tribunal-de-san-salvador-condena-a-42-miembros-de-la-ms-13-por-agrupaciones-ilicitas-y-narcotrafico/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s15",
+      "titulo": "Agentes de la UMEP-7 detienen a dos presuntos miembros de la MS-13 con arma y droga en San Pedro Sula",
+      "editor": "Policía Nacional de Honduras",
+      "fecha": "2026-04-28",
+      "url": "https://policianacional.gob.hn/agentes-de-la-umep-7-detienen-a-dos-presuntos-miembros-de-la-ms-13-con-arma-y-droga-en-san-pedro-sula/",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s16",
+      "titulo": "Seis ataques en un día que paralizaron la metrópoli de Guatemala: autoridades lo atribuyen a la guerra entre el Barrio 18, la Mara Salvatrucha y los Caradura",
+      "editor": "Infobae",
+      "fecha": "2026-10-01",
+      "url": "https://www.infobae.com/guatemala/2026/10/01/seis-ataques-en-un-dia-que-paralizaron-la-metropoli-de-guatemala-autoridades-lo-atribuyen-a-la-guerra-entre-el-barrio-18-la-mara-salvatrucha-y-los-caradura/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s17",
+      "titulo": "Guatemala's Security Challenges and the Government Response: An Update (Evan Ellis)",
+      "editor": "FIU Jack D. Gordon Institute for Public Policy",
+      "fecha": "2026-03-03",
+      "url": "https://gordoninstitute.fiu.edu/news-events/the-policy-spotlight/2026/guatemalas-security-challenges-government-response.html",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s18",
+      "titulo": "MS13's Mexico Program Key to El Salvador Gang Negotiations",
+      "editor": "InSight Crime",
+      "fecha": "2023-03-01",
+      "url": "https://insightcrime.org/news/ms13-mexico-program-el-salvador-gang-negotiations/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s19",
+      "titulo": "El Salvador Profile (actualizado el 22 de septiembre de 2026)",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-22",
+      "url": "https://insightcrime.org/el-salvador-organized-crime-news/el-salvador/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s20",
+      "titulo": "Barrio 18 Gang History and Dynamics",
+      "editor": "InSight Crime",
+      "fecha": "2026-08-12",
+      "url": "https://insightcrime.org/el-salvador-organized-crime-news/barrio-18-profile/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s21",
+      "titulo": "El Salvador: condenas de hasta 60 años de prisión para pandilleros de la MS-13 y 18 Sureños por múltiples delitos",
+      "editor": "Infobae",
+      "fecha": "2026-07-12",
+      "url": "https://www.infobae.com/el-salvador/2026/07/12/el-salvador-condenas-de-hasta-60-anos-de-prision-para-pandilleros-de-la-ms-13-y-18-surenos-por-multiples-delitos/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s22",
+      "titulo": "Estado de excepción focalizado: así funcionaría la nueva propuesta de Seguridad para zonas con mayor violencia en Honduras",
+      "editor": "Infobae",
+      "fecha": "2026-09-17",
+      "url": "https://www.infobae.com/honduras/2026/09/17/estado-de-excepcion-focalizado-asi-funcionaria-la-nueva-propuesta-de-seguridad-para-zonas-con-mayor-violencia-en-honduras/",
+      "categoria": "prensa",
+      "verificada": true
+    }
+  ]
+}

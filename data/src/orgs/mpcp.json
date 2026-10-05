@@ -1,0 +1,271 @@
+{
+  "id": "mpcp",
+  "nombre": "Militarizado Partido Comunista del Perú (MPCP)",
+  "corto": "MPCP",
+  "alias": [
+    "Sendero Luminoso",
+    "SL",
+    "Shining Path",
+    "Organización Terrorista Sendero Luminoso (OT-SL)",
+    "Facción VRAEM de Sendero Luminoso"
+  ],
+  "tipo": "grupo_armado",
+  "pais_origen": "PER",
+  "fundacion": "Se origina en el Partido Comunista del Perú-Sendero Luminoso (1970). La facción del VRAEM se separó de la dirección de Abimael Guzmán tras su captura en 1992 y su llamado a un acuerdo de paz.",
+  "resumen": "El MPCP es el último remanente armado de Sendero Luminoso y opera en el Valle de los Ríos Apurímac, Ene y Mantaro (VRAEM). Lo dirige el clan Quispe Palomino. Sus ingresos provienen de la protección armada y la escolta de cargamentos de cocaína, del cobro a narcotraficantes y de su participación directa en la producción. Sigue atacando a las fuerzas de seguridad y enfrenta operaciones militares y policiales permanentes.",
+  "situacion_actual": "Al 5 de octubre de 2026, Víctor Quispe Palomino, alias «Camarada José», sigue prófugo al frente de la organización. El grupo está replegado en un corredor entre Junín, Ayacucho y Huancavelica, con base en Vizcatán del Ene. El 29 de julio de 2026, el Comando Especial VRAEM abatió a alias «Richard», miembro del buró político, en el sector Hamaca (Alto Mantaro, Vizcatán del Ene). Fue durante la operación «Quiñones», iniciada el 23 de julio. En la extracción, un helicóptero Mi-171 recibió unos 18 impactos de bala. Según InSight Crime, el 22 de mayo de 2026 un mando de alto rango del MPCP fue condenado a cadena perpetua por terrorismo agravado. Hacia el 22-23 de septiembre de 2026, la Dircote y las Fuerzas Armadas detuvieron en Chilca (Junín) y Huanta (Ayacucho) a tres presuntos integrantes de su red de financiamiento y abastecimiento logístico, que niegan los cargos. El 23 de septiembre de 2026, la declaración conjunta del «Escudo de las Américas» incluyó a Sendero Luminoso entre 24 organizaciones narcoterroristas sujetas a congelamiento de activos y a restricciones migratorias. Se trata de una iniciativa de 15 gobiernos encabezada por EE. UU.",
+  "estructura": "Es una organización jerárquica dirigida por el clan Quispe Palomino. Tiene un Comité Central y un buró político, de los que dependen mandos militares y columnas armadas. Alias «Richard», abatido en julio de 2026, era mando militar en aproximadamente el cuarto nivel del Comité Central. En centros poblados de Junín y Ayacucho cuenta con redes de apoyo que le proveen financiamiento, comunicaciones y logística. Supervisa cultivos de coca y envíos de droga, da protección y escolta a clanes de narcotráfico, cobra a los traficantes y participa directamente en la producción y la logística de la cocaína. Ante la población se presenta como protectora de los cocaleros.",
+  "lideres": [
+    {
+      "nombre": "Víctor Quispe Palomino",
+      "alias": "Camarada José",
+      "rol": "Líder máximo del MPCP",
+      "estado": "Prófugo a la fecha de corte. Sancionado por OFAC: SDNTK desde el 1 de junio de 2015 y SDGT desde el 31 de octubre de 2016.",
+      "fuente_ids": [
+        "s1",
+        "s4",
+        "s9",
+        "s12",
+        "s13"
+      ]
+    },
+    {
+      "nombre": "Jhonny Curo Rojas (nombre según la prensa; el comunicado oficial solo da el alias)",
+      "alias": "Camarada Richard",
+      "rol": "Mando militar, miembro del buró político",
+      "estado": "Abatido el 29 de julio de 2026 en Alto Mantaro, Vizcatán del Ene (Satipo, Junín)",
+      "fuente_ids": [
+        "s2",
+        "s3",
+        "s4"
+      ]
+    }
+  ],
+  "designaciones": [
+    {
+      "autoridad": "Departamento de Estado de EE. UU.",
+      "categoria": "Organización Terrorista Extranjera (FTO)",
+      "fecha": "1997-10-08",
+      "fuente_ids": [
+        "s10",
+        "s8"
+      ]
+    },
+    {
+      "autoridad": "Departamento de Estado de EE. UU. (Orden Ejecutiva 13224)",
+      "categoria": "Terrorista Global Especialmente Designado (SDGT)",
+      "fecha": "2001-10-31",
+      "fuente_ids": [
+        "s11",
+        "s8"
+      ]
+    },
+    {
+      "autoridad": "Departamento del Tesoro de EE. UU. (OFAC), Ley Kingpin",
+      "categoria": "Narcotraficante extranjero significativo (SDNTK)",
+      "fecha": "2015-06-01",
+      "fuente_ids": [
+        "s12",
+        "s8"
+      ]
+    },
+    {
+      "autoridad": "Escudo de las Américas (declaración conjunta de EE. UU., Perú y otros 13 gobiernos)",
+      "categoria": "Organización narcoterrorista sujeta a congelamiento de activos y restricciones migratorias (lista de 24 organizaciones)",
+      "fecha": "2026-09-23",
+      "fuente_ids": [
+        "s6",
+        "s7"
+      ]
+    }
+  ],
+  "delitos": [
+    "cocaina",
+    "extorsion",
+    "sicariato",
+    "reclutamiento"
+  ],
+  "presencia": [
+    {
+      "pais": "PER",
+      "nivel": "base",
+      "zonas": [
+        "VRAEM",
+        "Vizcatán del Ene (provincia de Satipo, Junín)",
+        "Alto Mantaro / eje del río Mantaro",
+        "Corredor Junín-Ayacucho-Huancavelica",
+        "Huanta (Ayacucho)",
+        "Chilca (Huancayo, Junín)"
+      ],
+      "delitos": [
+        "cocaina",
+        "extorsion",
+        "sicariato",
+        "reclutamiento"
+      ],
+      "nota": "Centro de mando en Vizcatán del Ene. Según un reportaje de julio de 2026, más del 90 % del eje del Mantaro sigue bajo su influencia. Protege cultivos de coca y cargamentos, cobra a los traficantes y ataca a las fuerzas de seguridad. Las redes de apoyo logístico y financiero detectadas en septiembre de 2026 operaban en Chilca y Huanta. Su historial incluye el reclutamiento y la crianza de menores dentro de la organización.",
+      "fuente_ids": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s14",
+        "s15"
+      ],
+      "confianza": "alta"
+    }
+  ],
+  "vinculos": [
+    {
+      "destino": "ext-clanes-vraem",
+      "tipo": "alianza",
+      "descripcion": "El MPCP protege con armas y escolta los cargamentos de clanes familiares de narcotráfico del VRAEM a cambio de pagos. También cobra a los traficantes que operan en su territorio y supervisa envíos de pasta básica y cocaína hacia Bolivia, Brasil y la costa.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s1",
+        "s15"
+      ],
+      "confianza": "media"
+    }
+  ],
+  "notas_controversia": "El Gobierno peruano describe al grupo como «narcoterrorista» o como banda de narcotráfico. InSight Crime advierte que la situación es más compleja, porque el MPCP mantiene propaganda política y ataques contra fuerzas de seguridad además de sus servicios al narcotráfico. Las fuentes no coinciden en el nombre del operativo de septiembre de 2026: InSight Crime lo llama «Pakari 2026» y la prensa peruana, «Tacari». Los tres detenidos niegan pertenecer a la organización. El nombre civil de alias «Richard» proviene de la prensa; el comunicado oficial lo identifica solo por su alias. No hay cifras oficiales recientes del número de combatientes.",
+  "confianza_general": "alta",
+  "fuentes": [
+    {
+      "id": "s1",
+      "titulo": "Shining Path (perfil criminal)",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-28",
+      "url": "https://insightcrime.org/peru-organized-crime-news/shining-path-profile/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s2",
+      "titulo": "Comunicado N°019-2026-CCFFAA",
+      "editor": "Comando Conjunto de las Fuerzas Armadas del Perú",
+      "fecha": "2026-07-29",
+      "url": "https://www.gob.pe/institucion/ccffaa/noticias/1423698-comunicado-n-019-2026-ccffaa",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s3",
+      "titulo": "FF.AA. abatieron a ‘Camarada Richard’ en el Vraem: cabecilla narcoterrorista fue autor de la matanza de Huarcatán en 2021",
+      "editor": "Infobae",
+      "fecha": "2026-07-29",
+      "url": "https://www.infobae.com/peru/2026/07/29/ffaa-abatieron-a-camarada-richard-en-el-vraem-cabecilla-narcoterrorista-fue-autor-de-la-matanza-de-huarcatan-en-2021/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s4",
+      "titulo": "De niño criado por Sendero Luminoso a jefe en el VRAEM: quién era el ‘camarada Richard’ y los crímenes que se le atribuye",
+      "editor": "Infobae",
+      "fecha": "2026-07-30",
+      "url": "https://www.infobae.com/peru/2026/07/30/de-nino-criado-por-sendero-luminoso-a-jefe-en-el-vraem-quien-era-el-camarada-richard-y-los-crimenes-que-se-le-atribuye/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s5",
+      "titulo": "Desarticulan red de financiamiento de Sendero Luminoso en operativo simultáneo en Junín y Ayacucho: capturan a tres presuntos integrantes",
+      "editor": "Infobae",
+      "fecha": "2026-09-24",
+      "url": "https://www.infobae.com/peru/2026/09/24/desarticulan-red-de-financiamiento-de-sendero-luminoso-en-operativo-simultaneo-en-junin-y-ayacucho-capturan-a-tres-presuntos-integrantes/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s6",
+      "titulo": "El Escudo de las Américas incluye a Sendero Luminoso en su lista de 24 organizaciones narcoterroristas",
+      "editor": "Infobae",
+      "fecha": "2026-09-24",
+      "url": "https://www.infobae.com/peru/2026/09/24/el-escudo-de-las-americas-incluye-a-sendero-luminoso-en-su-lista-de-24-organizaciones-narcoterroristas/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s7",
+      "titulo": "Escudo de las Américas: Perú aplicará sanciones conjuntas a miembros de Sendero Luminoso y otras organizaciones criminales",
+      "editor": "Infobae",
+      "fecha": "2026-09-23",
+      "url": "https://www.infobae.com/peru/2026/09/23/escudo-de-las-americas-peru-aplicara-sanciones-conjuntas-a-miembros-de-sendero-luminoso-y-otras-organizaciones-criminales/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s8",
+      "titulo": "Sanctions List Search: SHINING PATH (SDNTK, FTO, SDGT)",
+      "editor": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "fecha": "2026-10",
+      "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=4715",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s9",
+      "titulo": "Sanctions List Search: QUISPE PALOMINO, Victor (SDNTK, SDGT)",
+      "editor": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "fecha": "2026-10",
+      "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=17003",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s10",
+      "titulo": "Designation of Foreign Terrorist Organizations (62 FR 52650)",
+      "editor": "Departamento de Estado de EE. UU. / Federal Register",
+      "fecha": "1997-10-08",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1997-10-08/pdf/97-27030.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s11",
+      "titulo": "Designations of Terrorists and Terrorist Organizations Pursuant to Executive Order 13224 (Public Notice 3947)",
+      "editor": "Departamento de Estado de EE. UU. / Federal Register",
+      "fecha": "2002-03-19",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2002-03-19/pdf/02-6577.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s12",
+      "titulo": "Additional Designations, Foreign Narcotics Kingpin Designation Act",
+      "editor": "OFAC / Federal Register",
+      "fecha": "2015-06-08",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2015-06-08/pdf/2015-13910.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s13",
+      "titulo": "E.O. 13224 Designation of Victor Quispe Palomino, aka Comrade Jose, as a Specially Designated Global Terrorist",
+      "editor": "Departamento de Estado de EE. UU. / Federal Register",
+      "fecha": "2016-11-25",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2016-11-25/pdf/2016-28401.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s14",
+      "titulo": "Global Organized Crime Index 2025: Peru",
+      "editor": "Global Initiative Against Transnational Organized Crime",
+      "fecha": "2025",
+      "url": "https://ocindex.net/country/peru",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s15",
+      "titulo": "What's Next For the Shining Path in Peru?",
+      "editor": "InSight Crime",
+      "fecha": "2023-11-17",
+      "url": "https://insightcrime.org/news/whats-next-for-the-shining-path-in-peru/",
+      "categoria": "investigacion",
+      "verificada": true
+    }
+  ]
+}

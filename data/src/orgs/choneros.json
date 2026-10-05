@@ -1,0 +1,680 @@
+{
+  "id": "choneros",
+  "nombre": "Los Choneros",
+  "corto": "Los Choneros",
+  "alias": [
+    "Choneros"
+  ],
+  "tipo": "megabanda",
+  "pais_origen": "ECU",
+  "fundacion": "Década de 1990 en Chone (Manabí), como red de narcotráfico y sicariato; se reorganizó en la década de 2010 bajo Jorge Luis Zambrano, alias Rasquiña, asesinado en diciembre de 2020.",
+  "resumen": "Los Choneros son una organización criminal ecuatoriana con núcleo en Manabí. Durante años prestaron seguridad y logística al Cártel de Sinaloa para enviar cocaína por el Pacífico hacia México y Centroamérica. Dominaron el sistema penitenciario y una confederación de bandas hasta 2020. Tras la muerte de Rasquiña se fragmentaron y quedaron enfrentados a Los Lobos, una escisión propia. EE. UU. los designó Organización Terrorista Extranjera el 4 de septiembre de 2025. Su líder, José Adolfo Macías Villamar, alias Fito, enfrenta un proceso federal en Nueva York.",
+  "situacion_actual": "A la fecha de corte, Los Choneros atraviesan su momento más débil desde su reorganización y no tienen un sucesor con la influencia de Fito, según InSight Crime. Fito fue extraditado el 20 de julio de 2025 y negocia un acuerdo con la Fiscalía del Distrito Este de Nueva York. Su próxima audiencia está fijada para el 27 de enero de 2027. En 2026 cayeron sus posibles herederos: alias Topo y alias Patucho Celso fueron extraditados a EE. UU. el 18 de junio; su hermano alias Javi fue capturado en Bogotá el 16 de junio y expulsado a Ecuador; alias Churrón, enlace con Sinaloa, fue capturado en Guayaquil el 2 de julio y espera la extradición; y alias Charlie murió el 23 de septiembre en Manabí, en un operativo con apoyo del Comando Sur. El 20 de agosto la OFAC sancionó una red pesquera de Manta que los abastecía. Entre el 28 de agosto y el 8 de septiembre, fuerzas estadounidenses interceptaron y hundieron seis barcos ecuatorianos que acusaban de reabastecer lanchas del grupo; los tripulantes niegan ese vínculo. El 27 de septiembre la esposa y la hija de Fito fueron capturadas en Santander (Colombia) y expulsadas a Ecuador por lavado de activos. Además, Los Lobos ganaron terreno en Manabí en 2025, y el 22 de septiembre de 2026 el Escudo de las Américas incluyó a Los Choneros entre 24 grupos sujetos a sanciones colectivas.",
+  "estructura": "Es una confederación de células y facciones, con mando ejercido históricamente desde las cárceles: La Regional y Litoral en Guayaquil y El Rodeo en Manabí. Ese control se rompió con la intervención militar de 2024. Sus facciones principales son Los Fatales, ligada a Fito, y Las Águilas; en 2024 tenía presencia en 10 de las 24 provincias. Tras las capturas y extradiciones de 2025-2026 opera de forma atomizada. Mantiene operadores logísticos marítimos en Manta, que usan barcos pesqueros como estaciones de reabastecimiento. Su red familiar de testaferros y lavado se trasladó a Colombia.",
+  "lideres": [
+    {
+      "nombre": "José Adolfo Macías Villamar",
+      "alias": "Fito",
+      "rol": "Líder principal (2020-2025)",
+      "estado": "Extraditado a EE. UU. el 20 de julio de 2025. Detenido y procesado en el Distrito Este de Nueva York por narcotráfico y tráfico de armas. Negocia un acuerdo con la Fiscalía; próxima audiencia el 27 de enero de 2027.",
+      "fuente_ids": [
+        "s5",
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "nombre": "Ronald Javier Macías Villamar",
+      "alias": "Javi",
+      "rol": "Presunto cabecilla y posible sucesor de Fito (su hermano)",
+      "estado": "Detenido. Capturado en Bogotá el 16 de junio de 2026, expulsado a Ecuador y recluido en la Cárcel del Encuentro. El Gobierno anunció su extradición a EE. UU., que no se había concretado públicamente a la fecha de corte.",
+      "fuente_ids": [
+        "s9",
+        "s10",
+        "s20"
+      ]
+    },
+    {
+      "nombre": "Francisco Manuel Bermúdez Cagua",
+      "alias": "Churrón",
+      "rol": "Lugarteniente de Fito, presunto sucesor y enlace con el Cártel de Sinaloa; coacusado en Nueva York",
+      "estado": "Detenido en Guayaquil el 2 de julio de 2026 y pendiente de extradición a EE. UU. El 11 de diciembre de 2025 EE. UU. ofreció hasta USD 5 millones por información sobre él.",
+      "fuente_ids": [
+        "s6",
+        "s12",
+        "s8"
+      ]
+    },
+    {
+      "nombre": "Darío Javier Peñafiel Nieto",
+      "alias": "Topo",
+      "rol": "Presunto lugarteniente y coacusado de Fito",
+      "estado": "Extraditado a EE. UU. el 18 de junio de 2026; detenido en el Distrito Este de Nueva York.",
+      "fuente_ids": [
+        "s6",
+        "s32",
+        "s7"
+      ]
+    },
+    {
+      "nombre": "Celso Miguel Moreira Heredia",
+      "alias": "Patucho Celso",
+      "rol": "Presunto cabecilla, descrito como \"líder en la sombra\"",
+      "estado": "Extraditado a EE. UU. el 18 de junio de 2026; procesado en el Distrito Sur de Nueva York.",
+      "fuente_ids": [
+        "s20",
+        "s32"
+      ]
+    }
+  ],
+  "designaciones": [
+    {
+      "autoridad": "Presidencia de Ecuador (Decreto Ejecutivo 111)",
+      "categoria": "Organización terrorista y actor no estatal beligerante, en el marco del 'conflicto armado interno'",
+      "fecha": "2024-01-09",
+      "fuente_ids": [
+        "s19"
+      ]
+    },
+    {
+      "autoridad": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "categoria": "Sanción por narcotráfico (lista SDN, Orden Ejecutiva 14059)",
+      "fecha": "2024-02-07",
+      "fuente_ids": [
+        "s3"
+      ]
+    },
+    {
+      "autoridad": "Departamento de Estado de EE. UU.",
+      "categoria": "Organización Terrorista Extranjera (FTO)",
+      "fecha": "2025-09-04",
+      "fuente_ids": [
+        "s2"
+      ]
+    },
+    {
+      "autoridad": "Departamento de Estado de EE. UU.",
+      "categoria": "Terrorista Global Especialmente Designado (SDGT, Orden Ejecutiva 13224)",
+      "fecha": "2025-09-04",
+      "fuente_ids": [
+        "s2"
+      ]
+    },
+    {
+      "autoridad": "Escudo de las Américas (EE. UU. y 14 gobiernos de la región)",
+      "categoria": "Grupo narcoterrorista sujeto a sanciones colectivas, restricciones de visado y responsabilidad penal por apoyo material (declaración conjunta)",
+      "fecha": "2026-09-22",
+      "fuente_ids": [
+        "s18"
+      ]
+    }
+  ],
+  "delitos": [
+    "cocaina",
+    "narcomenudeo",
+    "extorsion",
+    "sicariato",
+    "secuestro",
+    "armas",
+    "mineria",
+    "lavado",
+    "combustible",
+    "robo",
+    "trata"
+  ],
+  "presencia": [
+    {
+      "pais": "ECU",
+      "nivel": "base",
+      "zonas": [
+        "Manabí (Manta, Portoviejo, sector El Aromo)",
+        "Puerto de Manta y litoral pesquero de Manabí",
+        "Guayas (Guayaquil, Playas)",
+        "Santa Elena",
+        "El Oro (Machala, Puerto Bolívar)",
+        "Esmeraldas",
+        "Sucumbíos",
+        "Orellana",
+        "Santo Domingo de los Tsáchilas",
+        "Zamora Chinchipe (Paquisha)"
+      ],
+      "delitos": [
+        "cocaina",
+        "narcomenudeo",
+        "extorsion",
+        "sicariato",
+        "secuestro",
+        "armas",
+        "mineria",
+        "lavado",
+        "combustible",
+        "robo",
+        "trata"
+      ],
+      "nota": "Su núcleo histórico está en Manabí. Según la OFAC, la red pesquera de Manta reabastece lanchas con combustible subsidiado y uno de sus operadores coordina el envío de 30 a 40 toneladas mensuales de cocaína hacia México. En septiembre de 2026 el Ejército incautó 500 kg de cocaína y detuvo a cinco integrantes en Santa Elena. El grupo pierde terreno frente a Los Lobos en Manabí, Guayas y El Oro. El Departamento de Estado documentó sobornos a jueces y a funcionarios penitenciarios en su beneficio. Desde marzo de 2026, las Fuerzas Armadas ecuatorianas actúan con apoyo militar de EE. UU.",
+      "fuente_ids": [
+        "s1",
+        "s4",
+        "s13",
+        "s15",
+        "s16",
+        "s17",
+        "s25",
+        "s26",
+        "s27",
+        "s28",
+        "s31",
+        "s33",
+        "s34"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "COL",
+      "nivel": "operativa",
+      "zonas": [
+        "Putumayo (San Miguel, Valle del Guamuez, Orito)",
+        "Bogotá",
+        "Santander (Sabana de Torres)",
+        "Medellín"
+      ],
+      "delitos": [
+        "cocaina",
+        "lavado"
+      ],
+      "nota": "Realiza incursiones para comprar cocaína y pasta base en el Bajo Putumayo, donde choca con los Comandos de la Frontera. Colombia sirve de refugio a cabecillas: alias Javi fue capturado en Bogotá el 16 de junio de 2026. Allí opera también la red familiar de testaferros y lavado: la esposa y la hija de Fito fueron capturadas en Sabana de Torres el 27 de septiembre de 2026 y expulsadas a Ecuador el 29.",
+      "fuente_ids": [
+        "s9",
+        "s10",
+        "s11",
+        "s21",
+        "s22"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "PER",
+      "nivel": "limitada",
+      "zonas": [
+        "Tumbes (Zarumilla, Aguas Verdes)",
+        "Amazonas (Condorcanqui)"
+      ],
+      "delitos": [
+        "sicariato",
+        "extorsion",
+        "mineria"
+      ],
+      "nota": "En febrero de 2026 el gobernador regional de Tumbes atribuyó a Los Choneros una ola de homicidios y amenazas en Zarumilla, citando a los servicios de inteligencia. En enero de 2025 se reportó una incursión ligada a la minería ilegal en Condorcanqui. No hay confirmación policial de una estructura permanente.",
+      "fuente_ids": [
+        "s23",
+        "s24"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "USA",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [
+        "armas",
+        "cocaina"
+      ],
+      "nota": "Compraban armas, componentes y munición mediante testaferros en EE. UU. y las contrabandeaban a Ecuador. La cocaína tenía como destino el mercado estadounidense. Fito, Topo y Patucho Celso son procesados en tribunales federales de Nueva York.",
+      "fuente_ids": [
+        "s5",
+        "s6",
+        "s32"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "MEX",
+      "nivel": "limitada",
+      "zonas": [],
+      "delitos": [
+        "cocaina"
+      ],
+      "nota": "México es el destino de los envíos marítimos de cocaína coordinados con el Cártel de Sinaloa. No se documentan células propias en territorio mexicano.",
+      "fuente_ids": [
+        "s3",
+        "s4",
+        "s12"
+      ],
+      "confianza": "media"
+    }
+  ],
+  "vinculos": [
+    {
+      "destino": "sinaloa",
+      "tipo": "alianza",
+      "descripcion": "Socio histórico: Los Choneros prestan seguridad y logística, incluida la red pesquera de Manta, para trasladar cocaína hacia México y EE. UU. En julio de 2026 el ministro de Defensa identificó a alias Churrón como enlace directo con el Cártel de Sinaloa.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s3",
+        "s4",
+        "s12",
+        "s14"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "cjng",
+      "tipo": "suministro",
+      "descripcion": "Washington vincula a Los Choneros tanto con Sinaloa como con el CJNG. En septiembre de 2026 las autoridades ecuatorianas atribuyeron nexos con el CJNG a alias Charlie, operador logístico abatido. Es una relación secundaria y no consolidada frente a la alianza con Sinaloa.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s2",
+        "s15",
+        "s4"
+      ],
+      "confianza": "baja"
+    },
+    {
+      "destino": "lobos",
+      "tipo": "rivalidad",
+      "descripcion": "Disputa abierta desde 2021, cuando Los Lobos se escindieron. Ambos grupos se enfrentan por rutas, cárceles y territorio en Manabí, Guayas y El Oro. En 2025, tras la captura de Fito, Los Lobos ganaron terreno en Manabí.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s1",
+        "s17",
+        "s26"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "cneb",
+      "tipo": "rivalidad",
+      "descripcion": "Los Comandos de la Frontera, que integran la CNEB, combaten a Los Choneros en el Bajo Putumayo y en Sucumbíos por cocaína, minas, combustible y corredores fluviales, en alianza con Los Lobos.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s21",
+        "s22",
+        "s30"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "embf",
+      "tipo": "alianza",
+      "descripcion": "Según Amazon Underworld (2025), el Frente Carolina Ramírez, alineado con el EMBF de Calarcá desde 2024, se sitúa del lado de Los Choneros en la trifrontera amazónica, frente al bloque formado por los Comandos de la Frontera y Los Lobos.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s22",
+        "s29"
+      ],
+      "confianza": "baja"
+    },
+    {
+      "destino": "pulpos",
+      "tipo": "rivalidad",
+      "descripcion": "En septiembre de 2025 la Policía ecuatoriana detuvo en Paquisha (Zamora Chinchipe) a alias Willy, cabecilla de Los Pulpos de Trujillo, y a otras 18 personas. Cinco de ellas fueron señaladas por el asesinato de cinco integrantes de Los Choneros, en una disputa por extorsión y minería ilegal.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s25"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "ext-lagartos",
+      "tipo": "rivalidad",
+      "descripcion": "La coalición de bandas guayaquileñas Los Lagartos es una de las principales rivales de Los Choneros en Guayas.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s1"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "ext-chone-killers",
+      "tipo": "alianza",
+      "descripcion": "Según InSight Crime, los Chone Killers, antigua facción de la confederación, volvieron a asociarse con Los Choneros. La fragmentación de los Chone Killers en múltiples subgrupos, algunos aliados de Los Lobos, hace incierta la relación.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s1",
+        "s17"
+      ],
+      "confianza": "baja"
+    },
+    {
+      "destino": "ext-tiguerones",
+      "tipo": "alianza",
+      "descripcion": "Antiguos aliados reunificados según InSight Crime. En 2026 la facción Fénix de Los Tiguerones se alinea con Las Águilas, facción de Los Choneros, mientras la facción Igualitos se acerca a Los Lobos.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s1",
+        "s17"
+      ],
+      "confianza": "baja"
+    },
+    {
+      "destino": "ext-sao-box",
+      "tipo": "alianza",
+      "descripcion": "Según reportes de inteligencia citados en octubre de 2026, Sao Box, una escisión de Los Lobos, se habría aliado con Los Choneros contra Los Lobos en Machala y Puerto Bolívar.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s17"
+      ],
+      "confianza": "baja"
+    },
+    {
+      "destino": "ext-frente-oliver-sinisterra",
+      "tipo": "suministro",
+      "descripcion": "Las autoridades ecuatorianas señalaron que alias Charlie, operador logístico de Los Choneros abatido el 23 de septiembre de 2026, tenía nexos con el Frente Oliver Sinisterra en el abastecimiento de cocaína.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s15"
+      ],
+      "confianza": "baja"
+    }
+  ],
+  "notas_controversia": "El vínculo de los barcos pesqueros interceptados o hundidos por fuerzas de EE. UU. con Los Choneros está en disputa. En septiembre de 2026 un juez ecuatoriano liberó a 28 tripulantes por falta de indicios y otros 32 quedaron en libertad condicional; tripulantes y familias niegan pertenecer a la organización. Según The Washington Post, citado por El País y DW, ataques previos contra pesqueros cerca de Galápagos (enero-marzo de 2026) habrían formado parte de una operación encubierta de la CIA; EE. UU. y Ecuador no los han reconocido. La relación con el CJNG descansa en señalamientos oficiales puntuales y contrasta con la alianza histórica con Sinaloa. Las fuentes discrepan sobre la relación actual con Chone Killers y Tiguerones: InSight Crime los describe como antiguos aliados reunificados, mientras la inteligencia policial citada por Infobae los muestra fragmentados en facciones alineadas con uno u otro bando. La presencia en Perú se basa en declaraciones de autoridades regionales y en hechos aislados. InSight Crime advierte que la organización podría dejar de funcionar como red unificada de alcance nacional.",
+  "confianza_general": "alta",
+  "fuentes": [
+    {
+      "id": "s1",
+      "titulo": "Choneros (perfil)",
+      "editor": "InSight Crime",
+      "fecha": "2026-08",
+      "url": "https://insightcrime.org/ecuador-organized-crime-news/los-choneros/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s2",
+      "titulo": "Terrorist Designations of Los Choneros and Los Lobos",
+      "editor": "U.S. Department of State",
+      "fecha": "2025-09-04",
+      "url": "https://www.state.gov/releases/office-of-the-spokesperson/2025/09/terrorist-designations-of-los-choneros-and-los-lobos",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s3",
+      "titulo": "Treasury Sanctions Ecuador's Notorious Los Choneros Gang and Its Leader",
+      "editor": "U.S. Department of the Treasury",
+      "fecha": "2024-02-07",
+      "url": "https://home.treasury.gov/news/press-releases/jy2082",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s4",
+      "titulo": "Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels",
+      "editor": "U.S. Department of the Treasury",
+      "fecha": "2026-08-20",
+      "url": "https://home.treasury.gov/news/press-releases/sb0610",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s5",
+      "titulo": "José Adolfo \"Fito\" Macías Villamar, Leader of Los Choneros Transnational Criminal Organization Extradited to Brooklyn Federal Court to Face International Drug and Gun Charges",
+      "editor": "U.S. Attorney's Office, Eastern District of New York (DOJ)",
+      "fecha": "2025-07-21",
+      "url": "https://www.justice.gov/usao-edny/pr/jose-adolfo-fito-macias-villamar-leader-los-choneros-transnational-criminal-0",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s6",
+      "titulo": "Reward Offered for Information Leading to the Arrest of High-Ranking Member of Los Choneros, a Violent Foreign Terrorist Organization",
+      "editor": "U.S. Attorney's Office, Eastern District of New York (DOJ)",
+      "fecha": "2025-12-11",
+      "url": "https://www.justice.gov/usao-edny/pr/reward-offered-information-leading-arrest-high-ranking-member-los-choneros-violent",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s7",
+      "titulo": "'Fito' y 'Topo' acudieron a la Corte de Nueva York y deberán volver a una nueva audiencia en 2027",
+      "editor": "El Universo",
+      "fecha": "2026-09-18",
+      "url": "https://www.eluniverso.com/noticias/seguridad/alias-fito-y-topo-acudieron-a-la-corte-de-nueva-york-y-deberan-volver-a-nueva-audiencia-en-2027-nota/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s8",
+      "titulo": "Caso 'Fito' en Estados Unidos: Abogado del líder de Los Choneros confía en que el proceso se resuelva sin llegar a juicio",
+      "editor": "Primicias",
+      "fecha": "2026-09-18",
+      "url": "https://www.primicias.ec/seguridad/caso-fito-estados-unidos-negociacion-audiencia-fecha-topo-churron-132932/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s9",
+      "titulo": "Alias 'Javi', hermano de alias 'Fito', será extraditado a Estados Unidos, anuncia Reimberg",
+      "editor": "El Universo",
+      "fecha": "2026-06-19",
+      "url": "https://www.eluniverso.com/noticias/seguridad/alias-javi-hermano-de-alias-fito-sera-extraditado-a-estados-unidos-anuncia-reimberg-nota/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s10",
+      "titulo": "El capo ecuatoriano 'Fito' trasladó su red de testaferros a Colombia: van 4 familiares ubicados",
+      "editor": "El Colombiano",
+      "fecha": "2026-09-28",
+      "url": "https://www.elcolombiano.com/colombia/alias-fito-capo-los-choneros-familiares-red-testaferros-capturados-colombia-ED41601588",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s11",
+      "titulo": "Expulsan de Colombia a la esposa y a la hija de alias Fito, poderoso cabecilla de 'Los Choneros': son requeridas por lavado de activos en Ecuador",
+      "editor": "El Tiempo",
+      "fecha": "2026-09-30",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/expulsan-de-colombia-a-la-esposa-y-a-la-hija-de-alias-fito-poderoso-cabecilla-de-los-choneros-son-requeridas-por-lavado-de-activos-en-ecuador-3590040",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s12",
+      "titulo": "Extradición a la vista para alias 'Churrón', sucesor de 'Fito' y contacto de Los Choneros con el cartel de Sinaloa, según ministro de Defensa",
+      "editor": "El Universo",
+      "fecha": "2026-07-03",
+      "url": "https://www.eluniverso.com/noticias/seguridad/extradicion-a-la-vista-para-alias-churron-sucesor-de-fito-y-contacto-de-los-choneros-con-el-cartel-de-sinaloa-segun-ministro-de-defensa-nota/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s13",
+      "titulo": "La captura de dos barcos de Ecuador que EE UU vincula a la banda criminal Los Choneros atiza la polémica sobre su lucha antidrogas",
+      "editor": "El País",
+      "fecha": "2026-09-04",
+      "url": "https://elpais.com/america/2026-09-04/la-captura-de-dos-barcos-de-ecuador-que-ee-uu-vincula-a-la-banda-criminal-los-choneros-atiza-la-polemica-sobre-su-lucha-antidrogas.html",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s14",
+      "titulo": "EE.UU hunde sexta nave ecuatoriana vinculada a Los Choneros",
+      "editor": "DW",
+      "fecha": "2026-09-09",
+      "url": "https://www.dw.com/es/eeuu-hunde-sexta-nave-ecuatoriana-por-supuesto-apoyo-a-los-choneros/a-79195208",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s15",
+      "titulo": "Así fue el operativo en el que alias 'Charlie', de Los Choneros, fue abatido por las Fuerzas Armadas con apoyo del Comando Sur",
+      "editor": "Primicias",
+      "fecha": "2026-09-23",
+      "url": "https://www.primicias.ec/seguridad/operativo-alias-charlie-fuerzas-armadas-ecuador-comando-sur-133300/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s16",
+      "titulo": "Comando Sur y DEA califican como una 'victoria decisiva' operativos en Ecuador contra Los Choneros y Los Lobos",
+      "editor": "Primicias",
+      "fecha": "2026-08-26",
+      "url": "https://www.primicias.ec/seguridad/comando-sur-dea-estados-unidos-operativo-jerico-factoria-lobos-choneros-narcotrafico-ecuador-pacifico-131143/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s17",
+      "titulo": "Guerra entre bandas en Ecuador: los antiguos aliados se enfrentan y los enemigos ahora pactan",
+      "editor": "Infobae",
+      "fecha": "2026-10-01",
+      "url": "https://www.infobae.com/america/america-latina/2026/10/01/guerra-entre-bandas-en-ecuador-los-antiguos-aliados-se-enfrentan-y-los-enemigos-ahora-pactan/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s18",
+      "titulo": "Joint Statement on Defending Hemispheric Sovereignty",
+      "editor": "U.S. Department of State",
+      "fecha": "2026-09-22",
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/joint-statement-on-defending-hemispheric-sovereignty",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s19",
+      "titulo": "Estos son los 22 grupos del crimen organizado que pasan a ser organizaciones terroristas, según el Decreto Ejecutivo 111",
+      "editor": "El Universo",
+      "fecha": "2024-01-09",
+      "url": "https://www.eluniverso.com/noticias/politica/estas-son-los-22-grupos-del-crimen-organizado-que-pasan-a-ser-organizaciones-terroristas-segun-el-decreto-ejecutivo-111-nota/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s20",
+      "titulo": "Las extradiciones de los Choneros a EE. UU. pondrán a prueba la estrategia de seguridad de Ecuador",
+      "editor": "InSight Crime",
+      "fecha": "2026-06-29",
+      "url": "https://insightcrime.org/es/noticias/extradiciones-choneros-ee-uu-pondran-prueba-estrategia-ecuador-cabecillas-criminales/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s21",
+      "titulo": "Comandos de la Frontera: historia, líderes y zonas de operación",
+      "editor": "InSight Crime",
+      "fecha": "2026-10",
+      "url": "https://insightcrime.org/es/colombia-organized-crime-news/comandos-de-la-frontera/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s22",
+      "titulo": "Amazonía | Los Choneros se internan en territorio colombiano y se enfrentan con Los Comandos de la Frontera",
+      "editor": "Primicias",
+      "fecha": "2025-09-27",
+      "url": "https://www.primicias.ec/seguridad/amazonia-choneros-territorio-colombiano-comandos-frontera-narcotrafico-mineria-ilegal-106057/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s23",
+      "titulo": "Los Choneros de Ecuador desatan ola de crímenes en Tumbes: gobernador advierte que criminales extranjeros buscan controlar la frontera",
+      "editor": "Infobae",
+      "fecha": "2026-02-04",
+      "url": "https://www.infobae.com/peru/2026/02/04/los-choneros-de-ecuadro-desatan-ola-de-crimenes-en-tumbes-gobernador-advierte-que-criminales-extranjeros-buscan-controlar-la-frontera/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s24",
+      "titulo": "The Criminal Creep of Ecuador's Gangs Into Peru",
+      "editor": "InSight Crime",
+      "fecha": "2025-02-25",
+      "url": "https://insightcrime.org/news/the-criminal-creep-of-ecuadors-gangs-into-peru/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s25",
+      "titulo": "Golpe al crimen en Zamora Chinchipe: detenido alias 'Willy' y 18 sujetos dedicados a la extorsión y minería ilegal",
+      "editor": "El Universo",
+      "fecha": "2025-09-13",
+      "url": "https://www.eluniverso.com/noticias/seguridad/golpe-al-crimen-en-zamora-chinchipe-detenido-alias-willy-y-18-sujetos-dedicados-a-la-extorsion-y-mineria-ilegal-nota/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s26",
+      "titulo": "Balance de InSight Crime de los homicidios en 2025",
+      "editor": "InSight Crime",
+      "fecha": "2026-03-11",
+      "url": "https://insightcrime.org/es/noticias/balance-insight-crime-homicidios-2025/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s27",
+      "titulo": "Global Organized Crime Index 2025 – Ecuador",
+      "editor": "Global Initiative Against Transnational Organized Crime",
+      "fecha": "2025-11",
+      "url": "https://ocindex.net/country/ecuador",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s28",
+      "titulo": "Designations of Former Ecuadorian Officials for Involvement in Significant Corruption Linked to Foreign Terrorist Organizations",
+      "editor": "U.S. Department of State",
+      "fecha": "2026-09-09",
+      "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/09/designations-of-former-ecuadorian-officials-for-involvement-in-significant-corruption-linked-to-foreign-terrorist-organizations",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s29",
+      "titulo": "Así nació el grupo que se separó de Mordisco y que ahora negocia la paz con Petro",
+      "editor": "El Espectador",
+      "fecha": "2024-12-03",
+      "url": "https://www.elespectador.com/colombia-20/paz-y-memoria/la-historia-del-estado-mayor-de-los-bloques-la-disidencia-de-las-farc-comandada-por-calarca/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s30",
+      "titulo": "Los grupos armados ilegales colombianos que hacen presencia en Ecuador: los Comandos de la Frontera de 'Araña' y las disidencias de 'Iván Mordisco'",
+      "editor": "Infobae",
+      "fecha": "2026-09-26",
+      "url": "https://www.infobae.com/colombia/2026/09/26/los-grupos-armados-ilegales-colombiano-que-hacen-presencia-en-ecuador-los-comandos-de-la-frontera-de-arana-y-las-disidencias-de-ivan-mordisco/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s31",
+      "titulo": "EE.UU. y Ecuador lanzan operaciones militares conjuntas contra \"organizaciones terroristas\" en el país sudamericano",
+      "editor": "BBC Mundo",
+      "fecha": "2026-03-04",
+      "url": "https://www.bbc.com/mundo/articles/cvg88xw7xgno",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s32",
+      "titulo": "El extraditado alias 'Topo' tendrá su primera audiencia en Nueva York, en el mismo caso de 'Fito'",
+      "editor": "Primicias",
+      "fecha": "2026-06-21",
+      "url": "https://www.primicias.ec/seguridad/alias-topo-audiencia-nueva-york-lunes-fito-choneros-126005/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s33",
+      "titulo": "Ecuador enfrenta hasta a 11 bandas criminales y a ocho grupos disidentes en zonas fronterizas con Colombia",
+      "editor": "Primicias",
+      "fecha": "2026-02-01",
+      "url": "https://www.primicias.ec/seguridad/ecuador-enfrenta-bandas-criminales-grupos-disidentes-zonas-frontera-colombia-114965/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s34",
+      "titulo": "Policía y Comando Sur desbaratan Cartel de Jalisco en Ecuador",
+      "editor": "La República (Ecuador)",
+      "fecha": "2026-09-24",
+      "url": "https://www.larepublica.ec/blog/2026/09/24/ecuador-y-ee-uu-asestan-historico-golpe-al-narcotrafico-en-operativo-conjunto-esta-madrugada/",
+      "categoria": "prensa",
+      "verificada": true
+    }
+  ]
+}

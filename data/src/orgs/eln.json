@@ -1,0 +1,474 @@
+{
+  "id": "eln",
+  "nombre": "Ejército de Liberación Nacional (ELN)",
+  "corto": "ELN",
+  "alias": [
+    "ELN",
+    "Elenos"
+  ],
+  "tipo": "grupo_armado",
+  "pais_origen": "COL",
+  "fundacion": "Julio de 1964 en Santander (Colombia), como guerrilla marxista-leninista inspirada en la Revolución cubana; su primera acción armada fue en Simacota el 7 de enero de 1965.",
+  "resumen": "Es la última insurgencia activa de Colombia y una organización binacional con estructuras estables en Venezuela. Aunque mantiene un discurso político, sus frentes dependen cada vez más del narcotráfico, la minería ilegal, la extorsión y el secuestro, y controlan enclaves cocaleros como el Catatumbo. Su relación con sectores del Estado venezolano le dio retaguardia y rutas de exportación.",
+  "situacion_actual": "La mesa de paz está suspendida desde enero de 2025, cuando el ELN lanzó una ofensiva contra el Frente 33 de las disidencias en el Catatumbo. El 9 de septiembre de 2026 el gobierno de Abelardo de la Espriella revocó toda la delegación oficial (Resolución 391) y dio por cerrada la negociación. El nuevo gobierno bombardeó un campamento del Frente de Guerra Nororiental entre San Calixto y Tibú el 11 de agosto de 2026 y reactivó la campaña 'Sparta' después de los ataques del ELN en Los Patios y Ocaña del 4 y 5 de septiembre. El 28 de septiembre un juez condenó en ausencia a 11 comandantes, entre ellos 'Pablo Beltrán', por reclutar a 60 menores. En Venezuela, tras la captura de Nicolás Maduro por EE. UU. el 3 de enero de 2026, el ELN bajó su perfil pero sigue presente en al menos ocho estados. En septiembre de 2026 hubo operaciones militares venezolanas en la zona minera de Los Pijiguaos (Bolívar) y un combate con la GNB en Junín (Táchira), el primero reportado desde el cambio de gobierno en Colombia. El COCE no ha sufrido bajas ni capturas a la fecha de corte.",
+  "estructura": "La dirección es el Comando Central (COCE), encabezado por 'Antonio García'; por debajo está la Dirección Nacional (DINAL), con unos 23 integrantes. Opera como una federación de ocho frentes de guerra con unas 33 subestructuras y mucha autonomía operativa, entre ellos el Nororiental en el Catatumbo, el Oriental en Arauca y los frentes del Pacífico. InSight Crime calcula unos 6.300 integrantes entre combatientes y redes, alrededor del 20 % en Venezuela. El Ministerio de Defensa estimó en 2024 entre 2.300 y 2.800 combatientes armados. Tiene presencia en 149 a 184 municipios de 19 departamentos y en ocho estados venezolanos.",
+  "lideres": [
+    {
+      "nombre": "Eliécer Erlinto Chamorro Acosta",
+      "alias": "Antonio García",
+      "rol": "Primer comandante del COCE",
+      "estado": "Prófugo a 5 de octubre de 2026. La prensa sitúa a la cúpula en territorio venezolano.",
+      "fuente_ids": [
+        "s1",
+        "s17"
+      ]
+    },
+    {
+      "nombre": "Israel Ramírez Pineda",
+      "alias": "Pablo Beltrán",
+      "rol": "Integrante del COCE, comandante político y exjefe negociador",
+      "estado": "Condenado en ausencia por reclutamiento de menores (28 de septiembre de 2026). Según AP, reside en Cuba.",
+      "fuente_ids": [
+        "s1",
+        "s16",
+        "s17"
+      ]
+    },
+    {
+      "nombre": "Gustavo Aníbal Giraldo Quinchía",
+      "alias": "Pablito",
+      "rol": "Integrante del COCE a cargo de la estrategia militar",
+      "estado": "Prófugo.",
+      "fuente_ids": [
+        "s1",
+        "s17"
+      ]
+    },
+    {
+      "nombre": "Luz Amanda Pallares",
+      "alias": "Silvana Guerrero",
+      "rol": "Comandante del Frente de Guerra Nororiental (Catatumbo)",
+      "estado": "Prófuga. El gobierno colombiano ofrece 1.600 millones de pesos por información para su captura (septiembre de 2026).",
+      "fuente_ids": [
+        "s12",
+        "s15"
+      ]
+    }
+  ],
+  "designaciones": [
+    {
+      "autoridad": "Departamento de Estado de EE. UU.",
+      "categoria": "Organización Terrorista Extranjera (FTO)",
+      "fecha": "1997-10-08",
+      "fuente_ids": [
+        "s20"
+      ]
+    },
+    {
+      "autoridad": "Consejo de la Unión Europea",
+      "categoria": "Lista de personas, grupos y entidades terroristas de la UE (Posición Común 2001/931/PESC); listado mantenido en la Decisión (PESC) 2026/455 del 26 de febrero de 2026 y en la revisión de la Decisión (PESC) 2026/1882",
+      "fecha": "2026-07-30",
+      "fuente_ids": [
+        "s21"
+      ]
+    }
+  ],
+  "delitos": [
+    "cocaina",
+    "otras_drogas",
+    "extorsion",
+    "secuestro",
+    "sicariato",
+    "reclutamiento",
+    "mineria",
+    "contrabando",
+    "migrantes"
+  ],
+  "presencia": [
+    {
+      "pais": "COL",
+      "nivel": "base",
+      "zonas": [
+        "Norte de Santander: Catatumbo (Tibú, El Tarra, San Calixto, Convención, Ocaña)",
+        "Área metropolitana de Cúcuta (Los Patios, Puerto Santander)",
+        "Arauca",
+        "Cesar",
+        "Cauca",
+        "Nariño",
+        "Chocó",
+        "Antioquia",
+        "Corredor Antioquia–sur de Bolívar"
+      ],
+      "delitos": [
+        "cocaina",
+        "otras_drogas",
+        "extorsion",
+        "secuestro",
+        "sicariato",
+        "reclutamiento",
+        "mineria",
+        "contrabando",
+        "migrantes"
+      ],
+      "nota": "Su territorio de origen. Sus bastiones son el Catatumbo, Arauca y Cauca. En 2025 perdió terreno en Nariño, Vichada y la frontera entre Antioquia y Chocó. En el Catatumbo controla zonas cocaleras tras su guerra con el Frente 33, que lleva más de 20 meses, más de 200 muertos y 111.000 desplazados.",
+      "fuente_ids": [
+        "s1",
+        "s5",
+        "s10",
+        "s11",
+        "s12",
+        "s16",
+        "s18"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "VEN",
+      "nivel": "consolidada",
+      "zonas": [
+        "Zulia (Encontrados, El Cruce, Casigua El Cubo, Sierra de Perijá, sur del Lago de Maracaibo)",
+        "Táchira (Junín)",
+        "Apure",
+        "Amazonas",
+        "Bolívar (municipio Cedeño, Los Pijiguaos, Arco Minero del Orinoco)",
+        "Barinas",
+        "Anzoátegui",
+        "Guárico"
+      ],
+      "delitos": [
+        "cocaina",
+        "mineria",
+        "extorsion",
+        "contrabando",
+        "migrantes",
+        "reclutamiento"
+      ],
+      "nota": "Funciona como estructura binacional y ejerce control social en Apure y Táchira. Explota minas de oro y bauxita en Bolívar y usa pistas clandestinas en Zulia y Táchira: la inteligencia colombiana contaba 93 en octubre de 2026. Actuó con tolerancia y respaldo de fuerzas estatales venezolanas. Desde enero de 2026 mantiene un perfil más bajo, y en septiembre de 2026 hubo choques con la GNB y la FANB.",
+      "fuente_ids": [
+        "s2",
+        "s6",
+        "s4",
+        "s15",
+        "s13",
+        "s14",
+        "s3"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "CUB",
+      "nivel": "limitada",
+      "zonas": [
+        "La Habana"
+      ],
+      "delitos": [],
+      "nota": "Ahí reside parte de la delegación política, incluido 'Pablo Beltrán', según AP. No se documentan actividades criminales en el país.",
+      "fuente_ids": [
+        "s16"
+      ],
+      "confianza": "media"
+    }
+  ],
+  "vinculos": [
+    {
+      "destino": "clan-del-golfo",
+      "tipo": "rivalidad",
+      "descripcion": "Disputa territorial desde 2018 en Antioquia, Chocó y el sur de Bolívar por narcotráfico y minería ilegal.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s1",
+        "s5"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "embf",
+      "tipo": "rivalidad",
+      "descripcion": "Guerra con el Frente 33 'Mariscal Antonio José de Sucre', del Bloque Magdalena Medio del EMBF, por el control del Catatumbo desde la ofensiva del ELN de enero de 2025.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s1",
+        "s7",
+        "s5"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "emc",
+      "tipo": "rivalidad",
+      "descripcion": "Compite con facciones alineadas al EMC por la producción de coca, las rutas de narcotráfico y las rentas mineras.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s1"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "segunda-marquetalia",
+      "tipo": "rivalidad",
+      "descripcion": "La alianza en el suroccidente se rompió cuando el ELN emboscó y mató en agosto de 2025 a 'Zarco Aldinever', segundo al mando de la Segunda Marquetalia.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s1",
+        "s2"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "cartel-soles",
+      "tipo": "alianza",
+      "descripcion": "El ELN fue el principal socio de sectores militares y políticos venezolanos en el tráfico de cocaína: daba seguridad a laboratorios y pistas mientras las fuerzas venezolanas aportaban protección y logística. Tras la caída de Maduro, InSight Crime prevé formas de cooperación más encubiertas, pero los choques con la GNB en septiembre de 2026 vuelven incierta la continuidad.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s4",
+        "s2",
+        "s6"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "sinaloa",
+      "tipo": "suministro",
+      "descripcion": "El ELN garantiza producción y acceso a la cocaína en el Catatumbo y la frontera, y emisarios del Cártel de Sinaloa la compran y la transportan. InSight Crime lo describe como alianza, no como subordinación.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s19",
+        "s18"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "cjng",
+      "tipo": "suministro",
+      "descripcion": "Según GI-TOC, el CJNG financia y coordina la producción de cocaína con socios locales como el ELN. El ELN actúa como proveedor.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s18"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "ext-comuneros-del-sur",
+      "tipo": "escision",
+      "descripcion": "El Frente Comuneros del Sur se separó del Frente de Guerra Suroccidental del ELN en Nariño en 2024 por disputas financieras y de mando. El ELN lo considera traidor. El gobierno De la Espriella cerró su proceso de diálogo el 3 de septiembre de 2026.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s8",
+        "s22",
+        "s1"
+      ],
+      "confianza": "alta"
+    }
+  ],
+  "notas_controversia": "Las estimaciones de tamaño no coinciden: 2.300 a 2.800 combatientes según el Ministerio de Defensa (2024), unos 6.300 integrantes según InSight Crime y 6.000 a 8.000 según fuentes citadas por la EUAA. En Venezuela las cifras van de 250-300 combatientes en campamentos fronterizos (Semana, enero de 2026) a unos 2.500 (ABC, citado por la EUAA). Las autoridades venezolanas niegan oficialmente la presencia del ELN. En enero de 2026 Semana publicó, con base en documentos de inteligencia, que EE. UU. y Venezuela coordinarían una operación contra el ELN en suelo venezolano; no hay confirmación oficial de que se haya ejecutado (s23). Petro afirmó que el Cártel de Sinaloa era 'el jefe' del ELN, pero InSight Crime lo describe como una relación de socios. El perfil de InSight Crime fecha en 'enero de 2026' el colapso del pacto con el Frente 33, mientras otros pasajes y la EUAA lo sitúan en enero de 2025; aquí se usa 2025. Hay reportes de prensa sobre presencia del ELN en la frontera norte de Ecuador (Carchi, Esmeraldas), pero no pudieron corroborarse y no se incluyó ese país.",
+  "confianza_general": "alta",
+  "fuentes": [
+    {
+      "id": "s1",
+      "titulo": "National Liberation Army (ELN) (perfil)",
+      "editor": "InSight Crime",
+      "fecha": "2026-08-12",
+      "url": "https://insightcrime.org/colombia-organized-crime-news/eln-profile/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s2",
+      "titulo": "ELN in Venezuela",
+      "editor": "InSight Crime",
+      "fecha": "2026-07-02",
+      "url": "https://insightcrime.org/venezuela-organized-crime-news/eln-in-venezuela/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s3",
+      "titulo": "Will Colombian Guerrillas Lose Their Safe Haven in Post-Maduro Venezuela?",
+      "editor": "InSight Crime",
+      "fecha": "2026-01",
+      "url": "https://insightcrime.org/news/will-guerrillas-lose-haven-post-maduro-venezuela/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s4",
+      "titulo": "Camaraderie and Drug Trafficking: Colombian Guerrillas in Venezuela",
+      "editor": "InSight Crime",
+      "fecha": "2026-02-25",
+      "url": "https://insightcrime.org/investigations/camaraderie-drug-trafficking-colombian-guerrillas-venezuela/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s5",
+      "titulo": "Colombia – Country Focus: 3.1.2 Ejército de Liberación Nacional (ELN)",
+      "editor": "Agencia de Asilo de la Unión Europea (EUAA)",
+      "fecha": "2026-04",
+      "url": "https://www.euaa.europa.eu/colombia-country-focus/312-ejercito-de-liberacion-nacional-eln",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s6",
+      "titulo": "Venezuela – Country Focus: 2.1.4 ELN",
+      "editor": "Agencia de Asilo de la Unión Europea (EUAA)",
+      "fecha": "2026-07",
+      "url": "https://www.euaa.europa.eu/venezuela-country-focus/214-eln",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s7",
+      "titulo": "Colombia – Country Focus: 3.1.4 Estado Mayor de Bloques y Frentes (EMBF)",
+      "editor": "Agencia de Asilo de la Unión Europea (EUAA)",
+      "fecha": "2026-04",
+      "url": "https://www.euaa.europa.eu/colombia-country-focus/314-estado-mayor-de-bloques-y-frentes-embf",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s8",
+      "titulo": "Colombia – Country Focus: 3.1.3 Frente Comuneros del Sur (FCS)",
+      "editor": "Agencia de Asilo de la Unión Europea (EUAA)",
+      "fecha": "2026-04",
+      "url": "https://www.euaa.europa.eu/colombia-country-focus/313-frente-comuneros-del-sur-fcs",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s9",
+      "titulo": "Gobierno revoca delegaciones con el ELN, Clan del Golfo y cierra zona de ubicación",
+      "editor": "La FM",
+      "fecha": "2026-09-09",
+      "url": "https://www.lafm.com.co/politica/gobierno-abelardo-de-la-espriella-revoca-delegaciones-eln-clan-del-golfo-cierra-zona-de-ubicacion-410469",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s10",
+      "titulo": "Colombia redobla la ofensiva contra el ELN y otros grupos armados en el Catatumbo tras el ataque en Ocaña",
+      "editor": "Infobae (EFE)",
+      "fecha": "2026-09-05",
+      "url": "https://www.infobae.com/america/agencias/2026/09/05/colombia-redobla-la-ofensiva-contra-el-eln-y-otros-grupos-armados-en-el-catatumbo-tras-el-ataque-en-ocana/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s11",
+      "titulo": "El panorama caótico que enfrenta el Catatumbo por cuenta del terrorismo: ELN arrecia su ofensiva en Norte de Santander con carros bomba y drones",
+      "editor": "El Tiempo",
+      "fecha": "2026-09-04",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-panorama-caotico-que-enfrenta-el-catatumbo-por-cuenta-del-terrorismo-eln-arrecia-su-ofensiva-en-norte-de-santander-con-carros-bomba-y-drones-3583682",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s12",
+      "titulo": "Militares rescatan a ocho secuestrados durante operativo contra el ELN en Catatumbo",
+      "editor": "Vanguardia",
+      "fecha": "2026-09-15",
+      "url": "https://www.vanguardia.com/colombia/2026/09/15/rescatan-a-ocho-personas-durante-operativo-militar-contra-el-eln-en-el-catatumbo/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s13",
+      "titulo": "Combate entre el ELN y la Guardia Nacional Bolivariana en Táchira deja un muerto y cinco heridos",
+      "editor": "Semana",
+      "fecha": "2026-09-30",
+      "url": "https://www.semana.com/mundo/articulo/combate-entre-el-eln-y-la-guardia-nacional-bolivariana-en-tachira-deja-un-muerto-y-cinco-heridos/202659/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s14",
+      "titulo": "Ejército venezolano se enfrenta a la guerrilla del ELN en zona minera del estado Bolívar",
+      "editor": "Infobae",
+      "fecha": "2026-09-17",
+      "url": "https://www.infobae.com/venezuela/2026/09/17/ejercito-venezolano-se-enfrenta-a-la-guerrilla-del-eln-en-zona-minera-del-estado-bolivar/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s15",
+      "titulo": "ELN en Venezuela: identifican 93 pistas clandestinas y cambios en sus campamentos",
+      "editor": "Infobae",
+      "fecha": "2026-10-01",
+      "url": "https://www.infobae.com/colombia/2026/10/01/eln-en-venezuela-identifican-93-pistas-clandestinas-y-cambios-en-sus-campamentos/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s16",
+      "titulo": "Colombia issues lengthy sentences against ELN rebel leaders for recruiting children",
+      "editor": "Associated Press (vía KSAT)",
+      "fecha": "2026-09-28",
+      "url": "https://www.ksat.com/news/world/2026/09/28/colombia-issues-lengthy-sentences-against-eln-rebel-leaders-for-recruiting-children/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s17",
+      "titulo": "Revelan documentos y videos que evidenciaría la alianza entre el régimen venezolano con el ELN y disidencias de las Farc",
+      "editor": "Infobae",
+      "fecha": "2026-01-13",
+      "url": "https://www.infobae.com/colombia/2026/01/13/revelan-documentos-y-videos-que-evidenciaria-la-alianza-entre-el-regimen-venezolano-con-el-eln-y-disidencias-de-las-farc/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s18",
+      "titulo": "Global Organized Crime Index 2025 – Colombia",
+      "editor": "Global Initiative Against Transnational Organized Crime",
+      "fecha": "2025",
+      "url": "https://ocindex.net/assets/downloads/2025/english/ocindex_profile_colombia_2025.pdf",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s19",
+      "titulo": "The Sinaloa Cartel and the ELN: Ally or Subordinate?",
+      "editor": "InSight Crime",
+      "fecha": "2025-02-24",
+      "url": "https://insightcrime.org/news/the-sinaloa-cartel-to-the-eln-ally-or-subordinate/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s20",
+      "titulo": "Foreign Terrorist Organizations",
+      "editor": "U.S. Department of State",
+      "fecha": "2026",
+      "url": "https://www.state.gov/foreign-terrorist-organizations",
+      "categoria": "oficial",
+      "verificada": false
+    },
+    {
+      "id": "s21",
+      "titulo": "Council Decision (CFSP) 2026/1882 of 30 July 2026 reviewing the list of persons, groups and entities subject to restrictive measures to combat terrorism",
+      "editor": "Consejo de la Unión Europea (EUR-Lex)",
+      "fecha": "2026-07-30",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ%3AL_202601882",
+      "categoria": "oficial",
+      "verificada": false
+    },
+    {
+      "id": "s22",
+      "titulo": "Abelardo de La Espriella acabó oficialmente con los procesos de diálogo con los Comuneros del Sur, la disidencia del ELN y los grupos criminales de Medellín",
+      "editor": "Infobae",
+      "fecha": "2026-09-04",
+      "url": "https://www.infobae.com/colombia/2026/09/04/abelardo-de-la-espriella-acabo-oficialmente-con-los-procesos-de-dialogo-con-los-comuneros-del-sur-la-disidencia-del-eln-y-los-grupos-criminales-de-medellin/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s23",
+      "titulo": "El ELN, acorralado: Estados Unidos y Venezuela coordinarían una ofensiva militar inédita",
+      "editor": "Semana",
+      "fecha": "2026-01-11",
+      "url": "https://www.semana.com/nacion/articulo/el-eln-acorralado-estados-unidos-y-venezuela-coordinarian-ofensiva-militar-inedita/202655/",
+      "categoria": "prensa",
+      "verificada": true
+    }
+  ]
+}
