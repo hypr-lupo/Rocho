@@ -10,7 +10,7 @@
   {
     "id": "ext-armas-eeuu-rd",
     "nombre": "Redes de tráfico de armas y municiones EE. UU.–República Dominicana hacia Haití",
-    "corto": "Redes de tráfico de armas y municiones EE. UU.–República Dominicana hacia Haití",
+    "corto": "Armas EE. UU.–R. Dominicana",
     "pais": "USA",
     "descripcion": "Redes documentadas por el Panel de Expertos de la ONU que exportan armas y municiones desde EE. UU. a Haití, por mar o vía República Dominicana, y desvían munición de arsenales dominicanos, en beneficio de 400 Mawozo, Canaan y otras pandillas de Viv Ansanm.",
     "fuentes": [
@@ -35,7 +35,7 @@
   {
     "id": "ext-bdm",
     "nombre": "Bonde do Maluco (BDM)",
-    "corto": "Bonde do Maluco (BDM)",
+    "corto": "Bonde do Maluco",
     "pais": "BRA",
     "descripcion": "Banda criminal del nordeste de Brasil, con base en Bahia y aliada del PCC.",
     "fuentes": [
@@ -94,7 +94,7 @@
   {
     "id": "ext-clan-alvarado",
     "nombre": "Clan Alvarado (organización de Esteban Lindor Alvarado)",
-    "corto": "Clan Alvarado (organización de Esteban Lindor Alvarado)",
+    "corto": "Clan Alvarado",
     "pais": "ARG",
     "descripcion": "Organización narcocriminal de Rosario liderada por Esteban Lindor Alvarado, preso. Es rival histórica de Los Monos por el narcomenudeo en el noroeste de Rosario, y una de sus células, encabezada por Francisco Riquelme, fue condenada en mayo de 2026.",
     "fuentes": [
@@ -111,7 +111,7 @@
   {
     "id": "ext-clanes-vraem",
     "nombre": "Clanes familiares de narcotráfico del VRAEM",
-    "corto": "Clanes familiares de narcotráfico del VRAEM",
+    "corto": "Clanes del VRAEM",
     "pais": "PER",
     "descripcion": "Organizaciones familiares que acopian, procesan y transportan pasta básica y clorhidrato de cocaína en el Valle de los Ríos Apurímac, Ene y Mantaro y que contratan la protección armada del MPCP.",
     "fuentes": [
@@ -136,7 +136,7 @@
   {
     "id": "ext-comuneros-del-sur",
     "nombre": "Frente Comuneros del Sur (FCS)",
-    "corto": "Frente Comuneros del Sur (FCS)",
+    "corto": "Comuneros del Sur",
     "pais": "COL",
     "descripcion": "Escisión del Frente de Guerra Suroccidental del ELN, separada en 2024 por disputas financieras y de mando. Opera en unos 11 municipios del centro de Nariño y, según la prensa ecuatoriana, cruza a Carchi (Ecuador) para custodiar minería ilegal. El gobierno Petro lo reconoció como grupo separado y negoció con él; el gobierno De la Espriella cerró ese proceso el 3 de septiembre de 2026 (Resolución 365).",
     "fuentes": [
@@ -153,7 +153,7 @@
   {
     "id": "ext-csrl",
     "nombre": "Cártel de Santa Rosa de Lima (CSRL)",
-    "corto": "Cártel de Santa Rosa de Lima (CSRL)",
+    "corto": "Santa Rosa de Lima",
     "pais": "MEX",
     "descripcion": "Grupo criminal de Guanajuato surgido del robo de combustible (fundado en 2014 por José Antonio Yépez Ortiz, “El Marro”). Su brazo armado, Los Marros, disputa con el CJNG Salamanca, Irapuato y Celaya. Se le atribuye la masacre de 11 personas en Salamanca el 25 de enero de 2026 y en 2026 se reporta aliado con el Cártel del Golfo.",
     "fuentes": [
@@ -170,7 +170,7 @@
   {
     "id": "ext-disidencias-farc-amazonia",
     "nombre": "Disidencias de las FARC en la Amazonía colombiana (facción no especificada)",
-    "corto": "Disidencias de las FARC en la Amazonía colombiana (facción no especificada)",
+    "corto": "Disidencias (Amazonía)",
     "pais": "COL",
     "descripcion": "Grupos disidentes de las FARC que, según GI-TOC (2026), mantienen una alianza de larga data con el CV para mover cocaína por la Amazonía colombiana hacia Brasil. La fuente no identifica la facción.",
     "fuentes": [
@@ -187,7 +187,7 @@
   {
     "id": "ext-eme",
     "nombre": "La eMe (Mafia Mexicana)",
-    "corto": "La eMe (Mafia Mexicana)",
+    "corto": "La eMe",
     "pais": "USA",
     "descripcion": "Organización criminal carcelaria con sede en California que cobra cuotas y ofrece protección a pandillas sureñas; mantiene relaciones históricas con la MS-13 y Barrio 18.",
     "fuentes": [
@@ -204,7 +204,7 @@
   {
     "id": "ext-frente-oliver-sinisterra",
     "nombre": "Frente Oliver Sinisterra (FOS)",
-    "corto": "Frente Oliver Sinisterra (FOS)",
+    "corto": "Frente Oliver Sinisterra",
     "pais": "COL",
     "descripcion": "Estructura disidente de las FARC con presencia en Nariño y en Esmeraldas (Ecuador) que suministra cocaína a grupos ecuatorianos y mexicanos. En septiembre de 2026 las autoridades ecuatorianas le atribuyeron nexos con alias Charlie, operador de Los Choneros abatido.",
     "fuentes": [
@@ -221,7 +221,7 @@
   {
     "id": "ext-fta",
     "nombre": "Família Terror do Amapá (FTA)",
-    "corto": "Família Terror do Amapá (FTA)",
+    "corto": "Família Terror do Amapá",
     "pais": "BRA",
     "descripcion": "Grupo con sede en Macapá y unos 10.000 integrantes, con vínculos históricos con el PCC. Presta apoyo logístico a la exportación de cocaína hacia Europa y pierde integrantes frente al CV desde 2022.",
     "fuentes": [
@@ -238,7 +238,7 @@
   {
     "id": "ext-gde",
     "nombre": "Guardiões do Estado (GDE)",
-    "corto": "Guardiões do Estado (GDE)",
+    "corto": "Guardiões do Estado",
     "pais": "BRA",
     "descripcion": "Grupo criminal de Ceará, con integrantes muy jóvenes, que controla municipios como Caucaia y Maranguape. Está aliado con el PCC contra el CV.",
     "fuentes": [
@@ -306,7 +306,7 @@
   {
     "id": "ext-latin-kings",
     "nombre": "Latin Kings (Ecuador)",
-    "corto": "Latin Kings (Ecuador)",
+    "corto": "Latin Kings",
     "pais": "ECU",
     "descripcion": "Rama ecuatoriana de la pandilla transnacional, con presencia en Guayaquil y Durán. Es aliada de Los Lobos en Guayas desde 2025. Ecuador la declaró grupo terrorista en el Decreto 111 (2024).",
     "fuentes": [
@@ -323,7 +323,7 @@
   {
     "id": "ext-los-menores",
     "nombre": "Los Menores (Rosario)",
-    "corto": "Los Menores (Rosario)",
+    "corto": "Los Menores",
     "pais": "ARG",
     "descripcion": "Red descentralizada de células de narcomenudeo, juego ilegal y lavado en Rosario, con influencia en la barra de Rosario Central. Su presunto líder, Matías Gazzani, está prófugo. Creció tras el debilitamiento de Los Monos y del Clan Alvarado.",
     "fuentes": [
@@ -357,7 +357,7 @@
   {
     "id": "ext-milicias-rj",
     "nombre": "Milicias de Río de Janeiro",
-    "corto": "Milicias de Río de Janeiro",
+    "corto": "Milicias de Río",
     "pais": "BRA",
     "descripcion": "Grupos armados formados por policías y ex policías que controlan territorios y servicios (internet, transporte, inmuebles) en Río de Janeiro. Desde 2022 pierden terreno frente al CV.",
     "fuentes": [
@@ -423,7 +423,7 @@
   {
     "id": "ext-tcp",
     "nombre": "Terceiro Comando Puro (TCP)",
-    "corto": "Terceiro Comando Puro (TCP)",
+    "corto": "Terceiro Comando Puro",
     "pais": "BRA",
     "descripcion": "Tercera organización criminal de Brasil, con base en el 'Complexo de Israel' (zona norte de Río de Janeiro) y presencia en al menos nueve estados más. Nació de una escisión del CV a mediados de los años ochenta, es aliada del PCC y coopera ocasionalmente con milicias contra el CV.",
     "fuentes": [
@@ -474,7 +474,7 @@
   {
     "id": "ext-viagras",
     "nombre": "Los Viagras (incluye Los Blancos de Troya)",
-    "corto": "Los Viagras (incluye Los Blancos de Troya)",
+    "corto": "Los Viagras",
     "pais": "MEX",
     "descripcion": "Organización de la Tierra Caliente de Michoacán liderada por Nicolás Sierra Santana, 'El Gordo', dedicada a drogas sintéticas, extorsión agrícola y secuestro. Operó bajo Cárteles Unidos, se alió con el CJNG en 2023 y rompió con él en 2026. OFAC la sancionó el 14 de agosto de 2025 y el Departamento de Estado la designó Organización Terrorista Extranjera el 16 de julio de 2026, con Los Blancos de Troya como alias.",
     "fuentes": [

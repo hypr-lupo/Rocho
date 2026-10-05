@@ -110,6 +110,7 @@
     csort: 'nombre',
     q: '',
     edges: Object.fromEntries(T.vinculos.map((v) => [v.id, true])),
+    ext: true,
   };
 
   const orgPasa = (o) =>
@@ -724,7 +725,7 @@
       fill(L, 
         h('span', { class: 'legend__title', text: 'Nodos' }),
         T.familias.map((f) => h('span', { class: 'legend__item' }, h('span', { class: `dot dot--${f.id}` }), FAMILIA_CORTA[f.id])),
-        h('span', { class: 'legend__item' }, h('span', { class: 'dot dot--ext' }), 'Actor extrarregional u otro'),
+        h('span', { class: 'legend__item' }, h('span', { class: 'dot dot--ext' }), 'Actor fuera del catálogo'),
         h('span', { class: 'legend__title', text: 'Vínculos', style: 'margin-left:8px' }),
         T.vinculos.map((v) =>
           h(
@@ -743,7 +744,21 @@
             v.nombre
           )
         ),
-        h('span', { class: 'legend__note', text: 'Línea tenue: confianza baja' })
+        h(
+          'button',
+          {
+            type: 'button',
+            class: 'toggle',
+            'aria-pressed': String(state.ext),
+            onclick: () => {
+              state.ext = !state.ext;
+              render();
+            },
+          },
+          h('span', { class: 'dot dot--ext', 'aria-hidden': 'true' }),
+          'Actores fuera del catálogo'
+        ),
+        h('span', { class: 'legend__note', text: 'Nodos agrupados por región de origen · línea tenue: confianza baja' })
       );
     }
     function edgeSample(tipo) {
@@ -770,11 +785,26 @@
       return s;
     }
 
+    // Anclas geográficas aproximadas: los nodos se agrupan por región de origen.
+    const ANCLAS = {
+      mex: [-260, -230], nam: [-260, -400], mca: [-60, -230], car: [260, -230],
+      norandino: [0, 0], andes: [-230, 170], conosur: [80, 330], eur: [420, 60], afr: [420, 300], asi: [-520, -120],
+    };
+    function ancla(d) {
+      const a3 = d.ext ? EXT[d.id].pais : ORG[d.id].pais_origen;
+      const r = A.paises[a3] ? A.paises[a3].r : 'eur';
+      let k = r;
+      if (a3 === 'MEX') k = 'mex';
+      else if (r === 'sud') k = ['COL', 'VEN'].includes(a3) ? 'norandino' : ['ECU', 'PER', 'BOL'].includes(a3) ? 'andes' : 'conosur';
+      return ANCLAS[k] || [0, 0];
+    }
+
     function datos() {
       const orgs = A.orgs.filter(orgPasa);
       const ids = new Set(orgs.map((o) => o.id));
       const links = A.vinculos.filter((v) => {
         if (!state.edges[v.tipo]) return false;
+        if (!state.ext && (EXT[v.a] || EXT[v.b])) return false;
         const a = ids.has(v.a) || (EXT[v.a] && ids.has(v.b));
         const b = ids.has(v.b) || (EXT[v.b] && ids.has(v.a));
         return a && b;
@@ -846,11 +876,11 @@
       if (sim) sim.stop();
       sim = d3
         .forceSimulation(nodes)
-        .force('link', d3.forceLink(links).id((d) => d.id).distance((l) => (l.v.tipo === 'escision' ? 60 : 95)).strength(0.5))
-        .force('charge', d3.forceManyBody().strength(-420))
-        .force('collide', d3.forceCollide().radius((d) => d.r + 16 + Math.min(d.label.length, 18) * 2.2))
-        .force('x', d3.forceX(0).strength(0.04))
-        .force('y', d3.forceY(0).strength(0.06))
+        .force('link', d3.forceLink(links).id((d) => d.id).distance((l) => (l.v.tipo === 'escision' ? 70 : 120)).strength(0.12))
+        .force('charge', d3.forceManyBody().strength((d) => (d.ext ? -260 : -520)).distanceMax(420))
+        .force('collide', d3.forceCollide().radius((d) => d.r + 10 + Math.min(d.label.length, 24) * 2.6).strength(0.9))
+        .force('x', d3.forceX((d) => ancla(d)[0]).strength(0.28))
+        .force('y', d3.forceY((d) => ancla(d)[1]).strength(0.3))
         .stop();
       const fresh = nodes.some((n) => n.x === undefined);
       if (!fresh) sim.alpha(0.2);
@@ -1069,7 +1099,7 @@
   }
 
   /* ================= MATRIZ ================= */
-  const M_BINS = [1, 2, 3, 5, 7]; // 1 · 2 · 3–4 · 5–6 · 7+
+  const M_BINS = [1, 2, 4, 7, 10]; // 1 · 2–3 · 4–6 · 7–9 · 10+
   const Matriz = (function () {
     $$('#m-sort button').forEach((b) =>
       b.addEventListener('click', () => {
