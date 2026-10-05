@@ -11,14 +11,14 @@
   "pais_origen": "MEX",
   "fundacion": "Década de 2010, como iteración más reciente de La Familia Michoacana (surgida en 2006)",
   "resumen": "Iteración más reciente de La Familia Michoacana, dirigida por los hermanos Hurtado Olascoaga desde la Tierra Caliente de Guerrero, con presencia en el Estado de México, Michoacán, Morelos, Puebla y la Ciudad de México. Trafica metanfetamina, fentanilo, cocaína y heroína hacia EE. UU. y obtiene ingresos de la extorsión, el secuestro, la minería ilegal y el control de recursos forestales. Usa drones con explosivos contra rivales y comunidades. EE. UU. la designó Organización Terrorista Extranjera y SDGT el 20 de febrero de 2025.",
-  "situacion_actual": "La NFM sigue activa bajo el mando de Johnny Hurtado Olascoaga, 'El Pez', y José Alfredo Hurtado Olascoaga, 'El Fresa', quienes no han sido capturados a la fecha de corte. El 15 de abril de 2025 EE. UU. desclasificó acusaciones contra ambos en el Distrito Norte de Georgia, OFAC sancionó a cuatro hermanos Hurtado Olascoaga y el Departamento de Estado ofreció recompensas de hasta 5 y 3 millones de dólares. En 2026 el secretario de Seguridad atribuyó a la organización la privación de la libertad del alcalde de Taxco y su padre (11 al 13 de abril), las autoridades mexiquenses detuvieron a un jefe de plaza a cargo de seis municipios del sur del Estado de México (15 de marzo) y la Fiscalía de Morelos la reconoció como uno de los dos grupos nacionales activos en el estado (24 de septiembre). El 24 de septiembre de 2026 integrantes del grupo secuestraron a ocho campesinos del ejido El Balcón (Ajuchitlán del Progreso, Guerrero) y condicionaron su liberación a la entrega de bosques. Su relación con el CJNG combina enfrentamientos en Michoacán, Guerrero y el Estado de México con pactos tácticos.",
+  "situacion_actual": "La NFM sigue activa bajo el mando de Johnny Hurtado Olascoaga, 'El Pez', y José Alfredo Hurtado Olascoaga, 'El Fresa', sin reporte público de captura a la fecha de corte. El 15 de abril de 2025 EE. UU. desclasificó acusaciones contra ambos en el Distrito Norte de Georgia, OFAC sancionó a cuatro hermanos Hurtado Olascoaga y el Departamento de Estado ofreció recompensas de hasta 5 y 3 millones de dólares. En 2026 las autoridades mexiquenses detuvieron a un presunto jefe de plaza a cargo de seis municipios del sur del Estado de México (15 de marzo), y el secretario de Seguridad atribuyó, con base en indicios, a La Familia Michoacana la privación de la libertad del alcalde de Taxco y de su padre, localizados el 13 de abril. En septiembre la Fiscalía de Morelos informó que operan en el estado dos grupos de alcance nacional, sin nombrarlos; según información extraoficial, uno de ellos es La Familia Michoacana. El 24 de septiembre hombres armados privaron de la libertad a ocho habitantes del ejido El Balcón (Ajuchitlán del Progreso, Guerrero); los ejidatarios atribuyen el hecho a presuntos integrantes de La Familia Michoacana, que liberaron a un niño el 1 de octubre y, según su testimonio, condicionaron la liberación de los otros siete a la entrega de sus tierras. Su relación con el CJNG combina enfrentamientos en Michoacán, Guerrero y el Estado de México con pactos tácticos.",
   "estructura": "Organización de base familiar. Johnny Hurtado Olascoaga ('El Pez') es el líder principal; José Alfredo ('El Fresa') dirige las operaciones en Guerrero y el Estado de México; Ubaldo supervisa sicarios, extorsión y minería; Adita dirige finanzas y lavado. Por debajo operan lugartenientes regionales (por ejemplo, Rodolfo Maldonado Bustos en el corredor Ciudad Altamirano–Zihuatanejo–Lázaro Cárdenas), un jefe financiero (Josué Ramírez Carrera), jefes de plaza municipales y células urbanas afiliadas en el Valle de México. ODNI estima unos 5.000 integrantes.",
   "lideres": [
     {
       "nombre": "Johnny Hurtado Olascoaga",
       "alias": "El Pez",
       "rol": "Colíder y líder principal",
-      "estado": "Prófugo; acusado en EE. UU. (septiembre de 2024); recompensa de hasta USD 5 millones (abril de 2025)",
+      "estado": "Prófugo; acusado en el Distrito Norte de Georgia (acusación de septiembre de 2024, desclasificada el 15 de abril de 2025); recompensa de hasta USD 5 millones",
       "fuente_ids": [
         "s1",
         "s3",
@@ -29,7 +29,7 @@
       "nombre": "José Alfredo Hurtado Olascoaga",
       "alias": "El Fresa",
       "rol": "Colíder; operaciones en Guerrero y el Estado de México",
-      "estado": "Prófugo; acusado en EE. UU. (septiembre de 2024); recompensa de hasta USD 3 millones (abril de 2025)",
+      "estado": "Prófugo; acusado en el Distrito Norte de Georgia (acusación de septiembre de 2024, desclasificada el 15 de abril de 2025); recompensa de hasta USD 3 millones",
       "fuente_ids": [
         "s1",
         "s3",
@@ -78,10 +78,10 @@
     {
       "nombre": "Franco Tabares Martínez",
       "alias": "",
-      "rol": "Traficante aliado de la NFM; distribución de drogas a Atlanta y Houston",
+      "rol": "Presunto integrante de alto rango de la NFM según el DOJ (OFAC lo describió en 2023 como traficante aliado de la organización); distribución de drogas en Atlanta y Houston",
       "estado": "Sin reporte público de captura; acusado en el Distrito Norte de Georgia y sancionado por OFAC el 19 de julio de 2023",
       "fuente_ids": [
-        "s5",
+        "s4",
         "s8"
       ]
     }
@@ -150,7 +150,6 @@
         "Ajuchitlán del Progreso (ejido El Balcón)",
         "Taxco (Guerrero)",
         "Estado de México (sur y poniente)",
-        "Zacualpan",
         "Amanalco",
         "Santo Tomás de los Plátanos",
         "Villa Guerrero",
@@ -181,7 +180,7 @@
         "ambiental",
         "lavado"
       ],
-      "nota": "Núcleo en la Tierra Caliente de Guerrero y el sur y poniente del Estado de México, con presencia en Michoacán, Morelos y Puebla y células afiliadas en la Ciudad de México (H1 A1) dedicadas al narcomenudeo y la extorsión. En 2026 se le atribuyen el secuestro del alcalde de Taxco y su padre, el cobro de piso en municipios mexiquenses y la presión sobre comunidades de la sierra de Guerrero para apropiarse de bosques; OFAC le atribuye extracción ilegal de mercurio y uranio.",
+      "nota": "Núcleo en la Tierra Caliente de Guerrero y el sur y poniente del Estado de México, con presencia en Michoacán, Morelos y Puebla y células afiliadas en la Ciudad de México y Nezahualcóyotl (H1 A1) dedicadas al narcomenudeo y la extorsión. En 2026 las autoridades le atribuyen la privación de la libertad del alcalde de Taxco y su padre y el cobro de piso en municipios mexiquenses, y pobladores de la sierra de Guerrero la señalan por presionar a ejidos para apropiarse de tierras y bosques; OFAC le atribuye extracción ilegal de mercurio y uranio.",
       "fuente_ids": [
         "s1",
         "s3",
@@ -192,7 +191,8 @@
         "s13",
         "s14",
         "s18",
-        "s23"
+        "s23",
+        "s24"
       ],
       "confianza": "alta"
     },
@@ -238,7 +238,7 @@
     {
       "destino": "cjng",
       "tipo": "alianza",
-      "descripcion": "Pactos tácticos documentados: el CJNG suministró drones a la NFM en Guerrero (2023) y ambos comparten corredores de tráfico; OFAC (2024) identificó a un lugarteniente con conexiones con el CJNG.",
+      "descripcion": "Pactos tácticos documentados: según InSight Crime, el CJNG suministró drones a la NFM en Guerrero (2023); OFAC (2024) identificó a un lugarteniente con conexiones con el CJNG, y Milenio (marzo de 2026) describe alianzas de coyuntura en el corredor hacia Lázaro Cárdenas y en la frontera noreste mientras continúan los enfrentamientos.",
       "vigencia": "incierta",
       "fuente_ids": [
         "s7",
@@ -250,18 +250,20 @@
     {
       "destino": "carteles-unidos",
       "tipo": "alianza",
-      "descripcion": "ODNI (enero de 2026) incluye a La Nueva Familia Michoacana entre los integrantes de Cárteles Unidos frente al CJNG; otras fuentes refieren solo la participación de células de La Familia.",
+      "descripcion": "ODNI (enero de 2026) incluye a La Nueva Familia Michoacana entre los integrantes de Cárteles Unidos frente al CJNG; InSight Crime (2023) sostiene que el bloque de la Nueva Familia Michoacana formado hacia 2014 fue la base de la coalición, y otras fuentes refieren solo la participación de células de La Familia.",
       "vigencia": "incierta",
       "fuente_ids": [
         "s21",
-        "s10"
+        "s10",
+        "s20"
       ],
       "confianza": "media"
     },
     {
       "destino": "golfo",
       "tipo": "suministro",
-      "descripcion": "La NFM provee metanfetamina a la facción Los Metros del Cártel del Golfo (NDTA 2025 citada por prensa).",
+      "desde": "nfm",
+      "descripcion": "La NFM provee metanfetamina a la facción Los Metros del Cártel del Golfo, según la NDTA 2025 de la DEA citada por prensa.",
       "vigencia": "incierta",
       "fuente_ids": [
         "s19"
@@ -271,16 +273,17 @@
     {
       "destino": "ext-precursores",
       "tipo": "suministro",
-      "descripcion": "Proveedores en China: OFAC (2023) indicó que Franco Tabares Martínez recibió fentanilo en polvo desde la RPC; la NDTA 2025 señala que facciones de La Familia controlan el puerto de Lázaro Cárdenas, clave para la importación de precursores químicos desde China.",
+      "desde": "ext-precursores",
+      "descripcion": "Abastecimiento desde China: OFAC (2023) indicó que Franco Tabares Martínez recibió fentanilo en polvo desde la República Popular China, y la NDTA 2025 señala que facciones de La Familia Michoacana controlan el puerto de Lázaro Cárdenas, clave para la importación de precursores químicos desde China; ninguna fuente identifica proveedores concretos de la NFM.",
       "vigencia": "incierta",
       "fuente_ids": [
         "s8",
         "s10"
       ],
-      "confianza": "media"
+      "confianza": "baja"
     }
   ],
-  "notas_controversia": "El peso real de la organización está en disputa: InSight Crime sostuvo en 2023 que el nombre 'La Nueva Familia Michoacana' ya no representaba a ningún grupo y que la población local no lo usa (s20), y su perfil actualizado en julio de 2026 la describe como 'sombra de lo que fue' (s9); en cambio, ODNI (febrero de 2026) la presenta como uno de los cárteles más poderosos del sur de México con unos 5.000 integrantes. Células urbanas como H1 A1 usan la marca de La Familia sin vínculo orgánico comprobado con la estructura de los Hurtado Olascoaga (s23). La relación con el CJNG es ambivalente y la pertenencia de la NFM a Cárteles Unidos se basa principalmente en ODNI (confianza media). Las acusaciones estadounidenses de septiembre de 2024 se desclasificaron el 15 de abril de 2025; la fuente s5 replica s4 para la lista de acusados.",
+  "notas_controversia": "El peso real de la organización está en disputa: InSight Crime sostuvo en 2023 que el nombre 'La Nueva Familia Michoacana' ya no representaba a ningún grupo y que la población local no lo usa (s20), y su perfil actualizado en julio de 2026 describe a La Familia Michoacana como 'sombra de lo que fue' (s9); en cambio, ODNI (febrero de 2026) la presenta como uno de los cárteles más poderosos del sur de México con unos 5.000 integrantes. La Silla Rota (febrero de 2026), con base en expedientes de la FGR, describe a la célula H1 A1 de Iztacalco e Iztapalapa como estrechamente ligada a los hermanos Hurtado y autorizada a usar el nombre de la organización en el Valle de México, aunque sin relación con la Familia Michoacana original (s23). La relación con el CJNG es ambivalente y la pertenencia de la NFM a Cárteles Unidos se basa principalmente en ODNI (confianza media). La atribución del secuestro de El Balcón proviene de ejidatarios y pobladores citados por la prensa, no de un comunicado oficial, y la Fiscalía de Morelos no nombró públicamente a los grupos que operan en el estado. Las acusaciones estadounidenses de septiembre de 2024 se desclasificaron el 15 de abril de 2025.",
   "confianza_general": "alta",
   "fuentes": [
     {
@@ -320,15 +323,6 @@
       "verificada": true
     },
     {
-      "id": "s5",
-      "titulo": "Leaders of La Nueva Familia Michoacana and Atlanta-Based Money Launderer Indicted (defendants list)",
-      "editor": "Departamento de Justicia de EE. UU. (Office of Public Affairs)",
-      "fecha": "2025-04-15",
-      "url": "https://www.justice.gov/opa/pr/leaders-la-nueva-familia-michoacana-and-atlanta-based-money-launderer-indicted",
-      "categoria": "oficial",
-      "verificada": true
-    },
-    {
       "id": "s6",
       "titulo": "Treasury sanctions La Nueva Familia Michoacana and its leaders (jy1116)",
       "editor": "Departamento del Tesoro de EE. UU. (OFAC)",
@@ -359,7 +353,7 @@
       "id": "s9",
       "titulo": "Familia Michoacana: History, Leaders, and Presence in Mexico",
       "editor": "InSight Crime",
-      "fecha": "2026-07",
+      "fecha": "2026-07-14",
       "url": "https://insightcrime.org/mexico-organized-crime-news/familia-michoacana-mexico-profile/",
       "categoria": "investigacion",
       "verificada": true
@@ -487,6 +481,15 @@
       "editor": "La Silla Rota",
       "fecha": "2026-02-11",
       "url": "https://lasillarota.com/metropoli/2026/2/11/la-conexion-de-la-nueva-familia-michoacana-en-iztacalco-iztapalapa-neza-496326.html",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s24",
+      "titulo": "La Familia Michoacana libera a niño en Ajuchitlán; dejarán ir a otras siete personas a cambio de sus tierras",
+      "editor": "Proceso",
+      "fecha": "2026-10-03",
+      "url": "https://www.proceso.com.mx/nacional/estados/2026/10/3/la-familia-michoacana-libera-a-nino-en-ajuchitlan-dejaran-ir-a-otras-siete-personas-a-cambio-de-sus-381152.html",
       "categoria": "prensa",
       "verificada": true
     }

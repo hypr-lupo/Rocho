@@ -10,16 +10,17 @@
   "pais_origen": "COL",
   "fundacion": "Julio de 1964 en Santander (Colombia), como guerrilla marxista-leninista inspirada en la Revolución cubana; su primera acción armada fue en Simacota el 7 de enero de 1965.",
   "resumen": "Es la última insurgencia activa de Colombia y una organización binacional con estructuras estables en Venezuela. Aunque mantiene un discurso político, sus frentes dependen cada vez más del narcotráfico, la minería ilegal, la extorsión y el secuestro, y controlan enclaves cocaleros como el Catatumbo. Su relación con sectores del Estado venezolano le dio retaguardia y rutas de exportación.",
-  "situacion_actual": "La mesa de paz está suspendida desde enero de 2025, cuando el ELN lanzó una ofensiva contra el Frente 33 de las disidencias en el Catatumbo. El 9 de septiembre de 2026 el gobierno de Abelardo de la Espriella revocó toda la delegación oficial (Resolución 391) y dio por cerrada la negociación. El nuevo gobierno bombardeó un campamento del Frente de Guerra Nororiental entre San Calixto y Tibú el 11 de agosto de 2026 y reactivó la campaña 'Sparta' después de los ataques del ELN en Los Patios y Ocaña del 4 y 5 de septiembre. El 28 de septiembre un juez condenó en ausencia a 11 comandantes, entre ellos 'Pablo Beltrán', por reclutar a 60 menores. En Venezuela, tras la captura de Nicolás Maduro por EE. UU. el 3 de enero de 2026, el ELN bajó su perfil pero sigue presente en al menos ocho estados. En septiembre de 2026 hubo operaciones militares venezolanas en la zona minera de Los Pijiguaos (Bolívar) y un combate con la GNB en Junín (Táchira), el primero reportado desde el cambio de gobierno en Colombia. El COCE no ha sufrido bajas ni capturas a la fecha de corte.",
-  "estructura": "La dirección es el Comando Central (COCE), encabezado por 'Antonio García'; por debajo está la Dirección Nacional (DINAL), con unos 23 integrantes. Opera como una federación de ocho frentes de guerra con unas 33 subestructuras y mucha autonomía operativa, entre ellos el Nororiental en el Catatumbo, el Oriental en Arauca y los frentes del Pacífico. InSight Crime calcula unos 6.300 integrantes entre combatientes y redes, alrededor del 20 % en Venezuela. El Ministerio de Defensa estimó en 2024 entre 2.300 y 2.800 combatientes armados. Tiene presencia en 149 a 184 municipios de 19 departamentos y en ocho estados venezolanos.",
+  "situacion_actual": "La mesa de diálogo con el gobierno de Gustavo Petro está suspendida desde enero de 2025, cuando el ELN lanzó una ofensiva contra el Frente 33 de las disidencias en el Catatumbo. El gobierno de Abelardo de la Espriella, que asumió el 7 de agosto de 2026, bombardeó el 11 de agosto un campamento del Frente de Guerra Nororiental entre San Calixto y Tibú, y el 9 de septiembre revocó la designación de toda la delegación oficial en la mesa (Resolución 391). Tras el atentado con taxi bomba contra la estación de Policía de Los Patios (31 de agosto) y el ataque con drones contra el Cantón Militar El Trapiche de Ocaña (4 de septiembre), atribuidos al ELN, el Ministerio de Defensa reactivó el 5 de septiembre la campaña militar y policial 'Esparta'. El 15 de septiembre el Ejército rescató a ocho secuestrados en el Catatumbo. El 28 de septiembre un juez de Antioquia condenó en ausencia a 11 integrantes, entre ellos 'Antonio García', 'Pablo Beltrán' y 'Pablito', del COCE, y el excomandante 'Gabino', por rebelión agravada y reclutamiento ilícito de 60 menores entre 2004 y 2018; la decisión fue apelada. En Venezuela, tras la captura de Nicolás Maduro por EE. UU. el 3 de enero de 2026, el ELN bajó su perfil, pero sigue presente en al menos ocho estados. En septiembre de 2026 hubo un despliegue militar venezolano en la zona minera de Los Pijiguaos (Bolívar), donde opera el ELN, y un combate con la GNB en Junín (Táchira), el primero reportado entre ambos desde la llegada de De la Espriella al poder. No se han reportado capturas ni muertes de integrantes del COCE a la fecha de corte.",
+  "estructura": "La dirección es el Comando Central (COCE), de cinco integrantes y encabezado por 'Antonio García'; por debajo está la Dirección Nacional (DINAL), con 23 representantes elegidos por los frentes. Opera como una federación de ocho frentes de guerra con unas 33 subestructuras y mucha autonomía operativa, entre ellos el Nororiental en el Catatumbo, el Oriental en Arauca y los frentes del Pacífico. Según cifras oficiales de 2025 citadas por InSight Crime, tiene unos 6.300 integrantes entre combatientes y redes de apoyo, alrededor del 20 % en Venezuela. El Ministerio de Defensa estimó en 2024 entre 2.300 y 2.800 combatientes armados. Tiene presencia en 149 a 184 municipios de 19 departamentos y en ocho estados venezolanos.",
   "lideres": [
     {
       "nombre": "Eliécer Erlinto Chamorro Acosta",
       "alias": "Antonio García",
       "rol": "Primer comandante del COCE",
-      "estado": "Prófugo a 5 de octubre de 2026. La prensa sitúa a la cúpula en territorio venezolano.",
+      "estado": "Prófugo a 5 de octubre de 2026. El 28 de septiembre de 2026 un juez de Antioquia lo condenó en ausencia a 20 años y 4 meses de prisión por rebelión agravada y reclutamiento ilícito de menores; la decisión fue apelada. La prensa sitúa a la cúpula en territorio venezolano.",
       "fuente_ids": [
         "s1",
+        "s25",
         "s17"
       ]
     },
@@ -27,28 +28,29 @@
       "nombre": "Israel Ramírez Pineda",
       "alias": "Pablo Beltrán",
       "rol": "Integrante del COCE, comandante político y exjefe negociador",
-      "estado": "Condenado en ausencia por reclutamiento de menores (28 de septiembre de 2026). Según AP, reside en Cuba.",
+      "estado": "Prófugo. Condenado en ausencia el 28 de septiembre de 2026 a 20 años y 4 meses de prisión por rebelión agravada y reclutamiento ilícito de menores; la decisión fue apelada. Según AP, reside en Cuba.",
       "fuente_ids": [
         "s1",
         "s16",
-        "s17"
+        "s25"
       ]
     },
     {
       "nombre": "Gustavo Aníbal Giraldo Quinchía",
       "alias": "Pablito",
       "rol": "Integrante del COCE a cargo de la estrategia militar",
-      "estado": "Prófugo.",
+      "estado": "Prófugo, con notificación roja de Interpol desde 2018. Condenado en ausencia el 28 de septiembre de 2026 a 20 años y 4 meses de prisión por rebelión agravada y reclutamiento ilícito de menores; la decisión fue apelada. InSight Crime lo sitúa en Apure (Venezuela) y lo considera el principal enlace del grupo con el gobierno venezolano.",
       "fuente_ids": [
         "s1",
-        "s17"
+        "s2",
+        "s25"
       ]
     },
     {
       "nombre": "Luz Amanda Pallares",
       "alias": "Silvana Guerrero",
-      "rol": "Comandante del Frente de Guerra Nororiental (Catatumbo)",
-      "estado": "Prófuga. El gobierno colombiano ofrece 1.600 millones de pesos por información para su captura (septiembre de 2026).",
+      "rol": "Cabecilla del Frente de Guerra Nororiental (Catatumbo), señalada por las autoridades como su comandante",
+      "estado": "Prófuga. El gobierno colombiano ofrece una recompensa de 1.600 millones de pesos por información que permita su captura (septiembre de 2026).",
       "fuente_ids": [
         "s12",
         "s15"
@@ -58,9 +60,10 @@
   "designaciones": [
     {
       "autoridad": "Departamento de Estado de EE. UU.",
-      "categoria": "Organización Terrorista Extranjera (FTO)",
+      "categoria": "Organización Terrorista Extranjera (FTO), sección 219 de la Ley de Inmigración y Nacionalidad; incluida en la primera lista de FTO",
       "fecha": "1997-10-08",
       "fuente_ids": [
+        "s24",
         "s20"
       ]
     },
@@ -110,14 +113,16 @@
         "contrabando",
         "migrantes"
       ],
-      "nota": "Su territorio de origen. Sus bastiones son el Catatumbo, Arauca y Cauca. En 2025 perdió terreno en Nariño, Vichada y la frontera entre Antioquia y Chocó. En el Catatumbo controla zonas cocaleras tras su guerra con el Frente 33, que lleva más de 20 meses, más de 200 muertos y 111.000 desplazados.",
+      "nota": "Su territorio de origen. Sus bastiones son el Catatumbo, Arauca y Cauca. Según Pares, citado por la EUAA, en 2025 perdió terreno en Nariño, Vichada y la frontera entre Antioquia y Chocó. En el Catatumbo domina las zonas cocaleras tras su guerra con el Frente 33, que según el consejero de paz de Norte de Santander lleva unos 20 meses, más de 200 muertos y 111.000 desplazados. Entre agosto y septiembre de 2026 se le atribuyeron ataques con explosivos y drones contra la fuerza pública en el área metropolitana de Cúcuta y en Ocaña.",
       "fuente_ids": [
         "s1",
         "s5",
+        "s9",
         "s10",
         "s11",
         "s12",
-        "s16",
+        "s26",
+        "s27",
         "s18"
       ],
       "confianza": "alta"
@@ -143,7 +148,7 @@
         "migrantes",
         "reclutamiento"
       ],
-      "nota": "Funciona como estructura binacional y ejerce control social en Apure y Táchira. Explota minas de oro y bauxita en Bolívar y usa pistas clandestinas en Zulia y Táchira: la inteligencia colombiana contaba 93 en octubre de 2026. Actuó con tolerancia y respaldo de fuerzas estatales venezolanas. Desde enero de 2026 mantiene un perfil más bajo, y en septiembre de 2026 hubo choques con la GNB y la FANB.",
+      "nota": "Funciona como estructura binacional y ejerce control social en Apure y Táchira. Tiene presencia en zonas mineras de oro y bauxita del estado Bolívar. Según El Tiempo (1 de octubre de 2026), la inteligencia colombiana identificó al menos 93 pistas irregulares en Venezuela ligadas a las rutas de salida de cocaína que usa el grupo, con puntos de interés en Zulia y Táchira. Actuó con tolerancia y respaldo de fuerzas estatales venezolanas. Desde enero de 2026 mantiene un perfil más bajo, y en septiembre de 2026 hubo un despliegue de la FANB en Bolívar y un combate con la GNB en Táchira.",
       "fuente_ids": [
         "s2",
         "s6",
@@ -151,7 +156,8 @@
         "s15",
         "s13",
         "s14",
-        "s3"
+        "s3",
+        "s23"
       ],
       "confianza": "alta"
     },
@@ -173,11 +179,12 @@
     {
       "destino": "clan-del-golfo",
       "tipo": "rivalidad",
-      "descripcion": "Disputa territorial desde 2018 en Antioquia, Chocó y el sur de Bolívar por narcotráfico y minería ilegal.",
+      "descripcion": "Disputa territorial desde 2018 en Antioquia y Chocó por enclaves de coca, corredores de narcotráfico y minería ilegal, con choques también en Bolívar, Norte de Santander y Valle del Cauca.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s1",
-        "s5"
+        "s5",
+        "s28"
       ],
       "confianza": "alta"
     },
@@ -206,7 +213,7 @@
     {
       "destino": "segunda-marquetalia",
       "tipo": "rivalidad",
-      "descripcion": "La alianza en el suroccidente se rompió cuando el ELN emboscó y mató en agosto de 2025 a 'Zarco Aldinever', segundo al mando de la Segunda Marquetalia.",
+      "descripcion": "La alianza que mantenían desde 2018 en Apure y Amazonas y en el suroccidente de Colombia se rompió cuando el ELN emboscó y mató a mediados de agosto de 2025, en la frontera entre Apure y Amazonas, a 'Zarco Aldinever', segundo al mando de la Segunda Marquetalia.",
       "vigencia": "incierta",
       "fuente_ids": [
         "s1",
@@ -229,7 +236,8 @@
     {
       "destino": "sinaloa",
       "tipo": "suministro",
-      "descripcion": "El ELN garantiza producción y acceso a la cocaína en el Catatumbo y la frontera, y emisarios del Cártel de Sinaloa la compran y la transportan. InSight Crime lo describe como alianza, no como subordinación.",
+      "desde": "eln",
+      "descripcion": "El ELN garantiza la producción y el acceso a la cocaína en zonas como el Catatumbo, y emisarios mexicanos, entre ellos los del Cártel de Sinaloa, la compran y la transportan. InSight Crime lo describe como una alianza entre socios y no como subordinación.",
       "vigencia": "incierta",
       "fuente_ids": [
         "s19",
@@ -240,6 +248,7 @@
     {
       "destino": "cjng",
       "tipo": "suministro",
+      "desde": "eln",
       "descripcion": "Según GI-TOC, el CJNG financia y coordina la producción de cocaína con socios locales como el ELN. El ELN actúa como proveedor.",
       "vigencia": "incierta",
       "fuente_ids": [
@@ -250,7 +259,8 @@
     {
       "destino": "ext-comuneros-del-sur",
       "tipo": "escision",
-      "descripcion": "El Frente Comuneros del Sur se separó del Frente de Guerra Suroccidental del ELN en Nariño en 2024 por disputas financieras y de mando. El ELN lo considera traidor. El gobierno De la Espriella cerró su proceso de diálogo el 3 de septiembre de 2026.",
+      "desde": "eln",
+      "descripcion": "El Frente Comuneros del Sur, primer frente del ELN en Nariño, se separó en 2024 alegando diferencias financieras y de mando con la cúpula, que lo calificó de traidor. El gobierno Petro lo reconoció como grupo aparte y negoció con él; el gobierno De la Espriella terminó esa mesa el 3 de septiembre de 2026 (Resolución 365).",
       "vigencia": "vigente",
       "fuente_ids": [
         "s8",
@@ -260,7 +270,7 @@
       "confianza": "alta"
     }
   ],
-  "notas_controversia": "Las estimaciones de tamaño no coinciden: 2.300 a 2.800 combatientes según el Ministerio de Defensa (2024), unos 6.300 integrantes según InSight Crime y 6.000 a 8.000 según fuentes citadas por la EUAA. En Venezuela las cifras van de 250-300 combatientes en campamentos fronterizos (Semana, enero de 2026) a unos 2.500 (ABC, citado por la EUAA). Las autoridades venezolanas niegan oficialmente la presencia del ELN. En enero de 2026 Semana publicó, con base en documentos de inteligencia, que EE. UU. y Venezuela coordinarían una operación contra el ELN en suelo venezolano; no hay confirmación oficial de que se haya ejecutado (s23). Petro afirmó que el Cártel de Sinaloa era 'el jefe' del ELN, pero InSight Crime lo describe como una relación de socios. El perfil de InSight Crime fecha en 'enero de 2026' el colapso del pacto con el Frente 33, mientras otros pasajes y la EUAA lo sitúan en enero de 2025; aquí se usa 2025. Hay reportes de prensa sobre presencia del ELN en la frontera norte de Ecuador (Carchi, Esmeraldas), pero no pudieron corroborarse y no se incluyó ese país.",
+  "notas_controversia": "Las estimaciones de tamaño no coinciden: 2.300 a 2.800 combatientes según el Ministerio de Defensa (2024), hasta unos 3.000 según fuentes no oficiales citadas por la EUAA y unos 6.300 integrantes, entre combatientes y redes de apoyo, según cifras oficiales de 2025 citadas por InSight Crime. En Venezuela las cifras van de 250 a 300 combatientes en campamentos fronterizos (Semana, enero de 2026) a unos 2.500 (ABC, citado por la EUAA). Las autoridades venezolanas niegan oficialmente la presencia del ELN. En enero de 2026 Semana publicó, con base en documentos de inteligencia, que EE. UU. y Venezuela coordinarían una operación contra el ELN en suelo venezolano; no hay confirmación oficial de que se haya ejecutado. Petro afirmó que el Cártel de Sinaloa era 'el jefe' del ELN, pero InSight Crime lo describe como una relación de socios. El perfil de InSight Crime fecha en 'enero de 2026' el colapso del pacto con el Frente 33 y en 'enero de 2025' la captura de Maduro, mientras otros pasajes y la EUAA sitúan la ofensiva del Catatumbo en enero de 2025; aquí se usan enero de 2025 para la ofensiva y enero de 2026 para la captura de Maduro. Las autoridades y la prensa colombianas presentan a 'Silvana Guerrero' como comandante del Frente de Guerra Nororiental, mientras InSight Crime atribuye ese mando a Leonel Salazar Roa, 'Gonzalo Satélite'. Hay reportes de prensa sobre presencia del ELN en la frontera norte de Ecuador (Carchi, Esmeraldas), pero no pudieron corroborarse y no se incluyó ese país.",
   "confianza_general": "alta",
   "fuentes": [
     {
@@ -285,7 +295,7 @@
       "id": "s3",
       "titulo": "Will Colombian Guerrillas Lose Their Safe Haven in Post-Maduro Venezuela?",
       "editor": "InSight Crime",
-      "fecha": "2026-01",
+      "fecha": "2026-01-22",
       "url": "https://insightcrime.org/news/will-guerrillas-lose-haven-post-maduro-venezuela/",
       "categoria": "investigacion",
       "verificada": true
@@ -427,7 +437,7 @@
     },
     {
       "id": "s19",
-      "titulo": "The Sinaloa Cartel and the ELN: Ally or Subordinate?",
+      "titulo": "The Sinaloa Cartel to the ELN: Ally or Subordinate?",
       "editor": "InSight Crime",
       "fecha": "2025-02-24",
       "url": "https://insightcrime.org/news/the-sinaloa-cartel-to-the-eln-ally-or-subordinate/",
@@ -441,7 +451,7 @@
       "fecha": "2026",
       "url": "https://www.state.gov/foreign-terrorist-organizations",
       "categoria": "oficial",
-      "verificada": false
+      "verificada": true
     },
     {
       "id": "s21",
@@ -450,7 +460,7 @@
       "fecha": "2026-07-30",
       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ%3AL_202601882",
       "categoria": "oficial",
-      "verificada": false
+      "verificada": true
     },
     {
       "id": "s22",
@@ -468,6 +478,51 @@
       "fecha": "2026-01-11",
       "url": "https://www.semana.com/nacion/articulo/el-eln-acorralado-estados-unidos-y-venezuela-coordinarian-ofensiva-militar-inedita/202655/",
       "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s24",
+      "titulo": "Designation of Foreign Terrorist Organizations (Federal Register, vol. 62, n.º 195)",
+      "editor": "Departamento de Estado de EE. UU. (Federal Register)",
+      "fecha": "1997-10-08",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1997-10-08/pdf/97-27030.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s25",
+      "titulo": "60 menores reclutados por el ELN y 11 condenados: la historia detrás de un expediente de violencia",
+      "editor": "El Colombiano",
+      "fecha": "2026-09-28",
+      "url": "https://www.elcolombiano.com/inicio/condenan-11-miembros-eln-reclutamiento-menores-de-edad-EC41614660",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s26",
+      "titulo": "Un muerto y 11 heridos en atentado a estación policial en Norte de Santander",
+      "editor": "El Nuevo Siglo",
+      "fecha": "2026-09-01",
+      "url": "https://www.elnuevosiglo.com.co/nacion/un-muerto-y-11-heridos-en-atentado-estacion-policial-en-norte-de-santander",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s27",
+      "titulo": "Ataque con drones atribuido a guerrilla del ELN deja 3 militares muertos en el noreste de Colombia",
+      "editor": "Associated Press (vía Chicago Tribune)",
+      "fecha": "2026-09-05",
+      "url": "https://www.chicagotribune.com/2026/09/05/ataque-con-drones-atribuido-a-guerrilla-del-eln-deja-3-militares-muertos-en-el-noreste-de-colombia/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s28",
+      "titulo": "Gaitanistas – Gulf Clan (perfil)",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-14",
+      "url": "https://insightcrime.org/colombia-organized-crime-news/urabenos-profile/",
+      "categoria": "investigacion",
       "verificada": true
     }
   ]

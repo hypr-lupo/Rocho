@@ -11,14 +11,14 @@
   "pais_origen": "MEX",
   "fundacion": "1984 según ODNI; fragmentado en facciones desde la década de 2010",
   "resumen": "Organización con base en Tamaulipas que hoy funciona como un conjunto de facciones autónomas y rivales (Los Metros, Los Escorpiones, Los Ciclones, Los Rojos y Las Panteras). Trafica cocaína, metanfetamina, fentanilo, heroína y marihuana hacia EE. UU. y obtiene ingresos del tráfico de migrantes, la extorsión, el secuestro y el contrabando de combustible. Sus facciones controlan tramos fronterizos estratégicos como Matamoros y Reynosa. EE. UU. la designó Organización Terrorista Extranjera el 20 de febrero de 2025.",
-  "situacion_actual": "A la fecha de corte, el Cártel del Golfo no opera como estructura unificada: sus facciones actúan con autonomía y se disputan Reynosa, Matamoros y el puerto de Altamira, mientras Los Metros mantienen su alianza con el CJNG (ODNI, abril de 2026; InSight Crime, agosto de 2026). México trasladó a EE. UU. a José Alberto García Vilano, 'La Kena', exlíder de Escorpiones y Ciclones, el 27 de febrero de 2025. En 2026 las autoridades mexicanas detuvieron a José Ignacio Vega Ruiz, 'Nacho Vega', operador financiero (20 de enero); a 'Lexus', jefe de la célula Operativa Ranger de Los Ciclones, en Matamoros (26 de febrero); a 'Metro 9', de Los Metros, en Reynosa (27 de abril); a Valdemar 'N', 'El Valdo', en Colima (16 de junio), y a Jesús Manuel 'N', 'Bebo', operador financiero de Los Metros, en operativos del 24 y 25 de septiembre en Chihuahua, Nuevo León y Tamaulipas que expusieron una red de contrabando de combustible. César Morfín Morfín, 'Primito' (Los Metros), y José Alfredo Cárdenas Martínez, 'El Contador' (Los Ciclones), siguen prófugos.",
+  "situacion_actual": "A la fecha de corte, el Cártel del Golfo no opera como estructura unificada: sus facciones (Los Metros, Los Escorpiones, Los Ciclones, Los Rojos y otras) actúan con autonomía y se disputan Reynosa, Matamoros y el puerto de Altamira, y Los Metros mantienen su alianza con el CJNG (ODNI, abril de 2026; InSight Crime, agosto de 2026). ODNI atribuye a Los Metros el asesinato de un delegado de la Fiscalía General de la República en Tamaulipas en agosto de 2025. México trasladó a EE. UU. a José Alberto García Vilano, 'La Kena', exlíder de Escorpiones y Ciclones, el 27 de febrero de 2025. En 2026 las autoridades mexicanas detuvieron a José Ignacio Vega Ruiz, 'Nacho Vega', presunto operador financiero y jefe de células de Escorpiones y Ciclones (20 de enero); a Antonio Guadalupe 'N', 'Lexus', presunto jefe de la célula Operativa Ranger de Los Ciclones, en Matamoros (26 de febrero); a Alexander 'N', 'Metro 9', presunto cabecilla de Los Metros, en Reynosa (27 de abril); a Valdemar 'N', 'El Valdo', en Colima (16 de junio), y a Jesús Manuel 'N', 'Bebo', presunto operador financiero de Los Metros, tras cateos del 24 y 25 de septiembre en Chihuahua, Nuevo León y Tamaulipas contra una red de contrabando de hidrocarburos. El 27 de agosto la Secretaría de Marina aseguró en Tampico y Altamira cinco inmuebles atribuidos a la facción Los Rojos, con 135 animales exóticos y 68.000 litros de diésel. El 16 de septiembre la Fiscalía del Distrito Sur de Texas anunció la acusación por apoyo material a una organización terrorista contra un presunto integrante del cártel originario de Reynosa. César Morfín Morfín, 'Primito' (Los Metros), y José Alfredo Cárdenas Martínez, 'El Contador' (Los Ciclones), no tienen reporte público de captura.",
   "estructura": "Conjunto de facciones autónomas sin mando central. Los Metros (Reynosa, Río Bravo y Nuevo León), dirigidos por César Morfín Morfín, 'Primito', con sus hermanos Remigio y Álvaro Noé como mandos; Los Ciclones (Matamoros), dirigidos por José Alfredo Cárdenas Martínez, 'El Contador', con células de escolta como Operativa Ranger; Los Escorpiones, brazo armado histórico con base en Matamoros; y facciones menores como Los Rojos y Las Panteras. Las facciones compiten entre sí y con el CDN por rutas, puentes fronterizos y el puerto de Altamira.",
   "lideres": [
     {
       "nombre": "César Morfín Morfín",
       "alias": "Primito",
       "rol": "Jefe de la facción Los Metros; OFAC lo describió como jefe de célula del CJNG en Tamaulipas",
-      "estado": "Prófugo; sancionado por OFAC el 1 de mayo de 2025",
+      "estado": "Sin reporte público de captura; sancionado por OFAC el 1 de mayo de 2025",
       "fuente_ids": [
         "s1",
         "s4",
@@ -28,7 +28,7 @@
     {
       "nombre": "Remigio Morfín Morfín",
       "alias": "Remi",
-      "rol": "Hermano de 'Primito' y segundo o tercero al mando de Los Metros",
+      "rol": "Hermano de 'Primito' y segundo o tercero al mando de Los Metros según ODNI; OFAC lo ubica en Hidalgo, desde donde abastece de crudo robado a su hermano",
       "estado": "Sin reporte público de captura; sancionado por OFAC el 1 de mayo de 2025",
       "fuente_ids": [
         "s1",
@@ -49,9 +49,10 @@
       "nombre": "José Alfredo Cárdenas Martínez",
       "alias": "El Contador",
       "rol": "Jefe de la facción Los Ciclones",
-      "estado": "Prófugo",
+      "estado": "Sin reporte público de captura; liberado tras su detención de 2022 y acusado en EE. UU., que solicitó su extradición",
       "fuente_ids": [
         "s1",
+        "s6",
         "s10"
       ]
     },
@@ -59,11 +60,11 @@
       "nombre": "José Alberto García Vilano",
       "alias": "La Kena",
       "rol": "Exlíder de Los Escorpiones y Los Ciclones",
-      "estado": "Detenido en enero de 2024; trasladado a EE. UU. el 27 de febrero de 2025",
+      "estado": "Detenido en enero de 2024; trasladado a EE. UU. el 27 de febrero de 2025 y acusado en el Distrito Sur de Texas",
       "fuente_ids": [
         "s1",
         "s6",
-        "s15"
+        "s18"
       ]
     },
     {
@@ -87,7 +88,7 @@
     {
       "nombre": "Alexander 'N'",
       "alias": "Metro 9",
-      "rol": "Presunto líder de una célula de Los Metros",
+      "rol": "Presunto cabecilla de Los Metros en Reynosa",
       "estado": "Detenido en Reynosa el 27 de abril de 2026",
       "fuente_ids": [
         "s11"
@@ -97,7 +98,7 @@
       "nombre": "Jesús Manuel 'N'",
       "alias": "Bebo",
       "rol": "Presunto operador financiero de Los Metros a cargo del contrabando de hidrocarburos",
-      "estado": "Detenido en operativos del 24 y 25 de septiembre de 2026 (Chihuahua, Nuevo León, Tamaulipas)",
+      "estado": "Detenido tras cateos del 24 y 25 de septiembre de 2026 en Chihuahua, Nuevo León y Tamaulipas",
       "fuente_ids": [
         "s8"
       ]
@@ -105,10 +106,19 @@
     {
       "nombre": "Valdemar 'N'",
       "alias": "El Valdo",
-      "rol": "Presunto operador del Cártel del Golfo, exintegrante del CJNG, encargado del trasiego de metanfetamina y cocaína",
-      "estado": "Detenido en Ixtlahuacán, Colima, el 16 de junio de 2026, con fines de extradición a EE. UU.",
+      "rol": "Presunto operador del Cártel del Golfo y exintegrante del CJNG, señalado por coordinar el trasiego de metanfetamina y cocaína",
+      "estado": "Detenido en Colima el 16 de junio de 2026; las autoridades informaron que contaba con orden de detención con fines de extradición a EE. UU.",
       "fuente_ids": [
         "s12"
+      ]
+    },
+    {
+      "nombre": "Francisco Javier Sierra Angulo",
+      "alias": "El Borrado",
+      "rol": "Jefe del Cártel del Golfo en Matamoros según OFAC (noviembre de 2024); antes, jefe de la plaza de Valle Hermoso",
+      "estado": "Sin reporte público de captura; sancionado por OFAC el 26 de noviembre de 2024",
+      "fuente_ids": [
+        "s19"
       ]
     },
     {
@@ -141,6 +151,24 @@
       ]
     },
     {
+      "autoridad": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "categoria": "Narcotraficante extranjero significativo (Kingpin Act)",
+      "fecha": "2007",
+      "fuente_ids": [
+        "s19",
+        "s20"
+      ]
+    },
+    {
+      "autoridad": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "categoria": "Sanción por narcotráfico (E.O. 14059)",
+      "fecha": "2021-12-15",
+      "fuente_ids": [
+        "s19",
+        "s20"
+      ]
+    },
+    {
       "autoridad": "Gobierno de Canadá (Seguridad Pública)",
       "categoria": "Entidad terrorista incluida en la lista del Código Penal",
       "fecha": "2025-02-20",
@@ -159,6 +187,7 @@
     "trata",
     "migrantes",
     "armas",
+    "ambiental",
     "combustible",
     "lavado"
   ],
@@ -169,13 +198,16 @@
       "zonas": [
         "Tamaulipas",
         "Matamoros",
+        "Playa Bagdad (Matamoros)",
         "Reynosa",
         "Río Bravo",
+        "Tampico",
         "Puerto de Altamira",
         "Nuevo León",
         "Escobedo (Nuevo León)",
         "Coahuila",
         "Veracruz",
+        "Hidalgo",
         "Chihuahua",
         "San Luis Potosí",
         "Ciudad de México",
@@ -197,12 +229,14 @@
         "trata",
         "migrantes",
         "armas",
+        "ambiental",
         "combustible",
         "lavado"
       ],
-      "nota": "Bastión en Tamaulipas, en particular Matamoros y Reynosa; presencia significativa en Nuevo León, Coahuila y Veracruz, y presencia limitada o puntual en San Luis Potosí, Ciudad de México, Jalisco, Nayarit, Michoacán, Colima, Tabasco, Campeche y Quintana Roo. La red de contrabando de combustible de Los Metros operó en Chihuahua, Nuevo León y Tamaulipas (septiembre de 2026).",
+      "nota": "Bastión en Tamaulipas, en particular Matamoros y Reynosa; la NDTA 2025 de la DEA le atribuye presencia significativa en Coahuila, Nuevo León, Tamaulipas y Veracruz y actividad en la Ciudad de México, y ODNI le asigna presencia limitada en Jalisco y Tabasco. Reportes puntuales (detenciones, NDTA 2025 citada por prensa, InSight Crime) la sitúan también en San Luis Potosí, Nayarit, Michoacán, Colima, Campeche y Quintana Roo. Según OFAC, Remigio Morfín opera en Hidalgo y la facción controla la pesca ilegal de huachinango y tiburón desde Playa Bagdad. La red de contrabando de combustible de Los Metros operó en Chihuahua, Nuevo León y Tamaulipas (septiembre de 2026), y en agosto de 2026 la Marina aseguró inmuebles de Los Rojos en Tampico y Altamira.",
       "fuente_ids": [
         "s1",
+        "s4",
         "s6",
         "s7",
         "s8",
@@ -211,7 +245,10 @@
         "s11",
         "s12",
         "s13",
-        "s17"
+        "s17",
+        "s19",
+        "s21",
+        "s23"
       ],
       "confianza": "alta"
     },
@@ -220,9 +257,11 @@
       "nivel": "operativa",
       "zonas": [
         "Texas",
+        "Valle del Río Grande (Texas)",
         "Oklahoma",
         "California",
         "Sureste de EE. UU.",
+        "Luisiana",
         "Nebraska",
         "Virginia",
         "Pensilvania",
@@ -234,14 +273,17 @@
         "otras_drogas",
         "migrantes",
         "armas",
+        "ambiental",
         "combustible",
         "lavado"
       ],
-      "nota": "Opera en al menos 16 estados mediante socios y facilitadores. Introduce drogas, migrantes y combustible o crudo robado, y traslada armas y efectivo hacia México; Los Metros cobran cuotas en puentes entre Tamaulipas y Texas.",
+      "nota": "ODNI y la NDTA 2025 indican que opera en al menos 16 estados mediante socios y facilitadores. Introduce drogas, migrantes y combustible o crudo robado, y traslada armas y efectivo hacia México; Los Metros cobran cuotas en puentes entre Tamaulipas y Texas. OFAC documenta la pesca ilegal en aguas estadounidenses del golfo de México, y el DOJ procesó en 2026 a una red de Luisiana abastecida por proveedores del Cártel del Golfo.",
       "fuente_ids": [
         "s1",
         "s4",
-        "s13"
+        "s13",
+        "s19",
+        "s22"
       ],
       "confianza": "alta"
     }
@@ -274,10 +316,11 @@
     {
       "destino": "sinaloa",
       "tipo": "rivalidad",
-      "descripcion": "Según ODNI, Los Metros se aliaron con el CJNG para protegerse, entre otros, del Cártel de Sinaloa; no se documentan enfrentamientos recientes de gran escala.",
+      "descripcion": "Según ODNI y la NDTA 2025 de la DEA (citada por prensa), Los Metros se aliaron con el CJNG para protegerse, entre otros, de la facción de Los Mayos del Cártel de Sinaloa; no se documentan enfrentamientos recientes de gran escala.",
       "vigencia": "incierta",
       "fuente_ids": [
-        "s1"
+        "s1",
+        "s14"
       ],
       "confianza": "media"
     },
@@ -294,7 +337,8 @@
     {
       "destino": "nfm",
       "tipo": "suministro",
-      "descripcion": "Según la NDTA 2025 de la DEA, citada por prensa, Los Metros obtienen metanfetamina de La Nueva Familia Michoacana (de la NFM hacia el Golfo) y cocaína de Colombia.",
+      "desde": "nfm",
+      "descripcion": "Según la NDTA 2025 de la DEA, citada por prensa, Los Metros trafican metanfetamina procedente de La Nueva Familia Michoacana y cocaína adquirida en Colombia.",
       "vigencia": "incierta",
       "fuente_ids": [
         "s14"
@@ -302,7 +346,7 @@
       "confianza": "media"
     }
   ],
-  "notas_controversia": "La adscripción de Los Metros es ambigua: OFAC (1 de mayo de 2025) describió a 'Primito' como jefe de célula del CJNG en Tamaulipas que antes dirigía una facción del Golfo, mientras que la Sedena (septiembre de 2026) lo identifica como jefe de la facción Metros del Cártel del Golfo. Milenio (febrero de 2025) informó de una tregua entre Metros y Escorpiones que no fue confirmada oficialmente (confianza baja). La presencia fuera de Tamaulipas, Nuevo León, Coahuila y Veracruz se apoya en reportes puntuales (detenciones, NDTA 2025 citada por prensa). La NDTA 2025 de la DEA no pudo abrirse directamente (acceso bloqueado) y se cita a través de la IRB de Canadá y de Infobae.",
+  "notas_controversia": "La adscripción de Los Metros es ambigua: OFAC (1 de mayo de 2025) describió a 'Primito' como jefe de célula del CJNG en Tamaulipas que antes dirigía una facción del Golfo, mientras que la Sedena (septiembre de 2026) lo identifica como jefe de la facción Metros del Cártel del Golfo; las autoridades también presentaron como cabecilla de Los Metros a 'Metro 9' (abril de 2026). Milenio (febrero de 2025) informó de una tregua entre Metros y Escorpiones que no fue confirmada oficialmente (confianza baja). La presencia fuera de Tamaulipas, Nuevo León, Coahuila y Veracruz se apoya en reportes puntuales (detenciones, NDTA 2025 citada por prensa). La NDTA 2025 de la DEA no pudo abrirse directamente (acceso bloqueado) y se cita a través de la IRB de Canadá y de Infobae. OFAC fecha en 2007 la identificación de la organización bajo la Kingpin Act sin precisar el día.",
   "confianza_general": "alta",
   "fuentes": [
     {
@@ -354,7 +398,7 @@
       "id": "s6",
       "titulo": "Gulf Cartel (Cartel del Golfo): Profile and Current Status",
       "editor": "InSight Crime",
-      "fecha": "2026-08",
+      "fecha": "2026-08-07",
       "url": "https://insightcrime.org/mexico-organized-crime-news/gulf-cartel-profile/",
       "categoria": "investigacion",
       "verificada": true
@@ -372,7 +416,7 @@
       "id": "s8",
       "titulo": "Se informa la detención de Jesús Manuel N (a) 'Bebo' operador financiero del 'Cártel del Golfo'",
       "editor": "Secretaría de la Defensa Nacional (gob.mx)",
-      "fecha": "2026-09",
+      "fecha": "2026-09-27",
       "url": "https://www.gob.mx/defensa/prensa/se-informa-la-detencion-de-jesus-manuel-n-a-bebo-operador-financiero-del-cartel-del-golfo",
       "categoria": "oficial",
       "verificada": true
@@ -432,15 +476,6 @@
       "verificada": true
     },
     {
-      "id": "s15",
-      "titulo": "Estos son los cárteles que fueron 'golpeados' con los traslados de 29 narcos a EEUU",
-      "editor": "Infobae",
-      "fecha": "2025-02-28",
-      "url": "https://www.infobae.com/mexico/2025/02/28/estos-son-los-carteles-mexicanos-que-fueron-golpeados-con-los-traslados-de-29-narcos-a-eeuu/",
-      "categoria": "prensa",
-      "verificada": true
-    },
-    {
       "id": "s16",
       "titulo": "Government of Canada lists transnational criminal organizations as terrorist entities",
       "editor": "Public Safety Canada",
@@ -456,6 +491,60 @@
       "fecha": "2025-02-19",
       "url": "https://www.milenio.com/policia/cartel-del-golfo-sigue-operando-a-traves-de-sus-escisiones",
       "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s18",
+      "titulo": "Two high-ranking members of the Gulf Cartel transferred to U.S. custody for drug trafficking",
+      "editor": "Departamento de Justicia de EE. UU. (Fiscalía del Distrito Sur de Texas)",
+      "fecha": "2025-02-28",
+      "url": "https://www.justice.gov/usao-sdtx/pr/two-high-ranking-members-gulf-cartel-extradited-united-states-drug-trafficking",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s19",
+      "titulo": "Treasury Targets Cartel-Enabled Illegal, Unreported, and Unregulated Fishing Operations (jy2729)",
+      "editor": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "fecha": "2024-11-26",
+      "url": "https://home.treasury.gov/news/press-releases/jy2729",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s20",
+      "titulo": "Treasury Uses New Sanctions Authority to Combat Global Illicit Drug Trade (jy0535)",
+      "editor": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "fecha": "2021-12-15",
+      "url": "https://home.treasury.gov/news/press-releases/jy0535",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s21",
+      "titulo": "Armada mexicana golpea al Cártel del Golfo y le incauta finca con tigres, leones, hienas y búfalos",
+      "editor": "Associated Press (vía Houston Chronicle)",
+      "fecha": "2026-08-27",
+      "url": "https://www.chron.com/news/world/article/armada-mexicana-golpea-al-c-rtel-del-golfo-y-le-22406972.php",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s22",
+      "titulo": "Eleven Members of Drug Trafficking Organization Linked to Gulf Cartel Indicted for Drug Trafficking in Central Louisiana",
+      "editor": "Departamento de Justicia de EE. UU. (Fiscalía del Distrito Oeste de Luisiana)",
+      "fecha": "2026-02-10",
+      "url": "https://www.justice.gov/usao-wdla/pr/eleven-members-drug-trafficking-organization-linked-gulf-cartel-indicted-drug",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s23",
+      "titulo": "Illegal alien charged with providing material support to Gulf Cartel, a foreign terrorist organization",
+      "editor": "Departamento de Justicia de EE. UU. (Fiscalía del Distrito Sur de Texas)",
+      "fecha": "2026-09-16",
+      "url": "https://www.justice.gov/usao-sdtx/pr/illegal-alien-charged-providing-material-support-gulf-cartel-foreign-terrorist",
+      "categoria": "oficial",
       "verificada": true
     }
   ]

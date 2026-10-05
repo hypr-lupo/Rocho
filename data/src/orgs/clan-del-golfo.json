@@ -14,26 +14,28 @@
   "pais_origen": "COL",
   "fundacion": "2006, tras la desmovilización de las Autodefensas Unidas de Colombia (AUC), en el Urabá antioqueño; se autodenomina Ejército Gaitanista de Colombia desde 2024.",
   "resumen": "Es la mayor organización armada ilegal de Colombia y una de las principales exportadoras de cocaína del mundo. Controla el Urabá, regula la producción de pasta base y cobra un impuesto por cada kilo que se fabrica, almacena o transporta en su territorio. También obtiene ingresos de la minería ilegal de oro, la extorsión y el tráfico de migrantes por el Darién. Funciona con un mando central y franquicias regionales, y abastece a cárteles mexicanos y a redes que distribuyen en Europa.",
-  "situacion_actual": "El 5 de diciembre de 2025, en la segunda ronda de Doha, el gobierno de Gustavo Petro y el EGC acordaron tres Zonas de Ubicación Temporal en Tierralta, Belén de Bajirá y Unguía para más de 9.000 combatientes a partir del 1 de marzo de 2026. El traslado se aplazó varias veces y el 25 de junio de 2026 se postergó también la zona de Tierralta. Estados Unidos designó al grupo como FTO y SDGT en diciembre de 2025, y el 16 de abril de 2026 una quinta acusación sustitutiva en Brooklyn añadió cargos de narcoterrorismo contra su jefe, 'Chiquito Malo', que sigue prófugo. En enero de 2026 murió ahogado el segundo al mando, 'Gonzalito', y lo reemplazó 'Rodrigo Flechas'. Tras asumir el 7 de agosto de 2026, el presidente Abelardo de la Espriella revocó la delegación negociadora (Resolución 390, 9 de septiembre) y cerró el espacio sociojurídico (Resolución 398, 11 de septiembre); ese mismo día la Fiscalía reactivó las órdenes de captura de los voceros 'Rodrigo Flechas', 'El Cura' y 'Bruno/Jerónimo'. Con la ofensiva militar en curso murió el cabecilla zonal 'Terry' en Jericó (Antioquia) el 2 de octubre de 2026, y desde agosto Panamá y Colombia hacen operaciones conjuntas en el Darién.",
+  "situacion_actual": "El 5 de diciembre de 2025, en Doha (Catar), el gobierno de Gustavo Petro y el EGC acordaron tres Zonas de Ubicación Temporal (ZUT) en Tierralta, Belén de Bajirá y Unguía para la ubicación gradual de más de 9.000 combatientes a partir del 1 de marzo de 2026. El traslado no comenzó en esa fecha y el 25 de junio de 2026 se aplazó también la zona de Tierralta. Estados Unidos lo designó como Terrorista Global Especialmente Designado (16 de diciembre de 2025) y como Organización Terrorista Extranjera (17 de diciembre de 2025). El 30 de enero de 2026 murió ahogado en el río Esmeraldas (Tierralta) su segundo al mando, 'Gonzalito', y en febrero la cúpula presentó como nuevo subcomandante a 'Rodrigo Flechas'. El 13 de marzo de 2026 el gobierno revocó la suspensión de las órdenes de captura de 'Chiquito Malo' y de otros cabecillas; el 16 de abril una quinta acusación sustitutiva en Brooklyn le añadió cargos de narcoterrorismo, y el 1 de julio Petro levantó por decreto la suspensión de su extradición. Tras asumir el 7 de agosto de 2026, el presidente Abelardo de la Espriella revocó la designación de los representantes del gobierno en el espacio sociojurídico (Resolución 390, 9 de septiembre) y dio por terminadas las conversaciones (Resolución 398, 11 de septiembre); ese mismo día la Fiscalía reactivó las órdenes de captura de los voceros 'Rodrigo Flechas', 'El Cura' y 'Bruno/Jerónimo' (Resolución 0-0284). La ofensiva posterior incluyó la captura en Turbo, a finales de septiembre y con apoyo de la DEA, de alias 'Ñato', pedido en extradición por una corte federal de Massachusetts, y la muerte del cabecilla zonal 'Terry' en una operación militar en Jericó (Antioquia) el 2 de octubre de 2026.",
   "estructura": "Tiene un Estado Mayor Conjunto encabezado por Jobanis de Jesús Ávila Villadiego, 'Chiquito Malo'. Según la EUAA, opera unas 34 estructuras agrupadas en seis bloques, con una jerarquía central y franquicias regionales que se financian solas; ejemplos son el Bloque Nelson Darío Hurtado Simanca en Cesar y Magdalena y la subestructura Edwin Román Velásquez Valle en el suroeste de Antioquia. En sus márgenes subcontrata bandas locales y narcotraficantes independientes. El tamaño se estima entre unos 6.000 integrantes (DOJ, en su punto máximo) y más de 9.000 combatientes (cifra manejada en la mesa de Doha, diciembre de 2025); la EUAA cita más de 14.000. Tiene presencia en al menos 20 departamentos.",
   "lideres": [
     {
       "nombre": "Jobanis de Jesús Ávila Villadiego",
       "alias": "Chiquito Malo / Chiquito",
       "rol": "Máximo comandante del EGC",
-      "estado": "Prófugo a 5 de octubre de 2026. Acusado en el Distrito Este de Nueva York (quinta acusación sustitutiva del 16 de abril de 2026, con cargos de narcoterrorismo y apoyo material a una FTO). Tiene orden de extradición, por lo que quedó excluido de las ZUT.",
+      "estado": "Prófugo a 5 de octubre de 2026. Acusado en el Distrito Este de Nueva York: la quinta acusación sustitutiva, presentada el 16 de abril de 2026, añadió cargos de conspiración de narcoterrorismo y de apoyo material a una organización terrorista extranjera. La Corte Suprema avaló su extradición el 13 de enero de 2026; el gobierno revocó la suspensión de sus órdenes de captura el 13 de marzo y Petro levantó por decreto la suspensión de su extradición el 1 de julio de 2026.",
       "fuente_ids": [
         "s1",
         "s4",
-        "s9"
+        "s25",
+        "s26"
       ]
     },
     {
       "nombre": "Orosman Orlando Osten Blanco",
       "alias": "Rodrigo Flechas",
-      "rol": "Segundo al mando desde enero de 2026 y vocero en la mesa de diálogo",
+      "rol": "Subcomandante (segundo al mando) desde febrero de 2026 y vocero en el espacio sociojurídico",
       "estado": "Prófugo. La Fiscalía reactivó su orden de captura el 11 de septiembre de 2026 (Resolución 0-0284).",
       "fuente_ids": [
+        "s27",
         "s3",
         "s5"
       ]
@@ -45,7 +47,8 @@
       "estado": "Prófugo. Orden de captura reactivada el 11 de septiembre de 2026.",
       "fuente_ids": [
         "s5",
-        "s3"
+        "s3",
+        "s27"
       ]
     },
     {
@@ -55,35 +58,49 @@
       "estado": "Prófugo. Orden de captura reactivada el 11 de septiembre de 2026.",
       "fuente_ids": [
         "s5",
-        "s22"
+        "s22",
+        "s27"
+      ]
+    },
+    {
+      "nombre": "José Gonzalo Sánchez Sánchez",
+      "alias": "Gonzalito",
+      "rol": "Segundo al mando hasta enero de 2026",
+      "estado": "Murió ahogado el 30 de enero de 2026, cuando se volcó la lancha en que viajaba por el río Esmeraldas, en Tierralta (Córdoba).",
+      "fuente_ids": [
+        "s25",
+        "s34",
+        "s3"
       ]
     },
     {
       "nombre": "Cristian Camilo Chavarría Tapias",
       "alias": "Terry / Keiner",
       "rol": "Cabecilla zonal de la subestructura Edwin Román Velásquez Valle (suroeste de Antioquia)",
-      "estado": "Abatido en una operación militar en Jericó (Antioquia), confirmada por la Presidencia el 2 de octubre de 2026.",
+      "estado": "Abatido el 2 de octubre de 2026 en una operación del Ejército en zona rural de Jericó (Antioquia), confirmada por el gobernador de Antioquia y por el presidente De la Espriella.",
       "fuente_ids": [
-        "s17"
+        "s17",
+        "s28"
       ]
     }
   ],
   "designaciones": [
     {
       "autoridad": "Departamento de Estado de EE. UU.",
-      "categoria": "Organización Terrorista Extranjera (FTO), sección 219 de la Ley de Inmigración y Nacionalidad",
+      "categoria": "Organización Terrorista Extranjera (FTO), sección 219 de la Ley de Inmigración y Nacionalidad; firmada el 4 de diciembre de 2025 y vigente desde su publicación en el Federal Register",
       "fecha": "2025-12-17",
       "fuente_ids": [
-        "s2",
-        "s1"
+        "s23",
+        "s2"
       ]
     },
     {
-      "autoridad": "Departamento de Estado de EE. UU.",
+      "autoridad": "Departamento de Estado de EE. UU. (inclusión en la lista SDN de la OFAC)",
       "categoria": "Terrorista Global Especialmente Designado (SDGT), Orden Ejecutiva 13224",
       "fecha": "2025-12-16",
       "fuente_ids": [
-        "s2"
+        "s2",
+        "s24"
       ]
     }
   ],
@@ -142,15 +159,18 @@
         "reclutamiento",
         "contrabando"
       ],
-      "nota": "Su centro de mando y territorio de origen. Tiene presencia en al menos 20 departamentos, con control militar del Urabá, la zona más rentable por su cercanía a Panamá y a los dos océanos. Cobra un impuesto por kilo de cocaína producido o transportado en su territorio.",
+      "nota": "Su centro de mando y territorio de origen. Tiene presencia en al menos 20 departamentos, con control militar del Urabá, la zona más rentable por su cercanía a Panamá y a los dos océanos. Cobra un impuesto por cada kilo de cocaína producido, almacenado o transportado en su territorio. Las ZUT acordadas en diciembre de 2025 en Tierralta, Belén de Bajirá y Unguía no llegaron a funcionar antes del cierre de las conversaciones en septiembre de 2026.",
       "fuente_ids": [
         "s1",
         "s3",
         "s13",
         "s8",
+        "s7",
+        "s6",
         "s17",
         "s16",
-        "s12"
+        "s12",
+        "s29"
       ],
       "confianza": "alta"
     },
@@ -159,18 +179,18 @@
       "nivel": "operativa",
       "zonas": [
         "Provincia de Darién (frontera con Chocó)",
-        "Puesto binacional de Alto Limón"
+        "Rutas marítimas y terrestres entre Colombia y Panamá"
       ],
       "delitos": [
-        "mineria",
-        "migrantes",
         "cocaina",
-        "extorsion"
+        "migrantes"
       ],
-      "nota": "Según el Senafront, ninguna actividad ilícita se realiza en el Darién sin el control del EGC, que la dirige desde Colombia. En agosto de 2026 Panamá desplegó más de 700 agentes y lanzó operaciones conjuntas con Colombia contra su minería ilegal. GI-TOC describe un control casi total del corredor migratorio del Darién.",
+      "nota": "InSight Crime (julio de 2026) lo considera el actor criminal extranjero más influyente en Panamá: domina las rutas marítimas y terrestres entre ambos países, se apoya en pandillas locales y ha corrompido a funcionarios, como mostró la Operación Fisher, con unas 56 capturas. Según el Senafront, ninguna actividad ilícita se realiza en el Darién sin el control del EGC, que la dirige desde territorio colombiano. GI-TOC (2025) le atribuye un control casi total del corredor migratorio del Darién. En agosto de 2026, con más de 700 agentes del Senafront desplegados en la frontera, la policía panameña protegía la erradicación de coca que hace Colombia en su lado de la línea.",
       "fuente_ids": [
+        "s30",
         "s11",
-        "s12"
+        "s12",
+        "s21"
       ],
       "confianza": "alta"
     },
@@ -181,54 +201,56 @@
       "delitos": [
         "cocaina"
       ],
-      "nota": "El DOJ documenta envíos multitonelada de cocaína a México con destino final en EE. UU. Sus socios son el Cártel de Sinaloa y, según GI-TOC, el CJNG, que actúan como compradores e intermediarios.",
+      "nota": "El DOJ documenta envíos multitonelada de cocaína hacia México y Centroamérica con destino final en EE. UU. Sus compradores e intermediarios son el Cártel de Sinaloa y el CJNG, según InSight Crime y GI-TOC.",
       "fuente_ids": [
         "s1",
         "s3",
-        "s20"
+        "s4",
+        "s12"
       ],
       "confianza": "alta"
     },
     {
       "pais": "USA",
       "nivel": "operativa",
-      "zonas": [
-        "Distrito Este de Nueva York (jurisdicción de las acusaciones)"
-      ],
+      "zonas": [],
       "delitos": [
         "cocaina"
       ],
-      "nota": "Es el destino final de las rutas por México y Centroamérica. Su jefe está acusado en Brooklyn.",
+      "nota": "Es el destino final de las rutas por México y Centroamérica, según el DOJ. Su jefe está acusado en el Distrito Este de Nueva York, y alias 'Ñato', capturado en Turbo en septiembre de 2026, es requerido por una corte federal de Massachusetts.",
       "fuente_ids": [
-        "s1"
+        "s1",
+        "s29"
       ],
       "confianza": "alta"
     },
     {
       "pais": "CRI",
-      "nivel": "operativa",
+      "nivel": "limitada",
       "zonas": [],
       "delitos": [
         "cocaina"
       ],
-      "nota": "La Guardia Civil documentó bodegas de acopio de cocaína de la red de 'Medio Labio', con cargamentos de hasta 20 toneladas.",
+      "nota": "La Guardia Civil atribuye al operador financiero 'Medio Labio', vinculado al Clan del Golfo, una red de bodegas de acopio de cocaína en este país, con cargamentos de hasta 20 toneladas. La red se desarticuló entre octubre de 2025 y febrero de 2026, cuando 'Medio Labio' fue capturado en Medellín.",
       "fuente_ids": [
-        "s10"
+        "s10",
+        "s19"
       ],
-      "confianza": "alta"
+      "confianza": "media"
     },
     {
       "pais": "DOM",
-      "nivel": "operativa",
+      "nivel": "limitada",
       "zonas": [],
       "delitos": [
         "cocaina"
       ],
-      "nota": "La Guardia Civil documentó bodegas de acopio de cocaína de la red de 'Medio Labio', con cargamentos de hasta 20 toneladas.",
+      "nota": "La Guardia Civil atribuye al operador financiero 'Medio Labio', vinculado al Clan del Golfo, una red de bodegas de acopio de cocaína en este país, con cargamentos de hasta 20 toneladas. La red se desarticuló entre octubre de 2025 y febrero de 2026, cuando 'Medio Labio' fue capturado en Medellín.",
       "fuente_ids": [
-        "s10"
+        "s10",
+        "s19"
       ],
-      "confianza": "alta"
+      "confianza": "media"
     },
     {
       "pais": "ESP",
@@ -240,7 +262,7 @@
         "cocaina",
         "lavado"
       ],
-      "nota": "Es la puerta de entrada a Europa de más de 120 toneladas de cocaína según la operación Gulupa II (Guardia Civil, Policía Nacional de Colombia y Europol). En octubre de 2025 se capturó en España a operadores de una red de lavado vinculada al EGC.",
+      "nota": "Puerta de entrada a Europa de la red desarticulada en la operación Gulupa (Guardia Civil, Policía Nacional de Colombia y Europol), a la que se atribuye la introducción de más de 120 toneladas de cocaína al año por puertos de España, Bélgica y Países Bajos. En octubre de 2025 se capturó en Zaragoza, Madrid e Ibiza a integrantes de su red de lavado.",
       "fuente_ids": [
         "s10",
         "s18",
@@ -257,7 +279,7 @@
       "delitos": [
         "cocaina"
       ],
-      "nota": "Puerto de destino de los envíos de la red de 'Medio Labio' hacia Europa.",
+      "nota": "Puerto de destino de los envíos de la red de 'Medio Labio' hacia Europa, desarticulada en la operación Gulupa (2025-2026).",
       "fuente_ids": [
         "s10",
         "s19"
@@ -273,7 +295,7 @@
       "delitos": [
         "cocaina"
       ],
-      "nota": "Puerto de destino de los envíos de la red de 'Medio Labio' hacia Europa.",
+      "nota": "Puerto de destino de los envíos de la red de 'Medio Labio' hacia Europa, desarticulada en la operación Gulupa (2025-2026).",
       "fuente_ids": [
         "s10",
         "s19"
@@ -308,101 +330,85 @@
         "s18"
       ],
       "confianza": "baja"
-    },
-    {
-      "pais": "VEN",
-      "nivel": "limitada",
-      "zonas": [
-        "Franja fronteriza con Norte de Santander"
-      ],
-      "delitos": [
-        "cocaina"
-      ],
-      "nota": "InSight Crime y el Ministerio del Interior británico señalan una presencia limitada cerca de la frontera. La Guardia Civil vincula a la red de 'Medio Labio' con redes asociadas al Cártel de los Soles.",
-      "fuente_ids": [
-        "s3",
-        "s21",
-        "s10"
-      ],
-      "confianza": "media"
     }
   ],
   "vinculos": [
     {
       "destino": "eln",
       "tipo": "rivalidad",
-      "descripcion": "Disputa territorial desde 2018 en Antioquia y Chocó por enclaves de coca, corredores de narcotráfico y minería ilegal.",
+      "descripcion": "Disputa territorial desde 2018 en Antioquia y Chocó por enclaves de coca, corredores de narcotráfico y minería ilegal, con choques también en Bolívar, Norte de Santander y Valle del Cauca.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s14",
-        "s13"
+        "s13",
+        "s3",
+        "s4"
       ],
       "confianza": "alta"
     },
     {
       "destino": "acsn",
       "tipo": "rivalidad",
-      "descripcion": "Guerra reanudada en 2021 por los corredores de Magdalena, La Guajira y Cesar. El EGC avanza con el Bloque Nelson Darío Hurtado Simanca y en septiembre de 2026 las ACSN justificaron su paro armado en frenar su entrada a la Sierra Nevada.",
+      "descripcion": "Tras un periodo de alianza bajo 'Chucho Mercancía', disputan desde 2021 los corredores de cocaína de Magdalena, La Guajira y Cesar, con extensión a Norte de Santander. El EGC avanza con el Bloque Nelson Darío Hurtado Simanca y la Defensoría describe una disputa abierta en las tres vertientes de la Sierra Nevada. En su comunicado del 24 de septiembre de 2026 las ACSN afirmaron que su presencia en la zona busca impedir la entrada del Clan del Golfo.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s15",
-        "s16"
+        "s16",
+        "s4",
+        "s33"
       ],
       "confianza": "alta"
     },
     {
       "destino": "sinaloa",
       "tipo": "suministro",
-      "descripcion": "El EGC vende cocaína a emisarios del Cártel de Sinaloa, que se encargan del transporte por México hacia EE. UU. sin ejercer control territorial en Colombia.",
+      "desde": "clan-del-golfo",
+      "descripcion": "El EGC vende cocaína a emisarios del Cártel de Sinaloa, que la transportan hacia México y EE. UU. sin ejercer control territorial en Colombia. En junio de 2026 la Policía y la DEA capturaron en Medellín a dos hermanos mexicanos señalados como enlace entre ambas organizaciones.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s3",
+        "s4",
         "s12",
         "s20",
-        "s1"
+        "s31"
       ],
       "confianza": "alta"
     },
     {
       "destino": "cjng",
       "tipo": "suministro",
-      "descripcion": "Según GI-TOC, el CJNG financia y coordina la producción de cocaína con socios locales como el EGC. El EGC actúa como proveedor.",
+      "desde": "clan-del-golfo",
+      "descripcion": "Según GI-TOC, el CJNG financia y coordina la producción de cocaína con socios locales como el EGC, que actúa como proveedor, e InSight Crime lo cuenta entre los principales aliados del grupo. En 2026 la inteligencia colombiana señaló a facciones del Clan del Golfo como engranaje logístico del CJNG en el Atlántico.",
       "vigencia": "vigente",
       "fuente_ids": [
-        "s12"
+        "s12",
+        "s4",
+        "s32"
       ],
-      "confianza": "media"
+      "confianza": "alta"
     },
     {
       "destino": "ext-ndrangheta",
       "tipo": "suministro",
-      "descripcion": "Según InSight Crime, la cúpula mantiene una relación con la 'Ndrangheta desde la época de las AUC para abastecer de cocaína al mercado europeo.",
+      "desde": "clan-del-golfo",
+      "descripcion": "Según InSight Crime, la cúpula mantiene desde la época de las AUC una relación con la 'Ndrangheta para abastecer de cocaína al mercado europeo, y trabaja también con redes de los Balcanes.",
       "vigencia": "incierta",
       "fuente_ids": [
-        "s3"
-      ],
-      "confianza": "media"
-    },
-    {
-      "destino": "cartel-soles",
-      "tipo": "alianza",
-      "descripcion": "Según la Guardia Civil, el operador financiero 'Medio Labio' vinculó al EGC con redes asociadas al Cártel de los Soles en Venezuela. Su captura en febrero de 2026 y la caída de Maduro dejan incierta la continuidad del vínculo.",
-      "vigencia": "incierta",
-      "fuente_ids": [
-        "s10"
+        "s3",
+        "s4"
       ],
       "confianza": "media"
     }
   ],
-  "notas_controversia": "El grupo se presenta como actor político ('Ejército Gaitanista') y exigió un trato de negociación de paz. El Estado colombiano lo trató como estructura criminal sujeta a un 'espacio sociojurídico' de sometimiento, y el gobierno De la Espriella concluyó que no había 'voluntad de paz' verificable. Las cifras de integrantes varían mucho según la fuente (unos 6.000 en el DOJ, más de 9.000 en la mesa de Doha y más de 14.000 en la EUAA), en parte porque unas cuentan combatientes y otras incluyen redes de apoyo. InSight Crime informa que Petro levantó la suspensión de extradiciones el 1 de julio de 2026 y que las órdenes de captura se reactivaron en marzo de 2026; este analista no pudo corroborar esos datos con una segunda fuente. Infobae (diciembre de 2025) atribuye al EGC presencia en 28 países (Honduras, Brasil, Alemania, Italia, Albania, Ucrania, Asia y Australia), pero esa lista no pudo verificarse con fuentes oficiales y no se incluyó. El resumen de la nota británica CPIN menciona una designación terrorista de la UE que no consta en fuentes oficiales y se descartó.",
+  "notas_controversia": "El grupo se presenta como actor político ('Ejército Gaitanista') y exigió un trato de negociación de paz. El Estado colombiano lo trató como estructura criminal sujeta a un 'espacio sociojurídico' de sometimiento, y el gobierno De la Espriella concluyó que no había una 'voluntad de paz' verificable. Las cifras de integrantes varían mucho según la fuente (unos 6.000 en el DOJ, más de 9.000 en la mesa de Doha y más de 14.000 en la EUAA), en parte porque unas cuentan combatientes y otras incluyen redes de apoyo. Las fuentes difieren sobre el orden de mando tras la muerte de 'Gonzalito': El Colombiano e InSight Crime presentan a 'Rodrigo Flechas' como subcomandante, mientras Semana (septiembre de 2026) lo sitúa como tercero al mando. InSight Crime y el Ministerio del Interior británico afirman que el grupo no tiene presencia en Venezuela; la Guardia Civil vincula a su operador financiero 'Medio Labio', capturado en febrero de 2026, con redes asociadas al Cártel de los Soles y con la ruta Colombia–Venezuela–Europa y África, pero no documenta una relación orgánica entre ambas organizaciones, por lo que no se incluyen la presencia en Venezuela ni un vínculo con el Cártel de los Soles. Infobae (diciembre de 2025) atribuye al EGC presencia en 28 países (Honduras, Brasil, Alemania, Italia, Albania, Ucrania, Asia y Australia), pero esa lista no pudo verificarse con fuentes oficiales y no se incluyó. El resumen de la nota británica CPIN agrupa al grupo con otros 'designados como organizaciones terroristas en la UE y/o EE. UU.', pero el Clan del Golfo no figura en la lista terrorista de la UE (Decisión (PESC) 2026/1882), por lo que solo se registran las designaciones estadounidenses.",
   "confianza_general": "alta",
   "fuentes": [
     {
       "id": "s1",
       "titulo": "Leader of Clan del Golfo, the Colombian drug cartel and terrorist organization, charged in superseding indictment with expanded criminal conduct and terrorism offenses",
-      "editor": "IRS Criminal Investigation / U.S. Attorney's Office, Eastern District of New York (Departamento de Justicia de EE. UU.)",
+      "editor": "Fiscalía Federal del Distrito Este de Nueva York (Departamento de Justicia de EE. UU.)",
       "fecha": "2026-04-17",
-      "url": "https://www.irs.gov/compliance/criminal-investigation/leader-of-clan-del-golfo-the-colombian-drug-cartel-and-terrorist-organization-charged-in-superseding-indictment-with-expanded-criminal-conduct-and-terrorism-offenses",
+      "url": "https://www.justice.gov/usao-edny/pr/leader-clan-del-golfo-colombian-drug-cartel-and-terrorist-organization-charged",
       "categoria": "oficial",
       "verificada": true
     },
@@ -413,13 +419,13 @@
       "fecha": "2025-12-16",
       "url": "https://www.state.gov/releases/2025/12/terrorist-designations-of-clan-del-golfo/",
       "categoria": "oficial",
-      "verificada": false
+      "verificada": true
     },
     {
       "id": "s3",
-      "titulo": "Gaitanistas - Gulf Clan (perfil)",
+      "titulo": "Gaitanistas – Gulf Clan (perfil)",
       "editor": "InSight Crime",
-      "fecha": "2026-09",
+      "fecha": "2026-09-14",
       "url": "https://insightcrime.org/colombia-organized-crime-news/urabenos-profile/",
       "categoria": "investigacion",
       "verificada": true
@@ -428,7 +434,7 @@
       "id": "s4",
       "titulo": "Jobanis de Jesús Ávila Villadiego, alias 'Chiquito Malo'",
       "editor": "InSight Crime",
-      "fecha": "2026",
+      "fecha": "2026-07-03",
       "url": "https://insightcrime.org/colombia-organized-crime-news/jobanis-de-jesus-avila-villadiego-chiquito-malo/",
       "categoria": "investigacion",
       "verificada": true
@@ -466,15 +472,6 @@
       "editor": "El Colombiano",
       "fecha": "2025-12-05",
       "url": "https://www.elcolombiano.com/colombia/clan-del-golfo-acuerdo-tres-zonas-ubicacion-temporal-tierralta-choco-LB31565428",
-      "categoria": "prensa",
-      "verificada": true
-    },
-    {
-      "id": "s9",
-      "titulo": "El Clan del Golfo acepta dejar fuera de las zonas de ubicación a sus miembros con órdenes de extradición",
-      "editor": "Infobae (Europa Press)",
-      "fecha": "2026-05-19",
-      "url": "https://www.infobae.com/america/agencias/2026/05/19/el-clan-del-golfo-acepta-dejar-fuera-de-las-zonas-de-ubicacion-a-sus-miembros-con-ordenes-de-extradicion/",
       "categoria": "prensa",
       "verificada": true
     },
@@ -527,7 +524,7 @@
       "id": "s15",
       "titulo": "Autodefensas Conquistadoras de la Sierra Nevada (ACSN) (perfil)",
       "editor": "InSight Crime",
-      "fecha": "2026-09-25",
+      "fecha": "2026-09-24",
       "url": "https://insightcrime.org/colombia-organized-crime-news/pachenca/",
       "categoria": "investigacion",
       "verificada": true
@@ -570,7 +567,7 @@
     },
     {
       "id": "s20",
-      "titulo": "The Sinaloa Cartel and the ELN: Ally or Subordinate?",
+      "titulo": "The Sinaloa Cartel to the ELN: Ally or Subordinate?",
       "editor": "InSight Crime",
       "fecha": "2025-02-24",
       "url": "https://insightcrime.org/news/the-sinaloa-cartel-to-the-eln-ally-or-subordinate/",
@@ -590,8 +587,116 @@
       "id": "s22",
       "titulo": "Gobierno y 'clan del Golfo' anuncian creación de tres Zonas de Ubicación Temporal en Chocó y Córdoba: siguen dudas sobre caminos jurídicos",
       "editor": "El Tiempo",
-      "fecha": "2025-12",
+      "fecha": "2025-12-05",
       "url": "https://www.eltiempo.com/politica/proceso-de-paz/gobierno-y-clan-del-golfo-anuncian-creacion-de-tres-zonas-de-ubicacion-temporal-en-choco-y-cordoba-siguen-dudas-sobre-caminos-juridicos-3514615",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s23",
+      "titulo": "Foreign Terrorist Organization Designation of Clan del Golfo (Public Notice 12888)",
+      "editor": "Departamento de Estado de EE. UU. (Federal Register, vol. 90, n.º 240)",
+      "fecha": "2025-12-17",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2025-12-17/pdf/2025-23133.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s24",
+      "titulo": "Counter Terrorism Designation Update (Clan del Golfo)",
+      "editor": "Oficina de Control de Activos Extranjeros (OFAC), Departamento del Tesoro de EE. UU.",
+      "fecha": "2025-12-16",
+      "url": "https://ofac.treasury.gov/recent-actions/20251216",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s25",
+      "titulo": "Gobierno revoca suspensión de órdenes de captura contra alias 'Chiquito Malo'",
+      "editor": "El Espectador",
+      "fecha": "2026-03-13",
+      "url": "https://www.elespectador.com/judicial/gobierno-revoca-suspension-de-ordenes-de-captura-contra-alias-chiquito-malo/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s26",
+      "titulo": "Petro firmó decreto que reactiva extradición de alias Chiquito Malo, jefe del Clan del Golfo",
+      "editor": "El Colombiano",
+      "fecha": "2026-07-01",
+      "url": "https://www.elcolombiano.com/inicio/gustavo-petro-decreto-clan-del-golfo-extradicion-chiquito-malo-captura-alias-el-zarco-CN38357216",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s27",
+      "titulo": "Con ascensos y dos nuevos integrantes, así quedó la cúpula del Clan del Golfo, el cartel más poderoso de Colombia",
+      "editor": "El Colombiano",
+      "fecha": "2026-02-13",
+      "url": "https://www.elcolombiano.com/inicio/nueva-cupula-clan-del-golfo-2026-reorganizacion-cabecillas-NG33530508",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s28",
+      "titulo": "Ejército abatió a alias 'Terry', cabecilla del Clan del Golfo señalado de homicidio de futbolista",
+      "editor": "Caracol Radio",
+      "fecha": "2026-10-02",
+      "url": "https://caracol.com.co/2026/10/02/combates-entre-ejercito-y-clan-del-golfo-dejan-dos-muertos-en-zona-rural-de-jerico-antioquia/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s29",
+      "titulo": "Capturan en Turbo a alias Ñato, señalado narco del Clan del Golfo y pedido en extradición por EE. UU.",
+      "editor": "El Colombiano",
+      "fecha": "2026-09-29",
+      "url": "https://www.elcolombiano.com/antioquia/alias-nato-captura-narcotrafico-clan-del-golfo-extradicion-ee-uu-LH41647590",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s30",
+      "titulo": "Panama Profile",
+      "editor": "InSight Crime",
+      "fecha": "2026-07-10",
+      "url": "https://insightcrime.org/panama-organized-crime-news/panama/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s31",
+      "titulo": "Dos hermanos que fungían como enlace del Cartel de Sinaloa con el 'clan del Golfo' fueron capturados por la Policía y la DEA en Medellín",
+      "editor": "El Tiempo",
+      "fecha": "2026-06-19",
+      "url": "https://www.eltiempo.com/colombia/medellin/dos-hermanos-que-fungian-como-enlace-del-cartel-de-sinaloa-con-el-clan-del-golfo-fueron-capturados-por-la-policia-y-la-dea-en-medellin-3565492",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s32",
+      "titulo": "Cartel Jalisco Nueva Generación teje red silenciosa en Colombia: inteligencia revela emisarios y control de rutas clave del Caribe a México y EE. UU.",
+      "editor": "El Tiempo",
+      "fecha": "2026-02-23",
+      "url": "https://www.eltiempo.com/amp/colombia/barranquilla/cartel-jalisco-nueva-generacion-teje-red-silenciosa-en-el-caribe-colombiano-inteligencia-revela-alianzas-emisarios-y-control-de-rutas-clave-3534790",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s33",
+      "titulo": "Autodefensas Conquistadoras de la Sierra Nevada anuncian fin del paro armado en Magdalena y La Guajira: esto se sabe",
+      "editor": "Infobae",
+      "fecha": "2026-09-24",
+      "url": "https://www.infobae.com/colombia/2026/09/24/autodefensas-conquistadoras-de-la-sierra-nevada-anuncian-fin-del-paro-armado-en-magdalena-y-la-guajira-esto-se-sabe/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s34",
+      "titulo": "Reactivan órdenes de captura contra tres peligrosos criminales del Clan del Golfo que habían sido beneficiados en el gobierno Petro",
+      "editor": "Semana",
+      "fecha": "2026-09-13",
+      "url": "https://www.semana.com/nacion/articulo/reactivan-ordenes-de-captura-contra-tres-peligrosos-criminales-del-clan-del-golfo-que-habian-sido-beneficiados-en-el-gobierno-petro/202646/",
       "categoria": "prensa",
       "verificada": true
     }

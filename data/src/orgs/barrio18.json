@@ -7,21 +7,22 @@
     "18th Street",
     "Mara 18",
     "M-18",
+    "Pandilla 18",
     "Barrio 18 Sureños",
     "Barrio 18 Revolucionarios"
   ],
   "tipo": "pandilla",
   "pais_origen": "SLV",
   "fundacion": "Década de 1960 en Los Ángeles (EE. UU.); se expandió a El Salvador, Guatemala y Honduras con las deportaciones de los años noventa. En El Salvador se dividió en las facciones rivales Sureños y Revolucionarios.",
-  "resumen": "Pandilla transnacional nacida en Los Ángeles y extendida al norte de Centroamérica, rival histórica de la MS-13. Opera en canchas y clicas dirigidas por palabreros desde prisión, y vive de la extorsión, sobre todo al transporte público, el narcomenudeo y la violencia homicida. Hoy su núcleo más fuerte está en Guatemala, donde ejerce influencia en el sistema penitenciario. EE. UU. la designó Organización Terrorista Extranjera el 24 de septiembre de 2025.",
-  "situacion_actual": "En Guatemala, unos 20 miembros se fugaron de Fraijanes II en octubre de 2025. El 17 de enero de 2026 la pandilla amotinó a la vez Renovación 1, Fraijanes II y el Preventivo de la zona 18 y tomó 46 rehenes; tras la retoma de los penales, sus miembros mataron a 10 u 11 policías, según la fuente. El presidente Bernardo Arévalo decretó un estado de sitio del 18 de enero al 17 de febrero de 2026, sustituido después por un estado de prevención. El Decreto 11-2025, publicado el 10 de noviembre de 2025, la declaró organización terrorista. Hasta finales de septiembre de 2026 las autoridades detuvieron a 516 presuntos miembros y le atribuyeron, junto con la MS y Los Caradura, los ataques coordinados del 29 de septiembre de 2026 en el área metropolitana. Su presunto líder, Aldo Dupie Ochoa Mejía (alias El Lobo), sigue aislado en Renovación 1. En Honduras, el Consejo Nacional de Defensa y Seguridad la declaró asociación terrorista el 18 de septiembre de 2026. En El Salvador sigue desarticulada por el régimen de excepción, y en julio de 2026 se dictaron nuevas condenas contra miembros de 18 Sureños.",
+  "resumen": "Pandilla transnacional nacida en Los Ángeles y extendida al norte de Centroamérica, rival histórica de la MS-13. Opera en canchas y clicas dirigidas por palabreros desde prisión, y vive de la extorsión, sobre todo al transporte público, del narcomenudeo y de la violencia homicida. Hoy su núcleo más fuerte está en Guatemala, donde ejerce influencia en el sistema penitenciario. EE. UU. la designó Organización Terrorista Extranjera el 24 de septiembre de 2025, y Guatemala y Honduras la declararon organización terrorista en noviembre de 2025 y septiembre de 2026, respectivamente.",
+  "situacion_actual": "En Guatemala, más de 20 miembros se fugaron de Fraijanes II en octubre de 2025; dos de ellos, alias Smoking y Liro Spyder, fueron recapturados en Quintana Roo (México) a comienzos de octubre de 2026. El 17 de enero de 2026 la pandilla amotinó a la vez Renovación 1, Fraijanes II y el Preventivo de la zona 18 y tomó 46 rehenes; tras la retoma de los penales, sus miembros mataron a entre 9 y 11 policías, según la fecha del reporte. El presidente Bernardo Arévalo decretó el 18 de enero un estado de sitio de 30 días, sustituido el 17 de febrero de 2026 por un estado de prevención. El Decreto 11-2025, publicado el 10 de noviembre de 2025, la declaró organización terrorista. Durante 2026 se intensificó su disputa con la MS-13 por el narcomenudeo de la capital, en la que actúa aliada con Los Caradura según el Ministerio de Gobernación y el Ministerio Público; las autoridades atribuyeron a esa disputa parte de los seis ataques armados del 29 de septiembre de 2026 y, hasta esa fecha, habían detenido en el año a 516 presuntos miembros. Su presunto líder, Aldo Dupie Ochoa Mejía (alias El Lobo), permanece aislado en cárceles de máxima seguridad. En Honduras, el Consejo Nacional de Defensa y Seguridad la declaró asociación terrorista el 18 de septiembre de 2026; el Congreso aprobó el 22 de septiembre una ley especial que endurece la reclusión de sus miembros, y los primeros cabecillas procesados por terrorismo fueron enviados a la cárcel de máxima seguridad El Pozo. El 22 de septiembre de 2026, EE. UU. y otros 14 gobiernos del Escudo de las Américas la incluyeron entre 24 grupos objeto de sanciones coordinadas. En El Salvador sigue desarticulada por el régimen de excepción, y en julio de 2026 se dictaron nuevas condenas contra miembros de 18 Sureños. En el sur de México fueron detenidos en 2026 varios miembros prófugos, entregados después a El Salvador o a Guatemala.",
   "estructura": "Se divide en canchas (divisiones territoriales) y tribus o clicas dirigidas por palabreros, en su mayoría presos, que coordinan la actividad criminal desde las cárceles por teléfono. En El Salvador existen dos facciones enfrentadas, Sureños y Revolucionarios. En Guatemala la dirige un grupo llamado la Rueda, encabezado por Aldo Dupie Ochoa Mejía. En Honduras su máximo jefe, Nahum Medina (alias Tacoma), manda desde prisión mediante cabecillas territoriales. Recurre a colaboradores externos como abogados, taxistas y mecánicos.",
   "lideres": [
     {
       "nombre": "Aldo Dupie Ochoa Mejía",
       "alias": "El Lobo",
       "rol": "Presunto máximo líder de Barrio 18 en Guatemala",
-      "estado": "Detenido; cumple condenas acumuladas por asesinato, extorsión y crimen organizado. Las fuerzas de seguridad retomaron el control de Renovación 1 (Escuintla) el 18 de enero de 2026 y desde entonces permanece aislado",
+      "estado": "Detenido; cumple condenas acumuladas de cientos de años por asesinato, asociación ilícita y extorsión. Tras los motines de enero de 2026 permanece aislado en cárceles de máxima seguridad, entre ellas Renovación 1 (Escuintla)",
       "fuente_ids": [
         "s7",
         "s1",
@@ -32,10 +33,19 @@
       "nombre": "Nahum Medina",
       "alias": "Tacoma",
       "rol": "Presunto máximo líder de Barrio 18 en Honduras",
-      "estado": "Detenido; dirige la estructura desde prisión",
+      "estado": "Detenido; según InSight Crime, dirige la estructura hondureña desde prisión",
       "fuente_ids": [
         "s1",
         "s13"
+      ]
+    },
+    {
+      "nombre": "Carlos Lechuga Mojica",
+      "alias": "El Viejo Lin",
+      "rol": "Presunto dirigente de la facción 18 Sureños en El Salvador",
+      "estado": "Detenido en El Salvador",
+      "fuente_ids": [
+        "s1"
       ]
     }
   ],
@@ -70,7 +80,17 @@
       "fecha": "2026-09-18",
       "fuente_ids": [
         "s5",
-        "s6"
+        "s6",
+        "s17"
+      ]
+    },
+    {
+      "autoridad": "Escudo de las Américas (declaración conjunta de EE. UU. y otros 14 gobiernos)",
+      "categoria": "Grupo narcoterrorista objeto de la primera acción conjunta: los firmantes declararon su intención de congelar activos, restringir visados y sancionar penalmente el apoyo material",
+      "fecha": "2026-09-22",
+      "fuente_ids": [
+        "s18",
+        "s19"
       ]
     }
   ],
@@ -85,7 +105,7 @@
       "pais": "GTM",
       "nivel": "base",
       "zonas": [
-        "Ciudad de Guatemala: zona 18 (El Limón) y zona 3 (El Gallito)",
+        "Ciudad de Guatemala: zona 18 (El Limón), zona 3 (El Gallito) y zona 6",
         "Villa Nueva",
         "Cárcel de máxima seguridad Renovación 1 (Escuintla)",
         "Centro de detención Fraijanes II",
@@ -94,9 +114,10 @@
       "delitos": [
         "extorsion",
         "sicariato",
+        "narcomenudeo",
         "armas"
       ],
-      "nota": "Principal pandilla del país y actual centro de mando, dirigido desde prisión. Extorsiona de forma sistemática al transporte público y atacó a la policía en enero de 2026. En junio de 2026 las autoridades decomisaron en El Limón un arsenal vinculado a El Lobo. En 2026 fueron detenidos 516 presuntos miembros.",
+      "nota": "Principal pandilla del país y actual centro de mando, dirigido desde prisión. Extorsiona de forma sistemática al transporte público y atacó a la policía en enero de 2026. Según el Ministerio de Gobernación, sus miembros actúan como sicarios o seguridad armada de Los Caradura en la disputa con la MS-13 por el narcomenudeo de la capital. En junio de 2026 las autoridades decomisaron en El Limón un arsenal vinculado a El Lobo, y en 2026 detuvieron a 516 presuntos miembros.",
       "fuente_ids": [
         "s7",
         "s8",
@@ -104,7 +125,10 @@
         "s10",
         "s11",
         "s16",
-        "s1"
+        "s1",
+        "s24",
+        "s25",
+        "s26"
       ],
       "confianza": "alta"
     },
@@ -130,19 +154,23 @@
       "pais": "HND",
       "nivel": "consolidada",
       "zonas": [
-        "Choloma (Cortés)"
+        "Choloma (Cortés)",
+        "San Pedro Sula y La Lima (Cortés)"
       ],
       "delitos": [
         "extorsion",
         "narcomenudeo",
         "sicariato"
       ],
-      "nota": "Conserva sus filas relativamente intactas pese al estado de excepción que rigió de diciembre de 2022 al 26 de enero de 2026. Sus líderes la dirigen desde prisión. Fue declarada asociación terrorista el 18 de septiembre de 2026.",
+      "nota": "Conserva sus filas relativamente intactas pese al estado de excepción que rigió del 6 de diciembre de 2022 al 26 de enero de 2026. Sus líderes la dirigen desde prisión. Fue declarada asociación terrorista el 18 de septiembre de 2026, y a finales de ese mes dos presuntos cabecillas que operaban en San Pedro Sula y La Lima fueron enviados a la cárcel de máxima seguridad El Pozo, procesados por asociación terrorista.",
       "fuente_ids": [
         "s1",
         "s13",
         "s5",
-        "s6"
+        "s6",
+        "s20",
+        "s21",
+        "s27"
       ],
       "confianza": "alta"
     },
@@ -164,14 +192,17 @@
       "pais": "MEX",
       "nivel": "limitada",
       "zonas": [
-        "Sur de México"
+        "Chiapas (Tapachula)",
+        "Quintana Roo (Benito Juárez)"
       ],
       "delitos": [],
-      "nota": "Hay reportes de miembros que huyeron de la ofensiva salvadoreña y se establecieron en el sur de México, pero su estructura operativa no está clara.",
+      "nota": "Miembros que huyeron de la ofensiva salvadoreña o de cárceles guatemaltecas se ocultan en el sur de México. En agosto de 2026 las autoridades mexicanas detuvieron en Tapachula a un miembro de Barrio 18 Revolucionarios buscado por El Salvador, y a comienzos de octubre de 2026 recapturaron en Quintana Roo a dos cabecillas fugados de Fraijanes II, con armas y marihuana. Su estructura operativa en el país no está clara.",
       "fuente_ids": [
-        "s1"
+        "s1",
+        "s22",
+        "s23"
       ],
-      "confianza": "baja"
+      "confianza": "media"
     },
     {
       "pais": "ESP",
@@ -202,12 +233,13 @@
     {
       "destino": "ms13",
       "tipo": "rivalidad",
-      "descripcion": "Rivalidad histórica, especialmente violenta en Los Ángeles y Centroamérica. En Guatemala, el Ministerio de Gobernación atribuye los ataques de septiembre de 2026 a la guerra territorial entre ambas pandillas y Los Caradura.",
+      "descripcion": "Rivalidad histórica, especialmente violenta en Los Ángeles y Centroamérica. En Guatemala, Barrio 18 disputa a la MS-13 el narcomenudeo de la capital en alianza con Los Caradura, y las autoridades atribuyen a esa pugna parte de los ataques del 29 de septiembre de 2026.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s1",
         "s14",
-        "s11"
+        "s11",
+        "s24"
       ],
       "confianza": "alta"
     },
@@ -223,16 +255,18 @@
     },
     {
       "destino": "ext-caradura",
-      "tipo": "rivalidad",
-      "descripcion": "Disputa territorial con Los Caradura en el área metropolitana de Guatemala, según el ministro de Gobernación (29 de septiembre de 2026).",
+      "tipo": "alianza",
+      "descripcion": "Según el Ministerio de Gobernación y el Ministerio Público (septiembre de 2026), Los Caradura, estructura dedicada al narcomenudeo en la Ciudad de Guatemala, mantienen una alianza con Barrio 18, cuyos miembros actúan como sicarios a sueldo o seguridad armada, para disputar a la MS-13 el control territorial y la venta de drogas.",
       "vigencia": "vigente",
       "fuente_ids": [
-        "s11"
+        "s24",
+        "s25",
+        "s26"
       ],
-      "confianza": "baja"
+      "confianza": "alta"
     }
   ],
-  "notas_controversia": "Las estimaciones de miembros varían mucho: en Guatemala oscilan entre unos 13.000 y más de 20.000 según la fuente, y en EE. UU. InSight Crime calcula entre 30.000 y 50.000 para la 18th Street, cuya relación orgánica con la estructura centroamericana es difusa (confianza baja). Sureños y Revolucionarios son facciones rivales, pero la designación de EE. UU. las trata como una sola organización. Las cifras oficiales sobre los resultados del estado de sitio guatemalteco, como la caída del 33 % de las extorsiones y de la mitad de los homicidios, son declaraciones gubernamentales no verificadas de forma independiente. El número de policías asesinados en enero de 2026 varía entre 9 y 11 según la fecha del reporte.",
+  "notas_controversia": "Las estimaciones de miembros varían mucho: en Guatemala oscilan entre unos 13.000 y más de 20.000 según la fuente, y en EE. UU. InSight Crime calcula entre 30.000 y 50.000 para la 18th Street, cuya relación orgánica con la estructura centroamericana es difusa (confianza baja). Sureños y Revolucionarios son facciones rivales, pero la designación de EE. UU. las trata como una sola organización. Las cifras oficiales sobre los resultados del estado de sitio guatemalteco, como la caída del 33 % de las extorsiones y de la mitad de los homicidios, son declaraciones gubernamentales no verificadas de forma independiente. El número de policías asesinados en enero de 2026 varía entre 9 y 11 según la fecha del reporte. Algunos medios describieron los ataques de septiembre de 2026 en Guatemala como una guerra entre Barrio 18, la MS-13 y Los Caradura, pero el Ministerio de Gobernación y el Ministerio Público presentan a Barrio 18 y Los Caradura como aliados frente a la MS-13.",
   "confianza_general": "alta",
   "fuentes": [
     {
@@ -273,19 +307,19 @@
     },
     {
       "id": "s5",
-      "titulo": "Honduras declara a pandillas como 'terroristas' (AFP)",
-      "editor": "La Nación (Costa Rica)",
-      "fecha": "2026-09-19",
-      "url": "https://www.nacion.com/el-mundo/honduras-declara-a-pandillas-como-terroristas/G72LTRTGKBHMRO4OVZRUECGMNE/story/",
+      "titulo": "Declaran terroristas a la MS-13, Pandilla 18 y Cartel del Diablo: los duros castigos para sus miembros",
+      "editor": "El Heraldo (Honduras)",
+      "fecha": "2026-09-21",
+      "url": "https://www.elheraldo.hn/fotogalerias/sucesos/declaran-terroristas-ms-13-pandilla-18-cartel-diablo-los-duros-castigos-cambios-medidas-miembros-HI32091204",
       "categoria": "prensa",
       "verificada": true
     },
     {
       "id": "s6",
-      "titulo": "Honduras declara como terroristas a la Mara Salvatrucha y el Barrio 18 (AFP)",
-      "editor": "El Universal (México)",
-      "fecha": "2026-09",
-      "url": "https://www.eluniversal.com.mx/mundo/honduras-declara-como-terroristas-a-la-mara-salvatrucha-y-el-barrio-18-congreso-busca-ampliar-facultades-y-atribuciones-a-jueces/",
+      "titulo": "EEUU felicita a Honduras por declarar organizaciones terroristas a tres grandes pandillas (EFE)",
+      "editor": "SWI swissinfo.ch",
+      "fecha": "2026-09-25",
+      "url": "https://www.swissinfo.ch/spa/eeuu-felicita-a-honduras-por-declarar-organizaciones-terroristas-a-tres-grandes-pandillas/92121945",
       "categoria": "prensa",
       "verificada": true
     },
@@ -376,6 +410,105 @@
       "editor": "Infobae",
       "fecha": "2026-06-12",
       "url": "https://www.infobae.com/guatemala/2026/06/12/las-autoridades-guatemaltecas-reportan-el-decomiso-de-arsenal-vinculado-con-alias-el-lobo-cabecilla-del-barrio-18/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s17",
+      "titulo": "Honduras declarará terroristas a por lo menos tres organizaciones criminales",
+      "editor": "HRN (Honduras)",
+      "fecha": "2026-09-18",
+      "url": "https://www.radiohrn.hn/honduras-declararia-terroristas-a-por-lo-menos-tres-organizaciones-criminales-2026-09-18",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s18",
+      "titulo": "Joint Statement on Defending Hemispheric Sovereignty (Escudo de las Américas)",
+      "editor": "Departamento de Estado de EE. UU.",
+      "fecha": "2026-09-22",
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/joint-statement-on-defending-hemispheric-sovereignty/",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s19",
+      "titulo": "Shield of the Americas Blacklists 24 Criminal Groups | On the Radar",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-24",
+      "url": "https://insightcrime.org/news/shield-of-the-americas-blacklists-24-criminal-groups-on-the-radar/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s20",
+      "titulo": "Estado de excepción focalizado: así funcionaría la nueva propuesta de Seguridad para zonas con mayor violencia en Honduras",
+      "editor": "Infobae",
+      "fecha": "2026-09-17",
+      "url": "https://www.infobae.com/honduras/2026/09/17/estado-de-excepcion-focalizado-asi-funcionaria-la-nueva-propuesta-de-seguridad-para-zonas-con-mayor-violencia-en-honduras/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s21",
+      "titulo": "Congreso Nacional aprueba la Ley Especial para combatir el terrorismo, maras y pandillas",
+      "editor": "El Heraldo (Honduras)",
+      "fecha": "2026-09-22",
+      "url": "https://www.elheraldo.hn/honduras/congreso-nacional-aprueba-ley-especial-combatir-terrorismo-maras-pandillas-PB32116779",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s22",
+      "titulo": "PNC recaptura en México a dos fugados de Fraijanes II",
+      "editor": "Agencia Guatemalteca de Noticias (AGN)",
+      "fecha": "2026-10-05",
+      "url": "https://agn.gt/pnc-recaptura-en-mexico-a-dos-fugados-de-fraijanes-ii/",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s23",
+      "titulo": "Capturan en México a pandillero que amenazó a Nayib Bukele con coches bomba",
+      "editor": "Univision",
+      "fecha": "2026-08-09",
+      "url": "https://www.univision.com/noticias/america-latina/capturan-en-mexico-a-pandillero-buscado-por-amenazar-a-nayib-bukele-con-coches-bomba",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s24",
+      "titulo": "Ataque armado en zona 6 estaría vinculado con estructura \"Los Caradura\", asegura Gobernación",
+      "editor": "Publinews (Guatemala)",
+      "fecha": "2026-09-30",
+      "url": "https://www.publinews.gt/noticias/2026/09/30/ataque-armado-en-zona-6-estaria-vinculado-con-estructura-los-caradura-asegura-gobernacion/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s25",
+      "titulo": "Los Caradura, de narcomenudeo a cártel del narcotráfico en la capital, según el MP",
+      "editor": "Soy502 (Guatemala)",
+      "fecha": "2026-09-25",
+      "url": "https://www.soy502.com/articulo/fiscalia-identifica-alianza-entre-barrio-18-caradura-102154",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s26",
+      "titulo": "La pugna entre la MS, Los Caradura y Barrio 18 por el control de zona 6 y el narcomenudeo",
+      "editor": "Prensa Libre",
+      "fecha": "2026-04-25",
+      "url": "https://www.prensalibre.com/guatemala/justicia/la-pugna-entre-la-ms-los-caradura-y-barrio-18-por-el-control-de-zona-6-y-el-narcomenudeo/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s27",
+      "titulo": "¡Al Pozo! Dictan detención judicial a \"Little Soldier\" y \"Chele Colombia\", cabecillas de la Pandilla 18",
+      "editor": "HCH (Honduras)",
+      "fecha": "2026-09-25",
+      "url": "https://hch.tv/al-pozo-dictan-detencion-judicial-a-little-soldier-y-chele-colombia-cabecillas-de-la-pandilla-18/",
       "categoria": "prensa",
       "verificada": true
     }

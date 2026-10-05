@@ -10,37 +10,40 @@
   ],
   "tipo": "grupo_armado",
   "pais_origen": "COL",
-  "fundacion": "Viene del Bloque Resistencia Tayrona de las AUC de Hernán Giraldo, desmovilizado en 2006. Se consolidó como 'Los Pachenca' hacia 2013 bajo Jesús María Aguirre Gallego, 'Chucho Mercancía', y adoptó el nombre ACSN tras 2020, bajo los hermanos Castillo Carrillo.",
+  "fundacion": "Viene del Bloque Resistencia Tayrona de las AUC de Hernán Giraldo, desmovilizado en 2006. Se consolidó como 'Los Pachenca' hacia 2013 bajo Jesús María Aguirre Gallego, 'Chucho Mercancía'. Tras la muerte de este en 2019 adoptó el nombre ACSN bajo el mando de Deimer Patiño Giraldo, alias '80', y desde 2020 lo dirigen los hermanos Castillo Carrillo.",
   "resumen": "Es un grupo armado de origen paramilitar, arraigado en la Sierra Nevada de Santa Marta, que controla corredores de cocaína hacia el Caribe y redes de extorsión en Magdalena, La Guajira y Cesar. Ejerce gobernanza criminal sobre comunidades, el turismo y el mercado de tierras. Protege y da logística a envíos de cocaína que salen por puertos y aeropuertos de la región. Mantiene una guerra con el EGC por el control de la Sierra Nevada.",
-  "situacion_actual": "El Consejo de Seguridad Nacional lo clasificó como Grupo Armado Organizado el 8 de agosto de 2025, lo que permite operaciones militares, incluidos bombardeos, bajo el DIH. El gobierno Petro mantuvo el espacio sociojurídico, suspendió órdenes de captura el 20 de noviembre de 2025 y firmó un acuerdo de desescalamiento en febrero de 2026. El gobierno De la Espriella terminó ese espacio con las resoluciones 348, 349 y 350, que El Nuevo Siglo fecha el 28 de agosto de 2026 y otros medios reportaron el 2 de octubre. La Fiscalía reactivó las órdenes de captura de seis voceros el 1 de septiembre (Resolución 0-0263). La Policía abatió a 'Bendito Menor', jefe del frente Javier Cáceres, el 4 de septiembre en Riohacha, y a 'Cholo', segundo al mando y financiero, el 21 de septiembre en Guachaca (Santa Marta), en una operación con siete muertos y tres capturados. Las ACSN respondieron con un paro armado en Magdalena y La Guajira que levantaron el 25 de septiembre de 2026. 'Pinocho' sigue como jefe máximo prófugo y el grupo mantiene su disputa con el EGC.",
-  "estructura": "Tiene una comandancia central encabezada por Fredy Castillo Carrillo, 'Pinocho', con un consejo de mando central. Opera por frentes: El Tiempo menciona Cristóbal Duarte (Ciénaga), Libardo Vergel (Santa Marta), Javier Cáceres (La Guajira) y Resistencia Campesina (Cesar), y en 2025 citó también el frente Troncal del Caribe; la EUAA describe siete frentes. Las cifras oficiales de 2026 hablan de 594 integrantes (334 armados y 260 en redes de apoyo); InSight Crime estimó unos 620 a fines de 2025 y otras estimaciones llegan a 1.100. Recluta sobre todo en la región, alrededor del 95 % de sus miembros son nativos, y paga salarios. Según El Tiempo, la extorsión le deja entre 6.000 y 7.000 millones de pesos al mes.",
+  "situacion_actual": "El gobierno colombiano lo clasificó como Grupo Armado Organizado el 8 de agosto de 2025, lo que permite operaciones militares, incluidos bombardeos, bajo el DIH. El gobierno de Gustavo Petro mantuvo el espacio sociojurídico: la Fiscalía prorrogó el 20 de noviembre de 2025 la suspensión de las órdenes de captura de sus voceros y el 18 de febrero de 2026 las partes firmaron un acuerdo de desescalamiento. El gobierno de Abelardo de la Espriella terminó ese espacio con las resoluciones 348, 349 y 350 del 28 de agosto de 2026, que la Presidencia divulgó el 1 de octubre; la Fiscalía reactivó el 1 de septiembre las órdenes de captura de seis voceros (Resolución 0-0263), y el presidente firmó la extradición a EE. UU. de 'Muñeca', detenido desde 2024. La Policía abatió a 'Bendito Menor', jefe del frente Javier Cáceres, el 4 de septiembre en Riohacha, y a 'Cholo', segundo al mando, el 21 de septiembre en Guachaca (Santa Marta), en una operación con siete muertos y tres capturados. Las ACSN respondieron con un paro armado de 72 horas en Magdalena y La Guajira, que levantaron el 25 de septiembre. El 24 de septiembre las autoridades capturaron a la pareja de 'Pinocho', jefe máximo del grupo, que sigue prófugo y por quien el gobierno ofrece 3.000 millones de pesos. El grupo mantiene su disputa con el EGC.",
+  "estructura": "Tiene una comandancia central encabezada por Fredy Castillo Carrillo, 'Pinocho', con un consejo de mando central. Opera por frentes: El Tiempo menciona Cristóbal Duarte (Ciénaga, Aracataca y Fundación), Libardo Vergel (Santa Marta), Javier Cáceres (La Guajira) y Resistencia Campesina (Cesar), además de dos grupos especiales urbanos, y en 2025 citó también el frente Troncal del Caribe; la EUAA, con base en Pares, describe siete estructuras. Según datos de la Fuerza Pública citados por la FIP, en 2026 tenía 594 integrantes (334 armados y 260 en redes de apoyo); cifras oficiales citadas por InSight Crime hablaban de unos 620 a fines de 2025 y otras estimaciones llegan a 1.100. Recluta sobre todo en la región, donde ha nacido hasta el 95 % de sus miembros, y paga salarios. Según la FIP, citada por El Tiempo, la extorsión le deja entre 6.000 y 7.000 millones de pesos al mes.",
   "lideres": [
     {
       "nombre": "Fredy Castillo Carrillo",
       "alias": "Pinocho",
       "rol": "Jefe máximo y financiero",
-      "estado": "Prófugo a 5 de octubre de 2026. Su hijo murió en la operación del 21 de septiembre de 2026.",
+      "estado": "Prófugo a 5 de octubre de 2026. El 24 de septiembre las autoridades capturaron a su pareja, alias 'La Mona', y reforzaron la frontera con Venezuela ante una posible fuga; el 27 de septiembre el gobierno anunció una recompensa de 3.000 millones de pesos por información sobre su paradero. El Ministerio de Defensa desmintió que un joven muerto en la operación del 21 de septiembre fuera su hijo.",
       "fuente_ids": [
         "s1",
-        "s7",
-        "s9"
+        "s9",
+        "s21",
+        "s22",
+        "s20"
       ]
     },
     {
       "nombre": "Carmen Evelio Castillo Carrillo",
       "alias": "Muñeca",
       "rol": "Cofundador y codirigente",
-      "estado": "Capturado en Pereira en junio de 2024 según InSight Crime; El Tiempo (septiembre de 2026) lo sigue mencionando como dirigente y vocero. Su situación jurídica actual no está confirmada.",
+      "estado": "Detenido desde su captura en Pereira en junio de 2024. Es requerido por una corte del Distrito Este de Texas; el gobierno Petro dejó su extradición en suspenso mientras actuaba como vocero en el espacio sociojurídico, y el presidente De la Espriella la firmó el 27 de agosto de 2026. A 25 de septiembre seguía recluido en La Picota (Bogotá) a la espera de la entrega.",
       "fuente_ids": [
         "s1",
-        "s9"
+        "s18",
+        "s19"
       ]
     },
     {
       "nombre": "José Luis Pérez Villanueva",
       "alias": "Cholo / Comando 25",
-      "rol": "Segundo al mando y financiero; coordinaba rutas de lanchas rápidas hacia Centroamérica",
-      "estado": "Abatido el 21 de septiembre de 2026 en Quebrada del Sol, corregimiento de Guachaca (Santa Marta), en una operación de la DIRAN.",
+      "rol": "Segundo al mando y financiero; según las autoridades, coordinaba rutas de lanchas rápidas y semisumergibles hacia Centroamérica",
+      "estado": "Abatido el 21 de septiembre de 2026 en Quebrada del Sol, corregimiento de Guachaca (Santa Marta), en una operación de la Dirección de Antinarcóticos de la Policía.",
       "fuente_ids": [
         "s7",
         "s8",
@@ -70,12 +73,13 @@
     },
     {
       "nombre": "Jhon Rafael Salazar Salcedo",
-      "alias": "Comando 200",
-      "rol": "Mando y vocero en el espacio sociojurídico",
+      "alias": "Comando 200 / Flash",
+      "rol": "Comandante del frente Libardo Vergel (Santa Marta), según El Tiempo, y vocero en el espacio sociojurídico",
       "estado": "Prófugo. Orden de captura reactivada el 1 de septiembre de 2026.",
       "fuente_ids": [
         "s4",
-        "s1"
+        "s1",
+        "s9"
       ]
     }
   ],
@@ -105,10 +109,11 @@
       "nivel": "base",
       "zonas": [
         "Sierra Nevada de Santa Marta",
-        "Magdalena: Santa Marta (Guachaca), Ciénaga, Puebloviejo, Zona Bananera, Fundación",
+        "Magdalena: Santa Marta (Guachaca), Ciénaga, Puebloviejo, Zona Bananera, Aracataca, Fundación",
         "La Guajira: Dibulla, Palomino, Riohacha, Maicao, Manaure, Uribia",
         "Cesar: Valledupar, Pueblo Bello, El Copey, Río de Oro, San Martín",
-        "Atlántico: Barranquilla (presencia esporádica)",
+        "Atlántico",
+        "Santander y Norte de Santander (expansión reciente)",
         "Puerto y aeropuerto Simón Bolívar de Santa Marta"
       ],
       "delitos": [
@@ -120,27 +125,28 @@
         "trata",
         "lavado"
       ],
-      "nota": "Su territorio de origen, con control hegemónico de las vertientes norte y occidental de la Sierra Nevada. La alerta de la Defensoría del 2 de diciembre de 2025 cubre 21 municipios de tres departamentos. Practica extorsión generalizada, acaparamiento de tierras ligado al turismo y lavado en ese sector, y recluta menores para cobrar extorsiones y vender droga. InSight Crime reporta también expansión hacia Santander y Norte de Santander.",
+      "nota": "Su territorio de origen, con control hegemónico de las vertientes norte y occidental de la Sierra Nevada según la alerta temprana de la Defensoría del 2 de diciembre de 2025, que cubre 21 municipios de tres departamentos. Practica extorsión generalizada, acaparamiento de tierras ligado al turismo y lavado en ese sector, y recluta menores para cobrar extorsiones y vender droga. InSight Crime reporta también expansión hacia Santander y Norte de Santander.",
       "fuente_ids": [
         "s1",
         "s2",
         "s9",
         "s11",
         "s12",
-        "s13"
+        "s13",
+        "s5",
+        "s6",
+        "s17"
       ],
       "confianza": "alta"
     },
     {
       "pais": "USA",
       "nivel": "limitada",
-      "zonas": [
-        "Ohio (jurisdicción de la solicitud de extradición)"
-      ],
+      "zonas": [],
       "delitos": [
         "cocaina"
       ],
-      "nota": "En julio de 2026 la DIJIN y la DEA capturaron en Santa Marta a seis personas pedidas en extradición por un tribunal federal de Ohio. La red enviaba cocaína en aeronaves privadas desde el aeropuerto de Santa Marta hacia EE. UU. y Europa, y las ACSN le daban seguridad y logística. Es una red aliada, no una célula propia.",
+      "nota": "En julio de 2026 la DIJIN y la DEA capturaron en Santa Marta a seis integrantes de una red independiente, pedidos en extradición por un tribunal federal de Ohio, que enviaba cocaína en aeronaves privadas desde el aeropuerto de Santa Marta hacia EE. UU. y Europa; según la Policía, las ACSN le daban seguridad y logística. Es una red aliada, no una estructura propia del grupo.",
       "fuente_ids": [
         "s14",
         "s15"
@@ -152,19 +158,18 @@
     {
       "destino": "clan-del-golfo",
       "tipo": "rivalidad",
-      "descripcion": "Guerra reanudada en 2021 tras un periodo de alianza bajo 'Chucho Mercancía'. Disputan corredores de cocaína en Magdalena, La Guajira, Cesar y Norte de Santander frente al avance del Bloque Nelson Darío Hurtado Simanca del EGC. En septiembre de 2026 las ACSN dijeron que su paro armado buscaba impedir la entrada del Clan del Golfo. La Defensoría señala cooperación ocasional en zonas portuarias por conveniencia económica.",
+      "descripcion": "Tras un periodo de alianza bajo 'Chucho Mercancía' (2013-2019), disputan desde 2021 los corredores de cocaína de Magdalena, La Guajira y Cesar, con extensión a Norte de Santander, frente al avance del Bloque Nelson Darío Hurtado Simanca del EGC. La alerta temprana de la Defensoría (diciembre de 2025) describe una disputa abierta en las tres vertientes de la Sierra Nevada y una coexistencia forzada por conveniencia económica en zonas portuarias de la vertiente norte. En su comunicado del 24 de septiembre de 2026 las ACSN afirmaron que su presencia en la zona busca impedir la entrada del Clan del Golfo.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s1",
         "s11",
         "s10",
-        "s13",
         "s12"
       ],
       "confianza": "alta"
     }
   ],
-  "notas_controversia": "El nombre aparece como 'Conquistadoras' y 'Conquistadores' según la fuente. Las cifras de integrantes van de 250 (inteligencia militar, 2024) a 1.100 (cifra del propio grupo): 594 según datos oficiales de 2026, unos 620 según InSight Crime y 858 en 2025 según El Tiempo. La fecha del cierre del espacio sociojurídico es dudosa: El Nuevo Siglo sitúa las resoluciones presidenciales el 28 de agosto de 2026, mientras El Universal y la Presidencia las difundieron el 2 de octubre; se toma el 28 de agosto porque la Fiscalía reactivó las órdenes el 1 de septiembre. Las ACSN afirman que 'Cholo' fue ejecutado tras rendirse y que un joven de 18 años murió desarmado en la misma operación; la versión oficial habla de una operación con combates. La situación de 'Muñeca', capturado según InSight Crime en 2024, no es clara. Que el grupo se presente como 'autodefensa' es una autodefinición sin sustento en las fuentes oficiales.",
+  "notas_controversia": "El nombre aparece como 'Conquistadoras' y 'Conquistadores' según la fuente. Las cifras de integrantes van de 250 (inteligencia militar, 2024) a 1.100 (cifra del propio grupo): 594 según datos de la Fuerza Pública citados por la FIP (2026), unos 620 a fines de 2025 según cifras oficiales citadas por InSight Crime y 858 en 2025 según El Tiempo. Las resoluciones 348, 349 y 350 que terminaron el espacio sociojurídico están fechadas el 28 de agosto de 2026, aunque la Presidencia y la prensa las difundieron el 1 y el 2 de octubre. Las ACSN afirman que 'Cholo' fue ejecutado tras rendirse y que un joven de 18 años murió desarmado en la misma operación; la versión oficial habla de una operación con combates. Varios medios presentaron a ese joven como hijo de 'Pinocho', pero el Ministerio de Defensa lo desmintió el 24 de septiembre de 2026 y Medicina Legal lo identificó como Ricardo Andrés Rodríguez Martínez. InSight Crime menciona en septiembre de 2026 a 'Muñeca' entre los mandos que sostienen la estructura, aunque está detenido desde 2024 a la espera de su extradición. Que el grupo se presente como 'autodefensa' es una autodefinición sin sustento en las fuentes oficiales.",
   "confianza_general": "alta",
   "fuentes": [
     {
@@ -180,7 +185,7 @@
       "id": "s2",
       "titulo": "Lo que implica el reconocimiento de 'los Pachenca' como grupo armado organizado: ya hace presencia en 14 municipios de tres departamentos",
       "editor": "El Tiempo",
-      "fecha": "2025-08",
+      "fecha": "2025-08-09",
       "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/lo-que-implica-el-reconocimiento-de-los-pachencas-como-grupo-armado-organizado-ya-hace-presencia-en-14-municipios-de-tres-departamentos-3479807",
       "categoria": "prensa",
       "verificada": true
@@ -198,7 +203,7 @@
       "id": "s4",
       "titulo": "Fiscalía reactiva órdenes de captura contra tres grupos armados ilegales",
       "editor": "El Nuevo Siglo",
-      "fecha": "2026-09",
+      "fecha": "2026-09-01",
       "url": "https://www.elnuevosiglo.com.co/nacion/fiscalia-reactiva-ordenes-de-captura-contra-tres-grupos-armados-ilegales",
       "categoria": "prensa",
       "verificada": true
@@ -216,10 +221,10 @@
       "id": "s6",
       "titulo": "Gobierno indica que fin del espacio de conversación con Autodefensas Conquistadores de Sierra Nevada se dio por falta de avances hacia el sometimiento a la justicia",
       "editor": "Presidencia de la República de Colombia",
-      "fecha": "2026-10",
+      "fecha": "2026-10-01",
       "url": "https://www.presidencia.gov.co/prensa/Paginas/Gobierno-indica-que-fin-del-espacio-de-conversacion-con-Autodefensas-Conquistadores-261001.aspx",
       "categoria": "oficial",
-      "verificada": false
+      "verificada": true
     },
     {
       "id": "s7",
@@ -288,7 +293,7 @@
       "id": "s14",
       "titulo": "Cae red de narcotráfico al servicio de las Autodefensas Conquistadoras de la Sierra: 6 capturados con fines de extradición",
       "editor": "Semana",
-      "fecha": "2026-07",
+      "fecha": "2026-07-11",
       "url": "https://www.semana.com/nacion/articulo/cae-red-de-narcotrafico-al-servicio-de-las-autodefensas-conquistadoras-de-la-sierra-6-capturados-con-fines-de-extradicion/202636/",
       "categoria": "prensa",
       "verificada": true
@@ -303,11 +308,56 @@
       "verificada": true
     },
     {
-      "id": "s16",
-      "titulo": "Presidente Abelardo de la Espriella pone fin a designación de negociadores con el ELN y el Clan del Golfo",
+      "id": "s17",
+      "titulo": "Autodefensas de la Sierra se comprometen a no reclutar niños y a no interferir en elecciones 2026",
+      "editor": "El Espectador",
+      "fecha": "2026-02-19",
+      "url": "https://www.elespectador.com/colombia-20/paz-y-memoria/autodefensas-de-la-sierra-nevada-firman-acuerdo-con-gobierno-petro-para-no-reclutar-ninos-y-respetar-elecciones-2026/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s18",
+      "titulo": "'Muñeca' y 'Mocho Olmedo': el dossier de los otros capos que están a punto de ser extraditados a Estados Unidos",
+      "editor": "El Tiempo",
+      "fecha": "2026-09-25",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/muneca-y-mocho-olmedo-el-dossier-de-los-otros-capos-que-estan-a-punto-de-ser-extraditados-a-estados-unidos-3588874",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s19",
+      "titulo": "Gobierno de Abelardo de la Espriella reactiva extradiciones de 'Mocho Olmedo', 'Araña' y 'Muñeca'",
       "editor": "El País (Cali)",
-      "fecha": "2026-09-09",
-      "url": "https://www.elpais.com.co/colombia/presidente-abelardo-de-la-espriella-pone-fin-a-designacion-de-negociadores-con-el-eln-y-el-clan-del-golfo-0937.html",
+      "fecha": "2026-09-04",
+      "url": "https://www.elpais.com.co/colombia/gobierno-de-abelardo-de-la-espriella-reactiva-extradiciones-de-mocho-olmedo-arana-y-muneca-0312.html",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s20",
+      "titulo": "Ministerio de Defensa aclara identidad de joven abatido en operativo contra Los Pachenca",
+      "editor": "El Colombiano",
+      "fecha": "2026-09-24",
+      "url": "https://www.elcolombiano.com/colombia/ricardo-andres-rodriguez-martinez-joven-muerto-operativo-pachenca-PJ41487877",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s21",
+      "titulo": "Capturan a pareja de 'Pinocho' y refuerzan frontera: cabecilla de Los Pachenca buscaría huir a Venezuela",
+      "editor": "Vanguardia",
+      "fecha": "2026-09-24",
+      "url": "https://www.vanguardia.com/colombia/2026/09/24/capturan-a-pareja-de-pinocho-y-refuerzan-frontera-cabecilla-de-los-pachenca-buscaria-huir-a-venezuela/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s22",
+      "titulo": "De la Espriella lanza ultimátum a alias Pinocho y ofrece millonaria recompensa",
+      "editor": "El Universal (Cartagena)",
+      "fecha": "2026-09-28",
+      "url": "https://www.eluniversal.com.co/colombia/2026/09/28/de-la-espriella-lanza-ultimatum-a-alias-pinocho-y-ofrece-millonaria-recompensa/",
       "categoria": "prensa",
       "verificada": true
     }
