@@ -10,19 +10,20 @@
   "tipo": "faccion",
   "pais_origen": "BRA",
   "fundacion": "Década de 1970, prisión Cândido Mendes (Río de Janeiro), durante la dictadura militar",
-  "resumen": "El Comando Vermelho es la segunda organización criminal de Brasil y la dominante en Río de Janeiro. Funciona como una red de franquicias con fuerte control territorial en las favelas y se expandió hacia el norte y el nordeste. Hoy es el actor en ascenso de las rutas de cocaína que salen de la Amazonía hacia Europa. Rival del PCC desde 2016, fue designado Organización Terrorista Extranjera por EE. UU. en junio de 2026.",
-  "situacion_actual": "El CV mantiene su base en Río de Janeiro, donde recuperó territorio frente a las milicias y concentra más de la mitad de las áreas dominadas por grupos armados en la región metropolitana. En junio de 2026, las muertes violentas en las zonas en disputa habían aumentado un 61 %. La tregua con el PCC firmada en febrero de 2025 se rompió el 28 de abril de 2025. El 28 de octubre de 2025, la Operação Contenção contra el CV en los complejos de Alemão y Penha dejó 121 muertos según la cifra policial (132 según la Defensoría Pública), entre ellos cuatro policías; su principal jefe en libertad, Edgar Alves de Andrade 'Doca', escapó. Argentina (29-10-2025, anuncio) y Paraguay (decreto del 30-10-2025) lo declararon organización terrorista, y EE. UU. lo designó SDGT el 28 de mayo de 2026 y FTO con efecto el 5 de junio de 2026. Según GI-TOC (septiembre de 2026), el CV domina Manaus, Belém y Amapá, donde absorbió a Amigos Para Sempre en 2024. También opera plantaciones de coca en Perú, mantiene una alianza con disidencias de las FARC y se diversifica hacia la minería ilegal de oro en Guayana Francesa. En Roraima se alía con el Tren de Aragua y gana terreno al PCC.",
-  "estructura": "Es una red descentralizada de tipo franquicia. Los dirigentes históricos presos en penitenciarías federales, Marcinho VP y Fernandinho Beira-Mar, conservan autoridad, mientras que los jefes locales ('donos') de favelas y estados actúan con amplia autonomía. Bajo ellos se escalonan gerentes de puntos de venta, 'soldados' armados y vigías. Crece incorporando grupos regionales, como la Família do Norte en Amazonas (2020) y Amigos Para Sempre en Amapá (2024), sin imponer las reglas estrictas del PCC. En 2020 se estimaban unos 30.000 integrantes.",
+  "resumen": "El Comando Vermelho es la segunda organización criminal de Brasil y la dominante en Río de Janeiro. Funciona como una red de franquicias con fuerte control territorial en las favelas y se expandió hacia el norte y el nordeste. Hoy es el actor en ascenso de las rutas de cocaína que salen de la Amazonía hacia Europa. Es rival del PCC desde 2016, y EE. UU. lo designó Organización Terrorista Extranjera con efecto desde el 5 de junio de 2026.",
+  "situacion_actual": "El CV mantiene su base en Río de Janeiro, donde recupera territorio frente a las milicias desde 2022; en 2023 concentraba el 51,9 % de las áreas dominadas por grupos armados en la región metropolitana, según el GENI-UFF y el Instituto Fogo Cruzado. En el primer semestre de 2026, las muertes violentas en las zonas del suroeste de Río que disputa con las milicias aumentaron un 61 % (124 frente a 77 en el mismo periodo de 2025), según el Instituto de Segurança Pública. La tregua con el PCC firmada en febrero de 2025 terminó el 28 de abril de 2025. El 28 de octubre de 2025, la Operação Contenção contra el CV en los complejos de Alemão y Penha dejó 121 muertos según la cifra oficial (entre ellos cuatro policías) y 132 según la Defensoría Pública. Su principal jefe en libertad, Edgar Alves de Andrade, alias Doca, escapó y sigue prófugo: tampoco fue hallado en la Operação Red Fox de la Policía Federal (junio de 2026), que detuvo a un presunto proveedor de fusiles de la facción deportado desde Surinam y en la que la justicia federal ordenó bloquear R$500 millones en bienes, y el 16 de septiembre de 2026 el Ministerio Público de Río lo denunció por el homicidio de un adolescente. El 17 de septiembre de 2026, la Operação Impacto X cumplió 100 órdenes de prisión contra el CV en Ceará. Argentina (anuncio del 29-10-2025) y Paraguay (Decreto 4857 del 30-10-2025) lo declararon organización terrorista, y EE. UU. lo designó SDGT el 28 de mayo de 2026 y FTO con efecto el 5 de junio de 2026. El 22 de septiembre de 2026, EE. UU. y otros 14 gobiernos del Escudo de las Américas lo incluyeron entre 24 grupos objeto de sanciones coordinadas. Según GI-TOC (septiembre de 2026), el CV domina Manaus, Belém y Amapá, donde absorbió a Amigos Para Sempre en 2024. También opera plantaciones de coca en Perú, mantiene una alianza con disidencias de las FARC y se diversifica hacia la minería ilegal de oro en Guayana Francesa. En Roraima se alía con el Tren de Aragua y gana terreno al PCC.",
+  "estructura": "Es una red descentralizada de tipo franquicia. Los dirigentes históricos presos en penitenciarías federales, Marcinho VP y Fernandinho Beira-Mar, conservan autoridad, mientras que los jefes locales ('donos') de favelas y estados actúan con amplia autonomía. Bajo ellos se escalonan gerentes de puntos de venta, 'soldados' armados y vigías. Crece incorporando grupos regionales, como facciones de la Família do Norte en Amazonas (2019-2020) y Amigos Para Sempre en Amapá (2024), sin imponer las reglas estrictas del PCC. En 2020 se estimaban unos 30.000 integrantes.",
   "lideres": [
     {
       "nombre": "Márcio dos Santos Nepomuceno",
       "alias": "Marcinho VP",
       "rol": "Principal dirigente reconocido; firmó la tregua con el PCC en febrero de 2025",
-      "estado": "Preso en una penitenciaría federal",
+      "estado": "Preso desde agosto de 1996. En abril de 2026 se extinguieron las penas que cumplía, pero sigue recluido en la penitenciaría federal de Campo Grande (Mato Grosso do Sul) por dos órdenes de prisión preventiva, y en septiembre de 2026 el Tribunal de Justicia de Río confirmó que permanecerá en el sistema federal",
       "fuente_ids": [
         "s1",
         "s8",
-        "s9"
+        "s9",
+        "s30"
       ]
     },
     {
@@ -38,10 +39,12 @@
     {
       "nombre": "Edgar Alves de Andrade",
       "alias": "Doca",
-      "rol": "Principal líder del CV en libertad, a cargo de los recursos de la facción en la zona de Penha (según la Secretaría de Seguridad de Río)",
-      "estado": "Prófugo, con orden de prisión preventiva; escapó de la Operação Contenção (28-10-2025) y el Disque Denúncia ofrece R$100.000 por información. No se halló confirmación de su captura hasta la fecha de corte.",
+      "rol": "Principal líder del CV en libertad; según la prensa, gestiona los recursos de la facción, sobre todo en la zona de Vila da Penha (Río de Janeiro)",
+      "estado": "Prófugo a la fecha de corte, con orden de prisión preventiva. Escapó de la Operação Contenção (28-10-2025) y no fue hallado en la Operação Red Fox (junio de 2026); el Disque Denúncia ofrece R$100.000 por información, y el 16-09-2026 el Ministerio Público de Río lo denunció como presunto autor intelectual del homicidio de un adolescente.",
       "fuente_ids": [
-        "s9"
+        "s9",
+        "s25",
+        "s27"
       ]
     }
   ],
@@ -60,12 +63,13 @@
       "fecha": "2026-06-05",
       "fuente_ids": [
         "s2",
-        "s4"
+        "s4",
+        "s22"
       ]
     },
     {
       "autoridad": "Presidencia de la República del Paraguay (presidente Santiago Peña)",
-      "categoria": "Decreto que lo designa organización terrorista internacional",
+      "categoria": "Decreto N.º 4857 que lo designa organización terrorista internacional",
       "fecha": "2025-10-30",
       "fuente_ids": [
         "s12",
@@ -79,6 +83,15 @@
       "fuente_ids": [
         "s14",
         "s15"
+      ]
+    },
+    {
+      "autoridad": "Escudo de las Américas (declaración conjunta de EE. UU. y otros 14 gobiernos)",
+      "categoria": "Grupo narcoterrorista objeto de la primera acción conjunta: los firmantes declararon su intención de congelar activos, restringir visados y sancionar penalmente el apoyo material",
+      "fecha": "2026-09-22",
+      "fuente_ids": [
+        "s23",
+        "s24"
       ]
     }
   ],
@@ -121,7 +134,7 @@
         "lavado",
         "reclutamiento"
       ],
-      "nota": "Su centro de mando está en Río, donde extorsiona a proveedores de internet y transporte (en agosto de 2025 se desmanteló una aplicación de transporte que monopolizaba). Domina los nodos amazónicos de la cocaína, caza ilegalmente pirarucú en el valle del Javari y recluta niños desde los 12 años en Santana.",
+      "nota": "Su centro de mando está en Río, donde extorsiona a proveedores de internet y de transporte (en agosto de 2025 la policía desmanteló una aplicación de transporte que imponía en Vila Kennedy). Domina los nodos amazónicos de la cocaína, caza ilegalmente pirarucú en el valle del Javari y recluta niños desde los 12 años en Santana. En septiembre de 2026 la Operação Impacto X cumplió 100 órdenes de prisión contra la facción en 14 municipios de Ceará.",
       "fuente_ids": [
         "s1",
         "s5",
@@ -133,7 +146,8 @@
         "s17",
         "s18",
         "s19",
-        "s20"
+        "s20",
+        "s28"
       ],
       "confianza": "alta"
     },
@@ -175,11 +189,13 @@
     {
       "pais": "BOL",
       "nivel": "operativa",
-      "zonas": [],
+      "zonas": [
+        "Departamento de Santa Cruz (frontera con Mato Grosso)"
+      ],
       "delitos": [
         "cocaina"
       ],
-      "nota": "Es una fuente histórica de cocaína para el CV.",
+      "nota": "Es una fuente histórica de cocaína para el CV, que disputa con el PCC las rutas del departamento de Santa Cruz.",
       "fuente_ids": [
         "s1",
         "s4"
@@ -193,10 +209,12 @@
       "delitos": [
         "otras_drogas"
       ],
-      "nota": "Participa en el tráfico de marihuana. La Senad paraguaya cree que el PCC y el CV podrían estar detrás del contrabando de medicamentos para adelgazar, sin confirmación.",
+      "nota": "Participa en el tráfico de marihuana paraguaya. La Senad paraguaya cree que el PCC y el CV podrían estar detrás del contrabando de medicamentos para adelgazar, sin confirmación.",
       "fuente_ids": [
         "s1",
-        "s4"
+        "s4",
+        "s19",
+        "s29"
       ],
       "confianza": "media"
     },
@@ -204,18 +222,33 @@
       "pais": "GUF",
       "nivel": "operativa",
       "zonas": [
-        "Minas de oro ilegales del este y sureste del territorio",
-        "Frontera del río Oiapoque con Amapá"
+        "Minas de oro ilegales del este y sureste del territorio"
       ],
       "delitos": [
         "mineria"
       ],
-      "nota": "Se expande desde 2022. GI-TOC (2026) documenta a integrantes del CV y del PCC en las 110 minas de oro ilegales del territorio.",
+      "nota": "InSight Crime reportó en 2022 indicios de su expansión al territorio. GI-TOC (2026) documenta a integrantes del CV y del PCC en las 110 minas de oro ilegales de Guayana Francesa.",
       "fuente_ids": [
         "s5",
         "s1"
       ],
       "confianza": "alta"
+    },
+    {
+      "pais": "SUR",
+      "nivel": "limitada",
+      "zonas": [
+        "Paramaribo"
+      ],
+      "delitos": [
+        "armas"
+      ],
+      "nota": "En junio de 2026 la policía de Surinam detuvo en Paramaribo a un presunto proveedor de fusiles del CV, que negociaba con Doca, y a su pareja, señalada como operadora financiera; ambos fueron deportados a Brasil en la Operação Red Fox.",
+      "fuente_ids": [
+        "s25",
+        "s26"
+      ],
+      "confianza": "media"
     },
     {
       "pais": "ARG",
@@ -273,7 +306,7 @@
     {
       "destino": "tren-de-aragua",
       "tipo": "alianza",
-      "descripcion": "En Roraima, el Tren de Aragua entrega armas y logística al CV a cambio de cocaína que revende en el estado. Sus integrantes piden compartir pabellones carcelarios con el CV.",
+      "descripcion": "El Tren de Aragua entrega al CV armas compradas en EE. UU., Colombia y Venezuela, destinadas a sus integrantes en Amazonas y Río de Janeiro, a menudo a cambio de cocaína que luego revende en Roraima; ambos comparten operadores de lavado. Sus integrantes piden compartir pabellones carcelarios con el CV.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s6"
@@ -293,12 +326,25 @@
     {
       "destino": "ext-tcp",
       "tipo": "rivalidad",
-      "descripcion": "Rivalidad con el Terceiro Comando Puro, surgido de una escisión del CV a mediados de los años ochenta, por favelas de la zona norte de Río. Hubo decenas de tiroteos en 2024.",
+      "descripcion": "Rivalidad con el Terceiro Comando Puro, surgido de una escisión del CV a mediados de los años ochenta, por favelas de la zona norte de Río. En 2024 hubo decenas de tiroteos por el Morro dos Macacos, y en 2026 la disputa seguía activa: según el Ministerio Público de Río, un adolescente asesinado en marzo de 2026 por orden de Doca fue ejecutado tras hallarse en su teléfono una foto vinculada a una zona del TCP.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s1",
         "s21",
-        "s9"
+        "s9",
+        "s27"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "ext-tcp",
+      "tipo": "escision",
+      "desde": "cv",
+      "descripcion": "El TCP desciende del Terceiro Comando, formado a mediados de los años ochenta por disidentes del CV.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s21",
+        "s1"
       ],
       "confianza": "alta"
     },
@@ -317,10 +363,11 @@
     {
       "destino": "ext-gde",
       "tipo": "rivalidad",
-      "descripcion": "Guerra con Guardiões do Estado (GDE), aliada del PCC, en Fortaleza y municipios vecinos de Ceará.",
+      "descripcion": "Guerra con Guardiões do Estado (GDE), aliada del PCC, en Fortaleza y municipios vecinos de Ceará. Según InSight Crime (2026), el TCP absorbió a la GDE.",
       "vigencia": "vigente",
       "fuente_ids": [
-        "s17"
+        "s17",
+        "s21"
       ],
       "confianza": "media"
     },
@@ -332,10 +379,11 @@
       "fuente_ids": [
         "s17"
       ],
-      "confianza": "media"
+      "confianza": "media",
+      "desde": "cv"
     }
   ],
-  "notas_controversia": "1) La cifra de muertos de la Operação Contenção (28-10-2025) varía: 121 según la policía (incluidos cuatro policías) y 132 según la Defensoría Pública. Organizaciones civiles y la ONU cuestionaron la letalidad del operativo y denunciaron posibles ejecuciones. 2) Sobre su estructura, InSight Crime lo describe como una red de actores independientes más que como una jerarquía estricta, mientras que fiscales de Río describen cargos jerárquicos. 3) Su presencia en EE. UU. es disputada: el gobierno estadounidense la afirma (12 estados), pero InSight Crime no confirma presencia directa. 4) Las fuentes no aclaran con qué facción de las disidencias de las FARC mantiene su alianza amazónica. 5) Con Amigos dos Amigos hay indicios contradictorios: el perfil de InSight lo cuenta entre sus rivales, pero en agosto de 2025 ambos operaron conjuntamente una aplicación de transporte en Vila Kennedy. 6) Argentina anunció su inclusión en el RePET (29-10-2025), pero el CV no figura en el registro público consultado el 05-10-2026. 7) Brasil no lo considera organización terrorista y el gobierno de Lula rechazó la designación estadounidense (s22).",
+  "notas_controversia": "1) La cifra de muertos de la Operação Contenção (28-10-2025) varía: 121 según la cifra oficial (incluidos cuatro policías), 132 según la Defensoría Pública y 122 según Folha de S.Paulo. Organizaciones civiles y la ONU cuestionaron la letalidad del operativo y denunciaron posibles ejecuciones. 2) Sobre su estructura, InSight Crime lo describe como una red de actores independientes más que como una jerarquía estricta, mientras que fiscales de Río describen cargos jerárquicos. 3) Su presencia en EE. UU. es disputada: el gobierno estadounidense afirma que el PCC y el CV están en 12 estados, pero InSight Crime sostiene que el CV nunca ha tenido una presencia directa confirmada en el país. 4) Las fuentes no aclaran con qué facción de las disidencias de las FARC mantiene su alianza amazónica. 5) Con Amigos dos Amigos hay indicios contradictorios: el perfil de InSight lo cuenta entre sus rivales, pero en agosto de 2025 ambos operaron conjuntamente una aplicación de transporte en Vila Kennedy. 6) Argentina anunció su inclusión en el RePET (29-10-2025), pero el CV no figura en el registro público consultado el 05-10-2026. 7) Brasil no lo considera organización terrorista y el gobierno de Lula rechazó la designación estadounidense. 8) La relación con la Família do Norte es ambigua: GI-TOC afirma que sus jefes sobrevivientes se reintegraron al CV tras 2019, mientras que InSight Crime señala que ambos grupos siguen disputando rutas en Amazonas.",
   "confianza_general": "alta",
   "fuentes": [
     {
@@ -448,12 +496,12 @@
     },
     {
       "id": "s13",
-      "titulo": "Gobierno del Paraguay eleva el nivel de alerta en la frontera y declarará como organizaciones terroristas al Comando Vermelho y al PCC",
-      "editor": "Presidencia de la República del Paraguay",
+      "titulo": "Peña declaró al PCC y Comando Vermelho como organizaciones terroristas internacionales",
+      "editor": "ABC Color",
       "fecha": "2025-10-30",
-      "url": "https://www.presidencia.gov.py/noticia/gobierno-del-paraguay-eleva-el-nivel-de-alerta-en-la-frontera-y-declarara-como-organizaciones-terroristas-al-comando-vermelho-y-al-pcc/",
-      "categoria": "oficial",
-      "verificada": false
+      "url": "https://www.abc.com.py/policiales/2025/10/30/pena-declaro-al-pcc-y-comando-vermelho-como-organizaciones-terroristas-internacionales/",
+      "categoria": "prensa",
+      "verificada": true
     },
     {
       "id": "s14",
@@ -534,6 +582,78 @@
       "fecha": "2026-06-01",
       "url": "https://insightcrime.org/news/the-insight-take-pcc-and-red-command-who-loses-from-us-terrorist-designations-in-brazil/",
       "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s23",
+      "titulo": "Joint Statement on Defending Hemispheric Sovereignty (Escudo de las Américas)",
+      "editor": "Departamento de Estado de EE. UU.",
+      "fecha": "2026-09-22",
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/joint-statement-on-defending-hemispheric-sovereignty/",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s24",
+      "titulo": "Shield of the Americas Blacklists 24 Criminal Groups | On the Radar",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-24",
+      "url": "https://insightcrime.org/news/shield-of-the-americas-blacklists-24-criminal-groups-on-the-radar/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s25",
+      "titulo": "PF do Rio prende fornecedor de armas do Comando Vermelho que estava no Suriname",
+      "editor": "g1",
+      "fecha": "2026-06-22",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/22/pf-deflagra-operacao-red-fox.ghtml",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s26",
+      "titulo": "Operação da PF combate núcleo financeiro do Comando Vermelho",
+      "editor": "Agência Brasil",
+      "fecha": "2026-06-22",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/operacao-da-pf-combate-nucleo-financeiro-de-faccao-criminosa-do-rio",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s27",
+      "titulo": "MP denuncia 'Doca', líder do CV, por execução de jovem no Rio",
+      "editor": "CNN Brasil",
+      "fecha": "2026-09-16",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/mp-denuncia-doca-lider-do-cv-por-execucao-de-jovem-no-rio/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s28",
+      "titulo": "Operação contra Comando Vermelho no Ceará bloqueia R$ 73 milhões em bens e valores dos criminosos",
+      "editor": "g1",
+      "fecha": "2026-09-17",
+      "url": "https://g1.globo.com/ce/ceara/noticia/2026/09/17/operacao-contra-comando-vermelho-no-ceara-bloqueia-r-73-milhoes-em-bens-e-valores-dos-criminosos.ghtml",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s29",
+      "titulo": "Trafficking of Contraband Weight Loss Drugs From Paraguay to Brazil Spikes",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-23",
+      "url": "https://insightcrime.org/news/trafficking-of-contraband-weight-loss-drugs-from-paraguay-to-brazil-spikes/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s30",
+      "titulo": "Preso há 30 anos, Marcinho VP permanece em presídio federal fora do RJ",
+      "editor": "Agência Brasil",
+      "fecha": "2026-09-21",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/preso-ha-30-anos-marcinho-vp-permanece-em-presidio-federal-fora-do-rj",
+      "categoria": "prensa",
       "verificada": true
     }
   ]

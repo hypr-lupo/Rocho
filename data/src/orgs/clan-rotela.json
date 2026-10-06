@@ -10,20 +10,21 @@
   "pais_origen": "PRY",
   "fundacion": "2007 (Tobatí, departamento de Cordillera)",
   "resumen": "El Clan Rotela es la principal organización criminal de origen paraguayo. La fundó en 2007 Armando Javier Rotela Ayala y se dedica sobre todo a la venta minorista de crack y cocaína en barrios de Asunción y del departamento Central, con fuerte presencia en el sistema penitenciario. Mantiene una rivalidad violenta con el Primeiro Comando da Capital (PCC) dentro y fuera de las cárceles. Su líder la dirige desde prisión, con familiares que gestionan las finanzas.",
-  "situacion_actual": "Desde la Operación Veneratio del 18 de diciembre de 2023, que retomó la cárcel de Tacumbú y trasladó a unos 800 reclusos, Armando Javier Rotela permanece aislado en la Penitenciaría de Máxima Seguridad «Martín Mendoza» (Emboscada). El clan perdió así su principal bastión carcelario, y el Global Organized Crime Index 2025 lo describe como debilitado. Rotela acumula condenas de 8, 27 y 30 años; la última fue confirmada el 20 de abril de 2026. El 27 de abril de 2026, la Sala Constitucional rechazó su impugnación del régimen estricto. Sus hijos fueron detenidos el 13 de julio de 2026, y en junio de 2026 la policía incautó el teléfono de su pareja, que podría contener información sobre lavado de dinero, después de que fuera raptado en Ñemby un presunto distribuidor del clan. Sus células siguen activas en Asunción y Central: en julio de 2026 se detuvo a integrantes en Luque, Asunción y Villa Elisa (este último por el homicidio de un simpatizante del PCC). El 29 de junio de 2026, un integrante fue asesinado en Pedro Juan Caballero en una presunta disputa interna.",
-  "estructura": "Es una estructura jerárquica de base familiar. Armando Javier Rotela la dirige desde prisión, con su primo Óscar como colíder según InSight Crime. Su madre, sus hermanos y sus parejas gestionan las operaciones y el dinero; la Operación Kaolin, de junio de 2025, detuvo a familiares. Cuenta con un brazo armado llamado «La Jungla» y con «pasilleros» o «soldados» en las cárceles. Emplea a menores en la distribución y en la comisión de delitos. Sus integrantes son en su mayoría microtraficantes y consumidores: más de 1.000 según InSight Crime y hasta unos 4.000 en su apogeo según la prensa. Opera en más de 15 penitenciarías.",
+  "situacion_actual": "Desde la Operación Veneratio del 18 de diciembre de 2023, que retomó el control de la cárcel de Tacumbú y trasladó a unos 800 reclusos, Armando Javier Rotela permanece aislado en la Penitenciaría de Máxima Seguridad «Martín Mendoza» (Emboscada). El clan perdió así su principal bastión carcelario, y el Global Organized Crime Index 2025 lo describe como debilitado. Rotela cumple condenas de 8, 27 y 30 años; la última fue confirmada en apelación el 20 de abril de 2026, y el 27 de abril la Sala Constitucional de la Corte Suprema rechazó sin estudio su acción de inconstitucionalidad contra el régimen de máxima seguridad. En agosto de 2026, un tribunal de sentencia acumuló las causas por el motín de Tacumbú de octubre de 2023 y fijó el juicio oral para el 8 de julio de 2027. Sus células siguen activas en Asunción y el departamento Central. El 27 de junio de 2026, tras el rapto en Ñemby de un presunto distribuidor del clan, la policía incautó el teléfono de la pareja de Rotela, que podría contener información sobre lavado de dinero. El 29 de junio, un integrante fue asesinado en Pedro Juan Caballero en una presunta disputa interna. El 8 de julio, siete allanamientos en el barrio Tablada Nueva de Asunción terminaron con cuatro presuntos integrantes detenidos, y la Fiscalía denunció el uso de niños de 10 a 14 años en la venta de drogas. El 13 de julio fueron detenidos dos hijos de Rotela; el 15 de julio se capturó en Villa Elisa a un presunto miembro por el homicidio de un simpatizante del PCC, y a fines de julio la Senad detuvo en Luque a dos presuntos proveedores con más de 3 kilos de cocaína. El 26 de septiembre de 2026, la policía detuvo en Limpio a un joven acusado de asaltar más de 15 farmacias, que declaró que los robos eran su prueba de admisión al clan.",
+  "estructura": "Es una estructura jerárquica de base familiar. Armando Javier Rotela la dirige desde prisión, con su primo Óscar Rotela Ayala como colíder según InSight Crime. Su madre, sus hermanos y sus parejas gestionan las operaciones y el dinero; la Operación Caolín, del 26 de junio de 2025, detuvo a su madre y a tres de sus hermanos. Cuenta con un brazo armado llamado «La Jungla» y con «pasilleros» o «soldados» en las cárceles. Emplea a menores en la distribución y en la comisión de delitos. Sus integrantes son en su mayoría microtraficantes y consumidores: más de 1.000 según InSight Crime y hasta unos 4.000 en su apogeo según la prensa. En octubre de 2019 estaba presente en al menos 15 de las 18 penitenciarías del país. Tras la Operación Veneratio surgió una escisión carcelaria, «Pueblo de Israel», atribuida a un recluso expulsado del clan y trasladado a la cárcel de San Pedro.",
   "lideres": [
     {
       "nombre": "Armando Javier Rotela Ayala",
       "alias": "",
       "rol": "Fundador y líder",
-      "estado": "Detenido en la Penitenciaría de Máxima Seguridad «Martín Mendoza» (Emboscada) desde diciembre de 2023. Condenas de 8, 27 y 30 años (la última confirmada el 20 de abril de 2026) y procesos pendientes por el motín de Tacumbú de octubre de 2023.",
+      "estado": "Detenido en la Penitenciaría de Máxima Seguridad «Martín Mendoza» (Emboscada) desde diciembre de 2023. Cumple condenas de 8, 27 (19 de prisión y 8 de medida de seguridad) y 30 años; la última fue confirmada en apelación el 20 de abril de 2026. Afronta además el juicio por el motín de Tacumbú de octubre de 2023, fijado para el 8 de julio de 2027.",
       "fuente_ids": [
         "s1",
         "s2",
         "s3",
         "s10",
-        "s11"
+        "s11",
+        "s14"
       ]
     }
   ],
@@ -41,11 +42,12 @@
       "pais": "PRY",
       "nivel": "base",
       "zonas": [
-        "Asunción: Bañado Sur, Bañado Norte, Chacarita, San Felipe, Ricardo Brugada, Roberto L. Petit, San Antonio",
+        "Asunción: Bañado Sur, Bañado Norte, Chacarita, San Felipe, Ricardo Brugada, Roberto L. Petit, San Antonio, Tablada Nueva",
         "Lambaré",
         "Ñemby",
         "Villa Elisa",
         "San Lorenzo",
+        "Limpio",
         "Luque (Campo Grande)",
         "Tobatí (Cordillera)",
         "Penitenciaría Martín Mendoza (Emboscada)",
@@ -61,7 +63,7 @@
         "robo",
         "reclutamiento"
       ],
-      "nota": "Su base está en barrios marginales de Asunción y del departamento Central, además de las cárceles. Vende crack y cocaína al por menor, ordena homicidios desde prisión y lava dinero a través de familiares. Algunos integrantes han sido detenidos por robos agravados. Disputa pabellones y territorio con el PCC.",
+      "nota": "Su base está en barrios marginales de Asunción y del departamento Central, además de las cárceles. Vende crack y cocaína al por menor, usa a niños y adolescentes en la venta, ordena homicidios desde prisión y lava dinero a través de familiares. Algunos integrantes y aspirantes han sido detenidos por robos agravados. Disputa pabellones y territorio con el PCC.",
       "fuente_ids": [
         "s1",
         "s2",
@@ -70,10 +72,14 @@
         "s5",
         "s6",
         "s7",
+        "s8",
         "s9",
         "s10",
         "s11",
-        "s12"
+        "s12",
+        "s13",
+        "s15",
+        "s16"
       ],
       "confianza": "alta"
     }
@@ -82,7 +88,7 @@
     {
       "destino": "pcc",
       "tipo": "rivalidad",
-      "descripcion": "Enfrentamiento por el control del narcomenudeo y de los pabellones penitenciarios desde al menos junio de 2019, cuando el PCC mató a diez integrantes del clan en la penitenciaría de San Pedro. El conflicto continúa: el 15 de julio de 2026 fue capturado un presunto miembro del clan por el homicidio de un simpatizante del PCC en Villa Elisa (julio de 2025).",
+      "descripcion": "Antiguos aliados, se enfrentan por el control del narcomenudeo y de los pabellones penitenciarios desde al menos junio de 2019, cuando el PCC mató a diez integrantes del clan en la penitenciaría de San Pedro. El conflicto continúa: el 15 de julio de 2026 fue capturado un presunto miembro del clan por el homicidio de un simpatizante del PCC en Villa Elisa (julio de 2025).",
       "vigencia": "vigente",
       "fuente_ids": [
         "s1",
@@ -94,7 +100,7 @@
       "confianza": "alta"
     }
   ],
-  "notas_controversia": "Las cifras de integrantes son dispares: más de 1.000 según InSight Crime y hasta unos 4.000 en su apogeo según la prensa. El Global Organized Crime Index 2025 describe al clan como debilitado desde la intervención de 2023, mientras que la prensa de 2026 registra células activas y autoproclamados jefes en Lambaré. Algunas atribuciones de pertenencia se basan en publicaciones en redes sociales (detenciones de julio de 2026) o en hipótesis policiales, como la disputa interna detrás del homicidio de Pedro Juan Caballero. No hay presencia documentada fuera de Paraguay ni designaciones oficiales.",
+  "notas_controversia": "Las cifras de integrantes son dispares: más de 1.000 según InSight Crime y hasta unos 4.000 en su apogeo según la prensa. El Global Organized Crime Index 2025 describe al clan como debilitado desde la intervención de 2023 y señala que sus antiguas alianzas con el PCC y el Comando Vermelho se transformaron en rivalidad; no se halló otra fuente que documente una rivalidad activa con el Comando Vermelho. La prensa de 2026 registra células activas y autoproclamados jefes en Lambaré. Algunas atribuciones de pertenencia se basan en publicaciones en redes sociales, en declaraciones informales de detenidos (Limpio, septiembre de 2026) o en hipótesis policiales, como la disputa interna detrás del homicidio de Pedro Juan Caballero, cuya víctima había sido identificada en 2019 como miembro del PCC. No hay presencia documentada fuera de Paraguay ni designaciones oficiales (no figura en la lista SDN de la OFAC).",
   "confianza_general": "alta",
   "fuentes": [
     {
@@ -203,6 +209,42 @@
       "fecha": "2025",
       "url": "https://ocindex.net/country/paraguay",
       "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s13",
+      "titulo": "De nuevo, el Clan Rotela usa a niños para vender droga en Tablada Nueva",
+      "editor": "Última Hora",
+      "fecha": "2026-07-09",
+      "url": "https://www.ultimahora.com/de-nuevo-el-clan-rotela-usa-a-ninos-para-vender-droga-en-tablada-nueva",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s14",
+      "titulo": "Acumulan causas contra Armando Rotela por motín en Tacumbú",
+      "editor": "Última Hora",
+      "fecha": "2026-08-17",
+      "url": "https://www.ultimahora.com/acumulan-causas-contra-armando-rotela-por-motin-en-tacumbu",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s15",
+      "titulo": "Detienen a asaltante de farmacias en Limpio",
+      "editor": "ABC Color",
+      "fecha": "2026-09-28",
+      "url": "https://www.abc.com.py/policiales/2026/09/28/detienen-a-asaltante-de-farmacias-en-limpio/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s16",
+      "titulo": "Nueva facción criminal se desprende del clan Rotela",
+      "editor": "ADN Digital (Paraguay)",
+      "fecha": "2025-02-20",
+      "url": "https://www.adndigital.com.py/nueva-faccion-criminal-se-desprende-del-clan-rotela/",
+      "categoria": "prensa",
       "verificada": true
     }
   ]

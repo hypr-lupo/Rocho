@@ -13,8 +13,8 @@
   "pais_origen": "PER",
   "fundacion": "Se origina en el Partido Comunista del Perú-Sendero Luminoso (1970). La facción del VRAEM se separó de la dirección de Abimael Guzmán tras su captura en 1992 y su llamado a un acuerdo de paz.",
   "resumen": "El MPCP es el último remanente armado de Sendero Luminoso y opera en el Valle de los Ríos Apurímac, Ene y Mantaro (VRAEM). Lo dirige el clan Quispe Palomino. Sus ingresos provienen de la protección armada y la escolta de cargamentos de cocaína, del cobro a narcotraficantes y de su participación directa en la producción. Sigue atacando a las fuerzas de seguridad y enfrenta operaciones militares y policiales permanentes.",
-  "situacion_actual": "Al 5 de octubre de 2026, Víctor Quispe Palomino, alias «Camarada José», sigue prófugo al frente de la organización. El grupo está replegado en un corredor entre Junín, Ayacucho y Huancavelica, con base en Vizcatán del Ene. El 29 de julio de 2026, el Comando Especial VRAEM abatió a alias «Richard», miembro del buró político, en el sector Hamaca (Alto Mantaro, Vizcatán del Ene). Fue durante la operación «Quiñones», iniciada el 23 de julio. En la extracción, un helicóptero Mi-171 recibió unos 18 impactos de bala. Según InSight Crime, el 22 de mayo de 2026 un mando de alto rango del MPCP fue condenado a cadena perpetua por terrorismo agravado. Hacia el 22-23 de septiembre de 2026, la Dircote y las Fuerzas Armadas detuvieron en Chilca (Junín) y Huanta (Ayacucho) a tres presuntos integrantes de su red de financiamiento y abastecimiento logístico, que niegan los cargos. El 23 de septiembre de 2026, la declaración conjunta del «Escudo de las Américas» incluyó a Sendero Luminoso entre 24 organizaciones narcoterroristas sujetas a congelamiento de activos y a restricciones migratorias. Se trata de una iniciativa de 15 gobiernos encabezada por EE. UU.",
-  "estructura": "Es una organización jerárquica dirigida por el clan Quispe Palomino. Tiene un Comité Central y un buró político, de los que dependen mandos militares y columnas armadas. Alias «Richard», abatido en julio de 2026, era mando militar en aproximadamente el cuarto nivel del Comité Central. En centros poblados de Junín y Ayacucho cuenta con redes de apoyo que le proveen financiamiento, comunicaciones y logística. Supervisa cultivos de coca y envíos de droga, da protección y escolta a clanes de narcotráfico, cobra a los traficantes y participa directamente en la producción y la logística de la cocaína. Ante la población se presenta como protectora de los cocaleros.",
+  "situacion_actual": "Al 5 de octubre de 2026, Víctor Quispe Palomino, alias «Camarada José», sigue prófugo al frente de la organización, replegada en un corredor entre Junín, Ayacucho y Huancavelica con base en Vizcatán del Ene. El 22 de mayo de 2026, Hugo Sixto Campos Córdova, alias «Camarada Chapo», mando de alto rango del MPCP, fue condenado a cadena perpetua por terrorismo agravado. El 29 de julio de 2026, el Comando Especial VRAEM abatió a alias «Richard», miembro del buró político, en el sector Hamaca (centro poblado Alto Mantaro, Vizcatán del Ene), durante la operación «Quiñones», iniciada el 23 de julio; un militar resultó herido y un helicóptero Mi-171 recibió unos 18 impactos de bala durante la extracción. El 15 de septiembre de 2026, el Poder Judicial condenó a 30 años de prisión a José Noguera, alias «Tío Julio», por integrar la organización y dar apoyo logístico a la emboscada del 11 de febrero de 2023 en la que murieron siete policías en La Convención (Cusco). El 22 de septiembre de 2026, la Dircote y las Fuerzas Armadas detuvieron en Chilca (Junín) y Huanta (Ayacucho) a tres presuntos integrantes de su red de financiamiento y abastecimiento logístico, que niegan los cargos. Ese mismo día, EE. UU. y otros 14 gobiernos, entre ellos el de Perú, incluyeron a Sendero Luminoso entre las 24 organizaciones objeto de la primera acción conjunta del Escudo de las Américas y declararon su intención de congelar activos, restringir visados y sancionar penalmente el apoyo material a esos grupos.",
+  "estructura": "Es una organización jerárquica dirigida por el clan Quispe Palomino. Tiene un Comité Central y un buró político, de los que dependen mandos militares y columnas armadas. Según el Comando Especial VRAEM, alias «Richard», abatido en julio de 2026, pertenecía al buró político de tercera línea de mando; el analista Pedro Yaranga lo ubica en el cuarto nivel del Comité Central y le atribuye el control del eje del río Mantaro. En centros poblados de Junín y Ayacucho cuenta con redes de apoyo que le proveen financiamiento, comunicaciones y logística. Supervisa cultivos de coca y envíos de droga, da protección y escolta a clanes de narcotráfico, cobra a los traficantes y participa directamente en la producción y la logística de la cocaína. Ante la población se presenta como protectora de los cocaleros.",
   "lideres": [
     {
       "nombre": "Víctor Quispe Palomino",
@@ -38,6 +38,15 @@
         "s2",
         "s3",
         "s4"
+      ]
+    },
+    {
+      "nombre": "Hugo Sixto Campos Córdova",
+      "alias": "Camarada Chapo",
+      "rol": "Mando de alto rango; según la sentencia, dirigió el grupo que asesinó a tres personas en Junín en agosto de 2018",
+      "estado": "Condenado a cadena perpetua por terrorismo agravado el 22 de mayo de 2026",
+      "fuente_ids": [
+        "s1"
       ]
     }
   ],
@@ -70,10 +79,11 @@
       ]
     },
     {
-      "autoridad": "Escudo de las Américas (declaración conjunta de EE. UU., Perú y otros 13 gobiernos)",
-      "categoria": "Organización narcoterrorista sujeta a congelamiento de activos y restricciones migratorias (lista de 24 organizaciones)",
-      "fecha": "2026-09-23",
+      "autoridad": "Escudo de las Américas (declaración conjunta de EE. UU. y otros 14 gobiernos, entre ellos Perú)",
+      "categoria": "Grupo narcoterrorista objeto de la primera acción conjunta: los firmantes declararon su intención de congelar activos, restringir visados y sancionar penalmente el apoyo material",
+      "fecha": "2026-09-22",
       "fuente_ids": [
+        "s16",
         "s6",
         "s7"
       ]
@@ -94,8 +104,9 @@
         "Vizcatán del Ene (provincia de Satipo, Junín)",
         "Alto Mantaro / eje del río Mantaro",
         "Corredor Junín-Ayacucho-Huancavelica",
-        "Huanta (Ayacucho)",
-        "Chilca (Huancayo, Junín)"
+        "Huanta y Pucacolpa (Ayacucho)",
+        "Chilca (Huancayo, Junín)",
+        "Unión Asháninka (La Convención, Cusco)"
       ],
       "delitos": [
         "cocaina",
@@ -103,7 +114,7 @@
         "sicariato",
         "reclutamiento"
       ],
-      "nota": "Centro de mando en Vizcatán del Ene. Según un reportaje de julio de 2026, más del 90 % del eje del Mantaro sigue bajo su influencia. Protege cultivos de coca y cargamentos, cobra a los traficantes y ataca a las fuerzas de seguridad. Las redes de apoyo logístico y financiero detectadas en septiembre de 2026 operaban en Chilca y Huanta. Su historial incluye el reclutamiento y la crianza de menores dentro de la organización.",
+      "nota": "Centro de mando en Vizcatán del Ene. Según el analista Pedro Yaranga, más del 90 % del eje del Mantaro sigue bajo su influencia. Protege cultivos de coca y cargamentos, cobra a los traficantes y ataca a las fuerzas de seguridad: la justicia le atribuye la emboscada de febrero de 2023 en Unión Asháninka (Cusco) y la prensa vincula a alias «Richard» con la matanza de Huarcatán (Pucacolpa, Huanta) de marzo de 2021. Las redes de apoyo logístico y financiero detectadas en septiembre de 2026 operaban en Chilca y Huanta. Su historial incluye el reclutamiento y la crianza de menores dentro de la organización.",
       "fuente_ids": [
         "s1",
         "s2",
@@ -111,7 +122,8 @@
         "s4",
         "s5",
         "s14",
-        "s15"
+        "s15",
+        "s17"
       ],
       "confianza": "alta"
     }
@@ -129,7 +141,7 @@
       "confianza": "media"
     }
   ],
-  "notas_controversia": "El Gobierno peruano describe al grupo como «narcoterrorista» o como banda de narcotráfico. InSight Crime advierte que la situación es más compleja, porque el MPCP mantiene propaganda política y ataques contra fuerzas de seguridad además de sus servicios al narcotráfico. Las fuentes no coinciden en el nombre del operativo de septiembre de 2026: InSight Crime lo llama «Pakari 2026» y la prensa peruana, «Tacari». Los tres detenidos niegan pertenecer a la organización. El nombre civil de alias «Richard» proviene de la prensa; el comunicado oficial lo identifica solo por su alias. No hay cifras oficiales recientes del número de combatientes.",
+  "notas_controversia": "El Gobierno peruano describe al grupo como «narcoterrorista» o como banda de narcotráfico. InSight Crime advierte que la situación es más compleja, porque el MPCP mantiene propaganda política y ataques contra fuerzas de seguridad además de sus servicios al narcotráfico. Las fuentes no coinciden en el nombre del operativo de septiembre de 2026: InSight Crime lo llama «Pakari 2026» y la prensa peruana, «Tacari». Los tres detenidos niegan pertenecer a la organización. El nombre civil de alias «Richard» (Jhonny Curo Rojas) proviene de la prensa; el comunicado oficial lo identifica solo por su alias, y las fuentes difieren sobre su rango (tercera línea de mando según el Comando Especial VRAEM, cuarto nivel del Comité Central según el analista Pedro Yaranga). La inclusión en la lista del Escudo de las Américas es una declaración de intenciones de los gobiernos firmantes, no una designación formal con efectos jurídicos propios. No hay cifras oficiales recientes del número de combatientes.",
   "confianza_general": "alta",
   "fuentes": [
     {
@@ -265,6 +277,24 @@
       "fecha": "2023-11-17",
       "url": "https://insightcrime.org/news/whats-next-for-the-shining-path-in-peru/",
       "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s16",
+      "titulo": "Joint Statement on Defending Hemispheric Sovereignty (Escudo de las Américas)",
+      "editor": "Departamento de Estado de EE. UU.",
+      "fecha": "2026-09-22",
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/joint-statement-on-defending-hemispheric-sovereignty/",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s17",
+      "titulo": "Poder Judicial dictó 30 años de prisión contra terrorista de Sendero Luminoso por atentado en el Vraem",
+      "editor": "RPP Noticias",
+      "fecha": "2026-09-16",
+      "url": "https://rpp.pe/lima/judiciales/poder-judicial-dicto-30-anos-de-prision-contra-terrorista-de-sendero-luminoso-por-atentado-en-el-vraem-noticia-1707646",
+      "categoria": "prensa",
       "verificada": true
     }
   ]

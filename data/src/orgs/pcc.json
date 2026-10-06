@@ -10,26 +10,37 @@
   "tipo": "faccion",
   "pais_origen": "BRA",
   "fundacion": "1993, Casa de Custódia de Taubaté (São Paulo), tras la masacre de Carandiru de 1992",
-  "resumen": "El PCC es la mayor organización criminal de Brasil y una de las más poderosas de América Latina. Nació en 1993 en las cárceles de São Paulo, controla buena parte del sistema penitenciario brasileño y se convirtió en un actor transnacional del tráfico de cocaína hacia Europa. Según el Ministerio Público de São Paulo (MP-SP), tiene unos 40.000 integrantes y presencia en 28 países fuera de Brasil. En los últimos años trasladó el lavado de sus ganancias a la economía formal (combustibles, fondos de inversión y fintechs).",
-  "situacion_actual": "Marcola conserva el mando desde prisión tras la crisis interna de 2024, que terminó con la expulsión de Tiriça, Vida Loka y Andinho; en junio de 2025 el MP-SP identificó una cúpula renovada. La tregua con el CV firmada en febrero de 2025 se declaró terminada el 28 de abril de 2025. El 28 de agosto de 2025, la Operação Carbono Oculto expuso la infiltración del PCC en el sector de los combustibles y en fondos y fintechs de la avenida Faria Lima: la Receita Federal identificó al menos 40 fondos con un patrimonio de R$30.000 millones. Siguieron otras ofensivas financieras, como la Operação Janus (julio de 2026), y la investigación de vínculos con el caso Banco Master. El 21 de noviembre de 2025, el MP-SP acusó a la 'sintonia geral' del PCC de ordenar el asesinato del ex delegado general Ruy Ferraz Fontes, ocurrido el 15 de septiembre de 2025. En el plano de las designaciones, Argentina anunció su clasificación como organización narcoterrorista el 29 de octubre de 2025 y Paraguay la decretó el 30 de octubre de 2025; EE. UU. lo designó SDGT el 28 de mayo de 2026 y FTO con efecto el 5 de junio de 2026, y el gobierno de Lula rechazó la medida. En el exterior, su socio Sebastián Marset fue capturado en Bolivia el 13 de marzo de 2026; Portugal detuvo en noviembre de 2025 a un dirigente apodado 'Hulk', y Chile desarticuló el 28 de septiembre de 2026 la primera célula del PCC identificada en el país (20 detenidos). En la Amazonía pierde terreno frente al CV, salvo en Roraima.",
-  "estructura": "Es una organización jerárquica y compartimentada. La cúpula, la Sintonia Final Geral, está formada por Marcola y otros seis dirigentes según el MP-SP (junio de 2025), muchos de ellos presos. Por debajo funcionan 'sintonias' especializadas por función: tráfico ('progresso'), finanzas y sistema penitenciario. Otras se organizan por territorio: la Sintonia dos Estados y la Sintonia dos Países, que replica esa estructura en el exterior. Los integrantes pagan cuotas obligatorias y la organización aplica reglas internas estrictas. El MP-SP estima unos 40.000 integrantes, de los cuales al menos 2.078 están en 28 países fuera de Brasil (1.092 de ellos presos en el exterior).",
+  "resumen": "El PCC es la mayor organización criminal de Brasil y una de las más poderosas de América Latina. Nació en 1993 en las cárceles de São Paulo, tiene presencia en las prisiones de 24 estados brasileños y se convirtió en un actor transnacional del tráfico de cocaína hacia Europa. Según el Ministerio Público de São Paulo (MP-SP), tiene unos 40.000 integrantes, de los cuales al menos 2.078 están fuera de Brasil, y su mapeo de junio de 2025 lo ubica en 28 países. En los últimos años trasladó el lavado de sus ganancias a la economía formal (combustibles, fondos de inversión, fintechs y transporte público).",
+  "situacion_actual": "Marcola conserva el mando desde prisión tras la crisis interna de 2024, que llevó a la expulsión de Tiriça y Vida Loka y seguía sin resolverse formalmente en 2025; en junio de 2025 el MP-SP identificó una cúpula renovada. Marcos Roberto de Almeida, alias Tuta, señalado como su jefe fuera de prisión, fue detenido en Bolivia en mayo de 2025 y trasladado en octubre de ese año a una penitenciaría de São Paulo. La tregua con el CV firmada en febrero de 2025 terminó el 28 de abril de 2025. El 28 de agosto de 2025, la Operação Carbono Oculto expuso la infiltración del PCC en el sector de los combustibles y en fondos y fintechs de la avenida Faria Lima: la Receita Federal identificó al menos 40 fondos con un patrimonio de R$30.000 millones. El 21 de noviembre de 2025, el MP-SP acusó a la 'sintonia geral' del PCC de ordenar el asesinato del ex delegado general Ruy Ferraz Fontes, ocurrido el 15 de septiembre de 2025. EE. UU. lo designó SDGT el 28 de mayo de 2026 y FTO con efecto el 5 de junio de 2026, y el gobierno de Lula rechazó la medida. En 2026 se sucedieron las ofensivas contra sus finanzas: el 18 de junio la justicia paulista aceptó la denuncia por lavado de dinero contra Marcola, varios de sus familiares y la influenciadora Deolane Bezerra; el 1 de julio la OFAC sancionó a dos personas y cuatro empresas de una red de lavado con nodos en Florida y São Paulo; el 21 de julio el MP-SP lanzó la Operação Janus contra presuntos operadores financieros; y el 17 de septiembre la Policía Civil y el MP-SP lanzaron la Operação Vectura Corrupta contra su presunta infiltración en las empresas de autobuses de São Paulo, que tuvo entre sus objetivos al ex concejal Milton Leite, quien niega los cargos. También se investigan sus vínculos con el caso Banco Master. El 22 de septiembre de 2026, EE. UU. y otros 14 gobiernos del Escudo de las Américas lo incluyeron entre 24 grupos objeto de sanciones coordinadas. En el exterior, su socio Sebastián Marset fue capturado en Bolivia el 13 de marzo de 2026 y entregado de inmediato a EE. UU.; Portugal detuvo en noviembre de 2025 a un dirigente apodado 'Hulk'; la policía boliviana capturó en Santa Cruz a dos presuntos integrantes en septiembre de 2026, aunque André do Rap sigue prófugo; y en Chile la Fiscalía y la PDI desarticularon el 28 de septiembre de 2026 la primera célula del PCC identificada en el país, cuyos 19 imputados quedaron privados de libertad el 4 de octubre. En la Amazonía pierde terreno frente al CV, salvo en Roraima.",
+  "estructura": "Según el MP-SP, se organiza en células ('sintonias') con una jerarquía vertical. La cúpula, la Sintonia Final Geral, está formada por Marcola y otros seis dirigentes (junio de 2025), muchos de ellos presos. Por debajo funcionan sintonias especializadas por función, como el tráfico ('progresso'), las finanzas y el sistema penitenciario, y otras territoriales, como la Sintonia dos Estados y la Sintonia dos Países, que replica esa estructura en el exterior. Los integrantes pagan cuotas obligatorias y la organización aplica reglas internas estrictas. InSight Crime matiza que funciona más como una superestructura administrativa de diversas economías criminales que como un mando vertical. El MP-SP estima unos 40.000 integrantes, de los cuales al menos 2.078 están fuera de Brasil (1.092 de ellos presos en el exterior).",
   "lideres": [
     {
       "nombre": "Marcos Willians Herbas Camacho",
       "alias": "Marcola",
       "rol": "Líder máximo e integrante de la Sintonia Final Geral; firmó la tregua con el CV en febrero de 2025",
-      "estado": "Preso, cumpliendo condenas que superan los 230 años; mantiene el control de la organización a la fecha de corte",
+      "estado": "Preso, con condenas que superan los 230 años; mantiene el control de la organización a la fecha de corte. El 18 de junio de 2026 la justicia de São Paulo lo convirtió en acusado formal por organización criminal y lavado de dinero.",
       "fuente_ids": [
         "s1",
         "s29",
-        "s11"
+        "s11",
+        "s37"
+      ]
+    },
+    {
+      "nombre": "Marcos Roberto de Almeida",
+      "alias": "Tuta",
+      "rol": "Presunto jefe del PCC fuera de prisión, señalado como sustituto de Marcola",
+      "estado": "Detenido en Santa Cruz de la Sierra (Bolivia) en mayo de 2025 y entregado a la Policía Federal; el 15 de octubre de 2025 fue trasladado a la penitenciaría de Presidente Venceslau II (São Paulo)",
+      "fuente_ids": [
+        "s29",
+        "s36"
       ]
     },
     {
       "nombre": "Cláudio Barbará da Silva",
       "alias": "Barbará",
       "rol": "Presunto integrante de la cúpula (segundo escalón tras Marcola) según el MP-SP (junio de 2025); habría reemplazado a dirigentes expulsados en 2024",
-      "estado": "No verificado a la fecha de corte (InSight Crime señala que muchos de los jefes de la cúpula están presos)",
+      "estado": "Situación penitenciaria no confirmada en fuentes abiertas a la fecha de corte (InSight Crime señala que muchos de los jefes de la cúpula están presos)",
       "fuente_ids": [
         "s1"
       ]
@@ -38,7 +49,7 @@
       "nombre": "Reinaldo Teixeira dos Santos",
       "alias": "Funchal",
       "rol": "Presunto integrante de la cúpula según el MP-SP (junio de 2025)",
-      "estado": "No verificado a la fecha de corte",
+      "estado": "Situación penitenciaria no confirmada en fuentes abiertas a la fecha de corte",
       "fuente_ids": [
         "s1"
       ]
@@ -47,9 +58,10 @@
       "nombre": "André de Oliveira Macedo",
       "alias": "André do Rap",
       "rol": "Presunto jefe del PCC, vinculado al tráfico internacional de cocaína",
-      "estado": "Prófugo desde el 10 de octubre de 2020; buscado por Interpol, la Policía Federal y la Policía Civil de São Paulo",
+      "estado": "Prófugo desde el 10 de octubre de 2020, cuando abandonó la prisión tras un habeas corpus que el STF revocó ese mismo día; buscado por Interpol, la Policía Federal y la Policía Civil de São Paulo. En septiembre de 2026 la policía boliviana detuvo en Santa Cruz a dos presuntos integrantes del PCC, uno de ellos ligado a él, durante una misión que, según la prensa, buscaba localizarlo",
       "fuente_ids": [
-        "s5"
+        "s5",
+        "s40"
       ]
     }
   ],
@@ -77,12 +89,13 @@
       "fecha": "2026-06-05",
       "fuente_ids": [
         "s2",
-        "s10"
+        "s10",
+        "s31"
       ]
     },
     {
       "autoridad": "Presidencia de la República del Paraguay (presidente Santiago Peña)",
-      "categoria": "Decreto que la designa organización terrorista internacional",
+      "categoria": "Decreto N.º 4857 que la designa organización terrorista internacional",
       "fecha": "2025-10-30",
       "fuente_ids": [
         "s14",
@@ -96,6 +109,15 @@
       "fuente_ids": [
         "s16",
         "s17"
+      ]
+    },
+    {
+      "autoridad": "Escudo de las Américas (declaración conjunta de EE. UU. y otros 14 gobiernos)",
+      "categoria": "Grupo narcoterrorista objeto de la primera acción conjunta: los firmantes declararon su intención de congelar activos, restringir visados y sancionar penalmente el apoyo material",
+      "fecha": "2026-09-22",
+      "fuente_ids": [
+        "s34",
+        "s35"
       ]
     }
   ],
@@ -120,13 +142,14 @@
       "zonas": [
         "São Paulo (capital y región metropolitana)",
         "Puerto de Santos y Baixada Santista",
-        "Praia Grande (SP)",
-        "Paraná (ruta Caipira)",
+        "Mato Grosso do Sul (ruta Caipira)",
         "Roraima",
         "Amapá (Macapá, a través de la Família Terror do Amapá)",
         "Ceará (en alianza con Guardiões do Estado)",
         "Bahia",
+        "Espírito Santo (en alianza con el TCP)",
         "Red de gasolineras en São Paulo, Bahia, Goiás, Paraná, Rio Grande do Sul, Minas Gerais, Maranhão, Piauí, Rio de Janeiro y Tocantins",
+        "Empresas de autobuses del transporte público de São Paulo",
         "Cárceles de 24 estados (todos menos Rio de Janeiro y Rio Grande do Sul)"
       ],
       "delitos": [
@@ -143,18 +166,24 @@
         "lavado",
         "fraude"
       ],
-      "nota": "Es su territorio de origen y centro de mando. La Operação Carbono Oculto (agosto de 2025) reveló su control de importadoras, distribuidoras y más de 1.000 gasolineras usadas para lavar dinero y evadir impuestos. En la Amazonía solo conserva la primacía en Roraima.",
+      "nota": "Es su territorio de origen y centro de mando. La Operação Carbono Oculto (agosto de 2025) reveló su control de importadoras, distribuidoras y más de 1.000 gasolineras usadas para lavar dinero y evadir impuestos. En 2026 la Operação Janus (julio) y la Operação Vectura Corrupta (septiembre) apuntaron a sus operadores financieros y a su presunta infiltración en las empresas de autobuses de São Paulo. En la Amazonía solo conserva la primacía en Roraima.",
       "fuente_ids": [
         "s1",
         "s5",
         "s7",
         "s8",
+        "s12",
         "s13",
         "s18",
         "s22",
         "s23",
+        "s25",
         "s27",
-        "s28"
+        "s28",
+        "s30",
+        "s32",
+        "s38",
+        "s39"
       ],
       "confianza": "alta"
     },
@@ -164,14 +193,14 @@
       "zonas": [
         "Penitenciaría Regional de San Pedro",
         "Penitenciaría de Misiones",
-        "Frontera con Brasil (ruta hacia Paraná y São Paulo)"
+        "Frontera con Brasil"
       ],
       "delitos": [
         "cocaina",
         "armas",
         "contrabando"
       ],
-      "nota": "Es el país con más integrantes fuera de Brasil: 699, de ellos 341 presos (MP-SP, junio de 2025). Disputa el control de las cárceles con el Clan Rotela y regula la ruta de contrabando de medicamentos para adelgazar hacia Brasil.",
+      "nota": "Es el país con más integrantes fuera de Brasil: 699, de ellos 341 presos (MP-SP, junio de 2025). Disputa el control de las cárceles con el Clan Rotela y controla la principal ruta de contrabando de medicamentos para adelgazar hacia Brasil.",
       "fuente_ids": [
         "s1",
         "s6",
@@ -184,17 +213,22 @@
     {
       "pais": "BOL",
       "nivel": "operativa",
-      "zonas": [],
+      "zonas": [
+        "Santa Cruz de la Sierra"
+      ],
       "delitos": [
         "cocaina",
         "armas"
       ],
-      "nota": "Reúne el 7 % de los integrantes en el exterior (MP-SP, 2025). Es el punto de origen de la cocaína de la ruta Caipira. Su socio Sebastián Marset fue capturado en Santa Cruz el 13-03-2026.",
+      "nota": "Reúne 146 integrantes según el mapeo del MP-SP (junio de 2025) y es el punto de origen de la cocaína de la ruta Caipira. En Santa Cruz fueron capturados Tuta (mayo de 2025), su socio Sebastián Marset (13-03-2026) y dos presuntos integrantes en septiembre de 2026.",
       "fuente_ids": [
         "s1",
         "s5",
+        "s6",
         "s11",
-        "s20"
+        "s20",
+        "s36",
+        "s40"
       ],
       "confianza": "alta"
     },
@@ -206,9 +240,10 @@
         "cocaina",
         "armas"
       ],
-      "nota": "Es el segundo país con más integrantes fuera de Brasil (31,57 % del total en el exterior, según el mapeo del MP-SP de junio de 2025). No hay detalle de zonas.",
+      "nota": "Es el segundo país con más integrantes fuera de Brasil: 656 según el mapeo del MP-SP (junio de 2025). No hay detalle de zonas.",
       "fuente_ids": [
-        "s5"
+        "s5",
+        "s6"
       ],
       "confianza": "media"
     },
@@ -220,24 +255,32 @@
         "cocaina",
         "armas"
       ],
-      "nota": "Reúne el 6,74 % de los integrantes en el exterior (MP-SP, 2025) y participa en envíos de cocaína.",
+      "nota": "Reúne 140 integrantes según el mapeo del MP-SP (junio de 2025) y participa en envíos de cocaína.",
       "fuente_ids": [
         "s1",
-        "s5"
+        "s5",
+        "s6"
       ],
       "confianza": "alta"
     },
     {
       "pais": "CHL",
       "nivel": "operativa",
-      "zonas": [],
-      "delitos": [],
-      "nota": "La fiscalía describió como la primera célula del PCC en el país la que desarticuló el 28-09-2026, con 20 detenidos. Hay señales de su presencia desde 2022, y el MP-SP reporta el 'bautismo' de chilenos.",
+      "zonas": [
+        "Región Metropolitana de Santiago",
+        "Cárceles chilenas"
+      ],
+      "delitos": [
+        "armas"
+      ],
+      "nota": "El 28 de septiembre de 2026 la Fiscalía Regional Metropolitana Sur y la PDI desarticularon la que describieron como la primera célula del PCC en el país, con detenciones y allanamientos en cárceles donde estaban recluidos otros integrantes. El 4 de octubre fueron formalizadas 19 personas por asociación criminal, asociación ilícita para el narcotráfico y delitos de armas, todas privadas de libertad. La investigación sigue su instalación desde 2022 y el MP-SP reporta el 'bautismo' de chilenos.",
       "fuente_ids": [
         "s24",
+        "s41",
+        "s42",
         "s5"
       ],
-      "confianza": "media"
+      "confianza": "alta"
     },
     {
       "pais": "ARG",
@@ -262,12 +305,13 @@
         "cocaina",
         "lavado"
       ],
-      "nota": "Es su principal plaza en Europa: reclutamiento en cárceles, soborno de funcionarios portuarios y lavado. Las estimaciones de integrantes van de 1.000 (servicio de inteligencia portugués, 2023) al 4,19 % de los integrantes en el exterior (MP-SP, 2025). En noviembre de 2025 fue detenido el dirigente 'Hulk'.",
+      "nota": "Es su principal plaza en Europa: reclutamiento en cárceles, soborno de funcionarios portuarios y lavado. Las estimaciones de integrantes van de unos 1.000 (servicio de inteligencia portugués, 2023) a 87 (mapeo del MP-SP, junio de 2025). En noviembre de 2025 fue detenido el dirigente 'Hulk', y en julio de 2026 la OFAC sancionó una empresa con sede cerca de Lisboa por su presunto papel en una red de lavado del PCC.",
       "fuente_ids": [
         "s1",
         "s5",
         "s6",
-        "s19"
+        "s19",
+        "s33"
       ],
       "confianza": "alta"
     },
@@ -367,26 +411,32 @@
       "delitos": [
         "cocaina"
       ],
-      "nota": "El MP-SP registra presencia permanente y considera el país un destino final de cocaína.",
+      "nota": "El MP-SP registra presencia permanente y considera el país un destino final de cocaína. El Tesoro de EE. UU. (julio de 2026) lo menciona entre los países con presencia significativa del PCC.",
       "fuente_ids": [
-        "s6"
+        "s6",
+        "s33"
       ],
-      "confianza": "media"
+      "confianza": "alta"
     },
     {
       "pais": "USA",
-      "nivel": "limitada",
-      "zonas": [],
+      "nivel": "operativa",
+      "zonas": [
+        "Florida"
+      ],
       "delitos": [
+        "armas",
         "lavado"
       ],
-      "nota": "Lava dinero a través de bancos estadounidenses. El gobierno de EE. UU. afirma que el PCC y el CV están presentes en 12 estados, sin detallarlos; InSight Crime considera mínima su presencia directa.",
+      "nota": "Según el Tesoro de EE. UU. (julio de 2026), operativos del PCC lavan dinero del narcotráfico generado en varias ciudades estadounidenses, en especial en Florida, donde el FBI detuvo en enero de 2026 a seis integrantes de una red acusada de lavado. En julio de 2025 fue detenido en EE. UU. un presunto 'general' del PCC que transportaba fusiles con destino a Brasil vía Paraguay. El gobierno estadounidense afirma que el PCC y el CV están presentes en 12 estados, sin detallarlos; InSight Crime considera muy pequeña su presencia documentada.",
       "fuente_ids": [
-        "s4",
+        "s33",
         "s10",
-        "s26"
+        "s26",
+        "s41",
+        "s42"
       ],
-      "confianza": "media"
+      "confianza": "alta"
     },
     {
       "pais": "GUF",
@@ -408,9 +458,9 @@
       "nivel": "limitada",
       "zonas": [],
       "delitos": [],
-      "nota": "Aparece sombreado en la infografía del mapeo del MP-SP (junio de 2025). Antecedente de reclutamiento de disidentes de las FARC.",
+      "nota": "Figura entre los países del mapeo del MP-SP (junio de 2025), sin detalle de actividades. En 2017 se le atribuyeron intentos de reclutar a disidentes de las FARC.",
       "fuente_ids": [
-        "s5",
+        "s6",
         "s1"
       ],
       "confianza": "baja"
@@ -420,9 +470,9 @@
       "nivel": "limitada",
       "zonas": [],
       "delitos": [],
-      "nota": "Solo aparece sombreado en la infografía del mapeo del MP-SP (junio de 2025), sin detalle.",
+      "nota": "Figura entre los países del mapeo del MP-SP (junio de 2025), sin detalle de actividades.",
       "fuente_ids": [
-        "s5"
+        "s6"
       ],
       "confianza": "baja"
     },
@@ -431,9 +481,9 @@
       "nivel": "limitada",
       "zonas": [],
       "delitos": [],
-      "nota": "Solo aparece sombreado en la infografía del mapeo del MP-SP (junio de 2025), sin detalle.",
+      "nota": "Figura entre los países del mapeo del MP-SP (junio de 2025), sin detalle de actividades.",
       "fuente_ids": [
-        "s5"
+        "s6"
       ],
       "confianza": "baja"
     },
@@ -442,9 +492,9 @@
       "nivel": "limitada",
       "zonas": [],
       "delitos": [],
-      "nota": "Solo aparece sombreado en la infografía del mapeo del MP-SP (junio de 2025), sin detalle.",
+      "nota": "Figura entre los países del mapeo del MP-SP (junio de 2025), sin detalle de actividades.",
       "fuente_ids": [
-        "s5"
+        "s6"
       ],
       "confianza": "baja"
     },
@@ -453,9 +503,9 @@
       "nivel": "limitada",
       "zonas": [],
       "delitos": [],
-      "nota": "Solo aparece sombreado en la infografía del mapeo del MP-SP (junio de 2025), sin detalle.",
+      "nota": "Figura entre los países del mapeo del MP-SP (junio de 2025), sin detalle de actividades.",
       "fuente_ids": [
-        "s5"
+        "s6"
       ],
       "confianza": "baja"
     },
@@ -464,9 +514,9 @@
       "nivel": "limitada",
       "zonas": [],
       "delitos": [],
-      "nota": "Solo aparece sombreado en la infografía del mapeo del MP-SP (junio de 2025), sin detalle.",
+      "nota": "Figura entre los países del mapeo del MP-SP (junio de 2025), sin detalle de actividades.",
       "fuente_ids": [
-        "s5"
+        "s6"
       ],
       "confianza": "baja"
     },
@@ -475,20 +525,21 @@
       "nivel": "limitada",
       "zonas": [],
       "delitos": [],
-      "nota": "Solo aparece sombreado en la infografía del mapeo del MP-SP (junio de 2025), sin detalle.",
+      "nota": "Figura en el mapeo del MP-SP (junio de 2025). El Tesoro de EE. UU. (julio de 2026) lo menciona entre los países con presencia significativa del PCC, sin detallarla.",
       "fuente_ids": [
-        "s5"
+        "s6",
+        "s33"
       ],
-      "confianza": "baja"
+      "confianza": "media"
     },
     {
       "pais": "DEU",
       "nivel": "limitada",
       "zonas": [],
       "delitos": [],
-      "nota": "Solo aparece sombreado en la infografía del mapeo del MP-SP (junio de 2025), sin detalle.",
+      "nota": "Figura entre los países del mapeo del MP-SP (junio de 2025), sin detalle de actividades.",
       "fuente_ids": [
-        "s5"
+        "s6"
       ],
       "confianza": "baja"
     },
@@ -497,11 +548,12 @@
       "nivel": "limitada",
       "zonas": [],
       "delitos": [],
-      "nota": "Solo aparece sombreado en la infografía del mapeo del MP-SP (junio de 2025), sin detalle.",
+      "nota": "Figura en el mapeo del MP-SP (junio de 2025). El Tesoro de EE. UU. (julio de 2026) lo menciona entre los países con presencia significativa del PCC, sin detallarla.",
       "fuente_ids": [
-        "s5"
+        "s6",
+        "s33"
       ],
-      "confianza": "baja"
+      "confianza": "media"
     }
   ],
   "vinculos": [
@@ -521,19 +573,20 @@
     {
       "destino": "ext-ndrangheta",
       "tipo": "suministro",
-      "descripcion": "El PCC abastece de cocaína a clanes de la 'Ndrangheta (en dirección PCC → 'Ndrangheta) y coordina con ellos los envíos marítimos y la distribución en Europa.",
+      "descripcion": "El PCC envía cargamentos de cocaína por mar a clanes de la 'Ndrangheta en Italia y comparte con ellos el control del transporte y la distribución en Europa.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s5",
         "s1",
         "s20"
       ],
-      "confianza": "alta"
+      "confianza": "alta",
+      "desde": "pcc"
     },
     {
       "destino": "red-marset",
       "tipo": "alianza",
-      "descripcion": "Marset llevaba la cocaína de Bolivia a Paraguay y a los puertos atlánticos, mientras el PCC y la 'Ndrangheta controlaban el transporte y la distribución en Europa. La vigencia es incierta desde la captura de Marset en Bolivia, el 13 de marzo de 2026.",
+      "descripcion": "Marset llevaba la cocaína de Bolivia a Paraguay y a los puertos atlánticos, mientras el PCC y la 'Ndrangheta controlaban el transporte y la distribución en Europa. La vigencia es incierta desde que Marset fue capturado en Bolivia el 13 de marzo de 2026 y entregado a EE. UU.",
       "vigencia": "incierta",
       "fuente_ids": [
         "s20"
@@ -543,27 +596,30 @@
     {
       "destino": "clan-rotela",
       "tipo": "rivalidad",
-      "descripcion": "Guerra por el control de las cárceles paraguayas y del narcotráfico desde la masacre de San Pedro (junio de 2019). InSight Crime la describía en julio de 2026 como una disputa sin resolver.",
+      "descripcion": "Guerra por el control de las cárceles paraguayas y del narcomenudeo desde la masacre de diez integrantes del clan en la penitenciaría de San Pedro (junio de 2019). InSight Crime la describía en julio de 2026 como una disputa de resultado incierto, y ese mismo mes la policía capturó a un presunto miembro del clan por el homicidio de un simpatizante del PCC.",
       "vigencia": "vigente",
       "fuente_ids": [
-        "s21"
+        "s21",
+        "s43"
       ],
-      "confianza": "media"
+      "confianza": "alta"
     },
     {
       "destino": "tren-de-aragua",
       "tipo": "rivalidad",
-      "descripcion": "Competencia en Roraima, donde el PCC sigue siendo el poder dominante y limita al Tren de Aragua, aliado del CV. Hay deserciones de integrantes del PCC hacia el CV.",
+      "descripcion": "Competencia en Roraima, donde el PCC sigue siendo el poder dominante y limita la expansión del Tren de Aragua, aliado del CV; la policía local reporta deserciones de integrantes del PCC hacia el CV. En los registros internos del PCC en Chile el Tren de Aragua figura como facción enemiga, aunque la Fiscalía chilena no ha detectado una disputa territorial.",
       "vigencia": "vigente",
       "fuente_ids": [
-        "s23"
+        "s23",
+        "s41",
+        "s42"
       ],
       "confianza": "baja"
     },
     {
       "destino": "ext-tcp",
       "tipo": "alianza",
-      "descripcion": "Alianza con el Terceiro Comando Puro (TCP) de Río de Janeiro contra el CV.",
+      "descripcion": "Alianza con el Terceiro Comando Puro (TCP) contra el CV. En noviembre de 2025 una operación en Espírito Santo reveló su alianza con el TCP y la Associação Família Capixaba contra el Primeiro Comando de Vitória.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s1",
@@ -584,17 +640,18 @@
     {
       "destino": "ext-gde",
       "tipo": "alianza",
-      "descripcion": "Alianza con Guardiões do Estado (GDE) en Ceará contra el CV, en un conflicto que concentra la violencia homicida en Fortaleza y su región metropolitana.",
+      "descripcion": "Alianza con Guardiões do Estado (GDE), grupo que controla municipios vecinos de Fortaleza como Caucaia y Maranguape, contra el CV en Ceará. Según InSight Crime (2026), el TCP, aliado del PCC, absorbió a la GDE.",
       "vigencia": "vigente",
       "fuente_ids": [
-        "s22"
+        "s22",
+        "s32"
       ],
       "confianza": "media"
     },
     {
       "destino": "ext-fta",
       "tipo": "alianza",
-      "descripcion": "La Família Terror do Amapá (FTA), con sede en Macapá, es su socio local histórico en Amapá: ofrece apoyo logístico para exportar cocaína a Europa y recibe skunk y pasta base para vender en el mercado local.",
+      "descripcion": "La Família Terror do Amapá (FTA), con sede en Macapá, es su socio local histórico en Amapá: ofrece apoyo logístico para exportar cocaína a Europa y recibe skunk y pasta base para vender en el mercado local. Desde 2022 miles de sus integrantes se pasaron al CV.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s18"
@@ -602,7 +659,7 @@
       "confianza": "media"
     }
   ],
-  "notas_controversia": "1) Argentina: el 29-10-2025 la ministra Patricia Bullrich anunció la inclusión del PCC y el CV en el RePET, pero ninguno de los dos figuraba en el listado público de entidades del RePET consultado el 05-10-2026. En ese listado sí aparecen otras inscripciones argentinas de 2025-2026, como las del Cartel de los Soles, el CJNG, Los Choneros y Los Lobos. 2) Brasil no clasifica al PCC como grupo terrorista; el gobierno de Lula rechazó la designación estadounidense de mayo-junio de 2026, y los analistas subrayan la motivación económica, no ideológica, del grupo (s31, s10). 3) Las cifras de integrantes en el exterior difieren: el servicio de inteligencia portugués estimó unos 1.000 en Portugal (2023), mientras que el mapeo del MP-SP de 2025 atribuye a Portugal el 4,19 % de 2.078 integrantes en el exterior. 4) Sobre la presencia en EE. UU., el gobierno estadounidense afirma que el PCC y el CV están en 12 estados sin precisarlos, mientras que InSight Crime considera mínima la presencia directa del PCC y centrada en el lavado. 5) La presencia en Serbia y Líbano se basa en hipótesis del fiscal Lincoln Gakiya (armas y lavado, respectivamente). 6) La crisis interna de 2024 (Tiriça, Vida Loka, Andinho) seguía sin resolverse formalmente en 2025, aunque la mayoría de la estructura permaneció leal a Marcola. 7) La investigación de vínculos con el caso Banco Master (fondo de Reag) y con la Operação Janus (julio de 2026) seguía en curso.",
+  "notas_controversia": "1) Argentina: el 29-10-2025 la ministra Patricia Bullrich anunció la inclusión del PCC y el CV en el RePET, pero ninguno de los dos figuraba en el listado público de entidades del RePET consultado el 05-10-2026. En ese listado sí aparecen otras inscripciones argentinas de 2025-2026, como las del Cartel de los Soles, el CJNG, Los Choneros y Los Lobos. 2) Brasil no clasifica al PCC como grupo terrorista; el gobierno de Lula rechazó la designación estadounidense de mayo-junio de 2026, y los analistas subrayan la motivación económica, no ideológica, del grupo. 3) Las cifras de integrantes en el exterior difieren: el servicio de inteligencia portugués estimó unos 1.000 en Portugal (2023), mientras que el mapeo del MP-SP de 2025 atribuye a Portugal 87 de 2.078 integrantes en el exterior. El mismo mapeo habla de 28 países; Folha de S.Paulo lo interpreta como 27 países además de Brasil. 4) Sobre la presencia en EE. UU., el Tesoro afirma que operativos del PCC lavan dinero en varias ciudades, en especial en Florida, y el gobierno sostiene que el PCC y el CV están en 12 estados sin precisarlos, mientras que InSight Crime considera muy pequeña la presencia documentada del PCC y centrada en el lavado. 5) La presencia en Serbia y Líbano se basa en hipótesis del fiscal Lincoln Gakiya (armas y lavado, respectivamente). 6) Sobre su estructura, el MP-SP describe una jerarquía vertical de sintonias, mientras que InSight Crime la presenta como una superestructura administrativa más que como un mando vertical. 7) La crisis interna de 2024 seguía sin resolverse formalmente en 2025, aunque la mayoría de la estructura permaneció leal a Marcola; Andinho sigue siendo su principal rival interno. 8) Las investigaciones sobre vínculos con el caso Banco Master (fondo de Reag), la Operação Janus y la Operação Vectura Corrupta seguían en curso a la fecha de corte, y los acusados niegan los cargos.",
   "confianza_general": "alta",
   "fuentes": [
     {
@@ -733,12 +790,12 @@
     },
     {
       "id": "s15",
-      "titulo": "Gobierno del Paraguay eleva el nivel de alerta en la frontera y declarará como organizaciones terroristas al Comando Vermelho y al PCC",
-      "editor": "Presidencia de la República del Paraguay",
+      "titulo": "Peña declaró al PCC y Comando Vermelho como organizaciones terroristas internacionales",
+      "editor": "ABC Color",
       "fecha": "2025-10-30",
-      "url": "https://www.presidencia.gov.py/noticia/gobierno-del-paraguay-eleva-el-nivel-de-alerta-en-la-frontera-y-declarara-como-organizaciones-terroristas-al-comando-vermelho-y-al-pcc/",
-      "categoria": "oficial",
-      "verificada": false
+      "url": "https://www.abc.com.py/policiales/2025/10/30/pena-declaro-al-pcc-y-comando-vermelho-como-organizaciones-terroristas-internacionales/",
+      "categoria": "prensa",
+      "verificada": true
     },
     {
       "id": "s16",
@@ -789,8 +846,8 @@
       "id": "s21",
       "titulo": "Clan Rotela",
       "editor": "InSight Crime",
-      "fecha": "2026-07-13",
-      "url": "https://insightcrime.org/paraguay-organized-crime-news/clan-rotela/",
+      "fecha": "2026-07-16",
+      "url": "https://insightcrime.org/paraguay-organized-crime-news/rotela-clan/",
       "categoria": "investigacion",
       "verificada": true
     },
@@ -891,6 +948,105 @@
       "fecha": "2026-08",
       "url": "https://insightcrime.org/brazil-organized-crime-news/pure-third-command/",
       "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s33",
+      "titulo": "Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds",
+      "editor": "Departamento del Tesoro de EE. UU.",
+      "fecha": "2026-07-01",
+      "url": "https://home.treasury.gov/news/press-releases/sb0549",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s34",
+      "titulo": "Joint Statement on Defending Hemispheric Sovereignty (Escudo de las Américas)",
+      "editor": "Departamento de Estado de EE. UU.",
+      "fecha": "2026-09-22",
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/joint-statement-on-defending-hemispheric-sovereignty/",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s35",
+      "titulo": "Shield of the Americas Blacklists 24 Criminal Groups | On the Radar",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-24",
+      "url": "https://insightcrime.org/news/shield-of-the-americas-blacklists-24-criminal-groups-on-the-radar/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s36",
+      "titulo": "Tuta, chefe do PCC preso na Bolívia, é transferido de Brasília para SP sob forte esquema de segurança",
+      "editor": "g1",
+      "fecha": "2025-10-16",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2025/10/16/tuta-chefe-do-pcc-preso-na-bolivia-e-transferido-de-brasilia-para-sp-sob-forte-esquema-de-seguranca.ghtml",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s37",
+      "titulo": "Deolane Bezerra e Marcola viram réus por organização criminosa e lavagem de dinheiro do PCC em SP",
+      "editor": "g1",
+      "fecha": "2026-06-18",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/18/justica-aceita-denuncia-e-torna-deolane-bezerra-marcola-e-seus-parentes-reus-por-organizacao-criminosa-e-lavagem-de-dinheiro-do-pcc-em-sp.ghtml",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s38",
+      "titulo": "Mogi das Cruzes é alvo de operação do MP que investiga operadores financeiros do PCC",
+      "editor": "g1",
+      "fecha": "2026-07-21",
+      "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/07/21/mogi-das-cruzes-e-alvo-de-operacao-do-mp-que-investiga-operadores-financeiros-do-pcc.ghtml",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s39",
+      "titulo": "'Vai envolver Milton Leite': áudios de investigado do PCC citam ex-vereador em negociação sobre empresa de ônibus em SP",
+      "editor": "g1",
+      "fecha": "2026-09-17",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/17/vai-envolver-milton-leite-audios-de-investigado-do-pcc-citam-ex-vereador-em-negociacao-sobre-empresa-de-onibus-em-sp.ghtml",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s40",
+      "titulo": "O que aconteceu com o André do Rap? Dois parceiros são presos",
+      "editor": "iG Último Segundo",
+      "fecha": "2026-09-27",
+      "url": "https://ultimosegundo.ig.com.br/brasil/2026-09-27/o-que-aconteceu-com-o-andre-do-rap--dois-parceiros-sao-presos.html",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s41",
+      "titulo": "Así operaba la célula del Primer Comando de la Capital que cayó en Chile: reporte diario a Brasil, 'bautismos', 'sintonías' y 'generales'",
+      "editor": "CIPER Chile",
+      "fecha": "2026-09-28",
+      "url": "https://www.ciperchile.cl/2026/09/28/asi-operaba-la-celula-del-primer-comando-de-la-capital-que-cayo-en-chile-reporte-diario-a-brasil-bautismos-sintonias-y-generales/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s42",
+      "titulo": "Prisión preventiva para integrantes de primera célula del PCC de Brasil detectada en Chile",
+      "editor": "Meganoticias",
+      "fecha": "2026-10-04",
+      "url": "https://www.meganoticias.cl/nacional/533165-prision-preventiva-integrantes-primera-celula-pcc-brasil-detectada-en-chile-04-10-2026.html",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s43",
+      "titulo": "Capturan en Villa Elisa a miembro del Clan Rotela por crimen de integrante del PCC",
+      "editor": "ABC Color",
+      "fecha": "2026-07-15",
+      "url": "https://www.abc.com.py/policiales/2026/07/15/capturan-en-villa-elisa-a-miembro-del-clan-rotela-por-crimen-de-integrante-del-pcc/",
+      "categoria": "prensa",
       "verificada": true
     }
   ]
