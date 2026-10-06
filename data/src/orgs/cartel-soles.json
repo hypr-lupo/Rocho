@@ -9,17 +9,27 @@
   "tipo": "red_estatal",
   "pais_origen": "VEN",
   "fundacion": "El término surgió en 1993, a raíz de la investigación a dos generales de la Guardia Nacional por narcotráfico. La red se amplió bajo los gobiernos de Chávez y Maduro desde mediados de la década de 2000, cuando sectores militares pasaron de extorsionar a traficantes a comprar, almacenar y distribuir cocaína.",
-  "resumen": "Denominación usada para la red de oficiales de la Fuerza Armada Nacional Bolivariana y funcionarios venezolanos que facilitan, protegen o participan en el tráfico de cocaína, el contrabando de gasolina y la minería ilegal. EE. UU. la designó Terrorista Global Especialmente Designado (julio de 2025) y Organización Terrorista Extranjera (noviembre de 2025), y la presentó como una organización encabezada por Nicolás Maduro. Tras la captura de Maduro en enero de 2026, la acusación sustitutiva la redefinió como una cultura de corrupción en la que élites venezolanas se enriquecen con el narcotráfico. Su existencia como organización jerárquica es disputada.",
-  "situacion_actual": "El 3 de enero de 2026 fuerzas estadounidenses capturaron a Nicolás Maduro y a Cilia Flores en Venezuela. Ambos están detenidos en Brooklyn, y el juez Alvin Hellerstein fijó el 22 de julio de 2026 el inicio de su juicio por narcoterrorismo en Nueva York para el 1 de junio de 2027. La acusación sustitutiva de 2026 dejó de describir al Cartel de los Soles como estructura jerárquica y lo redefinió como cultura de corrupción. Aun así, las designaciones SDGT (25 de julio de 2025) y FTO (24 de noviembre de 2025) siguen vigentes, y no consta su revocación en el Federal Register. Bajo la presidenta interina Delcy Rodríguez, Vladimir Padrino López fue destituido como ministro de Defensa en marzo de 2026, Alex Saab fue deportado a EE. UU. el 16 de mayo de 2026 y Venezuela cooperó con EE. UU. en la operación que mató a Niño Guerrero en junio. Diosdado Cabello seguía como ministro del Interior según el último reporte verificado (mayo de 2026). El 11 de septiembre de 2026 Trump retiró a Venezuela de la lista de países que fallaron de manera demostrable en sus compromisos antidrogas. InSight Crime sostiene que el 'Estado híbrido' y las redes de corrupción militar ligadas al narcotráfico y la minería permanecen mayormente intactos.",
+  "resumen": "Denominación usada para la red de oficiales de la Fuerza Armada Nacional Bolivariana y funcionarios venezolanos que facilitan, protegen o participan en el tráfico de cocaína, el contrabando de gasolina y la minería ilegal. EE. UU. la designó Terrorista Global Especialmente Designado (julio de 2025) y Organización Terrorista Extranjera (noviembre de 2025), y la presentó como una organización encabezada por Nicolás Maduro; Ecuador, Paraguay, Argentina y República Dominicana también la declararon terrorista en 2025. Tras la captura de Maduro en enero de 2026, la acusación sustitutiva dejó de describirla como un cartel jerárquico encabezado por él y la presentó como un sistema de corrupción en el que élites venezolanas se enriquecen con el narcotráfico. Su existencia como organización jerárquica es disputada.",
+  "situacion_actual": "El 3 de enero de 2026 fuerzas estadounidenses capturaron a Nicolás Maduro y a Cilia Flores en Caracas. Ambos esperan juicio en un centro de detención federal de Brooklyn, y el 22 de julio de 2026 el juez Alvin Hellerstein fijó el inicio del juicio por narcoterrorismo y narcotráfico para el 1 de junio de 2027. La acusación sustitutiva de 2026 dejó de describir al Cartel de los Soles como una estructura jerárquica encabezada por Maduro. Aun así, las designaciones SDGT (25 de julio de 2025) y FTO (24 de noviembre de 2025) siguen vigentes, no consta su revocación en el Federal Register, y en septiembre de 2026 el Departamento de Estado afirmó que su valoración del grupo no ha cambiado y que siguen vigentes las recompensas, entre ellas la de 25 millones de dólares por Diosdado Cabello. El 22 de septiembre de 2026 el Escudo de las Américas, integrado por EE. UU. y otros 14 gobiernos, lo incluyó entre 24 grupos objeto de sanciones coordinadas. Bajo la presidenta interina Delcy Rodríguez, Vladimir Padrino López fue destituido como ministro de Defensa en marzo de 2026 y nombrado ministro de Agricultura el 13 de abril; Alex Saab fue deportado a EE. UU. el 16 de mayo y se declaró culpable de lavado de dinero en Miami el 15 de septiembre; y Venezuela cooperó con EE. UU. en la operación que mató a Niño Guerrero en junio. Diosdado Cabello sigue como ministro del Interior a la fecha de corte; en septiembre de 2026 la Fiscalía chilena le atribuyó haber negociado y financiado el homicidio del exteniente Ronald Ojeda, ejecutado por miembros del Tren de Aragua. El 11 de septiembre de 2026 Trump retiró a Venezuela de la lista de países que fallaron de manera demostrable en sus compromisos antidrogas, aunque la mantuvo entre los principales países de tránsito. En septiembre de 2026 se registraron los primeros combates de fuerzas venezolanas con el ELN en Táchira y Bolívar. InSight Crime sostiene que el 'Estado híbrido' y las redes de corrupción militar ligadas al narcotráfico y la minería permanecen mayormente intactos.",
   "estructura": "No es una organización jerárquica. Funciona como una red laxa de células dentro de distintas ramas de la FANB (Guardia Nacional, Ejército, inteligencia militar) y del aparato civil, que cobran por protección, autorizan vuelos y cargamentos, manipulan radares y participan directamente en el tráfico. InSight Crime documenta 123 oficiales activos y retirados implicados en el contrabando de cocaína. La acusación de 2020 la presentaba con Maduro y Cabello a la cabeza. La de 2026 la describe como una cultura de corrupción de élites que se enriquecen con el narcotráfico.",
   "lideres": [
     {
       "nombre": "Nicolás Maduro Moros",
       "alias": "",
       "rol": "Señalado por la OFAC (julio de 2025) como cabecilla; acusado de narcoterrorismo y narcotráfico en EE. UU.",
-      "estado": "Detenido en EE. UU. desde el 3 de enero de 2026 (centro de detención federal de Brooklyn); juicio fijado para el 1 de junio de 2027",
+      "estado": "Detenido en EE. UU. desde el 3 de enero de 2026 (centro de detención federal de Brooklyn); se declaró no culpable y su juicio está fijado para el 1 de junio de 2027",
       "fuente_ids": [
         "s1",
+        "s7",
+        "s13"
+      ]
+    },
+    {
+      "nombre": "Cilia Flores",
+      "alias": "",
+      "rol": "Coacusada de narcotráfico por primera vez en la acusación sustitutiva de 2026",
+      "estado": "Detenida en EE. UU. desde el 3 de enero de 2026; juicio fijado para el 1 de junio de 2027",
+      "fuente_ids": [
         "s7",
         "s13"
       ]
@@ -28,22 +38,25 @@
       "nombre": "Diosdado Cabello Rondón",
       "alias": "",
       "rol": "Presunto miembro de la cúpula; acusado en EE. UU. tanto en la acusación de 2020 como en la sustitutiva de 2026",
-      "estado": "En libertad en Venezuela; ministro del Interior, Justicia y Paz según el último reporte verificado (mayo de 2026)",
+      "estado": "En libertad en Venezuela; ministro del Interior, Justicia y Paz (1 de octubre de 2026); EE. UU. ratificó en septiembre de 2026 una recompensa de hasta 25 millones de dólares por su captura",
       "fuente_ids": [
         "s6",
         "s7",
-        "s9"
+        "s9",
+        "s27",
+        "s28"
       ]
     },
     {
       "nombre": "Vladimir Padrino López",
       "alias": "",
-      "rol": "Presunto integrante; acusado de narcotráfico en EE. UU. en 2020; excluido de la acusación sustitutiva de 2026",
-      "estado": "En Venezuela; destituido como ministro de Defensa en marzo de 2026",
+      "rol": "Presunto integrante; acusado de narcotráfico en EE. UU. (acusación hecha pública en marzo de 2020); excluido de la acusación sustitutiva de 2026",
+      "estado": "En libertad en Venezuela; destituido como ministro de Defensa en marzo de 2026 y nombrado ministro de Agricultura Productiva y Tierras el 13 de abril de 2026",
       "fuente_ids": [
         "s6",
         "s7",
-        "s9"
+        "s9",
+        "s25"
       ]
     },
     {
@@ -60,9 +73,10 @@
       "nombre": "Hugo Carvajal Barrios",
       "alias": "El Pollo",
       "rol": "Exdirector de inteligencia militar; figura histórica de la red",
-      "estado": "Preso en EE. UU.; se declaró culpable en junio de 2025 y fue condenado a prisión",
+      "estado": "Preso en EE. UU.; se declaró culpable en junio de 2025. El 16 de abril de 2026 el tribunal aplazó sin fecha la audiencia de sentencia, y no se ha informado de una condena a la fecha de corte",
       "fuente_ids": [
-        "s5"
+        "s5",
+        "s26"
       ]
     }
   ],
@@ -72,7 +86,8 @@
       "categoria": "Terrorista Global Especialmente Designado (SDGT, E.O. 13224)",
       "fecha": "2025-07-25",
       "fuente_ids": [
-        "s1"
+        "s1",
+        "s19"
       ]
     },
     {
@@ -80,7 +95,16 @@
       "categoria": "Grupo terrorista del crimen organizado",
       "fecha": "2025-08-14",
       "fuente_ids": [
-        "s4"
+        "s4",
+        "s24"
+      ]
+    },
+    {
+      "autoridad": "Presidencia de Paraguay (Decreto 4435)",
+      "categoria": "Organización internacional terrorista",
+      "fecha": "2025-08-21",
+      "fuente_ids": [
+        "s20"
       ]
     },
     {
@@ -92,27 +116,19 @@
       ]
     },
     {
-      "autoridad": "Gobierno de Paraguay",
-      "categoria": "Organización terrorista (fecha exacta e instrumento no verificados; anterior al 26 de agosto de 2025)",
-      "fecha": "2025-08",
+      "autoridad": "Poder Ejecutivo de República Dominicana (Decreto 500-25)",
+      "categoria": "Organización terrorista",
+      "fecha": "2025-09-02",
       "fuente_ids": [
-        "s5"
+        "s22"
       ]
     },
     {
-      "autoridad": "Perú",
-      "categoria": "Organización terrorista (fecha exacta e instrumento no verificados)",
-      "fecha": "2025",
+      "autoridad": "Congreso de la República del Perú (mociones de orden del día 18726, 18821 y 18763)",
+      "categoria": "Declaración parlamentaria como organización terrorista; exhorta al Poder Ejecutivo, sin efecto normativo propio",
+      "fecha": "2025-09-03",
       "fuente_ids": [
-        "s5"
-      ]
-    },
-    {
-      "autoridad": "Trinidad y Tobago",
-      "categoria": "Organización terrorista (fecha exacta e instrumento no verificados)",
-      "fecha": "2025",
-      "fuente_ids": [
-        "s5"
+        "s21"
       ]
     },
     {
@@ -121,8 +137,16 @@
       "fecha": "2025-11-24",
       "fuente_ids": [
         "s2",
-        "s6",
+        "s12",
         "s17"
+      ]
+    },
+    {
+      "autoridad": "Escudo de las Américas (declaración conjunta de EE. UU. y otros 14 gobiernos)",
+      "categoria": "Grupo narcoterrorista objeto de la primera acción conjunta: los firmantes declararon su intención de congelar activos, restringir visados y sancionar penalmente el apoyo material",
+      "fecha": "2026-09-22",
+      "fuente_ids": [
+        "s23"
       ]
     }
   ],
@@ -147,10 +171,11 @@
         "combustible",
         "mineria"
       ],
-      "nota": "Red incrustada en la FANB y el aparato estatal. Las rutas de cocaína parten hacia República Dominicana, Honduras, Surinam y África Occidental, y Venezuela sigue siendo un punto clave de tránsito a través del Caribe (Trinidad y Tobago). Según InSight Crime, la estructura sigue mayormente intacta tras la salida de Maduro.",
+      "nota": "Red incrustada en la FANB y el aparato estatal, con mayor actividad en los estados fronterizos de Apure, Zulia y Táchira y en el puerto de Puerto Cabello. Las rutas de cocaína parten por aire hacia República Dominicana y Honduras, y por tierra hacia Surinam y África Occidental; Venezuela sigue siendo un punto clave de tránsito a través del Caribe (Trinidad y Tobago) y EE. UU. la mantiene entre los principales países de tránsito de drogas en 2026. Según InSight Crime, la estructura sigue mayormente intacta tras la salida de Maduro.",
       "fuente_ids": [
         "s5",
         "s10",
+        "s14",
         "s15"
       ],
       "confianza": "media"
@@ -160,18 +185,21 @@
     {
       "destino": "eln",
       "tipo": "alianza",
-      "descripcion": "InSight describe una relación simbiótica entre sectores de la FANB y el ELN en Zulia, Táchira, Apure, Amazonas y el Catatumbo, en la que el ELN asumió el papel que antes tenían las FARC. Tras la captura de Maduro, Colombia y EE. UU. acordaron el 7 de enero de 2026 operaciones conjuntas contra el ELN en la frontera, y la guerrilla se repliega hacia Colombia.",
+      "descripcion": "InSight Crime describe una relación simbiótica entre sectores de la FANB y el ELN en Zulia, Táchira, Apure, Amazonas y el Catatumbo, en la que el ELN asumió el papel que antes tenían las FARC y paga a militares por proteger sus economías ilegales. Tras la captura de Maduro, Colombia y EE. UU. acordaron el 7 de enero de 2026 una ofensiva conjunta contra el ELN en la frontera, y en septiembre de 2026 hubo combates entre la Guardia Nacional y el ELN en Junín (Táchira), lo que vuelve incierta la continuidad de la relación.",
       "vigencia": "incierta",
       "fuente_ids": [
         "s5",
-        "s11"
+        "s8",
+        "s11",
+        "s32"
       ],
       "confianza": "media"
     },
     {
       "destino": "sinaloa",
       "tipo": "suministro",
-      "descripcion": "Según la OFAC, el Cartel de los Soles ha dado apoyo al Cártel de Sinaloa. La acusación sustitutiva de 2026 alega colaboración con Sinaloa y Los Zetas para enviar cocaína desde Venezuela hacia EE. UU., con redes venezolanas que facilitan el tránsito y organizaciones mexicanas que la reciben.",
+      "desde": "cartel-soles",
+      "descripcion": "Según la OFAC (julio de 2025), el Cartel de los Soles da apoyo material al Cártel de Sinaloa. La acusación sustitutiva de 2026 alega colaboración con Sinaloa y Los Zetas para enviar cocaína desde Venezuela hacia EE. UU. Las pruebas públicas provienen sobre todo de afirmaciones del gobierno estadounidense.",
       "vigencia": "incierta",
       "fuente_ids": [
         "s1",
@@ -182,17 +210,19 @@
     {
       "destino": "tren-de-aragua",
       "tipo": "alianza",
-      "descripcion": "EE. UU. afirma que el Cartel de los Soles apoya al TdA (OFAC, julio de 2025) y la acusación de 2026 vincula a Maduro con Niño Guerrero. El vínculo es disputado, y el gobierno interino cooperó con EE. UU. en la operación que mató a Guerrero en junio de 2026.",
+      "descripcion": "EE. UU. afirma que el Cartel de los Soles da apoyo material al TdA (OFAC, julio de 2025), y la acusación de 2026 imputa a Niño Guerrero junto a Maduro. En septiembre de 2026 la Fiscalía chilena atribuyó a Diosdado Cabello haber negociado y financiado el homicidio de Ronald Ojeda, ejecutado por miembros del TdA, pero el 1 de octubre el tribunal que condenó al primer acusado no dio por acreditado el móvil político. El vínculo es disputado, y el gobierno interino cooperó con EE. UU. en la operación que mató a Guerrero en junio de 2026.",
       "vigencia": "incierta",
       "fuente_ids": [
         "s1",
         "s7",
-        "s18"
+        "s18",
+        "s29",
+        "s30"
       ],
       "confianza": "baja"
     }
   ],
-  "notas_controversia": "La existencia del Cartel de los Soles como organización estructurada es disputada. Según AP (noviembre de 2025), especialistas como Adam Isacson (WOLA) señalan que 'no es un grupo': no celebra reuniones regulares ni tiene jerarquía, y el término es una expresión venezolana de los años noventa para referirse a oficiales enriquecidos con el narcotráfico. El gobierno de Maduro negó su existencia. InSight Crime lo describe como un término genérico para la corrupción extendida en la FANB y la clase política. La acusación sustitutiva de enero de 2026 abandonó la descripción de un cartel jerárquico encabezado por Maduro y habló de una cultura de corrupción, aunque las designaciones SDGT y FTO de EE. UU. siguen vigentes y no pueden impugnarse judicialmente del mismo modo. Los vínculos con el TdA y con Sinaloa provienen sobre todo de afirmaciones del gobierno estadounidense y tienen confianza baja.",
+  "notas_controversia": "La existencia del Cartel de los Soles como organización estructurada es disputada. Según AP (noviembre de 2025), especialistas como Adam Isacson (WOLA) señalan que 'no es un grupo': no celebra reuniones regulares ni tiene jerarquía, y el término es una expresión venezolana de los años noventa para referirse a oficiales enriquecidos con el narcotráfico. El gobierno de Maduro negó su existencia. InSight Crime lo describe como un término genérico para la corrupción extendida en la FANB y la clase política. La acusación sustitutiva de enero de 2026 abandonó la descripción de un cartel jerárquico encabezado por Maduro, aunque las designaciones SDGT y FTO de EE. UU. siguen vigentes y el Departamento de Estado reiteró en septiembre de 2026 que su valoración no ha cambiado. Varias declaraciones nacionales de 2025 (Ecuador, Paraguay, Argentina, República Dominicana y la moción del Congreso peruano) siguieron a la designación estadounidense. InSight Crime menciona también a Trinidad y Tobago entre los países que se sumaron en 2025, pero no se encontró el instrumento; Trinidad y Tobago sí firmó la declaración del Escudo de las Américas de septiembre de 2026. Los vínculos con el TdA y con Sinaloa provienen sobre todo de afirmaciones del gobierno estadounidense y de la Fiscalía chilena, y tienen confianza baja.",
   "confianza_general": "baja",
   "fuentes": [
     {
@@ -215,7 +245,7 @@
     },
     {
       "id": "s3",
-      "titulo": "RePET – Listado de entidades (JSON)",
+      "titulo": "RePET – Listado de entidades (JSON): Cártel de los Soles, incorporado el 26 de agosto de 2025",
       "editor": "Ministerio de Justicia de Argentina",
       "fecha": "2026-10",
       "url": "https://repet.jus.gob.ar/xml/entidades.json",
@@ -225,9 +255,9 @@
     {
       "id": "s4",
       "titulo": "Ecuador designa al Cartel de los Soles como organización terrorista",
-      "editor": "CNN en Español (vía WRAL)",
-      "fecha": "2025-08-15",
-      "url": "https://www.wral.com/ecuador-designa-al-cartel-de-los-soles-como-organizaci-n-terrorista/22119258/",
+      "editor": "CNN en Español",
+      "fecha": "2025-08-14",
+      "url": "https://cnnespanol.cnn.com/2025/08/14/latinoamerica/noboa-cartel-soles-terrorista-orix",
       "categoria": "prensa",
       "verificada": true
     },
@@ -354,6 +384,123 @@
       "editor": "Reuters (vía Military Times)",
       "fecha": "2026-06-13",
       "url": "https://www.militarytimes.com/flashpoints/2026/06/13/us-strike-kills-leader-of-venezuelas-tren-de-aragua-gang-white-house-says/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s19",
+      "titulo": "Notice of OFAC Sanctions Actions (acción del 25 de julio de 2025: Cartel de los Soles [SDGT])",
+      "editor": "OFAC, Departamento del Tesoro de EE. UU. (Federal Register)",
+      "fecha": "2025-08-04",
+      "url": "https://www.federalregister.gov/documents/full_text/text/2025/08/04/2025-14703.txt",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s20",
+      "titulo": "Gobierno de Paraguay declara terrorista al cártel supuestamente ligado a Maduro",
+      "editor": "ABC Color",
+      "fecha": "2025-08-22",
+      "url": "https://www.abc.com.py/politica/2025/08/22/gobierno-de-paraguay-declara-terrorista-al-cartel-supuestamente-ligado-a-maduro/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s21",
+      "titulo": "Pleno del Congreso aprobó moción que declara al Cártel de los Soles como organización terrorista",
+      "editor": "Congreso de la República del Perú",
+      "fecha": "2025-09-03",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-congreso-aprobo-mocion-que-declara-al-cartel-de-los-soles-como-organizacion-terrorista/",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s22",
+      "titulo": "Poder Ejecutivo designa como organización terrorista al grupo armado Cártel de los Soles",
+      "editor": "Presidencia de la República Dominicana",
+      "fecha": "2025-09-02",
+      "url": "https://presidencia.gob.do/noticias/poder-ejecutivo-designa-como-organizacion-terrorista-al-grupo-armado-cartel-de-los-soles",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s23",
+      "titulo": "Joint Statement on Defending Hemispheric Sovereignty (Escudo de las Américas)",
+      "editor": "Departamento de Estado de EE. UU.",
+      "fecha": "2026-09-22",
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/joint-statement-on-defending-hemispheric-sovereignty/",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s24",
+      "titulo": "Daniel Noboa declara terrorista al Cartel de los Soles de Venezuela",
+      "editor": "El Comercio (Ecuador)",
+      "fecha": "2025-08-14",
+      "url": "https://www.elcomercio.com/actualidad/politica/daniel-noboa-declara-terrorista-cartel-soles-venezuela/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s25",
+      "titulo": "Vladimir Padrino vuelve al Gobierno de Venezuela: fue designado ministro de Agricultura",
+      "editor": "CNN en Español",
+      "fecha": "2026-04-13",
+      "url": "https://cnnespanol.cnn.com/2026/04/13/venezuela/vladimir-padrino-ministro-agricultura-orix",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s26",
+      "titulo": "EE.UU. posterga sentencia a exjefe de inteligencia de Chávez",
+      "editor": "DW",
+      "fecha": "2026-04-17",
+      "url": "https://www.dw.com/es/eeuu-posterga-sentencia-a-exjefe-de-inteligencia-de-ch%C3%A1vez/a-76817179",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s27",
+      "titulo": "El ministro del Interior de Venezuela tilda de 'show' las denuncias sobre obstáculos al regreso de María Corina Machado",
+      "editor": "Europa Press",
+      "fecha": "2026-10-01",
+      "url": "https://www.europapress.es/internacional/noticia-ministro-interior-venezuela-tilda-show-denuncias-obstaculos-regreso-maria-corina-machado-20261001090432.html",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s28",
+      "titulo": "Pese a certificación al régimen de Delcy Rodríguez, EE. UU. ratifica ofertas de recompensa por el Cartel de los Soles y Diosdado Cabello, por quien ofrece US$25 millones",
+      "editor": "NTN24",
+      "fecha": "2026-09-17",
+      "url": "https://www.ntn24.com/noticias-actualidad/pese-a-certificacion-al-regimen-de-delcy-rodriguez-ee-uu-ratifica-ofertas-de-recompensa-por-el-cartel-de-los-soles-y-diosdado-cabello-por-quien-ofrece-us-25-millones-651210",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s29",
+      "titulo": "Fiscalía de Chile acusa a Diosdado Cabello de ordenar asesinato de Ronald Ojeda",
+      "editor": "El Universo (Ecuador)",
+      "fecha": "2026-09-09",
+      "url": "https://www.eluniverso.com/noticias/internacional/fiscalia-de-chile-acusa-a-diosdado-cabello-de-ordenar-asesinato-de-ronald-ojeda-nota/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s30",
+      "titulo": "Caso Ronald Ojeda: Chile dicta su primera condena contra integrante del Tren de Aragua por el secuestro y homicidio del exteniente venezolano",
+      "editor": "NTN24",
+      "fecha": "2026-10-01",
+      "url": "https://www.ntn24.com/noticias-actualidad/caso-ronald-ojeda-chile-dicta-primera-condena-contra-integrante-tren-aragua-secuestro-homicidio-exteniente-venezolano-655131",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s32",
+      "titulo": "Combate entre el ELN y la Guardia Nacional Bolivariana en Táchira deja un muerto y cinco heridos",
+      "editor": "Revista Semana",
+      "fecha": "2026-09-30",
+      "url": "https://www.semana.com/mundo/articulo/combate-entre-el-eln-y-la-guardia-nacional-bolivariana-en-tachira-deja-un-muerto-y-cinco-heridos/202659/",
       "categoria": "prensa",
       "verificada": true
     }

@@ -11,37 +11,50 @@
   "tipo": "grupo_armado",
   "pais_origen": "COL",
   "fundacion": "Noviembre de 2024 (anuncio del 20 de noviembre), cuando Comandos de la Frontera y la Coordinadora Guerrillera del Pacífico se separaron de la Segunda Marquetalia; Comandos de la Frontera existe desde 2017.",
-  "resumen": "Coalición disidente de las antiguas FARC-EP formada en noviembre de 2024 por Comandos de la Frontera (Putumayo) y la Coordinadora Guerrillera del Pacífico (Nariño), tras romper con Iván Márquez. Dirigida políticamente por José Vicente Lesmes, alias Walter Mendoza, negoció con el gobierno de Gustavo Petro hasta agosto de 2026. Controla cultivos de coca y corredores de cocaína y marihuana hacia Ecuador, Perú y Brasil, y participa en minería ilegal, extorsión y lavado de activos en la frontera sur.",
-  "situacion_actual": "El 18 de junio de 2026, 99 integrantes de Comandos de la Frontera entregaron las armas e ingresaron a una zona de ubicación temporal (ZUT) en Valle del Guamuez (Putumayo). El gobierno de Abelardo de la Espriella cerró la mesa el 28 de agosto de 2026 (Resolución 346) y retiró el reconocimiento a sus representantes, y la Fiscalía reactivó las órdenes de captura contra 13 miembros. Antes, el 9 de agosto, había capturado a alias Boni, segundo de Comandos de la Frontera, y el 25 de septiembre extraditó a EE. UU. a su jefe, alias Araña. Un juez de Puerto Asís suspendió el 24 de septiembre la orden de cerrar la ZUT, y la Resolución 216 de 2026 de la Presidencia la prorrogó hasta el 3 de diciembre: las 58 personas que permanecen allí deben salir antes del 30 de noviembre, y parte de los excombatientes ya regresó a la selva. Walter Mendoza pidió el 3 de septiembre retomar el diálogo y el gobierno mantuvo el cierre. InSight Crime describe una creciente fragmentación, con mandos medios que actúan de forma autónoma, mientras Ecuador, con apoyo de EE. UU., y Perú atacan sus células fronterizas.",
-  "estructura": "Coordinación de dos estructuras. Comandos de la Frontera, con unos 1.000 combatientes según InSight Crime, tiene su bastión en Putumayo, extensiones en Caquetá, Cauca, Nariño y Amazonas, y presencia en Sucumbíos y Orellana (Ecuador) y en la provincia peruana de Putumayo; la dirigió desde 2019 Geovany Andrés Rojas (Araña), hoy extraditado. La Coordinadora Guerrillera del Pacífico opera en la costa pacífica de Nariño (Tumaco, Roberto Payán) y la lidera José Vicente Lesmes (Walter Mendoza), quien encabezó la delegación de paz. Cuenta con redes financieras en Ecuador para lavar ingresos del narcotráfico.",
+  "resumen": "Coalición disidente de las antiguas FARC-EP formada en noviembre de 2024 por Comandos de la Frontera (Putumayo) y la Coordinadora Guerrillera del Pacífico (Nariño), tras romper con Iván Márquez. Dirigida políticamente por José Vicente Lesmes, alias Walter Mendoza, negoció con el gobierno de Gustavo Petro hasta que el gobierno de Abelardo de la Espriella cerró la mesa el 28 de agosto de 2026. Controla cultivos de coca y el transporte de cocaína y marihuana hacia puntos de salida en Ecuador y Brasil, tiene presencia en la frontera peruana y participa en minería ilegal, extorsión y lavado de activos en la frontera sur.",
+  "situacion_actual": "El 18 de junio de 2026, 99 integrantes de Comandos de la Frontera entregaron las armas e ingresaron a una zona de ubicación temporal (ZUT) en Valle del Guamuez (Putumayo), la primera de la Paz Total. El gobierno de Abelardo de la Espriella cerró la mesa el 28 de agosto de 2026 (Resolución 346) y retiró el reconocimiento a sus representantes, y el 1 de septiembre se informó que la Fiscalía había reactivado las órdenes de captura contra 13 de ellos, entre ellos Walter Mendoza y alias Allende. El 8 de agosto el Ejército capturó en Guamal (Meta) a alias Boni, segundo cabecilla de Comandos de la Frontera; el 23 de septiembre el gobierno autorizó la extradición de Allende, prófugo, y el 25 de septiembre extraditó a EE. UU. a alias Araña. El gobierno había fijado el cierre de la ZUT para el 30 de septiembre; un juez de Puerto Asís suspendió esa decisión el 24 de septiembre y, tras un pulso judicial, la Resolución 216 de 2026 del Departamento Administrativo de la Presidencia prorrogó la zona hasta el 3 de diciembre: las 58 personas que permanecen allí deben salir a más tardar el 30 de noviembre, y otro grupo abandonó la zona tras el anuncio del cierre. En una carta fechada el 3 de septiembre y divulgada el 12, Walter Mendoza pidió al gobierno retomar el diálogo. InSight Crime describe una creciente fragmentación, con mandos medios que actúan de forma autónoma, mientras Ecuador, con apoyo de EE. UU., y Perú atacan sus células fronterizas: el 27 de septiembre fuerzas peruanas se enfrentaron con el grupo en la provincia de Putumayo (Loreto), y el 2 de octubre el Ejército ecuatoriano reportó cinco muertos de Los Lobos y de una facción de Comandos de la Frontera en Orellana.",
+  "estructura": "Coordinación de dos estructuras. Comandos de la Frontera, con unos 1.000 combatientes según la Fiscalía citada por InSight Crime, tiene su bastión en el bajo Putumayo, redes y corredores en Caquetá, Cauca, Nariño y Amazonas, y presencia en Sucumbíos y Orellana (Ecuador) y en la provincia peruana de Putumayo; la dirigió desde 2019 Geovany Andrés Rojas (Araña), extraditado en septiembre de 2026, y según el investigador Kyle Johnson, citado por El Espectador, su nuevo comandante es Jairo Marín, antiguo mando de las FARC. La Coordinadora Guerrillera del Pacífico opera en la costa pacífica de Nariño (Tumaco, Roberto Payán) y la lidera José Vicente Lesmes (Walter Mendoza), quien encabezó la delegación de paz. En Ecuador, una red financiera vinculada a Comandos de la Frontera fue condenada en septiembre de 2026 por lavar más de 354 millones de dólares.",
   "lideres": [
     {
       "nombre": "José Vicente Lesmes",
       "alias": "Walter Mendoza",
       "rol": "Máximo dirigente de la CNEB y de la Coordinadora Guerrillera del Pacífico; jefe negociador",
-      "estado": "En libertad, con paradero no público; tras el cierre de la mesa pidió el 03-09-2026 reanudar el diálogo",
+      "estado": "Prófugo. Su orden de captura fue reactivada tras el cierre de la mesa (informado el 1 de septiembre de 2026). En una carta fechada el 3 de septiembre y divulgada el 12 de septiembre de 2026 pidió al gobierno retomar el diálogo.",
       "fuente_ids": [
         "s1",
-        "s6",
-        "s9"
+        "s9",
+        "s21"
       ]
     },
     {
       "nombre": "Geovany Andrés Rojas",
       "alias": "Araña",
       "rol": "Comandante de Comandos de la Frontera",
-      "estado": "Capturado en febrero de 2025; extraditado a EE. UU. el 25-09-2026 por cargos de narcotráfico",
+      "estado": "Capturado en febrero de 2025, durante la tercera ronda de diálogos, con circular roja de Interpol. Extraditado a EE. UU. el 25 de septiembre de 2026; lo juzgará un tribunal del Distrito Sur de California por conspiración, narcoterrorismo y narcotráfico.",
       "fuente_ids": [
         "s1",
         "s10",
-        "s11"
+        "s11",
+        "s25"
+      ]
+    },
+    {
+      "nombre": "Allende Perilla Sandoval",
+      "alias": "Allende",
+      "rol": "Cabecilla de la CNEB y representante en su mesa de diálogo (Resolución 346 de 2026); otras fuentes lo presentan como mano derecha de Iván Márquez",
+      "estado": "Prófugo. El 23 de septiembre de 2026 el gobierno autorizó su extradición a EE. UU. (Distrito Este de Texas, cargos de narcotráfico), y su orden de captura fue reactivada tras el cierre de la mesa. En diciembre de 2023 el Ministerio de Defensa lo dio por muerto en Roberto Payán (Nariño), pero reapareció en un video en enero de 2024.",
+      "fuente_ids": [
+        "s5",
+        "s21",
+        "s22",
+        "s23"
       ]
     },
     {
       "nombre": "Héctor Orlando Bastidas Bravo",
       "alias": "Boni / Bonito",
       "rol": "Segundo cabecilla de Comandos de la Frontera",
-      "estado": "Capturado el 09-08-2026 en la zona rural de Guamal (Meta)",
+      "estado": "Capturado el 8 de agosto de 2026 en zona rural de Guamal (Meta), en la Operación Abraham.",
       "fuente_ids": [
         "s12"
       ]
@@ -50,10 +63,10 @@
       "nombre": "Roberto Carlos Álvarez",
       "alias": "Gerente",
       "rol": "Jefe de la red financiera de Comandos de la Frontera en Ecuador",
-      "estado": "Condenado en Ecuador a 13 años de prisión por lavado de activos (septiembre de 2026); figura en la lista de extradición ecuatoriana",
+      "estado": "Extraditado de Arabia Saudí a Ecuador a finales de 2025. El 6 de septiembre de 2026 un tribunal ecuatoriano lo condenó a 13 años de prisión por lavado de activos; las autoridades ecuatorianas también lo acusan de comandar el ataque de mayo de 2025 en el que murieron 11 militares.",
       "fuente_ids": [
-        "s16",
-        "s10"
+        "s1",
+        "s16"
       ]
     }
   ],
@@ -75,6 +88,7 @@
         "Putumayo: Valle del Guamuez (La Hormiga), Orito, San Miguel, Puerto Guzmán",
         "Nariño: Tumaco (vereda Berlín), Roberto Payán",
         "Caquetá",
+        "Huila",
         "Cauca",
         "Amazonas"
       ],
@@ -85,11 +99,15 @@
         "sicariato",
         "reclutamiento"
       ],
-      "nota": "Territorio de origen. Comandos de la Frontera controla el bajo Putumayo y la Coordinadora Guerrillera del Pacífico la costa pacífica nariñense; el 7-8-2026 se entregaron 18 integrantes en la zona rural de Tumaco y se recuperaron 2 menores.",
+      "nota": "Territorio de origen. Comandos de la Frontera controla el bajo Putumayo y la Coordinadora Guerrillera del Pacífico la costa pacífica nariñense; en Caquetá, Huila, Cauca y Amazonas actúa mediante mandos medios y redes de narcotráfico, tras replegarse a Putumayo para contener al Frente Carolina Ramírez. El 18 de junio de 2026, 99 integrantes ingresaron a la ZUT de Valle del Guamuez, y el 7 de agosto se informó el sometimiento de 18 integrantes en la zona rural de Tumaco, donde se recuperaron 2 menores.",
       "fuente_ids": [
         "s1",
         "s3",
+        "s4",
         "s6",
+        "s7",
+        "s8",
+        "s12",
         "s13",
         "s20"
       ],
@@ -109,13 +127,14 @@
         "lavado",
         "sicariato"
       ],
-      "nota": "Campamentos, minería ilegal de oro y redes de lavado (más de 397 millones de dólares entre 2015 y 2025). Se le atribuye la emboscada de mayo de 2025 que mató a 11 militares en Alto Punino. El 4-3-2026 Ecuador y EE. UU. bombardearon un campamento de alias Mono Tole en Sucumbíos, y el 2-10-2026 murieron cinco presuntos integrantes de Los Lobos y de Comandos de la Frontera en Orellana.",
+      "nota": "Campamentos, minería ilegal de oro y redes de lavado. El Ejército ecuatoriano le atribuye la emboscada de mayo de 2025 que mató a 11 militares en Alto Punino. A comienzos de marzo de 2026 Ecuador, con apoyo de EE. UU., bombardeó en Sucumbíos un campamento atribuido a alias Mono Tole (operación del 3 de marzo, según el gobierno ecuatoriano), aunque pobladores citados por The New York Times afirmaron que el ataque alcanzó una finca lechera. El 2 de octubre de 2026 el Ejército reportó cinco muertos de Los Lobos y de una facción de Comandos de la Frontera en Guayusa (Alto Punino, Orellana).",
       "fuente_ids": [
         "s1",
         "s14",
         "s15",
         "s16",
-        "s17"
+        "s17",
+        "s24"
       ],
       "confianza": "alta"
     },
@@ -128,7 +147,7 @@
       "delitos": [
         "cocaina"
       ],
-      "nota": "El Comando Unificado PUMA de las Fuerzas Armadas y la Policía Nacional del Perú se enfrentó con integrantes de Comandos de la Frontera en la Operación Zancudo el 27-9-2026.",
+      "nota": "El 27 de septiembre de 2026 el Comando Unificado PUMA de las Fuerzas Armadas y la Policía Nacional del Perú se enfrentó con integrantes de Comandos de la Frontera en la Operación Zancudo, cerca de San Belín de Yaricaya (distrito Teniente Manuel Clavero); según InSight Crime, el grupo participa en el narcotráfico en la zona fronteriza peruana.",
       "fuente_ids": [
         "s1",
         "s18",
@@ -144,9 +163,10 @@
         "cocaina",
         "otras_drogas"
       ],
-      "nota": "Brasil funciona como punto de salida de los cargamentos de cocaína y marihuana que el grupo transporta desde Putumayo; no se documentan células estables.",
+      "nota": "InSight Crime señala que el grupo controla el transporte de cocaína y marihuana desde Putumayo hacia puntos de salida en Brasil, y Crisis Group, citado por Primicias, describe su expansión hacia ese país; no se documentan células ni zonas concretas.",
       "fuente_ids": [
-        "s1"
+        "s1",
+        "s14"
       ],
       "confianza": "media"
     }
@@ -162,12 +182,13 @@
         "s2",
         "s3"
       ],
-      "confianza": "alta"
+      "confianza": "alta",
+      "desde": "segunda-marquetalia"
     },
     {
       "destino": "emc",
       "tipo": "rivalidad",
-      "descripcion": "El Frente Carolina Ramírez del EMC es el principal rival de Comandos de la Frontera, con choques reiterados por corredores de tráfico en el sur de Colombia.",
+      "descripcion": "El Frente Carolina Ramírez del EMC es el principal rival de Comandos de la Frontera por corredores de tráfico en el sur de Colombia; tras los choques que alcanzaron su punto máximo en 2022 y 2023, desde 2024 la confrontación disminuyó y cada grupo controla territorios definidos, según InSight Crime.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s1"
@@ -177,10 +198,11 @@
     {
       "destino": "lobos",
       "tipo": "alianza",
-      "descripcion": "El Ministerio de Defensa de Ecuador afirma que Los Lobos y una facción de Comandos de la Frontera tienen una alianza en Orellana para la minería ilegal de oro y la exportación de cocaína por el Pacífico; el Ejército ecuatoriano ya había señalado esa alianza tras la emboscada de mayo de 2025.",
+      "descripcion": "El Ministerio de Defensa de Ecuador afirmó el 2 de octubre de 2026 que Los Lobos y una facción de Comandos de la Frontera tienen una alianza en Orellana para la minería ilegal de oro; el Ejército ecuatoriano ya había señalado esa alianza tras la emboscada de mayo de 2025, y Crisis Group la vincula también con la exportación de cocaína por el Pacífico.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s14",
+        "s15",
         "s17"
       ],
       "confianza": "alta"
@@ -188,15 +210,16 @@
     {
       "destino": "choneros",
       "tipo": "rivalidad",
-      "descripcion": "Los Choneros han intentado expandirse hacia el Putumayo colombiano, lo que amenaza el control de rutas de Comandos de la Frontera.",
-      "vigencia": "incierta",
+      "descripcion": "Los Choneros han intentado expandirse hacia el Putumayo colombiano; según InSight Crime, tras varios choques Comandos de la Frontera conserva el control del bajo Putumayo, y Crisis Group, citado por Primicias, describe disputas violentas entre ambos por rutas estratégicas.",
+      "vigencia": "vigente",
       "fuente_ids": [
-        "s1"
+        "s1",
+        "s14"
       ],
       "confianza": "media"
     }
   ],
-  "notas_controversia": "No se confirmó una designación terrorista vigente específica de la CNEB. Un despacho de EFE (6-3-2026) afirma que el presidente ecuatoriano Daniel Noboa declaró terroristas a Comandos de la Frontera y a otros dos grupos disidentes en el marco del conflicto armado interno declarado en 2024, pero no se localizó el decreto ni su fecha. La designación FTO/SDGT estadounidense de la Segunda Marquetalia (2021) se emitió cuando Comandos de la Frontera formaba parte de esa coalición, y no hay aclaración oficial sobre su alcance tras la escisión. El Espectador describe los cargos contra Araña en EE. UU. como relacionados con narcotráfico, mientras otros medios mencionan narcoterrorismo. La filiación de alias Allende Perilla es contradictoria: El Nuevo Siglo lo presenta como jefe de la CNEB y otros medios como mano derecha de Iván Márquez (s22, s23). Algunos medios llaman a Boni 'segundo cabecilla de la Segunda Marquetalia', pero el propio despacho lo ubica en Comandos de la Frontera. Persisten dudas sobre la cohesión de la coalición tras la ZUT, el cierre de la mesa y la extradición de Araña.",
+  "notas_controversia": "No se confirmó una designación terrorista vigente específica de la CNEB. EFE (6 de marzo de 2026) afirma que el presidente ecuatoriano Daniel Noboa declaró terroristas a tres disidencias de las FARC, entre ellas Comandos de la Frontera, y la prensa ecuatoriana informó el 15 de mayo de 2025 que Noboa las declaró 'grupos armados organizados' en el marco del conflicto armado interno, pero no se pudo consultar el decreto. La designación FTO/SDGT estadounidense de la Segunda Marquetalia (2021) se emitió cuando Comandos de la Frontera formaba parte de esa coalición, y la declaración del Escudo de las Américas (22 de septiembre de 2026) incluye a la Segunda Marquetalia y a sus 'afiliados y grupos sucesores' sin nombrar a la CNEB. La filiación de alias Allende es contradictoria: la Resolución 346 de 2026, Blu Radio y El Nuevo Siglo lo ubican en la CNEB, mientras Semana y El Espectador lo presentan como mano derecha de Iván Márquez. Algunos medios llaman a Boni 'segundo cabecilla de la Segunda Marquetalia', pero los mismos despachos lo ubican en Comandos de la Frontera. La cifra lavada por la red de alias Gerente es de más de 354 millones de dólares según InSight Crime y de más de 397 millones entre 2015 y 2025 según la tesis de la Fiscalía citada por AP. Primicias fechó la extradición de Araña el 26 de septiembre, pero el anuncio presidencial y el resto de fuentes la sitúan el 25. Investigadores de la FIP citados por El Espectador prevén la fragmentación de la coalición tras el cierre de la mesa y la extradición de Araña.",
   "confianza_general": "alta",
   "fuentes": [
     {
@@ -239,7 +262,7 @@
       "id": "s5",
       "titulo": "De la Espriella cierra mesas de diálogo de la 'Paz Total' con 'Calarcá' y otros dos grupos armados",
       "editor": "El Colombiano",
-      "fecha": "2026-08",
+      "fecha": "2026-08-31",
       "url": "https://www.elcolombiano.com/colombia/de-la-espriella-cierra-mesas-dialogo-paz-total-calarca-grupos-armados-DC40429947",
       "categoria": "prensa",
       "verificada": true
@@ -346,8 +369,8 @@
     {
       "id": "s17",
       "titulo": "Comandos de Frontera, el grupo que mató 11 soldados en Ecuador se nutre del narco y minería ilegal",
-      "editor": "EFE (vía Yahoo Noticias)",
-      "fecha": "2025-05-13",
+      "editor": "Associated Press (vía Yahoo Noticias)",
+      "fecha": "2025-05-12",
       "url": "https://es-us.noticias.yahoo.com/comandos-frontera-grupo-mató-11-001020536.html",
       "categoria": "prensa",
       "verificada": true
@@ -356,7 +379,7 @@
       "id": "s18",
       "titulo": "Fuerzas combinadas hacen retroceder a grupo criminal transnacional en zona de frontera",
       "editor": "Agencia Andina (Perú)",
-      "fecha": "2026-09-26",
+      "fecha": "2026-09-27",
       "url": "https://andina.pe/agencia/noticia-fuerzas-combinadas-hacen-retroceder-a-grupo-criminal-transnacional-zona-frontera-1093621.aspx",
       "categoria": "prensa",
       "verificada": true
@@ -364,10 +387,10 @@
     {
       "id": "s19",
       "titulo": "Fuerzas combinadas hacen retroceder a grupo criminal transnacional en la frontera con Colombia",
-      "editor": "El Peruano (Diario Oficial)",
+      "editor": "El Peruano (diario oficial del Estado peruano)",
       "fecha": "2026-09-27",
       "url": "https://elperuano.pe/noticia/305593-fuerzas-combinadas-hacen-retroceder-a-grupo-criminal-transnacional-en-la-frontera-con-colombia",
-      "categoria": "oficial",
+      "categoria": "prensa",
       "verificada": true
     },
     {
@@ -403,6 +426,24 @@
       "editor": "El Nuevo Siglo",
       "fecha": "2026-09-22",
       "url": "https://www.elnuevosiglo.com.co/politica/gobierno-autoriza-extradicion-de-alias-allende-y-larry-changa",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s24",
+      "titulo": "From Airstrikes to Cooperation: Will the 'New Phase' of Ecuador's Drug War Deliver?",
+      "editor": "InSight Crime",
+      "fecha": "2026-03-31",
+      "url": "https://insightcrime.org/news/airstrikes-cooperation-will-the-new-phase-of-ecuadors-drug-war-deliver/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s25",
+      "titulo": "De la Espriella lanza ofensiva contra Segunda Marquetalia y dice que va por 'Iván Márquez'",
+      "editor": "El Espectador",
+      "fecha": "2026-09-28",
+      "url": "https://www.elespectador.com/judicial/de-la-espriella-lanza-ofensiva-contra-segunda-marquetalia-y-dice-que-va-por-ivan-marquez/",
       "categoria": "prensa",
       "verificada": true
     }
