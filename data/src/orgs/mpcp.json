@@ -20,7 +20,7 @@
       "nombre": "Víctor Quispe Palomino",
       "alias": "Camarada José",
       "rol": "Líder máximo del MPCP",
-      "estado": "Prófugo a la fecha de corte. Sancionado por OFAC: SDNTK desde el 1 de junio de 2015 y SDGT desde el 31 de octubre de 2016.",
+      "estado": "Prófugo a la fecha de corte. Figura en la lista SDN de la OFAC: identificado como narcotraficante (SDNTK) por el Departamento del Tesoro el 1 de junio de 2015 y designado terrorista global (SDGT) por el Departamento de Estado el 31 de octubre de 2016.",
       "fuente_ids": [
         "s1",
         "s4",
@@ -132,7 +132,7 @@
     {
       "destino": "ext-clanes-vraem",
       "tipo": "alianza",
-      "descripcion": "El MPCP protege con armas y escolta los cargamentos de clanes familiares de narcotráfico del VRAEM a cambio de pagos. También cobra a los traficantes que operan en su territorio y supervisa envíos de pasta básica y cocaína hacia Bolivia, Brasil y la costa.",
+      "descripcion": "El MPCP protege con armas y escolta los cargamentos de clanes familiares de narcotráfico del VRAEM a cambio de pagos. También cobra a los traficantes que operan en su territorio y supervisa envíos de pasta básica y cocaína que los traficantes llevan hacia Bolivia, Brasil y otros países.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s1",
@@ -141,7 +141,7 @@
       "confianza": "media"
     }
   ],
-  "notas_controversia": "El Gobierno peruano describe al grupo como «narcoterrorista» o como banda de narcotráfico. InSight Crime advierte que la situación es más compleja, porque el MPCP mantiene propaganda política y ataques contra fuerzas de seguridad además de sus servicios al narcotráfico. Las fuentes no coinciden en el nombre del operativo de septiembre de 2026: InSight Crime lo llama «Pakari 2026» y la prensa peruana, «Tacari». Los tres detenidos niegan pertenecer a la organización. El nombre civil de alias «Richard» (Jhonny Curo Rojas) proviene de la prensa; el comunicado oficial lo identifica solo por su alias, y las fuentes difieren sobre su rango (tercera línea de mando según el Comando Especial VRAEM, cuarto nivel del Comité Central según el analista Pedro Yaranga). La inclusión en la lista del Escudo de las Américas es una declaración de intenciones de los gobiernos firmantes, no una designación formal con efectos jurídicos propios. No hay cifras oficiales recientes del número de combatientes.",
+  "notas_controversia": "El Gobierno peruano describe al grupo como «narcoterrorista» o como banda de narcotráfico. InSight Crime advierte que la situación es más compleja, porque el MPCP mantiene propaganda política y ataques contra fuerzas de seguridad además de sus servicios al narcotráfico. Las fuentes no coinciden en el nombre del operativo de septiembre de 2026: InSight Crime lo llama «Pakari 2026» e Infobae, citando a TV Perú, «Tacari 2026». Los tres detenidos niegan pertenecer a la organización. El nombre civil de alias «Richard» (Jhonny Curo Rojas) proviene de la prensa; el comunicado oficial lo identifica solo por su alias, y las fuentes difieren sobre su rango (tercera línea de mando según el Comando Especial VRAEM, cuarto nivel del Comité Central según el analista Pedro Yaranga). La inclusión en la lista del Escudo de las Américas es una declaración de intenciones de los gobiernos firmantes, no una designación formal con efectos jurídicos propios. No hay cifras oficiales recientes del número de combatientes.",
   "confianza_general": "alta",
   "fuentes": [
     {
