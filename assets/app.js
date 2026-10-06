@@ -54,6 +54,8 @@
     }
   }
 
+  const pl = (n, uno, varios) => `${n} ${n === 1 ? uno : varios}`;
+
   const MESES = ['ene', 'feb', 'mar', 'abr', 'may', 'jun', 'jul', 'ago', 'sept', 'oct', 'nov', 'dic'];
   function fmtFecha(f) {
     if (!f) return 's. f.';
@@ -320,7 +322,7 @@
     if (state.familia !== 'todas') partes.push(FAMILIA_CORTA[state.familia]);
     if (state.delito) partes.push(DEL[state.delito].nombre);
     $('#f-status').textContent = partes.length
-      ? `${n} de ${A.orgs.length} organizaciones cumplen el filtro`
+      ? `${n} de ${A.orgs.length} organizaciones ${n === 1 ? "cumple" : "cumplen"} el filtro`
       : `${A.orgs.length} organizaciones`;
   }
 
@@ -523,7 +525,7 @@
           .classed('has', (d) => !!porPais[d.id])
           .attr('tabindex', (d) => (porPais[d.id] ? 0 : null))
           .attr('role', (d) => (porPais[d.id] ? 'button' : null))
-          .attr('aria-label', (d) => (porPais[d.id] ? `${pais(d.id)}: ${porPais[d.id].size} organizaciones` : null))
+          .attr('aria-label', (d) => (porPais[d.id] ? `${pais(d.id)}: ${pl(porPais[d.id].size, 'organización', 'organizaciones')}` : null))
           .style('fill', (d) => {
             const n = porPais[d.id] ? porPais[d.id].size : 0;
             return n ? `var(--seq-${binCount(n, MAP_BINS)})` : null;
@@ -573,7 +575,7 @@
           h('h3', { text: 'Países por número de organizaciones' }),
           h('p', {
             class: 'side__sub',
-            text: `${filas.length} países con registro${state.familia !== 'todas' || state.delito ? ' según el filtro' : ''}. Seleccione uno para ver el detalle.`,
+            text: `${pl(filas.length, 'país', 'países')} con registro${state.familia !== 'todas' || state.delito ? ' según el filtro' : ''}. Seleccione uno para ver el detalle.`,
           }),
           h(
             'ul',
@@ -632,7 +634,7 @@
         }));
         fill(side, 
           h('h3', { text: org.nombre }),
-          h('p', { class: 'side__sub' }, `${pres.length} países · `, h('button', { class: 'linkbtn', type: 'button', onclick: () => Drawer.open({ kind: 'org', id: org.id }), text: 'Abrir ficha' })),
+          h('p', { class: 'side__sub' }, `${pl(pres.length, 'país', 'países')} · `, h('button', { class: 'linkbtn', type: 'button', onclick: () => Drawer.open({ kind: 'org', id: org.id }), text: 'Abrir ficha' })),
           h(
             'ul',
             { class: 'rank' },
@@ -937,7 +939,7 @@
         .attr('class', (d) => `node node--${d.fam}${d.id === focus ? ' is-focus' : ''}`)
         .attr('tabindex', 0)
         .attr('role', 'button')
-        .attr('aria-label', (d) => `${nodeName(d.id)}: ${d.grado} vínculos visibles`)
+        .attr('aria-label', (d) => `${nodeName(d.id)}: ${pl(d.grado, 'vínculo visible', 'vínculos visibles')}`)
         .attr('transform', (d) => `translate(${d.x},${d.y})`);
       node.selectAll('circle:not(.hit), rect, text').remove();
       node.select('circle.hit').attr('r', (d) => Math.max(14, d.r + 6));
@@ -1036,7 +1038,7 @@
       const filas = links
         .map((l) => l.v)
         .sort((a, b) => nodeName(a.a).localeCompare(nodeName(b.a), 'es') || a.tipo.localeCompare(b.tipo));
-      $('#net-count').textContent = `${filas.length} vínculos con los filtros actuales.`;
+      $('#net-count').textContent = `${pl(filas.length, 'vínculo', 'vínculos')} con los filtros actuales.`;
       fill(tabla, 
         h('thead', null, h('tr', null, ['Organización', 'Tipo', 'Contraparte', 'Descripción', 'Confianza', 'Fuentes'].map((t) => h('th', { scope: 'col', text: t })))),
         h(
@@ -1069,13 +1071,13 @@
     function nodeTip(d) {
       if (d.ext) {
         const e = EXT[d.id];
-        return [h('strong', { text: e.nombre }), h('div', { class: 'tip__muted', text: `${pais(e.pais)} · ${d.grado} vínculos visibles` })];
+        return [h('strong', { text: e.nombre }), h('div', { class: 'tip__muted', text: `${pais(e.pais)} · ${pl(d.grado, 'vínculo visible', 'vínculos visibles')}` })];
       }
       const o = ORG[d.id];
       return [
         h('strong', { text: o.nombre }),
         h('div', { text: `${TIPO[o.tipo].nombre} · origen: ${pais(o.pais_origen)}` }),
-        h('div', { class: 'tip__muted' }, h('span', { class: 'tip__val', text: String(d.grado) }), ' vínculos visibles · ', `${o.presencia.length} países`),
+        h('div', { class: 'tip__muted' }, h('span', { class: 'tip__val', text: String(d.grado) }), d.grado === 1 ? ' vínculo visible · ' : ' vínculos visibles · ', pl(o.presencia.length, 'país', 'países')),
       ];
     }
     function edgeTip(v) {
@@ -1184,7 +1186,7 @@
                     class: cls.join(' '),
                     'data-v': v ? String(v) : null,
                     disabled: v ? null : true,
-                    'aria-label': `${pais(a3)}, ${d.nombre}: ${v} organizaciones`,
+                    'aria-label': `${pais(a3)}, ${d.nombre}: ${pl(v, 'organización', 'organizaciones')}`,
                     text: v ? String(v) : '',
                     onpointerenter: v
                       ? (ev) =>
@@ -1259,8 +1261,8 @@
               'span',
               { class: 'card__meta' },
               h('span', null, 'Origen: ', h('b', { text: pais(o.pais_origen) })),
-              h('span', null, h('b', { text: String(o.presencia.length) }), ' países'),
-              h('span', null, h('b', { text: String(nv(o)) }), ' vínculos')
+              h('span', null, h('b', { text: String(o.presencia.length) }), o.presencia.length === 1 ? ' país' : ' países'),
+              h('span', null, h('b', { text: String(nv(o)) }), nv(o) === 1 ? ' vínculo' : ' vínculos')
             ),
             h('p', { class: 'card__crimes', text: o.delitos.map((d) => DEL[d].corto).join(' · ') })
           )
@@ -1406,7 +1408,7 @@
           h('dt', { text: 'Origen' }),
           h('dd', { text: `${pais(o.pais_origen)}${o.fundacion ? ' · ' + o.fundacion : ''}` }),
           h('dt', { text: 'Presencia' }),
-          h('dd', { text: `${o.presencia.length} países` }),
+          h('dd', { text: pl(o.presencia.length, 'país', 'países') }),
           h('dt', { text: 'Confianza general' }),
           h('dd', { text: CONF[o.confianza_general].nombre })
         ),
