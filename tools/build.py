@@ -122,6 +122,10 @@ def main(solo_validar=False):
         ctx = f"externo {e['id']}"
         if e["pais"] not in nombres:
             err(f"{ctx}: país desconocido {e['pais']}")
+        if not e.get("descripcion", "").strip():
+            err(f"{ctx}: sin descripción")
+        if not e.get("fuentes"):
+            err(f"{ctx}: sin fuentes")
         claves = [registrar(f, ctx) for f in e.get("fuentes", [])]
         externos.append({
             "id": e["id"], "nombre": e["nombre"], "corto": e.get("corto") or e["nombre"],

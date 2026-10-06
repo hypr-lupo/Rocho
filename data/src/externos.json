@@ -4,8 +4,25 @@
     "nombre": "Redes criminales albanesas",
     "corto": "Redes albanesas",
     "pais": "ALB",
-    "descripcion": "",
-    "fuentes": []
+    "descripcion": "Redes y clanes albaneses activos en la importación de cocaína a puertos europeos y en el lavado de activos. InSight Crime considera probable su cooperación con Los Lobos en Ecuador. El 13 de noviembre de 2025 la OFAC sancionó al Hysa Organized Crime Group, red familiar albanesa cuyos casinos y restaurantes en Sinaloa, Sonora y Baja California lavaban dinero en beneficio del Cártel de Sinaloa.",
+    "fuentes": [
+      {
+        "titulo": "Lobos",
+        "editor": "InSight Crime",
+        "fecha": "2026-08-21",
+        "url": "https://insightcrime.org/ecuador-organized-crime-news/lobos-ecuador/",
+        "categoria": "investigacion",
+        "verificada": true
+      },
+      {
+        "titulo": "Treasury and Government of Mexico Partners Target Transnational Criminal Organization",
+        "editor": "Departamento del Tesoro de EE. UU.",
+        "fecha": "2025-11-13",
+        "url": "https://home.treasury.gov/news/press-releases/sb0315",
+        "categoria": "oficial",
+        "verificada": true
+      }
+    ]
   },
   {
     "id": "ext-armas-eeuu-rd",
@@ -26,11 +43,28 @@
   },
   {
     "id": "ext-balcanes",
-    "nombre": "Clanes Kavač y Škaljari (Balcanes)",
-    "corto": "Clanes balcánicos",
+    "nombre": "Redes criminales de los Balcanes",
+    "corto": "Redes balcánicas",
     "pais": "MNE",
-    "descripcion": "",
-    "fuentes": []
+    "descripcion": "Redes de narcotráfico originarias de los Balcanes occidentales (Montenegro, Serbia y países vecinos) que compran cocaína sudamericana y la mueven hacia Europa. InSight Crime señala que la cúpula del Clan del Golfo trabaja con ellas.",
+    "fuentes": [
+      {
+        "titulo": "Gaitanistas - Gulf Clan",
+        "editor": "InSight Crime",
+        "fecha": "2026-09-10",
+        "url": "https://insightcrime.org/colombia-organized-crime-news/urabenos-profile/",
+        "categoria": "investigacion",
+        "verificada": true
+      },
+      {
+        "titulo": "The Different Faces of Balkan Organized Crime in Latin America",
+        "editor": "InSight Crime",
+        "fecha": "2026-05-22",
+        "url": "https://insightcrime.org/news/different-faces-balkan-organized-crime/",
+        "categoria": "investigacion",
+        "verificada": true
+      }
+    ]
   },
   {
     "id": "ext-bdm",
@@ -50,25 +84,17 @@
     ]
   },
   {
-    "id": "ext-camorra",
-    "nombre": "Camorra",
-    "corto": "Camorra",
-    "pais": "ITA",
-    "descripcion": "",
-    "fuentes": []
-  },
-  {
     "id": "ext-caradura",
     "nombre": "Los Caradura",
     "corto": "Los Caradura",
     "pais": "GTM",
-    "descripcion": "Pandilla guatemalteca a la que el Ministerio de Gobernación atribuye, en septiembre de 2026, una guerra territorial con Barrio 18 y la Mara Salvatrucha en el área metropolitana de la Ciudad de Guatemala.",
+    "descripcion": "Estructura de narcomenudeo de la Ciudad de Guatemala. El Ministerio de Gobernación la describe en septiembre de 2026 como aliada de Barrio 18 en su disputa con la MS-13.",
     "fuentes": [
       {
-        "titulo": "Seis ataques en un día que paralizaron la metrópoli de Guatemala: autoridades lo atribuyen a la guerra entre el Barrio 18, la Mara Salvatrucha y los Caradura",
-        "editor": "Infobae",
-        "fecha": "2026-10-01",
-        "url": "https://www.infobae.com/guatemala/2026/10/01/seis-ataques-en-un-dia-que-paralizaron-la-metropoli-de-guatemala-autoridades-lo-atribuyen-a-la-guerra-entre-el-barrio-18-la-mara-salvatrucha-y-los-caradura/",
+        "titulo": "Ataque armado en zona 6 estaría vinculado con estructura “Los Caradura”, asegura Gobernación",
+        "editor": "Publinews",
+        "fecha": "2026-09-30",
+        "url": "https://www.publinews.gt/noticias/2026/09/30/ataque-armado-en-zona-6-estaria-vinculado-con-estructura-los-caradura-asegura-gobernacion/",
         "categoria": "prensa",
         "verificada": true
       }
@@ -79,15 +105,23 @@
     "nombre": "Chone Killers",
     "corto": "Chone Killers",
     "pais": "ECU",
-    "descripcion": "Banda con bastión en Durán (Guayas), antigua facción de la confederación de Los Choneros. EE. UU. la añadió a su lista de Organizaciones Terroristas Extranjeras en julio de 2026. Está fragmentada en varias facciones, algunas aliadas de Los Lobos.",
+    "descripcion": "Banda con bastión en Durán (Guayas), escindida de Los Choneros en 2020 tras la muerte de su líder Rasquiña. EE. UU. la designó Organización Terrorista Extranjera (aviso publicado el 2 de julio de 2026) y figura en la lista del Escudo de las Américas. Está fragmentada en facciones con alineamientos distintos.",
     "fuentes": [
       {
-        "titulo": "Chone Killers",
-        "editor": "insightcrime.org",
-        "fecha": "",
+        "titulo": "The InSight Take: Los Chone Killers, el nuevo grupo en la lista de organizaciones terroristas de EE. UU.",
+        "editor": "InSight Crime",
+        "fecha": "2026-07-06",
         "url": "https://insightcrime.org/es/noticias/insight-take-chone-killers-nuevo-grupo-lista-organizaciones-terroristas-ee-uu/",
-        "categoria": "prensa",
-        "verificada": false
+        "categoria": "investigacion",
+        "verificada": true
+      },
+      {
+        "titulo": "Foreign Terrorist Organization Designation of Chone Killers (FR Doc. 2026-13349)",
+        "editor": "Federal Register (Departamento de Estado)",
+        "fecha": "2026-07-02",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-07-02/html/2026-13349.htm",
+        "categoria": "oficial",
+        "verificada": true
       }
     ]
   },
@@ -127,18 +161,27 @@
   },
   {
     "id": "ext-cmlo",
-    "nombre": "Organizaciones chinas de lavado de dinero",
-    "corto": "Lavado chino (CMLO)",
+    "nombre": "Redes chinas de lavado de dinero",
+    "corto": "Lavado chino (CMLN)",
     "pais": "CHN",
-    "descripcion": "",
-    "fuentes": []
+    "descripcion": "Redes de lavado de dinero vinculadas a China que compran dólares de los cárteles mexicanos y los compensan con transferencias espejo y comercio internacional. La alerta FIN-2025-A003 de FinCEN (28 de agosto de 2025) las vincula con el CJNG, el Cártel de Sinaloa y el Cártel del Golfo.",
+    "fuentes": [
+      {
+        "titulo": "FinCEN Advisory on Chinese Money Laundering Networks (FIN-2025-A003)",
+        "editor": "Financial Crimes Enforcement Network (FinCEN)",
+        "fecha": "2025-08-28",
+        "url": "https://www.fincen.gov/system/files/2025-08/FinCEN-Advisory-CMLN-508.pdf",
+        "categoria": "oficial",
+        "verificada": true
+      }
+    ]
   },
   {
     "id": "ext-comuneros-del-sur",
     "nombre": "Frente Comuneros del Sur (FCS)",
     "corto": "Comuneros del Sur",
     "pais": "COL",
-    "descripcion": "Escisión del Frente de Guerra Suroccidental del ELN, separada en 2024 por disputas financieras y de mando. Opera en unos 11 municipios del centro de Nariño y, según la prensa ecuatoriana, cruza a Carchi (Ecuador) para custodiar minería ilegal. El gobierno Petro lo reconoció como grupo separado y negoció con él; el gobierno De la Espriella cerró ese proceso el 3 de septiembre de 2026 (Resolución 365).",
+    "descripcion": "Escisión del Frente de Guerra Suroccidental del ELN, separada en 2024 por disputas financieras y de mando. Opera en unos 11 municipios del centro de Nariño y, según la prensa ecuatoriana, cruza a Carchi (Ecuador) para custodiar minería ilegal. El gobierno Petro lo reconoció como grupo separado y negoció con él; el gobierno De la Espriella cerró ese proceso el 3 de septiembre de 2026 (Resolución 365). El 26 de agosto de 2026 el presidente firmó la extradición a EE. UU. de su comandante, Gabriel Yepes Mejía, «H.H.».",
     "fuentes": [
       {
         "titulo": "Colombia – Country Focus: 3.1.3 Frente Comuneros del Sur (FCS)",
@@ -146,6 +189,14 @@
         "fecha": "2026-04",
         "url": "https://www.euaa.europa.eu/colombia-country-focus/313-frente-comuneros-del-sur-fcs",
         "categoria": "oficial",
+        "verificada": true
+      },
+      {
+        "titulo": "Presidente De la Espriella firmó extradición de cinco integrantes de grupos ilegales",
+        "editor": "El País (Cali)",
+        "fecha": "2026-08-26",
+        "url": "https://www.elpais.com.co/colombia/presidente-de-la-espriella-firmo-extradicion-de-cinco-integrantes-de-grupos-ilegales-que-hicieron-parte-de-los-dialogos-con-el-gobierno-petro-2653.html",
+        "categoria": "prensa",
         "verificada": true
       }
     ]
@@ -155,7 +206,7 @@
     "nombre": "Cártel de Santa Rosa de Lima (CSRL)",
     "corto": "Santa Rosa de Lima",
     "pais": "MEX",
-    "descripcion": "Grupo criminal de Guanajuato surgido del robo de combustible (fundado en 2014 por José Antonio Yépez Ortiz, “El Marro”). Su brazo armado, Los Marros, disputa con el CJNG Salamanca, Irapuato y Celaya. Se le atribuye la masacre de 11 personas en Salamanca el 25 de enero de 2026 y en 2026 se reporta aliado con el Cártel del Golfo.",
+    "descripcion": "Grupo criminal de Guanajuato surgido del robo de combustible y fundado por José Antonio Yépez Ortiz, «El Marro». Según la OFAC, que lo sancionó el 17 de diciembre de 2025, disputa Guanajuato con el CJNG desde 2017 y se alió con el Cártel del Golfo y el Cártel de Sinaloa; «El Marro» gestionó desde prisión la alianza con el Golfo.",
     "fuentes": [
       {
         "titulo": "Cártel Santa Rosa de Lima advirtió al CJNG previo a la matanza en Salamanca",
@@ -163,6 +214,14 @@
         "fecha": "2026-01-27",
         "url": "https://www.elfinanciero.com.mx/estados/2026/01/27/cartel-santa-rosa-de-lima-advirtio-al-cjng-previo-a-la-matanza-en-salamanca/",
         "categoria": "prensa",
+        "verificada": true
+      },
+      {
+        "titulo": "Secretary Bessent Orders Sanctions Against Violent Mexican Cartel",
+        "editor": "Departamento del Tesoro de EE. UU.",
+        "fecha": "2025-12-17",
+        "url": "https://home.treasury.gov/news/press-releases/sb0339",
+        "categoria": "oficial",
         "verificada": true
       }
     ]
@@ -172,7 +231,7 @@
     "nombre": "Disidencias de las FARC en la Amazonía colombiana (facción no especificada)",
     "corto": "Disidencias (Amazonía)",
     "pais": "COL",
-    "descripcion": "Grupos disidentes de las FARC que, según GI-TOC (2026), mantienen una alianza de larga data con el CV para mover cocaína por la Amazonía colombiana hacia Brasil. La fuente no identifica la facción.",
+    "descripcion": "Grupos disidentes de las FARC que, según GI-TOC (2026), mantienen una alianza de larga data con el CV para mover cocaína por la Amazonía colombiana hacia Brasil. La fuente no identifica la facción. Podría corresponder a frentes del EMC o del EMBF, sin confirmación.",
     "fuentes": [
       {
         "titulo": "Brazilian Amazon: New trafficking corridors and expanding criminal control (Gabriel Funari)",
@@ -206,13 +265,37 @@
     "nombre": "Frente Oliver Sinisterra (FOS)",
     "corto": "Frente Oliver Sinisterra",
     "pais": "COL",
-    "descripcion": "Estructura disidente de las FARC con presencia en Nariño y en Esmeraldas (Ecuador) que suministra cocaína a grupos ecuatorianos y mexicanos. En septiembre de 2026 las autoridades ecuatorianas le atribuyeron nexos con alias Charlie, operador de Los Choneros abatido.",
+    "descripcion": "Estructura disidente de las FARC con presencia en Nariño y Esmeraldas (Ecuador). InSight Crime, con base en las Defensorías del Pueblo de Colombia y Ecuador, informa que suministra cocaína al Cártel de Sinaloa y subcontrata a grupos ecuatorianos para almacenarla y embarcarla. La Policía ecuatoriana le atribuyó una alianza con la Coordinadora Guerrillera del Pacífico (CNEB), y en septiembre de 2026 las autoridades lo vincularon con un operador de Los Choneros.",
     "fuentes": [
       {
         "titulo": "Así fue el operativo en el que alias 'Charlie', de Los Choneros, fue abatido por las Fuerzas Armadas con apoyo del Comando Sur",
         "editor": "Primicias",
         "fecha": "2026-09-23",
         "url": "https://www.primicias.ec/seguridad/operativo-alias-charlie-fuerzas-armadas-ecuador-comando-sur-133300/",
+        "categoria": "prensa",
+        "verificada": true
+      },
+      {
+        "titulo": "Unmasking the Foreign Players on Ecuador’s Criminal Chessboard",
+        "editor": "InSight Crime",
+        "fecha": "2024-03-07",
+        "url": "https://insightcrime.org/news/unmasking-foreign-players-ecuador-criminal-chessboard/",
+        "categoria": "investigacion",
+        "verificada": true
+      },
+      {
+        "titulo": "Ecuador entrega a Colombia al líder del Frente Oliver Sinisterra, disidencia de las FARC",
+        "editor": "EFE (vía Yahoo Noticias)",
+        "fecha": "2024-01-23",
+        "url": "https://es-us.noticias.yahoo.com/ecuador-entrega-colombia-l%C3%ADder-frente-041500497.html",
+        "categoria": "prensa",
+        "verificada": true
+      },
+      {
+        "titulo": "El capo ecuatoriano “Fito” trasladó su red de testaferros a Colombia: van 4 familiares ubicados",
+        "editor": "El Colombiano",
+        "fecha": "2026-09-28",
+        "url": "https://www.elcolombiano.com/colombia/alias-fito-capo-los-choneros-familiares-red-testaferros-capturados-colombia-ED41601588",
         "categoria": "prensa",
         "verificada": true
       }
@@ -240,13 +323,21 @@
     "nombre": "Guardiões do Estado (GDE)",
     "corto": "Guardiões do Estado",
     "pais": "BRA",
-    "descripcion": "Grupo criminal de Ceará, con integrantes muy jóvenes, que controla municipios como Caucaia y Maranguape. Está aliado con el PCC contra el CV.",
+    "descripcion": "Grupo criminal de Ceará que controlaba municipios como Caucaia y Maranguape. Según InSight Crime, el Terceiro Comando Puro lo absorbió en 2025, cuando atravesaba una crisis interna; antes estaba aliado con el PCC contra el CV.",
     "fuentes": [
       {
         "titulo": "The Crime Wars Driving Rising Homicides in Ceará, Brazil",
         "editor": "InSight Crime",
         "fecha": "2025-08-12",
         "url": "https://insightcrime.org/news/the-crime-wars-driving-rising-homicides-in-ceara-brazil/",
+        "categoria": "investigacion",
+        "verificada": true
+      },
+      {
+        "titulo": "Pure Third Command",
+        "editor": "InSight Crime",
+        "fecha": "2026-06-18",
+        "url": "https://insightcrime.org/brazil-organized-crime-news/pure-third-command/",
         "categoria": "investigacion",
         "verificada": true
       }
@@ -271,16 +362,24 @@
   },
   {
     "id": "ext-la-jauria",
-    "nombre": "La Jauría",
+    "nombre": "La Jauría (La Nueva Jauría)",
     "corto": "La Jauría",
     "pais": "PER",
-    "descripcion": "Organización criminal de Trujillo liderada por Jolín Bazán, escindida de Los Pulpos según InSight Crime. Ofrece 'seguridad' a mineros informales de Pataz y disputa con Los Pulpos el control del oro y la extorsión en La Libertad.",
+    "descripcion": "Organización criminal de Trujillo escindida de Los Pulpos y liderada por Jolín Bazán Valderrama, «Jolín», condenado a cadena perpetua por un secuestro de 2022. Disputa con Los Pulpos el oro de Pataz y la extorsión en La Libertad. El Ministerio del Interior ofrece desde el 16 de septiembre de 2026 una recompensa de S/ 300.000 por su captura.",
     "fuentes": [
       {
         "titulo": "La guerra entre Los Pulpos y La Jauría por el oro de Pataz estaría detrás de los crímenes en Trujillo",
         "editor": "Infobae",
         "fecha": "2026-09-08",
         "url": "https://www.infobae.com/peru/2026/09/08/la-guerra-entre-los-pulpos-y-la-jauria-por-el-oro-de-pataz-estaria-detras-de-los-crimenes-en-trujillo/",
+        "categoria": "prensa",
+        "verificada": true
+      },
+      {
+        "titulo": "De socio a enemigo jurado de ‘Jhonsson Pulpo’: ofrecen S/ 300.000 por la captura de alias ‘Jolín’, cabecilla de La Nueva Jauría",
+        "editor": "La República",
+        "fecha": "2026-09-17",
+        "url": "https://larepublica.pe/sociedad/2026/09/16/de-socio-a-enemigo-jurado-de-jhonsson-pulpo-ofrecen-s-300000-por-la-captura-de-alias-jolin-cabecilla-de-la-nueva-jauria-1577616",
         "categoria": "prensa",
         "verificada": true
       }
@@ -372,43 +471,70 @@
     ]
   },
   {
-    "id": "ext-mocro",
-    "nombre": "Redes neerlandesas-marroquíes (Mocro Maffia)",
-    "corto": "Mocro Maffia",
-    "pais": "NLD",
-    "descripcion": "",
-    "fuentes": []
-  },
-  {
     "id": "ext-ndrangheta",
     "nombre": "'Ndrangheta",
     "corto": "'Ndrangheta",
     "pais": "ITA",
-    "descripcion": "",
-    "fuentes": []
+    "descripcion": "Mafia calabresa, una de las principales compradoras y distribuidoras de cocaína sudamericana en Europa. Según InSight Crime, mantiene relación con la cúpula del Clan del Golfo desde la época de las AUC; el Ministerio Público de São Paulo documenta envíos del PCC a familias mafiosas en Italia.",
+    "fuentes": [
+      {
+        "titulo": "Gaitanistas - Gulf Clan",
+        "editor": "InSight Crime",
+        "fecha": "2026-09-10",
+        "url": "https://insightcrime.org/colombia-organized-crime-news/urabenos-profile/",
+        "categoria": "investigacion",
+        "verificada": true
+      },
+      {
+        "titulo": "PCC é mapeado em 28 países, se infiltra em presídios no exterior para recrutar novos membros e expande tráfico de drogas e armas",
+        "editor": "g1",
+        "fecha": "2025-06-24",
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2025/06/24/pcc-e-mapeado-em-28-paises-se-infiltra-em-presidios-no-exterior-para-recrutar-novo-membros-e-expande-trafico-de-drogas-e-armas.ghtml",
+        "categoria": "prensa",
+        "verificada": true
+      }
+    ]
   },
   {
     "id": "ext-nigerianas",
-    "nombre": "Redes criminales nigerianas",
+    "nombre": "Redes de narcotráfico nigerianas",
     "corto": "Redes nigerianas",
     "pais": "NGA",
-    "descripcion": "",
-    "fuentes": []
+    "descripcion": "Redes de correos y traficantes nigerianos que mueven cocaína desde Brasil hacia África Occidental, Europa y Asia. En São Paulo no compiten con el PCC: según InSight Crime, que cita un informe de ENACT, llegaron a acuerdos con él.",
+    "fuentes": [
+      {
+        "titulo": "Nigerian Couriers Central to Brazil-West Africa Cocaine Route",
+        "editor": "InSight Crime",
+        "fecha": "2023-09-28",
+        "url": "https://insightcrime.org/news/nigerian-couriers-key-brazil-west-africa-cocaine-route/",
+        "categoria": "investigacion",
+        "verificada": true
+      }
+    ]
   },
   {
     "id": "ext-precursores",
     "nombre": "Proveedores de precursores químicos (China/India)",
     "corto": "Precursores (China/India)",
     "pais": "CHN",
-    "descripcion": "",
-    "fuentes": []
+    "descripcion": "Empresas y corredores de China y, en menor medida, de India que venden precursores químicos para producir fentanilo y metanfetamina a cárteles mexicanos, según la guía antiterrorista del NCTC sobre el Cártel de Sinaloa.",
+    "fuentes": [
+      {
+        "titulo": "Counterterrorism Guide: Sinaloa Cartel (as of May 2026)",
+        "editor": "National Counterterrorism Center (ODNI)",
+        "fecha": "2026-05",
+        "url": "https://www.odni.gov/wp-content/uploads/dlm_uploads/CT-Guide-Sinaloa-Cartel_508_2026_May.pdf",
+        "categoria": "oficial",
+        "verificada": true
+      }
+    ]
   },
   {
     "id": "ext-sao-box",
     "nombre": "Sao Box",
     "corto": "Sao Box",
     "pais": "ECU",
-    "descripcion": "Escisión de Los Lobos activa en Machala y Puerto Bolívar (El Oro). Según inteligencia policial citada en octubre de 2026, se alió con Los Choneros contra Los Lobos.",
+    "descripcion": "Escisión de Los Lobos activa en Machala y Puerto Bolívar (El Oro), surgida de una ruptura por la minería ilegal en Camilo Ponce Enríquez (Azuay). Según inteligencia policial citada en octubre de 2026, hay indicios de un acercamiento con Los Choneros.",
     "fuentes": [
       {
         "titulo": "Guerra entre bandas en Ecuador: los antiguos aliados se enfrentan y los enemigos ahora pactan",
@@ -425,12 +551,12 @@
     "nombre": "Terceiro Comando Puro (TCP)",
     "corto": "Terceiro Comando Puro",
     "pais": "BRA",
-    "descripcion": "Tercera organización criminal de Brasil, con base en el 'Complexo de Israel' (zona norte de Río de Janeiro) y presencia en al menos nueve estados más. Nació de una escisión del CV a mediados de los años ochenta, es aliada del PCC y coopera ocasionalmente con milicias contra el CV.",
+    "descripcion": "Tercera organización criminal de Brasil, con base en el Complexo de Israel (zona norte de Río de Janeiro) y presencia en al menos nueve estados más. Nació de una escisión del CV, coopera ocasionalmente con milicias contra el CV, absorbió en 2025 a Guardiões do Estado (Ceará) y se alió con el PCC y la Associação Família Capixaba en Espírito Santo.",
     "fuentes": [
       {
-        "titulo": "Pure Third Command (Terceiro Comando Puro – TCP)",
+        "titulo": "Pure Third Command",
         "editor": "InSight Crime",
-        "fecha": "2026-08",
+        "fecha": "2026-06-18",
         "url": "https://insightcrime.org/brazil-organized-crime-news/pure-third-command/",
         "categoria": "investigacion",
         "verificada": true
@@ -442,7 +568,7 @@
     "nombre": "Los Tiguerones",
     "corto": "Los Tiguerones",
     "pais": "ECU",
-    "descripcion": "Banda ecuatoriana con base en Esmeraldas y Guayaquil, que surgió en la órbita de Los Choneros. En 2026 está fragmentada en facciones con alineamientos opuestos: Fénix con Las Águilas (Choneros) e Igualitos con Los Lobos. Figura en la lista de 24 grupos del Escudo de las Américas (22 de septiembre de 2026).",
+    "descripcion": "Banda ecuatoriana con base en Esmeraldas y Guayaquil, surgida como facción de Los Choneros. Según InSight Crime, se alió con Los Choneros y los Chone Killers contra Los Lobos, sus antiguos aliados, y presta servicios de narcotráfico al CJNG; en 2026 está fragmentada en facciones con alineamientos opuestos. EE. UU. la designó Organización Terrorista Extranjera (aviso publicado el 10 de septiembre de 2026).",
     "fuentes": [
       {
         "titulo": "Guerra entre bandas en Ecuador: los antiguos aliados se enfrentan y los enemigos ahora pactan",
@@ -451,23 +577,39 @@
         "url": "https://www.infobae.com/america/america-latina/2026/10/01/guerra-entre-bandas-en-ecuador-los-antiguos-aliados-se-enfrentan-y-los-enemigos-ahora-pactan/",
         "categoria": "prensa",
         "verificada": true
+      },
+      {
+        "titulo": "Tiguerones",
+        "editor": "InSight Crime",
+        "fecha": "2026-09-17",
+        "url": "https://insightcrime.org/ecuador-organized-crime-news/tiguerones/",
+        "categoria": "investigacion",
+        "verificada": true
+      },
+      {
+        "titulo": "Foreign Terrorist Organization Designation of Los Tiguerones (FR Doc. 2026-18442)",
+        "editor": "Federal Register (Departamento de Estado)",
+        "fecha": "2026-09-10",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-09-10/html/2026-18442.htm",
+        "categoria": "oficial",
+        "verificada": true
       }
     ]
   },
   {
-    "id": "ext-tren-del-llano",
-    "nombre": "Tren del Llano",
-    "corto": "Tren del Llano",
-    "pais": "VEN",
-    "descripcion": "Megabanda venezolana con base en los llanos centrales (estado Guárico). Su ataque a un centro de votación en San Francisco de Macaira durante las elecciones de julio de 2024 desencadenó la Operación Zaraza del gobierno venezolano. InSight Crime reporta pactos de no agresión con el Tren de Aragua.",
+    "id": "ext-union-tepito",
+    "nombre": "La Unión Tepito",
+    "corto": "La Unión Tepito",
+    "pais": "MEX",
+    "descripcion": "Estructura dominante del narcomenudeo y la extorsión en el centro de Ciudad de México. En enero de 2026 el secretario de Seguridad, Omar García Harfuch, señaló vínculos con el Tren de Aragua ligados a la explotación sexual en las calles de la capital; el CJNG le disputa territorio y en julio de 2026 circuló un video atribuido al CJNG que la amenaza.",
     "fuentes": [
       {
-        "titulo": "Tren del Llano",
-        "editor": "insightcrime.org",
-        "fecha": "",
-        "url": "https://insightcrime.org/investigations/operation-zaraza-airstrikes-abuses-criminal-revolt-chavista-venezuela/",
-        "categoria": "prensa",
-        "verificada": false
+        "titulo": "La Unión Tepito",
+        "editor": "InSight Crime",
+        "fecha": "2026-07-15",
+        "url": "https://insightcrime.org/mexico-organized-crime-news/la-union-tepito-profile/",
+        "categoria": "investigacion",
+        "verificada": true
       }
     ]
   },
@@ -476,7 +618,7 @@
     "nombre": "Los Viagras (incluye Los Blancos de Troya)",
     "corto": "Los Viagras",
     "pais": "MEX",
-    "descripcion": "Organización de la Tierra Caliente de Michoacán liderada por Nicolás Sierra Santana, 'El Gordo', dedicada a drogas sintéticas, extorsión agrícola y secuestro. Operó bajo Cárteles Unidos, se alió con el CJNG en 2023 y rompió con él en 2026. OFAC la sancionó el 14 de agosto de 2025 y el Departamento de Estado la designó Organización Terrorista Extranjera el 16 de julio de 2026, con Los Blancos de Troya como alias.",
+    "descripcion": "Organización de la Tierra Caliente de Michoacán liderada por Nicolás Sierra Santana, «El Gordo», dedicada a drogas sintéticas, extorsión y secuestro. Operó dentro de Cárteles Unidos. La OFAC informó en agosto de 2025 que se había aliado recientemente con el CJNG. En 2026 las fuentes discrepan: según el líder del CJNG «El Congo» (El Financiero, marzo de 2026), Los Viagras se volvieron contra el CJNG; otra versión de prensa sitúa a Sierra Santana dentro de la cúpula del CJNG. EE. UU. la designó Organización Terrorista Extranjera el 16 de julio de 2026.",
     "fuentes": [
       {
         "titulo": "Foreign Terrorist Organization Designation of Juarez Cartel and Los Viagras (Public Notice 13065)",
@@ -484,6 +626,22 @@
         "fecha": "2026-07-16",
         "url": "https://public-inspection.federalregister.gov/2026-14259.pdf",
         "categoria": "oficial",
+        "verificada": true
+      },
+      {
+        "titulo": "Treasury Takes Decisive Action Against Violent Mexican Cartels",
+        "editor": "Departamento del Tesoro de EE. UU.",
+        "fecha": "2025-08-14",
+        "url": "https://home.treasury.gov/news/press-releases/sb0224",
+        "categoria": "oficial",
+        "verificada": true
+      },
+      {
+        "titulo": "‘El Congo’ revela que tras muerte de ‘El Mencho’, el CJNG pelea control de plazas: ‘Se nos voltearon’",
+        "editor": "El Financiero",
+        "fecha": "2026-03-05",
+        "url": "https://www.elfinanciero.com.mx/estados/2026/03/03/el-congo-revela-que-tras-muerte-de-el-mencho-el-cjng-pelea-control-de-plazas-se-nos-voltearon/",
+        "categoria": "prensa",
         "verificada": true
       }
     ]
