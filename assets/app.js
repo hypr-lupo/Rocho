@@ -1294,7 +1294,7 @@
           text: 'Cada presencia, vínculo, líder y designación cita al menos una fuente. Se usaron cuatro categorías, en este orden de preferencia: fuentes oficiales (UNODC, Europol, gobiernos y fiscalías, Departamento de Estado, Tesoro y Departamento de Justicia de EE. UU.), investigación especializada (InSight Crime, Global Initiative Against Transnational Organized Crime, International Crisis Group, centros académicos y de seguridad), prensa de referencia y literatura académica. Se excluyeron enciclopedias abiertas, blogs y medios sin autoría.',
         }),
         h('p', {
-          text: 'Los datos fueron recopilados por agentes de investigación con búsqueda web y luego sometidos a una revisión adversarial independiente que contrastó afirmaciones con sus fuentes y eliminó o rebajó las que no tenían respaldo. Las fuentes cuyo enlace no pudo abrirse durante la verificación aparecen marcadas como «enlace no verificado».',
+          text: 'El proceso tuvo tres etapas. Primero, agentes de investigación recopilaron los datos con búsqueda web. Luego, verificadores independientes revisaron cada ficha con criterio adversarial: abrieron las fuentes, actualizaron los hechos de 2026 y eliminaron o rebajaron las afirmaciones sin respaldo. Por último, una revisión de coherencia entre fichas corrigió contradicciones y agregó vínculos documentados que faltaban. Las fuentes cuyo enlace no pudo abrirse durante la verificación aparecen marcadas como «enlace no verificado».',
         }),
         h('h2', { text: 'Niveles de presencia' }),
         h('dl', null, T.niveles.map((n) => [h('dt', null, h('span', { class: 'chip chip--lvl-' + n.id, text: n.nombre })), h('dd', { text: n.def })])),
@@ -1311,7 +1311,7 @@
           h('li', { text: 'La ausencia de registro en un país no prueba la ausencia de la organización; refleja lo que las fuentes abiertas documentan.' }),
           h('li', { text: 'La presencia extrarregional suele corresponder a emisarios, socios o redes de lavado, no a control territorial.' }),
           h('li', { text: 'Algunas categorías son objeto de controversia (por ejemplo, si una red de funcionarios constituye un cártel jerárquico). Las fichas lo señalan en «Controversias y advertencias».' }),
-          h('li', { text: 'Las designaciones oficiales (por ejemplo, como organización terrorista) son actos políticos y jurídicos de cada Estado; se informan como hechos, sin adoptar su calificación.' }),
+          h('li', { text: 'Las designaciones oficiales (por ejemplo, como organización terrorista) son actos políticos y jurídicos de cada Estado; se informan como hechos, sin adoptar su calificación. La declaración conjunta «Escudo de las Américas» (22 de septiembre de 2026) se registra como declaración política no vinculante, no como designación jurídica.' }),
           h('li', { text: 'La mención de personas como líderes se basa en acusaciones, sanciones o declaraciones oficiales; se trata de presuntos responsables mientras no exista condena.' }),
           h('li', { text: 'El crimen organizado cambia con rapidez: capturas, muertes, escisiones y alianzas pueden alterar este cuadro después de la fecha de corte.' })
         ),
