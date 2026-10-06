@@ -798,8 +798,10 @@
       let k = r;
       if (a3 === 'MEX') k = 'mex';
       else if (r === 'sud') k = ['COL', 'VEN'].includes(a3) ? 'norandino' : ['ECU', 'PER', 'BOL'].includes(a3) ? 'andes' : 'conosur';
-      return ANCLAS[k] || [0, 0];
+      const a = ANCLAS[k] || [0, 0];
+      return [a[0] * escala, a[1] * escala];
     }
+    let escala = 1;
 
     function datos() {
       const orgs = A.orgs.filter(orgPasa);
@@ -875,14 +877,17 @@
           l.curv = arr.length > 1 ? (i - (arr.length - 1) / 2) * 26 : 0;
         })
       );
+      // Separación de las anclas según el tamaño del contenedor, para que el grafo quepa sin reducir las etiquetas.
+      const caja = svg.node().getBoundingClientRect();
+      escala = Math.max(0.55, Math.min(1, (caja.width || 1200) / 1300, (caja.height || 800) / 950));
       if (sim) sim.stop();
       sim = d3
         .forceSimulation(nodes)
         .force('link', d3.forceLink(links).id((d) => d.id).distance((l) => (l.v.tipo === 'escision' ? 70 : 120)).strength(0.12))
         .force('charge', d3.forceManyBody().strength((d) => (d.ext ? -260 : -520)).distanceMax(420))
         .force('collide', d3.forceCollide().radius((d) => d.r + 10 + Math.min(d.label.length, 24) * 2.6).strength(0.9))
-        .force('x', d3.forceX((d) => ancla(d)[0]).strength(0.28))
-        .force('y', d3.forceY((d) => ancla(d)[1]).strength(0.3))
+        .force('x', d3.forceX((d) => ancla(d)[0]).strength(0.5))
+        .force('y', d3.forceY((d) => ancla(d)[1]).strength(0.5))
         .stop();
       const fresh = nodes.some((n) => n.x === undefined);
       if (!fresh) sim.alpha(0.2);
