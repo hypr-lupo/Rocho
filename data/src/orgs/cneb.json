@@ -198,10 +198,11 @@
     {
       "destino": "lobos",
       "tipo": "alianza",
-      "descripcion": "El Ministerio de Defensa de Ecuador afirmó el 2 de octubre de 2026 que Los Lobos y una facción de Comandos de la Frontera tienen una alianza en Orellana para la minería ilegal de oro; el Ejército ecuatoriano ya había señalado esa alianza tras la emboscada de mayo de 2025, y Crisis Group la vincula también con la exportación de cocaína por el Pacífico.",
+      "descripcion": "El Ministerio de Defensa de Ecuador informó el 2 de octubre de 2026, tras un operativo en Orellana en el que las Fuerzas Armadas abatieron a cinco presuntos integrantes de ambos grupos, que Los Lobos y una facción de Comandos de la Frontera tienen una alianza en esa provincia para la minería ilegal de oro; el Ejército ecuatoriano ya había señalado esa alianza tras la emboscada de mayo de 2025, y Crisis Group la vincula también con la exportación de cocaína por el Pacífico.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s14",
+        "s26",
         "s15",
         "s17"
       ],
@@ -215,6 +216,16 @@
       "fuente_ids": [
         "s1",
         "s14"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "ext-frente-oliver-sinisterra",
+      "tipo": "alianza",
+      "descripcion": "Según la Policía ecuatoriana, citada por EFE en enero de 2024, Carlos Arturo Landázuri, alias Gringo, comandante del Frente Oliver Sinisterra entregado a Colombia ese mes, creó una alianza criminal con la Coordinadora Guerrillera del Pacífico, que desde noviembre de 2024 forma parte de la CNEB. Ambos grupos operan en Tumaco (Nariño) y en la provincia ecuatoriana de Esmeraldas. La alianza es anterior a la creación de la CNEB y no hay reportes posteriores que confirmen su continuidad.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s27"
       ],
       "confianza": "media"
     }
@@ -424,7 +435,7 @@
       "id": "s23",
       "titulo": "Gobierno autoriza extradición de alias 'Allende' y 'Larry Changa'",
       "editor": "El Nuevo Siglo",
-      "fecha": "2026-09-22",
+      "fecha": "2026-09-23",
       "url": "https://www.elnuevosiglo.com.co/politica/gobierno-autoriza-extradicion-de-alias-allende-y-larry-changa",
       "categoria": "prensa",
       "verificada": true
@@ -444,6 +455,24 @@
       "editor": "El Espectador",
       "fecha": "2026-09-28",
       "url": "https://www.elespectador.com/judicial/de-la-espriella-lanza-ofensiva-contra-segunda-marquetalia-y-dice-que-va-por-ivan-marquez/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s26",
+      "titulo": "FF.AA. de Ecuador abaten a 5 presuntos miembros de Los Lobos y disidencias de las FARC",
+      "editor": "EFE (vía Swissinfo)",
+      "fecha": "2026-10-02",
+      "url": "https://www.swissinfo.ch/spa/ff%2eaa%2e-de-ecuador-abaten-a-5-presuntos-miembros-de-los-lobos-y-disidencias-de-las-farc/92158290",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s27",
+      "titulo": "Ecuador entrega a Colombia al líder del Frente Oliver Sinisterra, disidencia de las FARC",
+      "editor": "EFE (vía Yahoo Noticias)",
+      "fecha": "2024-01-23",
+      "url": "https://es-us.noticias.yahoo.com/ecuador-entrega-colombia-l%C3%ADder-frente-041500497.html",
       "categoria": "prensa",
       "verificada": true
     }

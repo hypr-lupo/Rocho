@@ -121,8 +121,8 @@
       ]
     },
     {
-      "autoridad": "Escudo de las Américas (declaración conjunta de EE. UU. y otros 14 gobiernos)",
-      "categoria": "Grupo narcoterrorista objeto de la primera acción conjunta: los firmantes declararon su intención de congelar activos, restringir visados y sancionar penalmente el apoyo material (declaración no vinculante)",
+      "autoridad": "Estados Unidos y 14 gobiernos de América Latina y el Caribe (declaración conjunta «Escudo de las Américas»)",
+      "categoria": "Declaración política no vinculante: inclusión entre 24 grupos objeto de sanciones coordinadas (congelamiento de activos, restricción de visas y sanción del apoyo material)",
       "fecha": "2026-09-22",
       "fuente_ids": [
         "s18"
@@ -172,7 +172,7 @@
         "robo",
         "trata"
       ],
-      "nota": "Su núcleo histórico está en Manabí, en particular Manta, aunque desde 2025 pierde terreno frente a Los Lobos en esa provincia. Según la OFAC, una red pesquera de Manta vinculada a Los Choneros y a Los Lobos reabastece lanchas rápidas con combustible subsidiado, y uno de sus operadores coordinó envíos de 30 a 40 toneladas mensuales de cocaína hacia Centroamérica y México. El 24 de septiembre de 2026 el Ejército incautó media tonelada de cocaína en Santa Elena y detuvo a cinco presuntos integrantes. En septiembre de 2026 el Departamento de Estado prohibió la entrada en EE. UU. a siete exfuncionarios ecuatorianos, entre ellos jueces y un exdirector penitenciario, por aceptar sobornos de bandas vinculadas a Los Choneros. Desde marzo de 2026 las Fuerzas Armadas ecuatorianas realizan operaciones conjuntas con fuerzas de EE. UU.",
+      "nota": "Su núcleo histórico está en Manabí, en particular Manta, aunque desde 2025 pierde terreno frente a Los Lobos en esa provincia. Según la OFAC, una red pesquera de Manta vinculada a Los Choneros y a Los Lobos reabastece lanchas rápidas con combustible subsidiado, y uno de sus operadores coordinó envíos de 30 a 40 toneladas mensuales de cocaína hacia Centroamérica y México. El 24 de septiembre de 2026 el Ejército incautó media tonelada de cocaína en Santa Elena y detuvo a cinco presuntos integrantes. Ese mismo día la Policía, con apoyo del Comando Sur, desarticuló una red de acopio y envío de cocaína con más de 30 detenidos en Guayas, Los Ríos y El Oro: el Ministerio del Interior la vinculó directamente al CJNG y negó vínculos con bandas locales, y la Embajada de EE. UU. la presentó como una operación contra Los Choneros. En septiembre de 2026 el Departamento de Estado prohibió la entrada en EE. UU. a siete exfuncionarios ecuatorianos, entre ellos jueces y un exdirector penitenciario, por aceptar sobornos de bandas vinculadas a Los Choneros. Desde marzo de 2026 las Fuerzas Armadas ecuatorianas realizan operaciones conjuntas con fuerzas de EE. UU.",
       "fuente_ids": [
         "s1",
         "s4",
@@ -189,7 +189,8 @@
         "s34",
         "s37",
         "s38",
-        "s42"
+        "s42",
+        "s43"
       ],
       "confianza": "alta"
     },
@@ -285,12 +286,13 @@
     {
       "destino": "cjng",
       "tipo": "suministro",
-      "descripcion": "El Departamento de Estado vincula a Los Choneros tanto con Sinaloa como con el CJNG. Según la OFAC, la red pesquera de Manta que apoya a Los Choneros envía cocaína hacia México, donde la trasladan el Cártel de Sinaloa y el CJNG. En septiembre de 2026 el Gobierno ecuatoriano atribuyó alianzas con el CJNG a alias Charlie, presunto cabecilla abatido. Es una relación secundaria y no consolidada frente a la alianza con Sinaloa.",
+      "descripcion": "El Departamento de Estado vincula a Los Choneros tanto con Sinaloa como con el CJNG. Según la OFAC, la red pesquera de Manta que apoya a Los Choneros envía cocaína hacia México, donde la trasladan el Cártel de Sinaloa y el CJNG. En septiembre de 2026 el Gobierno ecuatoriano atribuyó alianzas con el CJNG a alias Charlie, presunto cabecilla abatido. Sobre la red desarticulada el 24 de septiembre de 2026, con más de 30 detenidos, las fuentes discrepan: el ministro del Interior, John Reimberg, afirmó que tenía relación directa con el CJNG y ningún vínculo con bandas locales, mientras la Embajada de EE. UU. la presentó como una operación contra Los Choneros. Es una relación secundaria y no consolidada frente a la alianza con Sinaloa.",
       "vigencia": "incierta",
       "fuente_ids": [
         "s2",
         "s15",
-        "s4"
+        "s4",
+        "s43"
       ],
       "confianza": "baja",
       "desde": "choneros"
@@ -322,11 +324,13 @@
     {
       "destino": "emc",
       "tipo": "alianza",
-      "descripcion": "Según un informe de Amazon Watch (2025) citado por Primicias, Los Choneros operan en la Amazonía en alianza con el Frente Carolina Ramírez, que el Gobierno colombiano e InSight Crime ubican en el EMC. El Colombiano (septiembre de 2026) menciona además alianzas con el Bloque Occidental del EMC para el transporte y acopio de cocaína.",
+      "descripcion": "Según un informe de Amazon Watch y Amazon Underworld (2025) citado por Primicias, Los Choneros operan en la Amazonía en alianza con el Frente Carolina Ramírez. En 2026 el Gobierno colombiano e InSight Crime ubican ese frente en el EMC de Iván Mordisco (Bloque Amazonas), aunque algunos reportes vinculaban parte de él al EMBF desde 2024. El Colombiano (septiembre de 2026) menciona además alianzas con el Bloque Occidental del EMC para el transporte y acopio de cocaína.",
       "vigencia": "incierta",
       "fuente_ids": [
         "s22",
-        "s10"
+        "s10",
+        "s44",
+        "s45"
       ],
       "confianza": "baja"
     },
@@ -364,11 +368,12 @@
     {
       "destino": "ext-tiguerones",
       "tipo": "alianza",
-      "descripcion": "Antiguos aliados reunificados según InSight Crime. En 2026 la facción Fénix de Los Tiguerones se alinea con Las Águilas, facción de Los Choneros, mientras la facción Igualitos se acerca a Los Lobos.",
+      "descripcion": "Según InSight Crime, Los Tiguerones, que habían combatido a Los Choneros dentro de la coalición Nueva Generación, se aliaron en 2023 con ellos y con los Chone Killers contra Los Lobos, en especial en Esmeraldas. En 2026 la facción Fénix de Los Tiguerones se alinea con Las Águilas, facción de Los Choneros, mientras la facción Igualitos se acerca a Los Lobos.",
       "vigencia": "incierta",
       "fuente_ids": [
         "s1",
-        "s17"
+        "s17",
+        "s46"
       ],
       "confianza": "baja"
     },
@@ -393,9 +398,34 @@
       ],
       "confianza": "media",
       "desde": "ext-frente-oliver-sinisterra"
+    },
+    {
+      "destino": "ext-tiguerones",
+      "tipo": "escision",
+      "desde": "choneros",
+      "descripcion": "Los Tiguerones surgieron en Guayaquil como facción de Los Choneros, bajo el mando de William Alcívar, alias Negro Willy, y con fuerte implantación en Esmeraldas. Se independizaron tras el asesinato de Rasquiña en diciembre de 2020 y se sumaron a la coalición Nueva Generación junto a Los Lobos y los Chone Killers.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s46",
+        "s17"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "ext-chone-killers",
+      "tipo": "escision",
+      "desde": "choneros",
+      "descripcion": "Según el Departamento de Estado, los Chone Killers se originaron como facción de Los Choneros y se separaron en 2020. InSight Crime precisa que el grupo existía antes en Durán como facción de los Ñetas, adoptó el nombre bajo la confederación de Rasquiña y actúa con autonomía desde el asesinato de este en 2020.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s47",
+        "s48",
+        "s17"
+      ],
+      "confianza": "alta"
     }
   ],
-  "notas_controversia": "El vínculo de las embarcaciones pesqueras interceptadas y hundidas por fuerzas de EE. UU. con Los Choneros está en disputa. En septiembre de 2026 jueces de Manta y de Galápagos liberaron a 56 tripulantes por falta de indicios y otros 32 fueron procesados por asociación ilícita con medidas alternativas a la prisión; el juez de Manta señaló que los barcos se hundieron \"sin autorización\" y que \"se destruyó la escena\". Según The Washington Post, citado por DW y El Comercio, ataques previos contra pesqueros cerca de Galápagos (enero a marzo de 2026) habrían formado parte de una operación encubierta de la CIA; EE. UU. y Ecuador no los han reconocido. La relación con el CJNG descansa en señalamientos oficiales puntuales y contrasta con la alianza histórica con Sinaloa. Las fuentes discrepan sobre la relación actual con Chone Killers y Tiguerones: InSight Crime los describe como antiguos aliados reunificados cuyos lazos se debilitan, mientras la inteligencia policial citada por Infobae los muestra fragmentados en facciones alineadas con uno u otro bando. También discrepan sobre los Comandos de la Frontera: InSight Crime, Crisis Group y la Policía ecuatoriana describen enfrentamientos, mientras El Colombiano menciona alianzas. La filiación del Frente Carolina Ramírez, señalado como aliado de Los Choneros, es objeto de discrepancia: el Gobierno colombiano e InSight Crime lo ubican en el EMC, y algunos reportes vinculan parte de él al EMBF desde 2024. La presencia en Perú se basa en declaraciones de autoridades regionales y en hechos aislados. InSight Crime advierte que la organización podría dejar de funcionar como red unificada de alcance nacional.",
+  "notas_controversia": "El vínculo de las embarcaciones pesqueras interceptadas y hundidas por fuerzas de EE. UU. con Los Choneros está en disputa. En septiembre de 2026 jueces de Manta y de Galápagos liberaron a 56 tripulantes por falta de indicios y otros 32 fueron procesados por asociación ilícita con medidas alternativas a la prisión; el juez de Manta señaló que los barcos se hundieron \"sin autorización\" y que \"se destruyó la escena\". Según The Washington Post, citado por DW y El Comercio, ataques previos contra pesqueros cerca de Galápagos (enero a marzo de 2026) habrían formado parte de una operación encubierta de la CIA; EE. UU. y Ecuador no los han reconocido. La relación con el CJNG descansa en señalamientos oficiales puntuales y contrasta con la alianza histórica con Sinaloa. Sobre la red desarticulada el 24 de septiembre de 2026, el Ministerio del Interior ecuatoriano afirmó que tenía relación directa con el CJNG y ningún vínculo con bandas locales, mientras la Embajada de EE. UU. la describió como una operación contra Los Choneros. Las fuentes discrepan sobre la relación actual con Chone Killers y Tiguerones: InSight Crime los describe como antiguos aliados reunificados cuyos lazos se debilitan, mientras la inteligencia policial citada por Infobae los muestra fragmentados en facciones alineadas con uno u otro bando. También discrepan sobre los Comandos de la Frontera: InSight Crime, Crisis Group y la Policía ecuatoriana describen enfrentamientos, mientras El Colombiano menciona alianzas. La filiación del Frente Carolina Ramírez, señalado como aliado de Los Choneros, es objeto de discrepancia: el Gobierno colombiano e InSight Crime lo ubican en el EMC, y algunos reportes vinculan parte de él al EMBF desde 2024. La presencia en Perú se basa en declaraciones de autoridades regionales y en hechos aislados. InSight Crime advierte que la organización podría dejar de funcionar como red unificada de alcance nacional.",
   "confianza_general": "alta",
   "fuentes": [
     {
@@ -756,6 +786,60 @@
       "fecha": "2026-08-27",
       "url": "https://www.infobae.com/america/agencias/2026/08/27/detenidos-en-ecuador-43-integrantes-de-las-bandas-criminales-de-los-choneros-y-los-lobos/",
       "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s43",
+      "titulo": "Desmantelan red ligada al CJNG en Ecuador: capturan a más de 30 personas relacionadas con el tráfico de drogas",
+      "editor": "Infobae",
+      "fecha": "2026-09-24",
+      "url": "https://www.infobae.com/america/agencias/2026/09/24/ecuador-y-eeuu-desarticulan-banda-presuntamente-ligada-al-cartel-jalisco-nueva-generacion/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s44",
+      "titulo": "Tres bombardeos en tres semanas: Ofensiva militar deja más de 20 criminales dados de baja y cuatro menores muertos",
+      "editor": "El Colombiano",
+      "fecha": "2026-09-01",
+      "url": "https://www.elcolombiano.com/colombia/tres-bombardeos-gobierno-abelardo-muertos-operaciones-eln-disidencias-resultados-CB40507225",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s45",
+      "titulo": "Central General Staff - FARC Dissidents",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-01",
+      "url": "https://insightcrime.org/colombia-organized-crime-news/ex-farc-mafia-central-general-staff/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s46",
+      "titulo": "Tiguerones (perfil)",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-17",
+      "url": "https://insightcrime.org/ecuador-organized-crime-news/tiguerones/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s47",
+      "titulo": "Terrorist Designation of Chone Killers",
+      "editor": "U.S. Department of State",
+      "fecha": "2026-07-01",
+      "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/terrorist-designation-of-chone-killers",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s48",
+      "titulo": "The InSight Take: Los Chone Killers, el nuevo grupo en la lista de organizaciones terroristas de EE. UU.",
+      "editor": "InSight Crime",
+      "fecha": "2026-07-06",
+      "url": "https://insightcrime.org/es/noticias/insight-take-chone-killers-nuevo-grupo-lista-organizaciones-terroristas-ee-uu/",
+      "categoria": "investigacion",
       "verificada": true
     }
   ]

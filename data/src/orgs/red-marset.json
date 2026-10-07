@@ -210,6 +210,22 @@
         "s15"
       ],
       "confianza": "alta"
+    },
+    {
+      "pais": "COL",
+      "nivel": "limitada",
+      "zonas": [
+        "Medellín (Antioquia)"
+      ],
+      "delitos": [
+        "cocaina"
+      ],
+      "nota": "No se documenta una estructura propia de la red en Colombia. Según InSight Crime, la acusación sustitutiva de EE. UU. (junio de 2026) acusa a Marset de trabajar con el Clan del Golfo y describe a un colombiano no acusado que facilitaba acuerdos entre Marset y compradores europeos de cocaína. El 9 de septiembre de 2026 la Fiscalía, con apoyo de la DEA, capturó en Medellín a Daniel Uribe Jaramillo, señalado como integrante del componente logístico y financiero del Clan del Golfo y con presuntos nexos con la red de Marset. Su presunta implicación en el asesinato del fiscal paraguayo Marcelo Pecci en Colombia (2022) no está probada.",
+      "confianza": "media",
+      "fuente_ids": [
+        "s17",
+        "s20"
+      ]
     }
   ],
   "vinculos": [

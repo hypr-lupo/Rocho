@@ -10,7 +10,7 @@
   "pais_origen": "COL",
   "fundacion": "Julio de 1964 en Santander (Colombia), como guerrilla marxista-leninista inspirada en la Revolución cubana; su primera acción armada fue en Simacota el 7 de enero de 1965.",
   "resumen": "Es la última insurgencia activa de Colombia y una organización binacional con estructuras estables en Venezuela. Aunque mantiene un discurso político, sus frentes dependen cada vez más del narcotráfico, la minería ilegal, la extorsión y el secuestro, y controlan enclaves cocaleros como el Catatumbo. Su relación con sectores del Estado venezolano le dio retaguardia y rutas de exportación.",
-  "situacion_actual": "La mesa de diálogo con el gobierno de Gustavo Petro está suspendida desde enero de 2025, cuando el ELN lanzó una ofensiva contra el Frente 33 de las disidencias en el Catatumbo. El gobierno de Abelardo de la Espriella, que asumió el 7 de agosto de 2026, bombardeó el 11 de agosto un campamento del Frente de Guerra Nororiental entre San Calixto y Tibú, y el 9 de septiembre revocó la designación de toda la delegación oficial en la mesa (Resolución 391). Tras el atentado con taxi bomba contra la estación de Policía de Los Patios (31 de agosto) y el ataque con drones contra el Cantón Militar El Trapiche de Ocaña (4 de septiembre), atribuidos al ELN, el Ministerio de Defensa reactivó el 5 de septiembre la campaña militar y policial 'Esparta'. El 15 de septiembre el Ejército rescató a ocho secuestrados en el Catatumbo. El 28 de septiembre un juez de Antioquia condenó en ausencia a 11 integrantes, entre ellos 'Antonio García', 'Pablo Beltrán' y 'Pablito', del COCE, y el excomandante 'Gabino', por rebelión agravada y reclutamiento ilícito de 60 menores entre 2004 y 2018; la decisión fue apelada. En Venezuela, tras la captura de Nicolás Maduro por EE. UU. el 3 de enero de 2026, el ELN bajó su perfil, pero sigue presente en al menos ocho estados. En septiembre de 2026 hubo un despliegue militar venezolano en la zona minera de Los Pijiguaos (Bolívar), donde opera el ELN, y un combate con la GNB en Junín (Táchira), el primero reportado entre ambos desde la llegada de De la Espriella al poder. No se han reportado capturas ni muertes de integrantes del COCE a la fecha de corte.",
+  "situacion_actual": "La mesa de diálogo con el gobierno de Gustavo Petro está suspendida desde enero de 2025, cuando el ELN lanzó una ofensiva contra el Frente 33 de las disidencias en el Catatumbo. El gobierno de Abelardo de la Espriella, que asumió el 7 de agosto de 2026, bombardeó la noche del 10 de agosto un campamento del Frente de Guerra Nororiental entre Tibú y San Calixto, en una operación que, según El Tiempo citado por El Colombiano, habría dejado ocho muertos, entre ellos un menor de 16 años. El 9 de septiembre el gobierno revocó la designación de toda la delegación oficial en la mesa (Resolución 391). Tras el atentado con taxi bomba contra la estación de Policía de Los Patios (31 de agosto) y el ataque con drones contra el Cantón Militar El Trapiche de Ocaña (4 de septiembre), atribuidos al ELN, el Ministerio de Defensa reactivó el 5 de septiembre la campaña militar y policial 'Esparta'. El 15 de septiembre el Ejército rescató a ocho secuestrados en el Catatumbo. El 22 de septiembre EE. UU. y otros 14 gobiernos de la coalición Escudo de las Américas incluyeron al ELN entre 24 grupos objeto de sanciones coordinadas. El 28 de septiembre un juez de Antioquia condenó en ausencia a 11 integrantes, entre ellos 'Antonio García', 'Pablo Beltrán' y 'Pablito', del COCE, y el excomandante 'Gabino', por rebelión agravada y reclutamiento ilícito de 60 menores entre 2004 y 2018; la decisión fue apelada. En Venezuela, tras la captura de Nicolás Maduro por EE. UU. el 3 de enero de 2026, el ELN bajó su perfil, pero sigue presente en al menos ocho estados. En septiembre de 2026 hubo un despliegue militar venezolano en la zona minera de Los Pijiguaos (Bolívar), donde opera el ELN, y un combate con la GNB en Junín (Táchira), el primero reportado entre ambos desde la llegada de De la Espriella al poder. No se han reportado capturas ni muertes de integrantes del COCE a la fecha de corte.",
   "estructura": "La dirección es el Comando Central (COCE), de cinco integrantes y encabezado por 'Antonio García'; por debajo está la Dirección Nacional (DINAL), con 23 representantes elegidos por los frentes. Opera como una federación de ocho frentes de guerra con unas 33 subestructuras y mucha autonomía operativa, entre ellos el Nororiental en el Catatumbo, el Oriental en Arauca y los frentes del Pacífico. Según cifras oficiales de 2025 citadas por InSight Crime, tiene unos 6.300 integrantes entre combatientes y redes de apoyo, alrededor del 20 % en Venezuela. El Ministerio de Defensa estimó en 2024 entre 2.300 y 2.800 combatientes armados. Tiene presencia en 149 a 184 municipios de 19 departamentos y en ocho estados venezolanos.",
   "lideres": [
     {
@@ -68,11 +68,29 @@
       ]
     },
     {
-      "autoridad": "Consejo de la Unión Europea",
-      "categoria": "Lista de personas, grupos y entidades terroristas de la UE (Posición Común 2001/931/PESC); listado mantenido en la Decisión (PESC) 2026/455 del 26 de febrero de 2026 y en la revisión de la Decisión (PESC) 2026/1882",
-      "fecha": "2026-07-30",
+      "autoridad": "Gobierno de Canadá (Public Safety Canada)",
+      "categoria": "Entidad terrorista listada (Código Penal); última revisión el 7 de junio de 2024",
+      "fecha": "2003-04-02",
       "fuente_ids": [
+        "s33"
+      ]
+    },
+    {
+      "autoridad": "Consejo de la Unión Europea",
+      "categoria": "Lista de personas, grupos y entidades terroristas de la UE (Posición Común 2001/931/PESC); incluido por la Decisión 2004/306/CE del 2 de abril de 2004 y mantenido en las revisiones posteriores, la más reciente la Decisión (PESC) 2026/1882 del 30 de julio de 2026",
+      "fecha": "2004-04-02",
+      "fuente_ids": [
+        "s34",
         "s21"
+      ]
+    },
+    {
+      "autoridad": "Estados Unidos y 14 gobiernos de América Latina y el Caribe (declaración conjunta «Escudo de las Américas»)",
+      "categoria": "Declaración política no vinculante: inclusión entre 24 grupos objeto de sanciones coordinadas (congelamiento de activos, restricción de visas y sanción del apoyo material)",
+      "fecha": "2026-09-22",
+      "fuente_ids": [
+        "s36",
+        "s37"
       ]
     }
   ],
@@ -123,7 +141,8 @@
         "s12",
         "s26",
         "s27",
-        "s18"
+        "s18",
+        "s35"
       ],
       "confianza": "alta"
     },
@@ -213,11 +232,12 @@
     {
       "destino": "segunda-marquetalia",
       "tipo": "rivalidad",
-      "descripcion": "La alianza que mantenían desde 2018 en Apure y Amazonas y en el suroccidente de Colombia se rompió cuando el ELN emboscó y mató a mediados de agosto de 2025, en la frontera entre Apure y Amazonas, a 'Zarco Aldinever', segundo al mando de la Segunda Marquetalia.",
+      "descripcion": "Desde 2018 mantenían acuerdos de no agresión y de reparto de rentas en la frontera colombo-venezolana, sobre todo en Apure y Amazonas, además de una alianza contra el EMC en el suroccidente de Colombia y otra del Frente de Guerra Oriental con la Segunda Marquetalia para la minería ilegal en Guainía, Vichada y Meta. La alianza se rompió cuando el ELN emboscó y mató a mediados de agosto de 2025, en la frontera entre Apure y Amazonas, a 'Zarco Aldinever', segundo al mando de la Segunda Marquetalia, en una disputa por zonas mineras del sur de Venezuela.",
       "vigencia": "incierta",
       "fuente_ids": [
         "s1",
-        "s2"
+        "s2",
+        "s32"
       ],
       "confianza": "media"
     },
@@ -237,11 +257,12 @@
       "destino": "sinaloa",
       "tipo": "suministro",
       "desde": "eln",
-      "descripcion": "El ELN garantiza la producción y el acceso a la cocaína en zonas como el Catatumbo, y emisarios mexicanos, entre ellos los del Cártel de Sinaloa, la compran y la transportan. InSight Crime lo describe como una alianza entre socios y no como subordinación.",
+      "descripcion": "El ELN garantiza la producción y el acceso a la cocaína en zonas como el Catatumbo, y emisarios mexicanos, entre ellos los del Cártel de Sinaloa, la compran y la transportan. InSight Crime lo describe como una alianza entre socios y no como subordinación. Brookings (junio de 2026) señala que el Cártel de Sinaloa suele alinearse con las disidencias de las FARC y con el ELN, aunque esas alianzas locales son fluidas y no exclusivas.",
       "vigencia": "incierta",
       "fuente_ids": [
         "s19",
-        "s18"
+        "s18",
+        "s29"
       ],
       "confianza": "alta"
     },
@@ -268,6 +289,26 @@
         "s1"
       ],
       "confianza": "alta"
+    },
+    {
+      "destino": "embf",
+      "tipo": "alianza",
+      "descripcion": "En el Bajo Cauca, Antioquia y el Magdalena Medio, frentes del EMBF mantienen alianzas tácticas con el ELN para resistir la expansión del Clan del Golfo en zonas mineras, en paralelo con la guerra entre ambos en el Catatumbo.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s30"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "tren-de-aragua",
+      "tipo": "rivalidad",
+      "descripcion": "Choques desde 2018 con el Tren de Aragua por el control de los pasos clandestinos (trochas) de la frontera entre Táchira y Norte de Santander. No hay reportes recientes.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s31"
+      ],
+      "confianza": "media"
     }
   ],
   "notas_controversia": "Las estimaciones de tamaño no coinciden: 2.300 a 2.800 combatientes según el Ministerio de Defensa (2024), hasta unos 3.000 según fuentes no oficiales citadas por la EUAA y unos 6.300 integrantes, entre combatientes y redes de apoyo, según cifras oficiales de 2025 citadas por InSight Crime. En Venezuela las cifras van de 250 a 300 combatientes en campamentos fronterizos (Semana, enero de 2026) a unos 2.500 (ABC, citado por la EUAA). Las autoridades venezolanas niegan oficialmente la presencia del ELN. En enero de 2026 Semana publicó, con base en documentos de inteligencia, que EE. UU. y Venezuela coordinarían una operación contra el ELN en suelo venezolano; no hay confirmación oficial de que se haya ejecutado. Petro afirmó que el Cártel de Sinaloa era 'el jefe' del ELN, pero InSight Crime lo describe como una relación de socios. El perfil de InSight Crime fecha en 'enero de 2026' el colapso del pacto con el Frente 33 y en 'enero de 2025' la captura de Maduro, mientras otros pasajes y la EUAA sitúan la ofensiva del Catatumbo en enero de 2025; aquí se usan enero de 2025 para la ofensiva y enero de 2026 para la captura de Maduro. Las autoridades y la prensa colombianas presentan a 'Silvana Guerrero' como comandante del Frente de Guerra Nororiental, mientras InSight Crime atribuye ese mando a Leonel Salazar Roa, 'Gonzalo Satélite'. Hay reportes de prensa sobre presencia del ELN en la frontera norte de Ecuador (Carchi, Esmeraldas), pero no pudieron corroborarse y no se incluyó ese país.",
@@ -522,6 +563,87 @@
       "editor": "InSight Crime",
       "fecha": "2026-09-14",
       "url": "https://insightcrime.org/colombia-organized-crime-news/urabenos-profile/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s29",
+      "titulo": "The spiking threat: Mexican cartels in Europe, Canada, Africa, the Asia-Pacific, and Latin America",
+      "editor": "Brookings Institution",
+      "fecha": "2026-06-24",
+      "url": "https://www.brookings.edu/articles/the-spiking-threat-mexican-cartels-in-europe-canada-africa-the-asia-pacific-and-latin-america/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s30",
+      "titulo": "General Staff of Blocks and Front (EMBF)",
+      "editor": "InSight Crime",
+      "fecha": "2026-06-09",
+      "url": "https://insightcrime.org/colombia-organized-crime-news/general-staff-of-blocks-and-front-embf/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s31",
+      "titulo": "Tren de Aragua (perfil criminal)",
+      "editor": "InSight Crime",
+      "fecha": "2026-07-29",
+      "url": "https://insightcrime.org/venezuela-organized-crime-news/tren-de-aragua/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s32",
+      "titulo": "FARC Dissidents in Venezuela",
+      "editor": "InSight Crime",
+      "fecha": "2026-08-14",
+      "url": "https://insightcrime.org/venezuela-organized-crime-news/farc-in-venezuela/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s33",
+      "titulo": "Currently listed entities",
+      "editor": "Public Safety Canada",
+      "fecha": "2025-09-29",
+      "url": "https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s34",
+      "titulo": "2004/306/EC: Council Decision of 2 April 2004 implementing Article 2(3) of Regulation (EC) No 2580/2001 (lista terrorista de la UE)",
+      "editor": "Consejo de la Unión Europea (EUR-Lex)",
+      "fecha": "2004-04-02",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004D0306",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s35",
+      "titulo": "Tres bombardeos en tres semanas: Ofensiva militar deja más de 20 criminales dados de baja y cuatro menores muertos",
+      "editor": "El Colombiano",
+      "fecha": "2026-09-01",
+      "url": "https://www.elcolombiano.com/colombia/tres-bombardeos-gobierno-abelardo-muertos-operaciones-eln-disidencias-resultados-CB40507225",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s36",
+      "titulo": "Joint Statement on Defending Hemispheric Sovereignty (Escudo de las Américas)",
+      "editor": "Departamento de Estado de EE. UU.",
+      "fecha": "2026-09-22",
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/joint-statement-on-defending-hemispheric-sovereignty/",
+      "categoria": "oficial",
+      "verificada": false
+    },
+    {
+      "id": "s37",
+      "titulo": "Shield of the Americas Blacklists 24 Criminal Groups | On the Radar",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-24",
+      "url": "https://insightcrime.org/news/shield-of-the-americas-blacklists-24-criminal-groups-on-the-radar/",
       "categoria": "investigacion",
       "verificada": true
     }

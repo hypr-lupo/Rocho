@@ -12,29 +12,32 @@
   "pais_origen": "COL",
   "fundacion": "Viene del Bloque Resistencia Tayrona de las AUC de Hernán Giraldo, desmovilizado en 2006. Se consolidó como 'Los Pachenca' hacia 2013 bajo Jesús María Aguirre Gallego, 'Chucho Mercancía'. Tras la muerte de este en 2019 adoptó el nombre ACSN bajo el mando de Deimer Patiño Giraldo, alias '80', y desde 2020 lo dirigen los hermanos Castillo Carrillo.",
   "resumen": "Es un grupo armado de origen paramilitar, arraigado en la Sierra Nevada de Santa Marta, que controla corredores de cocaína hacia el Caribe y redes de extorsión en Magdalena, La Guajira y Cesar. Ejerce gobernanza criminal sobre comunidades, el turismo y el mercado de tierras. Protege y da logística a envíos de cocaína que salen por puertos y aeropuertos de la región. Mantiene una guerra con el EGC por el control de la Sierra Nevada.",
-  "situacion_actual": "El gobierno colombiano lo clasificó como Grupo Armado Organizado el 8 de agosto de 2025, lo que permite operaciones militares, incluidos bombardeos, bajo el DIH. El gobierno de Gustavo Petro mantuvo el espacio sociojurídico: la Fiscalía prorrogó el 20 de noviembre de 2025 la suspensión de las órdenes de captura de sus voceros y el 18 de febrero de 2026 las partes firmaron un acuerdo de desescalamiento. El gobierno de Abelardo de la Espriella terminó ese espacio con las resoluciones 348, 349 y 350 del 28 de agosto de 2026, que la Presidencia divulgó el 1 de octubre; la Fiscalía reactivó el 1 de septiembre las órdenes de captura de seis voceros (Resolución 0-0263), y el presidente firmó la extradición a EE. UU. de 'Muñeca', detenido desde 2024. La Policía abatió a 'Bendito Menor', jefe del frente Javier Cáceres, el 4 de septiembre en Riohacha, y a 'Cholo', segundo al mando, el 21 de septiembre en Guachaca (Santa Marta), en una operación con siete muertos y tres capturados. Las ACSN respondieron con un paro armado de 72 horas en Magdalena y La Guajira, que levantaron el 25 de septiembre. El 24 de septiembre las autoridades capturaron a la pareja de 'Pinocho', jefe máximo del grupo, que sigue prófugo y por quien el gobierno ofrece 3.000 millones de pesos. El grupo mantiene su disputa con el EGC.",
+  "situacion_actual": "El gobierno colombiano lo clasificó como Grupo Armado Organizado el 8 de agosto de 2025, lo que permite operaciones militares, incluidos bombardeos, bajo el DIH. El gobierno de Gustavo Petro mantuvo el espacio sociojurídico: la Fiscalía prorrogó el 20 de noviembre de 2025 la suspensión de las órdenes de captura de sus voceros y el 18 de febrero de 2026 las partes firmaron un acuerdo de desescalamiento. El gobierno de Abelardo de la Espriella terminó ese espacio con las resoluciones 348, 349 y 350 del 28 de agosto de 2026, que la Presidencia divulgó el 1 de octubre; la Fiscalía reactivó el 1 de septiembre las órdenes de captura de seis voceros (Resolución 0-0263), y el presidente firmó el 26 de agosto la extradición a EE. UU. de 'Muñeca', detenido desde 2024, y de 'Pinocho', prófugo; la resolución sobre 'Muñeca' se formalizó con el ministro de Justicia el 3 de septiembre. La Policía abatió a 'Bendito Menor', jefe del frente Javier Cáceres, el 4 de septiembre en Riohacha, y a 'Cholo', segundo al mando, el 21 de septiembre en Guachaca (Santa Marta), en una operación con siete muertos y tres capturados. Las ACSN respondieron con un paro armado de 72 horas en Magdalena y La Guajira, que levantaron el 25 de septiembre. El 24 de septiembre las autoridades capturaron a la pareja de 'Pinocho', jefe máximo del grupo, que sigue prófugo y por quien el gobierno ofrece 3.000 millones de pesos. El grupo mantiene su disputa con el EGC.",
   "estructura": "Tiene una comandancia central encabezada por Fredy Castillo Carrillo, 'Pinocho', con un consejo de mando central. Opera por frentes: El Tiempo menciona Cristóbal Duarte (Ciénaga, Aracataca y Fundación), Libardo Vergel (Santa Marta), Javier Cáceres (La Guajira) y Resistencia Campesina (Cesar), además de dos grupos especiales urbanos, y en 2025 citó también el frente Troncal del Caribe; la EUAA, con base en Pares, describe siete estructuras. Según datos de la Fuerza Pública citados por la FIP, en 2026 tenía 594 integrantes (334 armados y 260 en redes de apoyo); cifras oficiales citadas por InSight Crime hablaban de unos 620 a fines de 2025 y otras estimaciones llegan a 1.100. Recluta sobre todo en la región, donde ha nacido hasta el 95 % de sus miembros, y paga salarios. Según la FIP, citada por El Tiempo, la extorsión le deja entre 6.000 y 7.000 millones de pesos al mes.",
   "lideres": [
     {
       "nombre": "Fredy Castillo Carrillo",
       "alias": "Pinocho",
       "rol": "Jefe máximo y financiero",
-      "estado": "Prófugo a 5 de octubre de 2026. El 24 de septiembre las autoridades capturaron a su pareja, alias 'La Mona', y reforzaron la frontera con Venezuela ante una posible fuga; el 27 de septiembre el gobierno anunció una recompensa de 3.000 millones de pesos por información sobre su paradero. El Ministerio de Defensa desmintió que un joven muerto en la operación del 21 de septiembre fuera su hijo.",
+      "estado": "Prófugo a 5 de octubre de 2026. El 26 de agosto de 2026 el presidente De la Espriella firmó su extradición a EE. UU. y ordenó a las autoridades capturarlo para hacerla efectiva. El 24 de septiembre las autoridades capturaron a su pareja, alias 'La Mona', y reforzaron la frontera con Venezuela ante una posible fuga; el 27 de septiembre el gobierno anunció una recompensa de 3.000 millones de pesos por información sobre su paradero. El Ministerio de Defensa desmintió que un joven muerto en la operación del 21 de septiembre fuera su hijo.",
       "fuente_ids": [
         "s1",
         "s9",
         "s21",
         "s22",
-        "s20"
+        "s20",
+        "s23",
+        "s19"
       ]
     },
     {
       "nombre": "Carmen Evelio Castillo Carrillo",
       "alias": "Muñeca",
       "rol": "Cofundador y codirigente",
-      "estado": "Detenido desde su captura en Pereira en junio de 2024. Es requerido por una corte del Distrito Este de Texas; el gobierno Petro dejó su extradición en suspenso mientras actuaba como vocero en el espacio sociojurídico, y el presidente De la Espriella la firmó el 27 de agosto de 2026. A 25 de septiembre seguía recluido en La Picota (Bogotá) a la espera de la entrega.",
+      "estado": "Detenido desde su captura en Pereira en junio de 2024. Es requerido por una corte del Distrito Este de Texas; el gobierno Petro dejó su extradición en suspenso mientras actuaba como vocero en el espacio sociojurídico, y el presidente De la Espriella la firmó el 26 de agosto de 2026 y la formalizó con el ministro de Justicia, Iván Cancino, el 3 de septiembre (El Tiempo sitúa la firma el 27 de agosto). A 25 de septiembre seguía recluido en La Picota (Bogotá) a la espera de la entrega.",
       "fuente_ids": [
         "s1",
+        "s23",
         "s18",
         "s19"
       ]
@@ -358,6 +361,15 @@
       "editor": "El Universal (Cartagena)",
       "fecha": "2026-09-28",
       "url": "https://www.eluniversal.com.co/colombia/2026/09/28/de-la-espriella-lanza-ultimatum-a-alias-pinocho-y-ofrece-millonaria-recompensa/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s23",
+      "titulo": "Presidente De la Espriella firmó extradición de cinco integrantes de grupos ilegales que hicieron parte de los diálogos con el Gobierno Petro",
+      "editor": "El País (Cali)",
+      "fecha": "2026-08-26",
+      "url": "https://www.elpais.com.co/colombia/presidente-de-la-espriella-firmo-extradicion-de-cinco-integrantes-de-grupos-ilegales-que-hicieron-parte-de-los-dialogos-con-el-gobierno-petro-2653.html",
       "categoria": "prensa",
       "verificada": true
     }

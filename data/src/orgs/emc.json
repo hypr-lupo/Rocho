@@ -124,11 +124,13 @@
       ]
     },
     {
-      "autoridad": "EE. UU. y 14 gobiernos de América Latina y el Caribe (declaración conjunta del Escudo de las Américas)",
-      "categoria": "Declaración conjunta no vinculante que incluye a los grupos disidentes de las FARC, con mención expresa de FARC-Estado Mayor Central, entre 24 organizaciones narcoterroristas sujetas a sanciones colectivas (congelamiento de activos, restricciones migratorias y de visado, responsabilidad penal por apoyo material)",
+      "autoridad": "Estados Unidos y 14 gobiernos de América Latina y el Caribe (declaración conjunta «Escudo de las Américas»)",
+      "categoria": "Declaración política no vinculante: inclusión entre 24 grupos objeto de sanciones coordinadas (congelamiento de activos, restricción de visas y sanción del apoyo material)",
       "fecha": "2026-09-22",
       "fuente_ids": [
-        "s25"
+        "s25",
+        "s29",
+        "s30"
       ]
     }
   ],
@@ -255,10 +257,21 @@
     {
       "destino": "clan-del-golfo",
       "tipo": "rivalidad",
-      "descripcion": "Choques en el sur de Bolívar, el sur de Córdoba y Bajo Cauca; InSight Crime menciona también una presunta alianza táctica en Chocó contra el ELN.",
+      "descripcion": "Choques con el Clan del Golfo en el sur de Bolívar, el sur de Córdoba y el Bajo Cauca antioqueño. InSight Crime menciona también una presunta alianza táctica entre ambos en Chocó para contener al ELN.",
       "vigencia": "incierta",
       "fuente_ids": [
         "s1"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "choneros",
+      "tipo": "alianza",
+      "descripcion": "Según un informe de Amazon Watch (2025) citado por Primicias, Los Choneros operan en la Amazonía en alianza con el Frente Carolina Ramírez del EMC, rival de Comandos de la Frontera, en la trifrontera de Colombia, Ecuador y Perú. El Colombiano (septiembre de 2026) menciona además alianzas de Los Choneros con el Bloque Occidental del EMC para el transporte y acopio de cocaína.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s27",
+        "s28"
       ],
       "confianza": "baja"
     }
@@ -488,6 +501,42 @@
       "editor": "Semana",
       "fecha": "2026-10-03",
       "url": "https://www.semana.com/nacion/articulo/ivan-marquez-con-problemas-siquiatricos-y-fisicos-expulsado-de-venezuela-y-refugiado-con-su-lugarteniente-alias-john-40-se-reactiva-la-caceria-al-jefe-de-la-segunda-marquetalia/202610/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s27",
+      "titulo": "Amazonía | Los Choneros se internan en territorio colombiano y se enfrentan con Los Comandos de la Frontera",
+      "editor": "Primicias",
+      "fecha": "2025-09-27",
+      "url": "https://www.primicias.ec/seguridad/amazonia-choneros-territorio-colombiano-comandos-frontera-narcotrafico-mineria-ilegal-106057/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s28",
+      "titulo": "El capo ecuatoriano 'Fito' trasladó su red de testaferros a Colombia: van 4 familiares ubicados",
+      "editor": "El Colombiano",
+      "fecha": "2026-09-28",
+      "url": "https://www.elcolombiano.com/colombia/alias-fito-capo-los-choneros-familiares-red-testaferros-capturados-colombia-ED41601588",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s29",
+      "titulo": "Shield of the Americas Blacklists 24 Criminal Groups | On the Radar",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-24",
+      "url": "https://insightcrime.org/news/shield-of-the-americas-blacklists-24-criminal-groups-on-the-radar/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s30",
+      "titulo": "FARC Dissidents, Clan del Golfo and ELN Are Targets of the Shield of the Americas",
+      "editor": "Colombia One",
+      "fecha": "2026-09-24",
+      "url": "https://colombiaone.com/2026/09/24/farc-dissidents-clan-del-golfo-and-eln-are-targets-of-the-shield-of-the-americas/",
       "categoria": "prensa",
       "verificada": true
     }

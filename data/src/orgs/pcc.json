@@ -112,8 +112,8 @@
       ]
     },
     {
-      "autoridad": "Escudo de las Américas (declaración conjunta de EE. UU. y otros 14 gobiernos)",
-      "categoria": "Grupo narcoterrorista objeto de la primera acción conjunta: los firmantes declararon su intención de congelar activos, restringir visados y sancionar penalmente el apoyo material",
+      "autoridad": "Estados Unidos y 14 gobiernos de América Latina y el Caribe (declaración conjunta «Escudo de las Américas»)",
+      "categoria": "Declaración política no vinculante: inclusión entre 24 grupos objeto de sanciones coordinadas (congelamiento de activos, restricción de visas y sanción del apoyo material)",
       "fecha": "2026-09-22",
       "fuente_ids": [
         "s34",
@@ -220,7 +220,7 @@
         "cocaina",
         "armas"
       ],
-      "nota": "Reúne 146 integrantes según el mapeo del MP-SP (junio de 2025) y es el punto de origen de la cocaína de la ruta Caipira. En Santa Cruz fueron capturados Tuta (mayo de 2025), su socio Sebastián Marset (13-03-2026) y dos presuntos integrantes en septiembre de 2026.",
+      "nota": "Reúne 146 integrantes según el mapeo del MP-SP (junio de 2025) y es el punto de origen de la cocaína de la ruta Caipira. En Santa Cruz fueron capturados Tuta (mayo de 2025), su socio Sebastián Marset (13-03-2026) y dos presuntos integrantes en septiembre de 2026. En agosto de 2026 el Gobierno de Rodrigo Paz atribuyó la ola de violencia en el departamento de Santa Cruz a la disputa entre el PCC y el CV por las rutas del narcotráfico en la frontera con Brasil.",
       "fuente_ids": [
         "s1",
         "s5",
@@ -228,7 +228,8 @@
         "s11",
         "s20",
         "s36",
-        "s40"
+        "s40",
+        "s47"
       ],
       "confianza": "alta"
     },
@@ -560,13 +561,14 @@
     {
       "destino": "cv",
       "tipo": "rivalidad",
-      "descripcion": "Rivalidad nacional desde la ruptura de 2016. La tregua firmada por Marcola y Marcinho VP en febrero de 2025 se declaró terminada el 28 de abril de 2025. Ambos grupos disputan cárceles, mercados urbanos y rutas amazónicas, donde el CV avanza a costa del PCC.",
+      "descripcion": "Rivalidad nacional desde la ruptura de 2016. La tregua firmada por Marcola y Marcinho VP en febrero de 2025 se declaró terminada el 28 de abril de 2025. Ambos grupos disputan cárceles, mercados urbanos y rutas amazónicas, donde el CV avanza a costa del PCC. En agosto de 2026 el Gobierno boliviano atribuyó la ola de violencia en Santa Cruz, con unos diez asesinatos por sicariato en una semana, a la disputa entre el PCC y el CV por las rutas del narcotráfico en la frontera con Brasil.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s11",
         "s12",
         "s18",
-        "s1"
+        "s1",
+        "s47"
       ],
       "confianza": "alta"
     },
@@ -584,12 +586,25 @@
       "desde": "pcc"
     },
     {
-      "destino": "red-marset",
-      "tipo": "alianza",
-      "descripcion": "Marset llevaba la cocaína de Bolivia a Paraguay y a los puertos atlánticos, mientras el PCC y la 'Ndrangheta controlaban el transporte y la distribución en Europa. La vigencia es incierta desde que Marset fue capturado en Bolivia el 13 de marzo de 2026 y entregado a EE. UU.",
+      "destino": "ext-nigerianas",
+      "tipo": "suministro",
+      "desde": "pcc",
+      "descripcion": "Según InSight Crime, que cita a la UNODC y un análisis de GI-TOC, las redes nigerianas de correos no pueden competir con el PCC en São Paulo y han llegado a acuerdos con él. La cocaína que transportan procede de grupos criminales brasileños, sale por el aeropuerto de Guarulhos hacia Lagos y desde allí se redistribuye a otros países de África, a Europa y a Asia. La fuente es de 2023, por lo que la vigencia es incierta.",
       "vigencia": "incierta",
       "fuente_ids": [
-        "s20"
+        "s44"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "red-marset",
+      "tipo": "alianza",
+      "descripcion": "Según InSight Crime, Marset entabló contactos con integrantes del PCC durante su reclusión en el penal de Libertad (Uruguay) y, mientras sus envíos de cocaína iban de Bolivia a Paraguay y a los puertos atlánticos, el PCC y la 'Ndrangheta controlaban el transporte y la distribución en Europa. En octubre de 2025 Marset grabó un video rodeado de hombres armados ante una bandera con el logotipo del PCC. La fiscalía de EE. UU. lo vincula con el PCC y con el Clan del Golfo para sustentar el cargo de narcoterrorismo, lo que su defensa disputa (ABC Color, con información de OCCRP, septiembre de 2026). La vigencia es incierta desde que Marset fue capturado en Bolivia el 13 de marzo de 2026 y entregado a EE. UU.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s20",
+        "s46",
+        "s45"
       ],
       "confianza": "media"
     },
@@ -640,8 +655,8 @@
     {
       "destino": "ext-gde",
       "tipo": "alianza",
-      "descripcion": "Alianza con Guardiões do Estado (GDE), grupo que controla municipios vecinos de Fortaleza como Caucaia y Maranguape, contra el CV en Ceará. Según InSight Crime (2026), el TCP, aliado del PCC, absorbió a la GDE.",
-      "vigencia": "vigente",
+      "descripcion": "Alianza histórica con Guardiões do Estado (GDE), grupo que controlaba municipios vecinos de Fortaleza como Caucaia y Maranguape, contra el CV en Ceará. Según el perfil del TCP de InSight Crime (actualizado en agosto de 2026), en 2025 el Terceiro Comando Puro, aliado del PCC, absorbió a la GDE, que atravesaba una crisis interna. La alianza con la GDE como grupo independiente es, por tanto, incierta; la cooperación del PCC en Ceará continuaría, en su caso, a través del TCP.",
+      "vigencia": "incierta",
       "fuente_ids": [
         "s22",
         "s32"
@@ -1046,6 +1061,42 @@
       "editor": "ABC Color",
       "fecha": "2026-07-15",
       "url": "https://www.abc.com.py/policiales/2026/07/15/capturan-en-villa-elisa-a-miembro-del-clan-rotela-por-crimen-de-integrante-del-pcc/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s44",
+      "titulo": "Nigerian Couriers Central to Brazil-West Africa Cocaine Route",
+      "editor": "InSight Crime",
+      "fecha": "2023-09-28",
+      "url": "https://insightcrime.org/news/nigerian-couriers-key-brazil-west-africa-cocaine-route/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s45",
+      "titulo": "Defensa de Marset admite que es narco, pero niega actividades en EE.UU.",
+      "editor": "ABC Color",
+      "fecha": "2026-09-25",
+      "url": "https://www.abc.com.py/internacionales/2026/09/25/defensa-de-marset-admite-que-es-narco-pero-niega-actividades-en-eeuu/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s46",
+      "titulo": "The Rise and Fall of Sebastián Marset",
+      "editor": "InSight Crime",
+      "fecha": "2026-03-13",
+      "url": "https://insightcrime.org/news/timeline-rise-fall-sebastian-marset/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s47",
+      "titulo": "El Gobierno de Bolivia vinculó la ola de asesinatos a las redes cercanas al narcotraficante uruguayo Sebastián Marset",
+      "editor": "Infobae",
+      "fecha": "2026-08-07",
+      "url": "https://www.infobae.com/america/america-latina/2026/08/07/el-gobierno-de-bolivia-vinculo-la-ola-de-asesinatos-a-las-redes-cercanas-al-narcotraficante-uruguayo-sebastian-marset/",
       "categoria": "prensa",
       "verificada": true
     }

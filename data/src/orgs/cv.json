@@ -86,8 +86,8 @@
       ]
     },
     {
-      "autoridad": "Escudo de las Américas (declaración conjunta de EE. UU. y otros 14 gobiernos)",
-      "categoria": "Grupo narcoterrorista objeto de la primera acción conjunta: los firmantes declararon su intención de congelar activos, restringir visados y sancionar penalmente el apoyo material",
+      "autoridad": "Estados Unidos y 14 gobiernos de América Latina y el Caribe (declaración conjunta «Escudo de las Américas»)",
+      "categoria": "Declaración política no vinculante: inclusión entre 24 grupos objeto de sanciones coordinadas (congelamiento de activos, restricción de visas y sanción del apoyo material)",
       "fecha": "2026-09-22",
       "fuente_ids": [
         "s23",
@@ -195,10 +195,11 @@
       "delitos": [
         "cocaina"
       ],
-      "nota": "Es una fuente histórica de cocaína para el CV, que disputa con el PCC las rutas del departamento de Santa Cruz.",
+      "nota": "Es una fuente histórica de cocaína para el CV, que disputa con el PCC las rutas del departamento de Santa Cruz. En agosto de 2026 el Gobierno de Rodrigo Paz atribuyó la ola de violencia en ese departamento, con unos diez asesinatos por sicariato en una semana, a la disputa entre el PCC y el CV por las rutas de la frontera con Brasil.",
       "fuente_ids": [
         "s1",
-        "s4"
+        "s4",
+        "s31"
       ],
       "confianza": "media"
     },
@@ -293,13 +294,14 @@
     {
       "destino": "pcc",
       "tipo": "rivalidad",
-      "descripcion": "Rivalidad nacional desde 2016. La tregua de febrero de 2025 se rompió el 28 de abril de 2025, y una rama del CV declaró al PCC 'enemigo para siempre'. Disputan cárceles, ciudades del nordeste y rutas amazónicas, donde el CV avanza.",
+      "descripcion": "Rivalidad nacional desde 2016. La tregua de febrero de 2025 se rompió el 28 de abril de 2025, y una rama del CV declaró al PCC 'enemigo para siempre'. Disputan cárceles, ciudades del nordeste y rutas amazónicas, donde el CV avanza. En agosto de 2026 el Gobierno boliviano atribuyó la ola de violencia en Santa Cruz, con unos diez asesinatos por sicariato en una semana, a la disputa entre ambos grupos por las rutas del narcotráfico en la frontera con Brasil.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s7",
         "s8",
         "s5",
-        "s1"
+        "s1",
+        "s31"
       ],
       "confianza": "alta"
     },
@@ -363,8 +365,8 @@
     {
       "destino": "ext-gde",
       "tipo": "rivalidad",
-      "descripcion": "Guerra con Guardiões do Estado (GDE), aliada del PCC, en Fortaleza y municipios vecinos de Ceará. Según InSight Crime (2026), el TCP absorbió a la GDE.",
-      "vigencia": "vigente",
+      "descripcion": "Guerra con Guardiões do Estado (GDE), aliada del PCC, en Fortaleza y municipios vecinos de Ceará. Según el perfil del TCP de InSight Crime (actualizado en agosto de 2026), en 2025 el Terceiro Comando Puro, rival del CV, absorbió a la GDE. La rivalidad con la GDE como grupo independiente es, por tanto, incierta.",
+      "vigencia": "incierta",
       "fuente_ids": [
         "s17",
         "s21"
@@ -653,6 +655,15 @@
       "editor": "Agência Brasil",
       "fecha": "2026-09-21",
       "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/preso-ha-30-anos-marcinho-vp-permanece-em-presidio-federal-fora-do-rj",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s31",
+      "titulo": "El Gobierno de Bolivia vinculó la ola de asesinatos a las redes cercanas al narcotraficante uruguayo Sebastián Marset",
+      "editor": "Infobae",
+      "fecha": "2026-08-07",
+      "url": "https://www.infobae.com/america/america-latina/2026/08/07/el-gobierno-de-bolivia-vinculo-la-ola-de-asesinatos-a-las-redes-cercanas-al-narcotraficante-uruguayo-sebastian-marset/",
       "categoria": "prensa",
       "verificada": true
     }

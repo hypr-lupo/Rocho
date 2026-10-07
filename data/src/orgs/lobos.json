@@ -92,8 +92,8 @@
       ]
     },
     {
-      "autoridad": "Escudo de las Américas (declaración conjunta de EE. UU. y otros 14 gobiernos)",
-      "categoria": "Grupo narcoterrorista objeto de la primera acción conjunta: los firmantes declararon su intención de congelar activos, restringir visados y sancionar penalmente el apoyo material (declaración no vinculante)",
+      "autoridad": "Estados Unidos y 14 gobiernos de América Latina y el Caribe (declaración conjunta «Escudo de las Américas»)",
+      "categoria": "Declaración política no vinculante: inclusión entre 24 grupos objeto de sanciones coordinadas (congelamiento de activos, restricción de visas y sanción del apoyo material)",
       "fecha": "2026-09-22",
       "fuente_ids": [
         "s20"
@@ -275,14 +275,15 @@
     {
       "destino": "cjng",
       "tipo": "alianza",
-      "descripcion": "Socio principal desde 2022. Los Lobos prestan seguridad y logística al CJNG y reciben pagos en cocaína y en efectivo; los envíos usan avionetas y pistas clandestinas. La alianza siguió activa tras la muerte de Nemesio Oseguera, alias El Mencho, el 22 de febrero de 2026: en agosto de 2026 dos mexicanos vinculados al CJNG fueron detenidos en Ecuador junto con integrantes de Los Lobos.",
+      "descripcion": "Socio principal desde 2022. Los Lobos prestan seguridad y logística al CJNG y reciben pagos en cocaína y en efectivo; los envíos usan avionetas y pistas clandestinas. Según la OFAC (agosto de 2026), Los Lobos habrían establecido rutas de cocaína desde Sudamérica hacia México gracias a sus conexiones con el CJNG, y según Brookings (junio de 2026), el CJNG accede por medio de ellos a unas 20 operaciones de minería ilegal de oro en Ecuador. La alianza siguió activa tras la muerte de Nemesio Oseguera, alias El Mencho, el 22 de febrero de 2026: en agosto de 2026 dos mexicanos vinculados al CJNG fueron detenidos en Ecuador junto con integrantes de Los Lobos.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s2",
         "s3",
         "s11",
         "s27",
-        "s4"
+        "s4",
+        "s40"
       ],
       "confianza": "alta"
     },
@@ -314,13 +315,14 @@
     {
       "destino": "cneb",
       "tipo": "alianza",
-      "descripcion": "Alianza con los Comandos de la Frontera, integrantes de la CNEB, en el Bajo Putumayo y en Sucumbíos, Orellana y Napo. Los Comandos aportan cocaína, laboratorios y rutas fronterizas; Los Lobos, transporte hacia los puertos y protección de la minería ilegal. El 2 de octubre de 2026 el Ministerio de Defensa de Ecuador afirmó que ambos grupos mantenían una alianza para la minería ilegal de oro en Orellana. Comparten la rivalidad con Los Choneros.",
+      "descripcion": "Alianza con los Comandos de la Frontera, integrantes de la CNEB, en el Bajo Putumayo y en Sucumbíos, Orellana y Napo. Los Comandos aportan cocaína, laboratorios y rutas fronterizas; Los Lobos, transporte hacia los puertos y protección de la minería ilegal. El 2 de octubre de 2026 el Ministerio de Defensa de Ecuador afirmó que Los Lobos y una facción de los Comandos de la Frontera mantenían una alianza para la minería ilegal en el sector de Alto Punino (Orellana), donde cinco presuntos integrantes murieron en un operativo militar. Comparten la rivalidad con Los Choneros.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s14",
         "s15",
         "s32",
-        "s37"
+        "s37",
+        "s41"
       ],
       "confianza": "alta"
     },
@@ -392,7 +394,7 @@
     {
       "destino": "ext-tiguerones",
       "tipo": "alianza",
-      "descripcion": "Los Tiguerones fueron aliados de Los Lobos en la coalición 'Nueva Generación' y en la colaboración con el CJNG. En 2026 solo la facción Igualitos se acerca a Los Lobos, mientras la facción Fénix se alinea con Los Choneros.",
+      "descripcion": "Los Tiguerones fueron aliados de Los Lobos en la coalición 'Nueva Generación' y en la colaboración con el CJNG. Desde 2023 la relación predominante es la rivalidad; en 2026 solo la facción Igualitos se acerca a Los Lobos, mientras la facción Fénix se alinea con Los Choneros.",
       "vigencia": "incierta",
       "fuente_ids": [
         "s13",
@@ -410,6 +412,16 @@
         "s39"
       ],
       "confianza": "baja"
+    },
+    {
+      "destino": "ext-tiguerones",
+      "tipo": "rivalidad",
+      "descripcion": "Según InSight Crime, en 2023 Los Tiguerones se aliaron con Los Choneros y los Chone Killers para combatir a Los Lobos, sus antiguos aliados en la coalición Nueva Generación. Los Lobos lanzaron una ofensiva violenta sobre el bastión de Los Tiguerones en la ciudad de Esmeraldas, donde estos han perdido terreno. La alianza puntual de la facción Igualitos con Los Lobos es un matiz dentro de esta rivalidad.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s42"
+      ],
+      "confianza": "media"
     }
   ],
   "notas_controversia": "Los vínculos con disidencias de las FARC (EMC) y con redes albanesas se basan en señalamientos policiales y en valoraciones analíticas, sin confirmación judicial. En Perú, la presencia se sustenta en testimonios recogidos por Mongabay Latam, en declaraciones policiales y en detenciones puntuales. La Policía peruana describe a 'Los Lobos del Perú' como una estructura de origen ecuatoriano, sin precisar su grado de subordinación al mando en Ecuador. En Chile, la Fiscalía distingue entre 'presencia' y 'vínculo' y no detalla zonas fuera de la Región Metropolitana. La Audiencia Nacional de España consideró imprecisa la acusación estadounidense contra Pipo. Pipo alega riesgo para su vida en Ecuador y atribuye, sin pruebas, el asesinato de Villavicencio al presidente Noboa, lo que el Gobierno niega. La cifra de 8.000 integrantes es una estimación oficial y periodística. Algunas fuentes de prensa sitúan el origen de Los Lobos hacia 2015 o 2016 en la cárcel de Turi, mientras el Tesoro de EE. UU. lo vincula a la reclusión de Pipo entre 2011 y 2018. El perfil de InSight Crime fecha por error la designación como FTO en septiembre de 2026; la designación es de septiembre de 2025.",
@@ -755,6 +767,33 @@
       "fecha": "2026-03-01",
       "url": "https://larepublica.pe/politica/2026/03/01/policia-antidrogas-en-alerta-por-tentaculos-de-el-mencho-en-el-peru-narcotrafico-drogas-hnews-1788864",
       "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s40",
+      "titulo": "The spiking threat: Mexican cartels in Europe, Canada, Africa, the Asia-Pacific, and Latin America",
+      "editor": "Brookings Institution",
+      "fecha": "2026-06-24",
+      "url": "https://www.brookings.edu/articles/the-spiking-threat-mexican-cartels-in-europe-canada-africa-the-asia-pacific-and-latin-america/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s41",
+      "titulo": "Cinco presuntos terroristas de Los Lobos y Comandos de la Frontera fueron abatidos en Orellana",
+      "editor": "Primicias",
+      "fecha": "2026-10-02",
+      "url": "https://www.primicias.ec/seguridad/terroristas-abatidos-orellana-loslobos-comandos-frontera-mineria-ilegal-ejercito-133955/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s42",
+      "titulo": "Tiguerones (perfil)",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-17",
+      "url": "https://insightcrime.org/ecuador-organized-crime-news/tiguerones/",
+      "categoria": "investigacion",
       "verificada": true
     }
   ]

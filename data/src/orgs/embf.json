@@ -208,10 +208,11 @@
     {
       "destino": "clan-del-golfo",
       "tipo": "rivalidad",
-      "descripcion": "Frentes del EMBF, en alianza táctica con el ELN, resisten la expansión del Clan del Golfo (EGC) en zonas mineras del Bajo Cauca, Antioquia y el Magdalena Medio.",
+      "descripcion": "Frentes del EMBF, en alianza táctica con el ELN, resisten la expansión del Clan del Golfo (EGC) en zonas mineras del Bajo Cauca, Antioquia y el Magdalena Medio. El perfil del EGC de InSight Crime (septiembre de 2026) describe también la disputa entre ambos por territorios de narcotráfico y minería ilegal en el norte y el nordeste de Antioquia.",
       "vigencia": "incierta",
       "fuente_ids": [
-        "s1"
+        "s1",
+        "s19"
       ],
       "confianza": "media"
     }
@@ -370,6 +371,15 @@
       "fecha": "2026-09-10",
       "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-la-companera-sentimental-de-alias-urias-perdomo-en-caqueta-es-senalada-de-pertenecer-a-las-disidencias-de-calarca-3585159",
       "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s19",
+      "titulo": "Gaitanistas – Gulf Clan (perfil)",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-14",
+      "url": "https://insightcrime.org/colombia-organized-crime-news/urabenos-profile/",
+      "categoria": "investigacion",
       "verificada": true
     }
   ]

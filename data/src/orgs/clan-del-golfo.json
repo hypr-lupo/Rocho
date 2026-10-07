@@ -14,7 +14,7 @@
   "pais_origen": "COL",
   "fundacion": "2006, tras la desmovilización de las Autodefensas Unidas de Colombia (AUC), en el Urabá antioqueño; se autodenomina Ejército Gaitanista de Colombia desde 2024.",
   "resumen": "Es la mayor organización armada ilegal de Colombia y una de las principales exportadoras de cocaína del mundo. Controla el Urabá, regula la producción de pasta base y cobra un impuesto por cada kilo que se fabrica, almacena o transporta en su territorio. También obtiene ingresos de la minería ilegal de oro, la extorsión y el tráfico de migrantes por el Darién. Funciona con un mando central y franquicias regionales, y abastece a cárteles mexicanos y a redes que distribuyen en Europa.",
-  "situacion_actual": "El 5 de diciembre de 2025, en Doha (Catar), el gobierno de Gustavo Petro y el EGC acordaron tres Zonas de Ubicación Temporal (ZUT) en Tierralta, Belén de Bajirá y Unguía para la ubicación gradual de más de 9.000 combatientes a partir del 1 de marzo de 2026. El traslado no comenzó en esa fecha y el 25 de junio de 2026 se aplazó también la zona de Tierralta. Estados Unidos lo designó como Terrorista Global Especialmente Designado (16 de diciembre de 2025) y como Organización Terrorista Extranjera (17 de diciembre de 2025). El 30 de enero de 2026 murió ahogado en el río Esmeraldas (Tierralta) su segundo al mando, 'Gonzalito', y en febrero la cúpula presentó como nuevo subcomandante a 'Rodrigo Flechas'. El 13 de marzo de 2026 el gobierno revocó la suspensión de las órdenes de captura de 'Chiquito Malo' y de otros cabecillas; el 16 de abril una quinta acusación sustitutiva en Brooklyn le añadió cargos de narcoterrorismo, y el 1 de julio Petro levantó por decreto la suspensión de su extradición. Tras asumir el 7 de agosto de 2026, el presidente Abelardo de la Espriella revocó la designación de los representantes del gobierno en el espacio sociojurídico (Resolución 390, 9 de septiembre) y dio por terminadas las conversaciones (Resolución 398, 11 de septiembre); ese mismo día la Fiscalía reactivó las órdenes de captura de los voceros 'Rodrigo Flechas', 'El Cura' y 'Bruno/Jerónimo' (Resolución 0-0284). La ofensiva posterior incluyó la captura en Turbo, a finales de septiembre y con apoyo de la DEA, de alias 'Ñato', pedido en extradición por una corte federal de Massachusetts, y la muerte del cabecilla zonal 'Terry' en una operación militar en Jericó (Antioquia) el 2 de octubre de 2026.",
+  "situacion_actual": "El 5 de diciembre de 2025, en Doha (Catar), el gobierno de Gustavo Petro y el EGC acordaron tres Zonas de Ubicación Temporal (ZUT) en Tierralta, Belén de Bajirá y Unguía para la ubicación gradual de más de 9.000 combatientes a partir del 1 de marzo de 2026. El traslado no comenzó en esa fecha y el 25 de junio de 2026 se aplazó también la zona de Tierralta. Estados Unidos lo designó como Terrorista Global Especialmente Designado (16 de diciembre de 2025) y como Organización Terrorista Extranjera (17 de diciembre de 2025). El 30 de enero de 2026 murió ahogado en el río Esmeraldas (Tierralta) su segundo al mando, 'Gonzalito', y en febrero la cúpula presentó como nuevo subcomandante a 'Rodrigo Flechas'. El 13 de marzo de 2026 el gobierno revocó la suspensión de las órdenes de captura de 'Chiquito Malo' y de otros cabecillas; el 16 de abril una quinta acusación sustitutiva en Brooklyn le añadió cargos de narcoterrorismo, y el 1 de julio Petro levantó por decreto la suspensión de su extradición. Tras asumir el 7 de agosto de 2026, el presidente Abelardo de la Espriella revocó la designación de los representantes del gobierno en el espacio sociojurídico (Resolución 390, 9 de septiembre) y dio por terminadas las conversaciones (Resolución 398, 11 de septiembre); ese mismo día la Fiscalía reactivó las órdenes de captura de los voceros 'Rodrigo Flechas', 'El Cura' y 'Bruno/Jerónimo' (Resolución 0-0284). El 22 de septiembre EE. UU. y otros 14 gobiernos de la coalición Escudo de las Américas lo incluyeron entre 24 grupos objeto de sanciones coordinadas. La ofensiva militar y policial que siguió al fin de las conversaciones incluyó la captura en Turbo, a finales de septiembre y con apoyo de la DEA, de alias 'Ñato', pedido en extradición por una corte federal de Massachusetts, y la muerte del cabecilla zonal 'Terry' en una operación militar en Jericó (Antioquia) el 2 de octubre de 2026.",
   "estructura": "Tiene un Estado Mayor Conjunto encabezado por Jobanis de Jesús Ávila Villadiego, 'Chiquito Malo'. Según la EUAA, opera unas 34 estructuras agrupadas en seis bloques, con una jerarquía central y franquicias regionales que se financian solas; ejemplos son el Bloque Nelson Darío Hurtado Simanca en Cesar y Magdalena y la subestructura Edwin Román Velásquez Valle en el suroeste de Antioquia. En sus márgenes subcontrata bandas locales y narcotraficantes independientes. El tamaño se estima entre unos 6.000 integrantes (DOJ, en su punto máximo) y más de 9.000 combatientes (cifra manejada en la mesa de Doha, diciembre de 2025); la EUAA cita más de 14.000. Tiene presencia en al menos 20 departamentos.",
   "lideres": [
     {
@@ -101,6 +101,15 @@
       "fuente_ids": [
         "s2",
         "s24"
+      ]
+    },
+    {
+      "autoridad": "Estados Unidos y 14 gobiernos de América Latina y el Caribe (declaración conjunta «Escudo de las Américas»)",
+      "categoria": "Declaración política no vinculante: inclusión entre 24 grupos objeto de sanciones coordinadas (congelamiento de activos, restricción de visas y sanción del apoyo material)",
+      "fecha": "2026-09-22",
+      "fuente_ids": [
+        "s41",
+        "s42"
       ]
     }
   ],
@@ -363,14 +372,15 @@
       "destino": "sinaloa",
       "tipo": "suministro",
       "desde": "clan-del-golfo",
-      "descripcion": "El EGC vende cocaína a emisarios del Cártel de Sinaloa, que la transportan hacia México y EE. UU. sin ejercer control territorial en Colombia. En junio de 2026 la Policía y la DEA capturaron en Medellín a dos hermanos mexicanos señalados como enlace entre ambas organizaciones.",
+      "descripcion": "El EGC vende cocaína a emisarios del Cártel de Sinaloa, que la transportan hacia México y EE. UU. sin ejercer control territorial en Colombia. En junio de 2026 la Policía y la DEA capturaron en Medellín a dos hermanos mexicanos señalados como enlace entre ambas organizaciones. Según Brookings (junio de 2026), el Cártel de Sinaloa suele alinearse más con las disidencias de las FARC y con el ELN, aunque esas alianzas locales son fluidas y no exclusivas.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s3",
         "s4",
         "s12",
         "s20",
-        "s31"
+        "s31",
+        "s35"
       ],
       "confianza": "alta"
     },
@@ -378,12 +388,13 @@
       "destino": "cjng",
       "tipo": "suministro",
       "desde": "clan-del-golfo",
-      "descripcion": "Según GI-TOC, el CJNG financia y coordina la producción de cocaína con socios locales como el EGC, que actúa como proveedor, e InSight Crime lo cuenta entre los principales aliados del grupo. En 2026 la inteligencia colombiana señaló a facciones del Clan del Golfo como engranaje logístico del CJNG en el Atlántico.",
+      "descripcion": "Según GI-TOC, el CJNG financia y coordina la producción de cocaína con socios locales como el EGC, que actúa como proveedor, e InSight Crime lo cuenta entre los principales aliados del grupo. En 2026 la inteligencia colombiana señaló a facciones del Clan del Golfo como engranaje logístico del CJNG en el Atlántico. Brookings (junio de 2026) señala que el CJNG suele alinearse con grupos surgidos de las AUC, como el Clan del Golfo.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s12",
         "s4",
-        "s32"
+        "s32",
+        "s35"
       ],
       "confianza": "alta"
     },
@@ -391,16 +402,69 @@
       "destino": "ext-ndrangheta",
       "tipo": "suministro",
       "desde": "clan-del-golfo",
-      "descripcion": "Según InSight Crime, la cúpula mantiene desde la época de las AUC una relación con la 'Ndrangheta para abastecer de cocaína al mercado europeo, y trabaja también con redes de los Balcanes.",
+      "descripcion": "Según InSight Crime, la cúpula mantiene desde la época de las AUC una relación con la 'Ndrangheta para abastecer de cocaína al mercado europeo.",
       "vigencia": "incierta",
       "fuente_ids": [
         "s3",
         "s4"
       ],
       "confianza": "media"
+    },
+    {
+      "destino": "ext-balcanes",
+      "tipo": "suministro",
+      "desde": "clan-del-golfo",
+      "descripcion": "Según InSight Crime, la cúpula del EGC trabaja, además de con la 'Ndrangheta, con otras redes europeas de narcotráfico, entre ellas grupos criminales de los Balcanes, a los que abastece de cocaína.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s3"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "emc",
+      "tipo": "rivalidad",
+      "descripcion": "Choques con el EMC en el sur de Bolívar, el sur de Córdoba y el Bajo Cauca antioqueño. InSight Crime menciona también una presunta alianza táctica entre ambos en Chocó para contener al ELN.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s36"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "embf",
+      "tipo": "rivalidad",
+      "descripcion": "En el norte y el nordeste de Antioquia, el EGC disputa con el EMBF territorios clave para el narcotráfico y la minería ilegal. En el Bajo Cauca, Antioquia y el Magdalena Medio, frentes del EMBF se alían tácticamente con el ELN para resistir la expansión del EGC en zonas mineras.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s3",
+        "s37"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "tren-de-aragua",
+      "tipo": "rivalidad",
+      "descripcion": "Choques desde 2018 con el Tren de Aragua por el control de los pasos clandestinos (trochas) de la frontera entre Táchira y Norte de Santander. No hay reportes recientes.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s38"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "red-marset",
+      "tipo": "alianza",
+      "descripcion": "Según InSight Crime, la acusación sustitutiva presentada en EE. UU. el 25 de junio de 2026 acusa a Sebastián Marset de trabajar con el EGC. El 9 de septiembre de 2026 la Fiscalía capturó en Medellín a Daniel Uribe Jaramillo, a quien señala como parte del componente logístico y financiero del Clan del Golfo y con presuntos vínculos con la red de Marset.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s39",
+        "s40"
+      ],
+      "confianza": "media"
     }
   ],
-  "notas_controversia": "El grupo se presenta como actor político ('Ejército Gaitanista') y exigió un trato de negociación de paz. El Estado colombiano lo trató como estructura criminal sujeta a un 'espacio sociojurídico' de sometimiento, y el gobierno De la Espriella concluyó que no había una 'voluntad de paz' verificable. Las cifras de integrantes varían mucho según la fuente (unos 6.000 en el DOJ, más de 9.000 en la mesa de Doha y más de 14.000 en la EUAA), en parte porque unas cuentan combatientes y otras incluyen redes de apoyo. Las fuentes difieren sobre el orden de mando tras la muerte de 'Gonzalito': El Colombiano e InSight Crime presentan a 'Rodrigo Flechas' como subcomandante, mientras Semana (septiembre de 2026) lo sitúa como tercero al mando. InSight Crime y el Ministerio del Interior británico afirman que el grupo no tiene presencia en Venezuela; la Guardia Civil vincula a su operador financiero 'Medio Labio', capturado en febrero de 2026, con redes asociadas al Cártel de los Soles y con la ruta Colombia–Venezuela–Europa y África, pero no documenta una relación orgánica entre ambas organizaciones, por lo que no se incluyen la presencia en Venezuela ni un vínculo con el Cártel de los Soles. Infobae (diciembre de 2025) atribuye al EGC presencia en 28 países (Honduras, Brasil, Alemania, Italia, Albania, Ucrania, Asia y Australia), pero esa lista no pudo verificarse con fuentes oficiales y no se incluyó. El resumen de la nota británica CPIN agrupa al grupo con otros 'designados como organizaciones terroristas en la UE y/o EE. UU.', pero el Clan del Golfo no figura en la lista terrorista de la UE (Decisión (PESC) 2026/1882), por lo que solo se registran las designaciones estadounidenses.",
+  "notas_controversia": "El grupo se presenta como actor político ('Ejército Gaitanista') y exigió un trato de negociación de paz. El Estado colombiano lo trató como estructura criminal sujeta a un 'espacio sociojurídico' de sometimiento, y el gobierno De la Espriella concluyó que no había una 'voluntad de paz' verificable. Las cifras de integrantes varían mucho según la fuente (unos 6.000 en el DOJ, más de 9.000 en la mesa de Doha y más de 14.000 en la EUAA), en parte porque unas cuentan combatientes y otras incluyen redes de apoyo. Las fuentes difieren sobre el orden de mando tras la muerte de 'Gonzalito': El Colombiano e InSight Crime presentan a 'Rodrigo Flechas' como subcomandante, mientras Semana (septiembre de 2026) lo sitúa como tercero al mando. InSight Crime y el Ministerio del Interior británico afirman que el grupo no tiene presencia en Venezuela; la Guardia Civil vincula a su operador financiero 'Medio Labio', capturado en febrero de 2026, con redes asociadas al Cártel de los Soles y con la ruta Colombia–Venezuela–Europa y África, pero no documenta una relación orgánica entre ambas organizaciones, por lo que no se incluyen la presencia en Venezuela ni un vínculo con el Cártel de los Soles. Infobae (diciembre de 2025) atribuye al EGC presencia en 28 países (Honduras, Brasil, Alemania, Italia, Albania, Ucrania, Asia y Australia), pero esa lista no pudo verificarse con fuentes oficiales y no se incluyó. El resumen de la nota británica CPIN agrupa al grupo con otros 'designados como organizaciones terroristas en la UE y/o EE. UU.', pero el Clan del Golfo no figura en la lista terrorista de la UE (Decisión (PESC) 2026/1882), por lo que solo se registran las designaciones estadounidenses y la declaración conjunta del Escudo de las Américas.",
   "confianza_general": "alta",
   "fuentes": [
     {
@@ -698,6 +762,78 @@
       "fecha": "2026-09-13",
       "url": "https://www.semana.com/nacion/articulo/reactivan-ordenes-de-captura-contra-tres-peligrosos-criminales-del-clan-del-golfo-que-habian-sido-beneficiados-en-el-gobierno-petro/202646/",
       "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s35",
+      "titulo": "The spiking threat: Mexican cartels in Europe, Canada, Africa, the Asia-Pacific, and Latin America",
+      "editor": "Brookings Institution",
+      "fecha": "2026-06-24",
+      "url": "https://www.brookings.edu/articles/the-spiking-threat-mexican-cartels-in-europe-canada-africa-the-asia-pacific-and-latin-america/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s36",
+      "titulo": "Central General Staff – FARC Dissidents",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-01",
+      "url": "https://insightcrime.org/colombia-organized-crime-news/ex-farc-mafia-central-general-staff/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s37",
+      "titulo": "General Staff of Blocks and Front (EMBF)",
+      "editor": "InSight Crime",
+      "fecha": "2026-06-09",
+      "url": "https://insightcrime.org/colombia-organized-crime-news/general-staff-of-blocks-and-front-embf/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s38",
+      "titulo": "Tren de Aragua (perfil criminal)",
+      "editor": "InSight Crime",
+      "fecha": "2026-07-29",
+      "url": "https://insightcrime.org/venezuela-organized-crime-news/tren-de-aragua/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s39",
+      "titulo": "Sebastián Marset (perfil criminal)",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-15",
+      "url": "https://insightcrime.org/bolivia-organized-crime-news/sebastian-marset/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s40",
+      "titulo": "En El Poblado, de Medellín, cayó ‘extraditable’ del Clan del Golfo, ¿por qué lo buscaban?",
+      "editor": "El Colombiano",
+      "fecha": "2026-09-09",
+      "url": "https://www.elcolombiano.com/medellin/captura-extraditable-clan-del-golfo-el-poblado-medellin-trafico-drogas-CE40885557",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s41",
+      "titulo": "Joint Statement on Defending Hemispheric Sovereignty (Escudo de las Américas)",
+      "editor": "Departamento de Estado de EE. UU.",
+      "fecha": "2026-09-22",
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/joint-statement-on-defending-hemispheric-sovereignty/",
+      "categoria": "oficial",
+      "verificada": false
+    },
+    {
+      "id": "s42",
+      "titulo": "Shield of the Americas Blacklists 24 Criminal Groups | On the Radar",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-24",
+      "url": "https://insightcrime.org/news/shield-of-the-americas-blacklists-24-criminal-groups-on-the-radar/",
+      "categoria": "investigacion",
       "verificada": true
     }
   ]

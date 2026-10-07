@@ -142,11 +142,12 @@
       ]
     },
     {
-      "autoridad": "Escudo de las Américas (declaración conjunta de EE. UU. y otros 14 gobiernos)",
-      "categoria": "Grupo narcoterrorista objeto de la primera acción conjunta: los firmantes declararon su intención de congelar activos, restringir visados y sancionar penalmente el apoyo material",
+      "autoridad": "Estados Unidos y 14 gobiernos de América Latina y el Caribe (declaración conjunta «Escudo de las Américas»)",
+      "categoria": "Declaración política no vinculante: inclusión entre 24 grupos objeto de sanciones coordinadas (congelamiento de activos, restricción de visas y sanción del apoyo material)",
       "fecha": "2026-09-22",
       "fuente_ids": [
-        "s23"
+        "s23",
+        "s34"
       ]
     }
   ],
@@ -185,15 +186,16 @@
     {
       "destino": "eln",
       "tipo": "alianza",
-      "descripcion": "InSight Crime describe una relación simbiótica entre sectores de la FANB y el ELN en Zulia, Táchira, Apure, Amazonas y el Catatumbo, en la que el ELN asumió el papel que antes tenían las FARC y paga a militares por proteger sus economías ilegales. Tras la captura de Maduro, Colombia y EE. UU. acordaron el 7 de enero de 2026 una ofensiva conjunta contra el ELN en la frontera, y en septiembre de 2026 hubo combates entre la Guardia Nacional y el ELN en Junín (Táchira), lo que vuelve incierta la continuidad de la relación.",
+      "descripcion": "InSight Crime describe una relación simbiótica entre sectores de la FANB y el ELN en Zulia, Táchira, Apure, Amazonas y el Catatumbo, en la que el ELN asumió el papel que antes tenían las FARC y paga a militares por proteger sus economías ilegales; la EUAA (julio de 2026) señala que en Venezuela el ELN opera con tolerancia estatal y que en 2025 actuó en colaboración con fuerzas de seguridad venezolanas. Tras la captura de Maduro, Colombia y EE. UU. acordaron el 7 de enero de 2026 una ofensiva conjunta contra el ELN en la frontera, y en septiembre de 2026 hubo combates entre la Guardia Nacional y el ELN en Junín (Táchira), lo que vuelve incierta la continuidad de la relación.",
       "vigencia": "incierta",
       "fuente_ids": [
         "s5",
         "s8",
         "s11",
-        "s32"
+        "s32",
+        "s33"
       ],
-      "confianza": "media"
+      "confianza": "alta"
     },
     {
       "destino": "sinaloa",
@@ -502,6 +504,24 @@
       "fecha": "2026-09-30",
       "url": "https://www.semana.com/mundo/articulo/combate-entre-el-eln-y-la-guardia-nacional-bolivariana-en-tachira-deja-un-muerto-y-cinco-heridos/202659/",
       "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s33",
+      "titulo": "Venezuela – Country Focus: 2.1.4 ELN",
+      "editor": "Agencia de Asilo de la Unión Europea (EUAA)",
+      "fecha": "2026-07",
+      "url": "https://www.euaa.europa.eu/venezuela-country-focus/214-eln",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s34",
+      "titulo": "Shield of the Americas Blacklists 24 Criminal Groups | On the Radar",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-24",
+      "url": "https://insightcrime.org/news/shield-of-the-americas-blacklists-24-criminal-groups-on-the-radar/",
+      "categoria": "investigacion",
       "verificada": true
     }
   ]

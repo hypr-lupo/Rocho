@@ -79,8 +79,24 @@
       ]
     },
     {
-      "autoridad": "Escudo de las Américas (declaración conjunta de EE. UU. y otros 14 gobiernos, entre ellos Perú)",
-      "categoria": "Grupo narcoterrorista objeto de la primera acción conjunta: los firmantes declararon su intención de congelar activos, restringir visados y sancionar penalmente el apoyo material",
+      "autoridad": "Gobierno de Canadá (Public Safety Canada)",
+      "categoria": "Entidad terrorista incluida en la lista del Código Penal canadiense como 'Sendero Luminoso (SL)'; última revisión: 7 de junio de 2024",
+      "fecha": "2003-02-12",
+      "fuente_ids": [
+        "s18"
+      ]
+    },
+    {
+      "autoridad": "Consejo de la Unión Europea",
+      "categoria": "Lista de personas, grupos y entidades terroristas de la UE (Posición Común 2001/931/PESC), como 'Sendero Luminoso – SL'; listado mantenido en la Decisión (PESC) 2026/1882. La fecha corresponde a esa revisión, no a la inclusión original",
+      "fecha": "2026-07-30",
+      "fuente_ids": [
+        "s19"
+      ]
+    },
+    {
+      "autoridad": "Estados Unidos y 14 gobiernos de América Latina y el Caribe (declaración conjunta «Escudo de las Américas»)",
+      "categoria": "Declaración política no vinculante: inclusión entre 24 grupos objeto de sanciones coordinadas (congelamiento de activos, restricción de visas y sanción del apoyo material)",
       "fecha": "2026-09-22",
       "fuente_ids": [
         "s16",
@@ -295,6 +311,24 @@
       "fecha": "2026-09-16",
       "url": "https://rpp.pe/lima/judiciales/poder-judicial-dicto-30-anos-de-prision-contra-terrorista-de-sendero-luminoso-por-atentado-en-el-vraem-noticia-1707646",
       "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s18",
+      "titulo": "Currently listed entities",
+      "editor": "Public Safety Canada",
+      "fecha": "2025-09-29",
+      "url": "https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s19",
+      "titulo": "Council Decision (CFSP) 2026/1882 of 30 July 2026 reviewing the list of persons, groups and entities covered by Decision (CFSP) 2026/455 on restrictive measures to combat terrorism",
+      "editor": "Consejo de la Unión Europea (EUR-Lex)",
+      "fecha": "2026-07-30",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ%3AL_202601882",
+      "categoria": "oficial",
       "verificada": true
     }
   ]
