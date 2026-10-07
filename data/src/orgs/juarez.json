@@ -1,0 +1,616 @@
+{
+  "id": "juarez",
+  "nombre": "Cártel de Juárez / La Línea",
+  "corto": "Juárez / La Línea",
+  "alias": [
+    "Nuevo Cártel de Juárez (NCDJ)",
+    "Juarez Cartel",
+    "Organización Vicente Carrillo Fuentes (VCFO)",
+    "Organización Carrillo Fuentes (CFO)",
+    "Barrio Azteca (alias en las designaciones de EE. UU.)"
+  ],
+  "tipo": "cartel",
+  "pais_origen": "MEX",
+  "fundacion": "Sus raíces se remontan a las redes de contrabando de Chihuahua de los años setenta. En los años ochenta Rafael Aguilar Guajardo, socio del Cártel de Guadalajara, controlaba la plaza de Ciudad Juárez; tras su asesinato en 1993 tomó el mando Amado Carrillo Fuentes, «El Señor de los Cielos», y a su muerte en 1997 lo sucedió su hermano Vicente Carrillo Fuentes. La Línea se formó a comienzos de la década de 2000 con policías y expolicías estatales y municipales de Ciudad Juárez.",
+  "resumen": "Cártel de Chihuahua, uno de los más antiguos de México, que domina el corredor Ciudad Juárez–El Paso. Tras la detención de Vicente Carrillo Fuentes en 2014, su brazo armado La Línea ocupó el mando y hoy es su facción dominante; se apoya en la pandilla Barrio Azteca y recibe del CJNG cocaína, metanfetamina y fentanilo. Trafica drogas hacia EE. UU., cobra cuotas a otros traficantes por usar el Valle de Juárez, controla el narcomenudeo del centro de Ciudad Juárez y obtiene ingresos del tráfico de migrantes, la extorsión, la tala ilegal y el robo de vehículos. EE. UU. lo designó Organización Terrorista Extranjera y Terrorista Global Especialmente Designado con efecto desde el 16 de julio de 2026.",
+  "situacion_actual": "Según el investigador Víctor Manuel Sánchez Valdés, La Línea aprovechó desde 2024 la división del Cártel de Sinaloa para volver a ser la fuerza dominante en Chihuahua, pero mantiene una disputa abierta con facciones de esa organización. En el corredor Aldama–Coyame del Sotol–Ojinaga–Manuel Benavides, su conflicto con Los Cabrera, ligados a Los Mayos, dejó 113 homicidios entre el 21 de septiembre de 2024 y el 23 de septiembre de 2026, según la Fiscalía de Distrito Zona Centro, y 175 detenidos, según la Secretaría de Seguridad Pública del Estado (SSPE); Roberto «N», alias «El 02», exintegrante de La Línea que se pasó a Los Cabrera, fue capturado en diciembre de 2025 y entregado a EE. UU. en febrero de 2026. En el oeste del estado y en la frontera con Sonora lo enfrentan Los Salazar, y en Ciudad Juárez la violencia se concentra en los límites con las zonas de los Artistas Asesinos y los Mexicles, aliados históricos de Sinaloa. La caída del tráfico de migrantes desde enero de 2025 llevó a los grupos de la ciudad a ensayar el secuestro de residentes y a volver al narcomenudeo. El 16 de julio de 2026 el Departamento de Estado designó al Cártel de Juárez, con La Línea y Barrio Azteca como alias, Organización Terrorista Extranjera (FTO) y Terrorista Global Especialmente Designado (SDGT); el 13 de agosto fuerzas de ambos países realizaron un despliegue binacional en la frontera Ciudad Juárez–El Paso, y el 22 de septiembre EE. UU. y otros 14 gobiernos del Escudo de las Américas lo incluyeron entre 24 grupos objeto de sanciones coordinadas. Varios mandos regionales cayeron después de la designación: el 22 de agosto agentes estatales abatieron en San Juanito (Bocoyna) a un jefe de célula afín a La Línea dedicado a la extorsión y la tala ilegal; el 8 de septiembre fuerzas federales detuvieron en Ojinaga a Epifanio «N», alias «Pepa», jefe de plaza reclamado en extradición por EE. UU., en lo que el Comando Norte estadounidense llamó la primera captura de alto perfil tras la designación; y el 21 de septiembre la SSPE detuvo en Ojinaga a un presunto líder regional con orden de extradición, al que vinculó con el ataque a tiros contra un helicóptero de la policía estatal del 12 de septiembre. El 5 de octubre de 2026 un juez vinculó a proceso a cinco personas, entre ellas un mando de la policía turística de Cancún, por una red de tráfico de personas con operaciones en Chiapas, Chihuahua y la frontera con EE. UU. que la prensa relaciona con La Línea. En EE. UU., Vicente Carrillo Fuentes negocia un acuerdo de culpabilidad en Brooklyn, con audiencia fijada para el 20 de octubre de 2026; una integrante de nivel medio del cártel fue condenada el 21 de julio de 2026 en Illinois a 108 meses de prisión por tráfico de personas y trabajo forzoso, y dos miembros de Barrio Azteca, entre ellos su exlíder Eduardo Ravelo, se declararon culpables en diciembre de 2025 y julio de 2026 por los asesinatos del consulado de 2010. La Verdad Juárez (febrero de 2026) e Infobae (julio de 2026) siguen describiendo al CJNG como su proveedor tras la muerte de El Mencho.",
+  "estructura": "La Línea, creada a comienzos de la década de 2000 por policías y expolicías, es la facción dominante y, en la práctica, el núcleo del cártel: el Departamento de Estado la describe como su facción dominante y la OFAC la registra como alias de la organización desde diciembre de 2021. Opera con jefes regionales y de plaza (por ejemplo, en Ojinaga) y con células locales que cobran cuotas a otros traficantes por cruzar el Valle de Juárez. Subcontrata pandillas: su principal aliada es Barrio Azteca, pandilla carcelaria surgida en El Paso en 1986, con estructura militar de capitanes, tenientes, sargentos y soldados, que actúa como brazo armado y red de distribución a ambos lados de la frontera y que EE. UU. incluyó como alias en la designación de 2026. En Ciudad Juárez convive con La Empresa, grupo de origen disputado que se quedó con buena parte del tráfico de migrantes, y desde 2024 parte de sus integrantes se presenta como Nuevo Cártel de Juárez. Los herederos de la familia Carrillo Fuentes ya no dirigen la operación cotidiana: Vicente Carrillo Fuentes está preso en EE. UU.",
+  "lideres": [
+    {
+      "nombre": "Juan Pablo Ledezma",
+      "alias": "El JL",
+      "rol": "Presunto líder de La Línea y del Cártel de Juárez desde la detención de Jesús Salas Aguayo en 2015",
+      "estado": "Prófugo según la prensa (julio de 2026); no hay una confirmación oficial reciente de su papel",
+      "fuente_ids": [
+        "s23",
+        "s24"
+      ]
+    },
+    {
+      "nombre": "Vicente Carrillo Fuentes",
+      "alias": "El Viceroy",
+      "rol": "Exlíder del Cártel de Juárez (1997-2014)",
+      "estado": "Preso en EE. UU. desde que México lo expulsó en febrero de 2025. En el Distrito Este de Nueva York se declaró no culpable de siete cargos (empresa criminal continua, conspiración para distribuir cocaína, uso de armas y lavado de dinero) y negocia un acuerdo de culpabilidad; su siguiente audiencia está fijada para el 20 de octubre de 2026",
+      "fuente_ids": [
+        "s15",
+        "s16",
+        "s17"
+      ]
+    },
+    {
+      "nombre": "Josefa Yadira Carrasco Leyva",
+      "alias": "La Wera",
+      "rol": "Integrante de alto rango de La Línea vinculada al narcotráfico, la trata de personas y el contrabando de armas",
+      "estado": "Sancionada por la OFAC el 31 de octubre de 2024; las fuentes consultadas no informan de su detención",
+      "fuente_ids": [
+        "s5",
+        "s10",
+        "s23"
+      ]
+    },
+    {
+      "nombre": "Jorge Adrián Ortega Gallegos",
+      "alias": "El Naranjas",
+      "rol": "Mando de alto rango de La Línea",
+      "estado": "Sancionado por la OFAC el 31 de octubre de 2024 y acusado de conspiración para el narcotráfico en el Distrito de Nuevo México (EE. UU.); las fuentes consultadas no informan de su detención",
+      "fuente_ids": [
+        "s5",
+        "s10",
+        "s23"
+      ]
+    },
+    {
+      "nombre": "Heber Nieto Fierro",
+      "alias": "Ever Nieto",
+      "rol": "Narcotraficante y operador de lavado de dinero de La Línea; controla dos empresas sancionadas (R. y H. El Remate y Soluciones Tecnológicas y Paquetería Tres)",
+      "estado": "Sancionado por la OFAC, junto con sus dos empresas, el 31 de octubre de 2024",
+      "fuente_ids": [
+        "s5",
+        "s10"
+      ]
+    },
+    {
+      "nombre": "Adrián Aguayo",
+      "rol": "Asociado de La Línea que controla una plaza en Chihuahua",
+      "estado": "Sancionado por la OFAC el 31 de octubre de 2024",
+      "fuente_ids": [
+        "s5",
+        "s10"
+      ]
+    },
+    {
+      "nombre": "Jesús Salas Aguayo",
+      "alias": "El Chuyín",
+      "rol": "Exlíder del Cártel de Juárez tras la detención de Vicente Carrillo Fuentes; asociado de La Línea que controlaba una plaza en Chihuahua",
+      "estado": "Incierto. Fue detenido en 2015 y sancionado por la OFAC en 2024. La prensa informó de su presunta muerte en Ahumada en noviembre de 2024, sin confirmación oficial, y en julio de 2026 Infobae afirmó que fue asesinado en febrero de 2026 en el Cereso 3 de Ciudad Juárez",
+      "fuente_ids": [
+        "s5",
+        "s35",
+        "s23",
+        "s24"
+      ]
+    },
+    {
+      "nombre": "Epifanio «N»",
+      "alias": "Pepa",
+      "rol": "Jefe de plaza de La Línea en Ojinaga; presunto responsable de la producción y el traslado de drogas y del tráfico de migrantes hacia EE. UU.",
+      "estado": "Detenido el 8 de septiembre de 2026 en Ojinaga junto con su hijo, con información compartida por EE. UU.; tiene orden de detención provisional con fines de extradición a EE. UU. por narcotráfico",
+      "fuente_ids": [
+        "s26",
+        "s27",
+        "s28"
+      ]
+    },
+    {
+      "nombre": "Eduardo Ravelo",
+      "alias": "Tablas",
+      "rol": "Exlíder de Barrio Azteca en México (desde hacia 2004), pandilla aliada de La Línea",
+      "estado": "Detenido en México en 2018 y extraditado a EE. UU. el 20 de febrero de 2025. El 17 de diciembre de 2025 se declaró culpable de asociación delictiva (RICO), narcotráfico, lavado de dinero y homicidio por los asesinatos de 2010 vinculados al consulado de EE. UU. en Ciudad Juárez; enfrenta cadena perpetua obligatoria y su sentencia está pendiente",
+      "fuente_ids": [
+        "s18",
+        "s14"
+      ]
+    }
+  ],
+  "designaciones": [
+    {
+      "autoridad": "Gobierno de EE. UU. (identificación presidencial conforme a la Kingpin Act; sanciones administradas por OFAC)",
+      "categoria": "Narcotraficante extranjero significativo conforme a la Foreign Narcotics Kingpin Designation Act, como Carrillo Fuentes Organization (Juárez Cartel)",
+      "fecha": "2004-06-01",
+      "fuente_ids": [
+        "s6",
+        "s5"
+      ]
+    },
+    {
+      "autoridad": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "categoria": "Designación conforme a la E.O. 14059 (proliferación de drogas ilícitas); La Línea se agregó como alias de la organización",
+      "fecha": "2021-12-15",
+      "fuente_ids": [
+        "s7",
+        "s5"
+      ]
+    },
+    {
+      "autoridad": "Departamento de Estado de EE. UU.",
+      "categoria": "Organización Terrorista Extranjera (FTO, sección 219 de la INA), con los alias La Línea, Barrio Azteca y Vicente Carrillo Fuentes Organization; firmada el 2 de julio de 2026 y vigente desde su publicación",
+      "fecha": "2026-07-16",
+      "fuente_ids": [
+        "s2",
+        "s1",
+        "s32"
+      ]
+    },
+    {
+      "autoridad": "Departamento de Estado de EE. UU.",
+      "categoria": "Terrorista Global Especialmente Designado (SDGT, E.O. 13224); la OFAC actualizó la entrada en la lista SDN el 15 de julio de 2026",
+      "fecha": "2026-07-16",
+      "fuente_ids": [
+        "s3",
+        "s1",
+        "s8"
+      ]
+    },
+    {
+      "autoridad": "Estados Unidos y 14 gobiernos de América Latina y el Caribe (declaración conjunta «Escudo de las Américas»)",
+      "categoria": "Declaración política no vinculante: inclusión entre 24 grupos objeto de sanciones coordinadas (congelamiento de activos, restricción de visas y sanción del apoyo material)",
+      "fecha": "2026-09-22",
+      "fuente_ids": [
+        "s4"
+      ]
+    }
+  ],
+  "delitos": [
+    "cocaina",
+    "sinteticas",
+    "otras_drogas",
+    "narcomenudeo",
+    "extorsion",
+    "secuestro",
+    "sicariato",
+    "trata",
+    "migrantes",
+    "armas",
+    "ambiental",
+    "robo",
+    "lavado"
+  ],
+  "presencia": [
+    {
+      "pais": "MEX",
+      "nivel": "base",
+      "zonas": [
+        "Ciudad Juárez (centro y franja fronteriza con El Paso)",
+        "Valle de Juárez",
+        "Chihuahua (capital)",
+        "Delicias y Camargo",
+        "Corredor Aldama–Coyame del Sotol–Ojinaga–Manuel Benavides (en disputa con Los Cabrera)",
+        "Bocoyna (San Juanito)",
+        "Moris y Guadalupe y Calvo (en disputa)",
+        "Sonora (municipios limítrofes con Chihuahua, en disputa con Los Salazar)"
+      ],
+      "delitos": [
+        "cocaina",
+        "sinteticas",
+        "otras_drogas",
+        "narcomenudeo",
+        "extorsion",
+        "secuestro",
+        "sicariato",
+        "trata",
+        "migrantes",
+        "armas",
+        "ambiental",
+        "robo",
+        "lavado"
+      ],
+      "nota": "La Línea controla, junto con Barrio Azteca, el centro y la franja fronteriza de Ciudad Juárez; cobra cuotas a otros traficantes por cruzar el Valle de Juárez y regula el narcomenudeo: permite heroína, cocaína, crack y marihuana, y reprime la venta de metanfetamina y fentanilo. El CJNG le suministra cocaína, metanfetamina y fentanilo para enviarlos a EE. UU. Disputa con facciones del Cártel de Sinaloa el corredor Aldama–Ojinaga (113 homicidios entre septiembre de 2024 y septiembre de 2026), la sierra y la frontera con Sonora. También obtiene ingresos del tráfico de migrantes, cuyo auge de 2022 a 2024 se desplomó en 2025, de secuestros, de la extorsión a transportistas, comercios y aserraderos, de la tala ilegal y del robo de vehículos. Las autoridades le aseguran fusiles de asalto, explosivos y drones. Sánchez Valdés estima su presencia en 45 de los 67 municipios de Chihuahua y en siete de Sonora.",
+      "fuente_ids": [
+        "s10",
+        "s9",
+        "s11",
+        "s12",
+        "s13",
+        "s5",
+        "s25",
+        "s24",
+        "s29",
+        "s30",
+        "s31",
+        "s23"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "USA",
+      "nivel": "operativa",
+      "zonas": [
+        "El Paso (Texas)",
+        "Sur de Nuevo México",
+        "Dallas y Austin (Texas), a través de Barrio Azteca",
+        "Highland Park (Illinois)"
+      ],
+      "delitos": [
+        "cocaina",
+        "sinteticas",
+        "otras_drogas",
+        "trata",
+        "migrantes",
+        "lavado"
+      ],
+      "nota": "El corredor Ciudad Juárez–El Paso es una de sus principales vías hacia EE. UU., adonde trafica fentanilo y otras drogas. Barrio Azteca, aliada de La Línea e incluida como alias en la designación, opera en El Paso y, según InSight Crime, en Dallas y Austin. Un integrante de La Línea coordinó cruces de migrantes por el sur de Nuevo México con la red guatemalteca López (acusación de julio de 2024), y una integrante de nivel medio del cártel fue condenada en Illinois en julio de 2026 por traer migrantes y someterlos a trabajo forzoso. Entre los 37 detenidos que México envió a EE. UU. en enero de 2026 había presuntos integrantes de La Línea. El 13 de agosto de 2026 agencias de ambos países hicieron un despliegue binacional en El Paso dirigido contra el cártel.",
+      "fuente_ids": [
+        "s5",
+        "s1",
+        "s9",
+        "s14",
+        "s19",
+        "s20",
+        "s21",
+        "s22",
+        "s33"
+      ],
+      "confianza": "alta"
+    }
+  ],
+  "vinculos": [
+    {
+      "destino": "sinaloa",
+      "tipo": "rivalidad",
+      "descripcion": "La Línea disputa Chihuahua con facciones del Cártel de Sinaloa: Los Cabrera, ligados a Los Mayos, en el corredor Aldama–Ojinaga (113 homicidios entre septiembre de 2024 y septiembre de 2026, según la Fiscalía estatal); Los Salazar, en el oeste del estado y la frontera con Sonora; y, en Ciudad Juárez, las pandillas Artistas Asesinos y Mexicles, aliadas históricas de Sinaloa. La rivalidad se remonta a la guerra de 2008-2011 por la plaza de Juárez.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s10",
+        "s11",
+        "s25",
+        "s24"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "cjng",
+      "tipo": "suministro",
+      "desde": "cjng",
+      "descripcion": "Según la OFAC, el CJNG es desde septiembre de 2023 el proveedor de cocaína, metanfetamina y fentanilo de La Línea; InSight Crime (2026) y La Verdad Juárez (febrero de 2026) siguen describiendo esa relación.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s5",
+        "s10",
+        "s34"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "destino": "cjng",
+      "tipo": "alianza",
+      "descripcion": "La OFAC informó que La Línea y el CJNG trabajan juntos desde septiembre de 2023; InSight Crime describe la alianza como una vía de La Línea para traficar hacia EE. UU., y otras fuentes la remontan a 2017 y la asocian con la lucha contra grupos ligados a Sinaloa.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s5",
+        "s10",
+        "s34",
+        "s23"
+      ],
+      "confianza": "alta"
+    }
+  ],
+  "notas_controversia": "La relación entre el Cártel de Juárez y La Línea es ambigua: EE. UU. trata a La Línea como alias y facción dominante del cártel, mientras InSight Crime la describe como una red que hoy opera de forma más independiente y considera al cártel original una sombra de lo que fue. No está claro si el «Nuevo Cártel de Juárez» es una escisión de La Línea o solo un cambio de nombre. La designación estadounidense de 2026 incluye a Barrio Azteca como alias; el Departamento de Justicia y el perfil de InSight Crime sobre la pandilla la describen como aliada de La Línea, pero el perfil de La Línea de InSight Crime (2026) la menciona entre las pandillas que la presionan (confianza baja). El origen de La Empresa es disputado: el secretario de Seguridad de Chihuahua la presenta como escisión de La Línea y el de Ciudad Juárez, como escisión de Barrio Azteca. El alcance territorial también se discute: Sánchez Valdés le atribuye presencia en 45 municipios de Chihuahua y siete de Sonora, mientras InSight Crime sostiene que su alcance no va más allá de esa franja fronteriza y que la evaluación de amenazas de la DEA de 2025 no la menciona; Infobae, en cambio, afirma que la DEA la sitúa entre las mayores amenazas. La OFAC fecha la alianza con el CJNG en septiembre de 2023; otras fuentes la sitúan en 2017. El Departamento de Estado, el Tesoro y la Sedena atribuyen a La Línea la masacre de nueve integrantes de la familia LeBarón en Sonora (noviembre de 2019), pero una columna de Sánchez Valdés la atribuye a Los Salazar. El liderazgo de Juan Pablo Ledezma se basa en reportes de prensa sin confirmación oficial reciente, y la suerte de Jesús Salas Aguayo es incierta. La vinculación de la red de tráfico de personas procesada en octubre de 2026 con La Línea proviene de versiones periodísticas; la FGR no la mencionó. La inclusión en el Escudo de las Américas es una declaración de intenciones sin efectos jurídicos propios, y México no figura entre los firmantes.",
+  "confianza_general": "alta",
+  "fuentes": [
+    {
+      "id": "s1",
+      "titulo": "Terrorist Designations of the Juárez Cartel and Los Viagras",
+      "editor": "Departamento de Estado de EE. UU.",
+      "fecha": "2026-07-16",
+      "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/terrorist-designations-of-the-juarez-cartel-and-los-viagras",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s2",
+      "titulo": "Foreign Terrorist Organization Designation of Juarez Cartel and Los Viagras (Public Notice 13065, FR Doc. 2026-14259)",
+      "editor": "Departamento de Estado de EE. UU. / Federal Register (GovInfo)",
+      "fecha": "2026-07-16",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-07-16/html/2026-14259.htm",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s3",
+      "titulo": "Specially Designated Global Terrorist Designations of Juarez Cartel and Los Viagras (Public Notice 13066, FR Doc. 2026-14278)",
+      "editor": "Departamento de Estado de EE. UU. / Federal Register (GovInfo)",
+      "fecha": "2026-07-16",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-07-16/html/2026-14278.htm",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s4",
+      "titulo": "Joint Statement on Defending Hemispheric Sovereignty (Escudo de las Américas)",
+      "editor": "Departamento de Estado de EE. UU.",
+      "fecha": "2026-09-22",
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/joint-statement-on-defending-hemispheric-sovereignty/",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s5",
+      "titulo": "Treasury Sanctions Key Members of La Linea, a Group Involved in Trafficking Fentanyl into the United States",
+      "editor": "Departamento del Tesoro de EE. UU.",
+      "fecha": "2024-10-31",
+      "url": "https://home.treasury.gov/news/press-releases/jy2704",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s6",
+      "titulo": "Statement on Presidential Designation of Foreign Narcotics Kingpins (Recent Actions, 1 de junio de 2004)",
+      "editor": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "fecha": "2004-06-01",
+      "url": "https://ofac.treasury.gov/recent-actions/20040601",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s7",
+      "titulo": "Counter Narcotics Designations; Counter Narcotics Designations Updates (Recent Actions, 15 de diciembre de 2021)",
+      "editor": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "fecha": "2021-12-15",
+      "url": "https://ofac.treasury.gov/recent-actions/20211215",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s8",
+      "titulo": "Counter Terrorism Designations Updates (Recent Actions, 15 de julio de 2026)",
+      "editor": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "fecha": "2026-07-15",
+      "url": "https://ofac.treasury.gov/recent-actions/20260715",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s9",
+      "titulo": "Juárez Cartel",
+      "editor": "InSight Crime",
+      "fecha": "2026-06-05",
+      "url": "https://insightcrime.org/mexico-organized-crime-news/juarez-cartel-profile/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s10",
+      "titulo": "La Línea",
+      "editor": "InSight Crime",
+      "fecha": "2026-06-05",
+      "url": "https://insightcrime.org/mexico-organized-crime-news/la-linea/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s11",
+      "titulo": "In Ciudad Juárez, Mexico, Old Criminal Groups Form New Criminal Guard",
+      "editor": "InSight Crime",
+      "fecha": "2025-08-07",
+      "url": "https://insightcrime.org/news/ciudad-juarez-mexico-old-criminal-groups-new-guard/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s12",
+      "titulo": "As Migrant Flows Drop, Crime Groups Adapt in Ciudad Juárez",
+      "editor": "InSight Crime",
+      "fecha": "2025-08-13",
+      "url": "https://insightcrime.org/news/as-migrant-flows-drop-crime-groups-adapt-in-ciudad-juarez/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s13",
+      "titulo": "5 Models of Criminal Control Over Fentanyl Markets in Northern Mexico",
+      "editor": "InSight Crime",
+      "fecha": "2026-03-18",
+      "url": "https://insightcrime.org/investigations/5-models-criminal-control-fentanyl-markets-northern-mexico/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s14",
+      "titulo": "Barrio Azteca",
+      "editor": "InSight Crime",
+      "fecha": "2026-06-16",
+      "url": "https://insightcrime.org/mexico-organized-crime-news/barrio-azteca-profile/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s15",
+      "titulo": "Rafael Caro Quintero \"Narco of Narcos\" and Murderer of DEA Agent Enrique \"Kiki\" Camarena, and Vicente Carrillo Fuentes, Former Leader of the Juarez Cartel, Expelled to the United States",
+      "editor": "Departamento de Justicia de EE. UU. (Fiscalía del Distrito Este de Nueva York)",
+      "fecha": "2025-02-28",
+      "url": "https://www.justice.gov/usao-edny/pr/rafael-caro-quintero-narco-narcos-and-murderer-dea-agent-enrique-kiki-camarena-and",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s16",
+      "titulo": "Fijan nueva audiencia para 'El Viceroy' en EU",
+      "editor": "MVS Noticias",
+      "fecha": "2026-07-28",
+      "url": "https://mvsnoticias.com/mundo/2026/7/28/fijan-nueva-audiencia-para-el-viceroy-en-eu-739919.html",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s17",
+      "titulo": "Vicente Carrillo «El Viceroy» volverá a la Corte en octubre en EU",
+      "editor": "Animal Político (vía Yahoo Noticias)",
+      "fecha": "2026-07-28",
+      "url": "https://es-us.noticias.yahoo.com/vicente-carrillo-viceroy-volver%C3%A1-corte-135938420.html",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s18",
+      "titulo": "Barrio Azteca Gang Leader Pleads Guilty to Racketeering Conspiracy and Murder Charges Related to 2010 U.S. Consulate Murders in Juarez",
+      "editor": "Departamento de Justicia de EE. UU.",
+      "fecha": "2025-12-17",
+      "url": "https://www.justice.gov/opa/pr/barrio-azteca-gang-leader-pleads-guilty-racketeering-conspiracy-and-murder-charges-related",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s19",
+      "titulo": "Barrio Azteca Member Pleads Guilty to Racketeering and Drug Conspiracy Charges Related to 2010 U.S. Consulate Murders in Juarez",
+      "editor": "Departamento de Justicia de EE. UU.",
+      "fecha": "2026-07-22",
+      "url": "https://www.justice.gov/opa/pr/barrio-azteca-member-pleads-guilty-racketeering-and-drug-conspiracy-charges-related-2010-us",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s20",
+      "titulo": "Cartel Member Who Trafficked Victims From Mexico to Chicagoland Into Forced Labor Sentenced to 9 Years in Prison",
+      "editor": "Departamento de Justicia de EE. UU. (Fiscalía del Distrito Norte de Illinois)",
+      "fecha": "2026-07-24",
+      "url": "https://www.justice.gov/usao-ndil/pr/cartel-member-who-trafficked-victims-mexico-chicagoland-forced-labor-sentenced-more-9",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s21",
+      "titulo": "37 Mexican Nationals Wanted for Serious Crimes Transferred to the United States from Mexico, Including Leaders of Foreign Terrorist Organizations",
+      "editor": "Departamento de Justicia de EE. UU.",
+      "fecha": "2026-01-21",
+      "url": "https://www.justice.gov/opa/pr/37-mexican-nationals-wanted-serious-crimes-transferred-united-states-mexico-including",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s22",
+      "titulo": "Eight Members of Lopez Human Smuggling Organization Operating in Guatemala, Mexico, and the United States Indicted and Two Arrested",
+      "editor": "Departamento de Justicia de EE. UU. (Fiscalía del Distrito de Nuevo México)",
+      "fecha": "2024-07-25",
+      "url": "https://www.justice.gov/usao-nm/pr/eight-members-lopez-human-smuggling-organization-operating-guatemala-mexico-and-united",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s23",
+      "titulo": "Cártel de Juárez: historia, líderes y actividades criminales de la organización designada como terrorista por EEUU",
+      "editor": "Infobae",
+      "fecha": "2026-07-16",
+      "url": "https://www.infobae.com/mexico/2026/07/16/cartel-de-juarez-historia-lideres-y-actividades-criminales-de-la-organizacion-designada-como-terrorista-por-eeuu/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s24",
+      "titulo": "El resurgimiento de la Línea del Cártel de Juárez (columna de Víctor Manuel Sánchez Valdés, Universidad Autónoma de Coahuila)",
+      "editor": "Animal Político (vía Yahoo Noticias)",
+      "fecha": "2026-07-20",
+      "url": "https://es-us.noticias.yahoo.com/resurgimiento-l%C3%ADnea-c%C3%A1rtel-ju%C3%A1rez-060525890.html",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s25",
+      "titulo": "La disputa entre Los Cabrera y La Línea deja 113 homicidios y 175 detenidos en dos años en Chihuahua",
+      "editor": "Infobae",
+      "fecha": "2026-09-30",
+      "url": "https://www.infobae.com/mexico/2026/09/30/la-disputa-entre-los-cabrera-y-la-linea-deja-113-homicidios-y-175-detenidos-en-dos-anos-en-chihuahua/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s26",
+      "titulo": "Cae en Chihuahua 'Pepa', operador de 'La Línea' requerido por Estados Unidos",
+      "editor": "La Razón de México",
+      "fecha": "2026-09-09",
+      "url": "https://www.razon.com.mx/mexico/2026/09/08/cae-en-chihuahua-pepa-operador-de-la-linea-requerido-por-estados-unidos/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s27",
+      "titulo": "Ronald Johnson celebra captura de «Pepa», jefe de plaza de La Línea, en Chihuahua",
+      "editor": "Vanguardia",
+      "fecha": "2026-09-09",
+      "url": "https://vanguardia.com.mx/noticias/internacional/ronald-johnson-celebra-captura-de-pepa-jefe-de-plaza-de-la-linea-en-chihuahua-LK23389064",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s28",
+      "titulo": "Working with US, Mexico arrests reputed key La Linea leader 'Pepa'",
+      "editor": "El Paso Times (vía Yahoo News)",
+      "fecha": "2026-09-09",
+      "url": "https://www.yahoo.com/news/us/articles/working-us-mexico-arrests-reputed-225048171.html",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s29",
+      "titulo": "Cae en Ojinaga presunto líder de La Línea: estaría detrás del ataque a helicóptero de la Policía de Chihuahua",
+      "editor": "Infobae",
+      "fecha": "2026-09-22",
+      "url": "https://www.infobae.com/mexico/2026/09/22/chihuahua-vincula-a-tres-detenidos-con-celula-ligada-a-ataque-a-helicoptero-y-captura-a-presunto-lider-criminal-en-ojinaga/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s30",
+      "titulo": "Abaten a terror de zona turística",
+      "editor": "El Diario de Juárez",
+      "fecha": "2026-08-24",
+      "url": "https://diario.mx/estado/2026/aug/24/abaten-a-terror-de-zona-turistica-1134767.html",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s31",
+      "titulo": "Seguirán en prisión 5 presuntos traficantes de personas que operan para La Línea en Juárez: hay un funcionario de Quintana Roo detenido",
+      "editor": "Infobae",
+      "fecha": "2026-10-05",
+      "url": "https://www.infobae.com/mexico/2026/10/05/fgr-lleva-a-proceso-a-cinco-por-presunto-trafico-de-personas-entre-ellos-un-exservidor-publico-de-quintana-roo/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s32",
+      "titulo": "U.S. designates 2 more Mexican cartels as foreign terrorist organizations, including one on Texas border",
+      "editor": "CBS News / AP",
+      "fecha": "2026-07-16",
+      "url": "https://www.cbsnews.com/news/us-designates-juarez-cartel-los-viagras-foreign-terrorist-organizations/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s33",
+      "titulo": "Despliegan operativo binacional en frontera México-EU; Cártel de Juárez, el objetivo",
+      "editor": "Vanguardia (con información de El Universal)",
+      "fecha": "2026-08-13",
+      "url": "https://vanguardia.com.mx/noticias/mexico/despliegan-operativo-binacional-en-frontera-mexico-eu-cartel-de-juarez-el-objetivo-OK22821609",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s34",
+      "titulo": "Mantiene el CJNG una «presencia dominante» en Chihuahua: Estados Unidos",
+      "editor": "La Verdad Juárez",
+      "fecha": "2026-02-23",
+      "url": "https://laverdadjuarez.com/2026/02/23/mantiene-el-cjng-una-presencia-dominante-en-chihuahua-estados-unidos/",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s35",
+      "titulo": "Esto es lo que se sabe de la muerte de 'El Chuyín', uno de los líderes de La Línea, brazo armado del Cártel de Juárez",
+      "editor": "Infobae",
+      "fecha": "2024-11-18",
+      "url": "https://www.infobae.com/mexico/2024/11/18/murio-el-chuyin-lider-de-la-linea-brazo-armado-del-cartel-de-juarez-esto-es-lo-que-se-sabe/",
+      "categoria": "prensa",
+      "verificada": true
+    }
+  ]
+}
