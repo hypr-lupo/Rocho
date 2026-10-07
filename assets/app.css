@@ -488,6 +488,7 @@ main {
 .net-svg .arrow { fill: var(--ink-2); }
 .legend-edge { width: 30px; height: 10px; flex: none; }
 .legend-edge line { stroke: var(--ink-2); stroke-width: 2; }
+.legend-edge .arrow { fill: var(--ink-2); }
 .toggle {
   appearance: none;
   border: 1px solid var(--rule);

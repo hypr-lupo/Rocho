@@ -58,12 +58,18 @@ tools/build_artifact.py    genera dist/atlas-artifact.html (versión de una sola
 
 Para un vínculo dirigido (suministro o escisión) indique `"desde": "<id>"` con el id del proveedor o de la organización madre.
 
+## Proceso de elaboración
+
+1. **Investigación.** Agentes de investigación recopilaron cada ficha con fuentes abiertas, abriendo cada URL citada.
+2. **Verificación adversarial.** Verificadores independientes revisaron cada ficha suponiendo errores: abrieron las fuentes, actualizaron los hechos de 2026 (capturas, muertes, extradiciones, designaciones) y eliminaron o rebajaron lo que no tenía respaldo.
+3. **Coherencia.** Un crítico contrastó todas las fichas entre sí; sus hallazgos (contradicciones, vínculos faltantes, organizaciones omitidas) se integraron con nueva verificación de fuentes. Así se incorporaron el Cártel de Juárez / La Línea y Gran Grif.
+
 ## Criterios de evidencia
 
 - Jerarquía de fuentes: oficiales (UNODC, Europol, gobiernos, fiscalías, Departamento de Estado, Tesoro y Departamento de Justicia de EE. UU.), investigación especializada (InSight Crime, Global Initiative Against Transnational Organized Crime, International Crisis Group, centros académicos), prensa de referencia y literatura académica. Se excluyen enciclopedias abiertas, blogs y medios sin autoría.
 - Confianza **alta**: una fuente oficial o dos independientes. **Media**: una fuente confiable. **Baja**: reportes no corroborados o disputados.
 - Las personas se mencionan como presuntos responsables según acusaciones, sanciones o declaraciones oficiales.
-- Las designaciones oficiales se informan como hechos jurídicos de cada Estado, sin adoptar su calificación.
+- Las designaciones oficiales se informan como hechos jurídicos de cada Estado, sin adoptar su calificación. La declaración conjunta «Escudo de las Américas» (22 de septiembre de 2026) se registra como declaración política no vinculante.
 
 ## Límites
 
