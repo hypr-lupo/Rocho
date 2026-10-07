@@ -11,7 +11,7 @@
   "pais_origen": "MEX",
   "fundacion": "2014-2015, como escisión de Los Zetas encabezada por Miguel Ángel y Omar Treviño Morales",
   "resumen": "Escisión de Los Zetas creada por la familia Treviño Morales, con centro de mando en Nuevo Laredo, Tamaulipas, frente al cruce terrestre más transitado con EE. UU. Su principal fuente de ingresos es el cobro sobre las mercancías lícitas e ilícitas que cruzan la frontera, además del tráfico de drogas, migrantes, armas y combustible, la extorsión y el secuestro. EE. UU. la designó Organización Terrorista Extranjera y SDGT el 20 de febrero de 2025.",
-  "situacion_actual": "El CDN mantiene el control de Nuevo Laredo bajo el liderazgo de Juan Cisneros Treviño, 'Juanito', con Abdón Federico Rodríguez García, 'Cucho', como segundo al mando y Francisco Daniel Esqueda Nieto, 'Franky Esqueda', a cargo de las operaciones tácticas (ODNI, mayo de 2026; InSight Crime, julio de 2026). Sus fundadores Miguel Ángel ('Z-40') y Omar Treviño Morales ('Z-42') fueron trasladados a EE. UU. el 27 de febrero de 2025, y Ricardo González Sauceda, 'El Ricky', detenido el 3 de febrero de 2025, fue enviado a EE. UU. el 20 de enero de 2026. OFAC sancionó a mandos y facilitadores el 21 de mayo de 2025, el 6 de agosto de 2025 y el 14 de abril de 2026; en esta última acción incluyó dos casinos de Nuevo Laredo y Tampico, al abogado defensor de 'Z-40' y al activista Raymundo Ramos, a quien acusa de dirigir campañas de desinformación a favor del cártel. En 2026 las autoridades mexicanas detuvieron en Nuevo León a José Antonio Cortés Huerta, presunto operador de contrabando de combustible (11 de mayo), y en Mérida a Justo Aurelio Rivera Parrazales, presunto operador financiero (anunciado el 19 de julio). Persiste la disputa con facciones del Cártel del Golfo en Ciudad Mier, Miguel Alemán y Reynosa.",
+  "situacion_actual": "El CDN mantiene el control de Nuevo Laredo bajo el liderazgo de Juan Cisneros Treviño, 'Juanito', con Abdón Federico Rodríguez García, 'Cucho', como segundo al mando y Francisco Daniel Esqueda Nieto, 'Franky Esqueda', a cargo de las operaciones tácticas (ODNI, mayo de 2026; InSight Crime, julio de 2026). Sus fundadores Miguel Ángel ('Z-40') y Omar Treviño Morales ('Z-42') fueron trasladados a EE. UU. el 27 de febrero de 2025, y Ricardo González Sauceda, 'El Ricky', detenido el 3 de febrero de 2025, fue enviado a EE. UU. el 20 de enero de 2026. OFAC sancionó a mandos y facilitadores el 21 de mayo de 2025, el 6 de agosto de 2025 y el 14 de abril de 2026; en esta última acción incluyó dos casinos de Nuevo Laredo y Tampico, al abogado defensor de 'Z-40' y al activista Raymundo Ramos, a quien acusa de dirigir campañas de desinformación a favor del cártel. En 2026 las autoridades mexicanas detuvieron en Nuevo León a José Antonio Cortés Huerta, presunto operador de contrabando de combustible (11 de mayo), y en Mérida a Justo Aurelio Rivera Parrazales, presunto operador financiero (anunciado el 19 de julio). El 22 de septiembre de 2026, EE. UU. y otros 14 gobiernos del Escudo de las Américas lo incluyeron entre 24 grupos objeto de sanciones coordinadas. Persiste la disputa con facciones del Cártel del Golfo en Ciudad Mier, Miguel Alemán y Reynosa.",
   "estructura": "Red de células compartimentadas dirigida por miembros de la familia Treviño. Un líder general (Juan Cisneros Treviño) que controla también el brazo armado; un segundo al mando (Rodríguez García); un jefe de operaciones tácticas en Nuevo Laredo (Esqueda Nieto); jefes de plaza regionales (por ejemplo, Piedras Negras y Ciudad Victoria); responsables de armas, de tráfico de migrantes y estructuras de lavado (casinos, empresas, regalías musicales). ODNI estima más de 1.000 integrantes.",
   "lideres": [
     {
@@ -169,6 +169,15 @@
       "fuente_ids": [
         "s4",
         "s5"
+      ]
+    },
+    {
+      "autoridad": "Estados Unidos y 14 gobiernos de América Latina y el Caribe (declaración conjunta «Escudo de las Américas»)",
+      "categoria": "Declaración política no vinculante: inclusión entre 24 grupos objeto de sanciones coordinadas (congelamiento de activos, restricción de visas y sanción del apoyo material)",
+      "fecha": "2026-09-22",
+      "fuente_ids": [
+        "s17",
+        "s18"
       ]
     }
   ],
@@ -440,6 +449,24 @@
       "fecha": "2026-07-19",
       "url": "https://www.yucatan.com.mx/merida/2026/07/19/detienen-en-merida-operador-financiero-del-cartel-del-noreste-millonario-decomiso.html",
       "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s17",
+      "titulo": "Joint Statement on Defending Hemispheric Sovereignty (Escudo de las Américas)",
+      "editor": "Departamento de Estado de EE. UU.",
+      "fecha": "2026-09-22",
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/joint-statement-on-defending-hemispheric-sovereignty/",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s18",
+      "titulo": "Shield of the Americas Blacklists 24 Criminal Groups | On the Radar",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-24",
+      "url": "https://insightcrime.org/news/shield-of-the-americas-blacklists-24-criminal-groups-on-the-radar/",
+      "categoria": "investigacion",
       "verificada": true
     }
   ]

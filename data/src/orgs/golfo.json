@@ -11,7 +11,7 @@
   "pais_origen": "MEX",
   "fundacion": "1984 según ODNI; fragmentado en facciones desde la década de 2010",
   "resumen": "Organización con base en Tamaulipas que hoy funciona como un conjunto de facciones autónomas y rivales (Los Metros, Los Escorpiones, Los Ciclones, Los Rojos y Las Panteras). Trafica cocaína, metanfetamina, fentanilo, heroína y marihuana hacia EE. UU. y obtiene ingresos del tráfico de migrantes, la extorsión, el secuestro y el contrabando de combustible. Sus facciones controlan tramos fronterizos estratégicos como Matamoros y Reynosa. EE. UU. la designó Organización Terrorista Extranjera el 20 de febrero de 2025.",
-  "situacion_actual": "A la fecha de corte, el Cártel del Golfo no opera como estructura unificada: sus facciones (Los Metros, Los Escorpiones, Los Ciclones, Los Rojos y otras) actúan con autonomía y se disputan Reynosa, Matamoros y el puerto de Altamira, y Los Metros mantienen su alianza con el CJNG (ODNI, abril de 2026; InSight Crime, agosto de 2026). ODNI atribuye a Los Metros el asesinato de un delegado de la Fiscalía General de la República en Tamaulipas en agosto de 2025. México trasladó a EE. UU. a José Alberto García Vilano, 'La Kena', exlíder de Escorpiones y Ciclones, el 27 de febrero de 2025. En 2026 las autoridades mexicanas detuvieron a José Ignacio Vega Ruiz, 'Nacho Vega', presunto operador financiero y jefe de células de Escorpiones y Ciclones (20 de enero); a Antonio Guadalupe 'N', 'Lexus', presunto jefe de la célula Operativa Ranger de Los Ciclones, en Matamoros (26 de febrero); a Alexander 'N', 'Metro 9', presunto cabecilla de Los Metros, en Reynosa (27 de abril); a Valdemar 'N', 'El Valdo', en Colima (16 de junio), y a Jesús Manuel 'N', 'Bebo', presunto operador financiero de Los Metros, tras cateos del 24 y 25 de septiembre en Chihuahua, Nuevo León y Tamaulipas contra una red de contrabando de hidrocarburos. El 27 de agosto la Secretaría de Marina aseguró en Tampico y Altamira cinco inmuebles atribuidos a la facción Los Rojos, con 135 animales exóticos y 68.000 litros de diésel. El 16 de septiembre la Fiscalía del Distrito Sur de Texas anunció la acusación por apoyo material a una organización terrorista contra un presunto integrante del cártel originario de Reynosa. César Morfín Morfín, 'Primito' (Los Metros), y José Alfredo Cárdenas Martínez, 'El Contador' (Los Ciclones), no tienen reporte público de captura.",
+  "situacion_actual": "A la fecha de corte, el Cártel del Golfo no opera como estructura unificada: sus facciones (Los Metros, Los Escorpiones, Los Ciclones, Los Rojos y otras) actúan con autonomía y se disputan Reynosa, Matamoros y el puerto de Altamira, y Los Metros mantienen su alianza con el CJNG (ODNI, abril de 2026; InSight Crime, agosto de 2026). ODNI atribuye a Los Metros el asesinato de un delegado de la Fiscalía General de la República en Tamaulipas en agosto de 2025. México trasladó a EE. UU. a José Alberto García Vilano, 'La Kena', exlíder de Escorpiones y Ciclones, el 27 de febrero de 2025. En 2026 las autoridades mexicanas detuvieron a José Ignacio Vega Ruiz, 'Nacho Vega', presunto operador financiero y jefe de células de Escorpiones y Ciclones (20 de enero); a Antonio Guadalupe 'N', 'Lexus', presunto jefe de la célula Operativa Ranger de Los Ciclones, en Matamoros (26 de febrero); a Alexander 'N', 'Metro 9', presunto cabecilla de Los Metros, en Reynosa (27 de abril); a Valdemar 'N', 'El Valdo', en Colima (16 de junio), y a Jesús Manuel 'N', 'Bebo', presunto operador financiero de Los Metros, tras cateos del 24 y 25 de septiembre en Chihuahua, Nuevo León y Tamaulipas contra una red de contrabando de hidrocarburos. El 27 de agosto la Secretaría de Marina aseguró en Tampico y Altamira cinco inmuebles atribuidos a la facción Los Rojos, con 135 animales exóticos y 68.000 litros de diésel. El 16 de septiembre la Fiscalía del Distrito Sur de Texas anunció la acusación por apoyo material a una organización terrorista contra un presunto integrante del cártel originario de Reynosa. El 22 de septiembre de 2026, EE. UU. y otros 14 gobiernos del Escudo de las Américas lo incluyeron entre 24 grupos objeto de sanciones coordinadas. César Morfín Morfín, 'Primito' (Los Metros), y José Alfredo Cárdenas Martínez, 'El Contador' (Los Ciclones), no tienen reporte público de captura.",
   "estructura": "Conjunto de facciones autónomas sin mando central. Los Metros (Reynosa, Río Bravo y Nuevo León), dirigidos por César Morfín Morfín, 'Primito', con sus hermanos Remigio y Álvaro Noé como mandos; Los Ciclones (Matamoros), dirigidos por José Alfredo Cárdenas Martínez, 'El Contador', con células de escolta como Operativa Ranger; Los Escorpiones, brazo armado histórico con base en Matamoros; y facciones menores como Los Rojos y Las Panteras. Las facciones compiten entre sí y con el CDN por rutas, puentes fronterizos y el puerto de Altamira.",
   "lideres": [
     {
@@ -174,6 +174,15 @@
       "fecha": "2025-02-20",
       "fuente_ids": [
         "s16"
+      ]
+    },
+    {
+      "autoridad": "Estados Unidos y 14 gobiernos de América Latina y el Caribe (declaración conjunta «Escudo de las Américas»)",
+      "categoria": "Declaración política no vinculante: inclusión entre 24 grupos objeto de sanciones coordinadas (congelamiento de activos, restricción de visas y sanción del apoyo material)",
+      "fecha": "2026-09-22",
+      "fuente_ids": [
+        "s24",
+        "s25"
       ]
     }
   ],
@@ -344,6 +353,26 @@
         "s14"
       ],
       "confianza": "media"
+    },
+    {
+      "destino": "ms13",
+      "tipo": "alianza",
+      "descripcion": "InSight Crime (2023), con base en una acusación judicial, informa que miembros del Programa México de la MS-13 se aliaron con el Cártel del Golfo, Los Zetas y el Cártel de Sinaloa para traficar drogas. No hay confirmación posterior.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s26"
+      ],
+      "confianza": "baja"
+    },
+    {
+      "destino": "ext-cmlo",
+      "tipo": "lavado",
+      "descripcion": "La alerta FIN-2025-A003 de FinCEN (agosto de 2025) nombra al Cártel del Golfo, junto con el CJNG y el Cártel de Sinaloa, entre las organizaciones con base en México que recurren a redes chinas de lavado de dinero para lavar sus ganancias ilícitas.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s27"
+      ],
+      "confianza": "alta"
     }
   ],
   "notas_controversia": "La adscripción de Los Metros es ambigua: OFAC (1 de mayo de 2025) describió a 'Primito' como jefe de célula del CJNG en Tamaulipas que antes dirigía una facción del Golfo, mientras que la Sedena (septiembre de 2026) lo identifica como jefe de la facción Metros del Cártel del Golfo; las autoridades también presentaron como cabecilla de Los Metros a 'Metro 9' (abril de 2026). Milenio (febrero de 2025) informó de una tregua entre Metros y Escorpiones que no fue confirmada oficialmente (confianza baja). La presencia fuera de Tamaulipas, Nuevo León, Coahuila y Veracruz se apoya en reportes puntuales (detenciones, NDTA 2025 citada por prensa). La NDTA 2025 de la DEA no pudo abrirse directamente (acceso bloqueado) y se cita a través de la IRB de Canadá y de Infobae. OFAC fecha en 2007 la identificación de la organización bajo la Kingpin Act sin precisar el día.",
@@ -544,6 +573,42 @@
       "editor": "Departamento de Justicia de EE. UU. (Fiscalía del Distrito Sur de Texas)",
       "fecha": "2026-09-16",
       "url": "https://www.justice.gov/usao-sdtx/pr/illegal-alien-charged-providing-material-support-gulf-cartel-foreign-terrorist",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s24",
+      "titulo": "Joint Statement on Defending Hemispheric Sovereignty (Escudo de las Américas)",
+      "editor": "Departamento de Estado de EE. UU.",
+      "fecha": "2026-09-22",
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/joint-statement-on-defending-hemispheric-sovereignty/",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s25",
+      "titulo": "Shield of the Americas Blacklists 24 Criminal Groups | On the Radar",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-24",
+      "url": "https://insightcrime.org/news/shield-of-the-americas-blacklists-24-criminal-groups-on-the-radar/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s26",
+      "titulo": "MS13's Mexico Program Key to El Salvador Gang Negotiations",
+      "editor": "InSight Crime",
+      "fecha": "2023-03-01",
+      "url": "https://insightcrime.org/news/ms13-mexico-program-el-salvador-gang-negotiations/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s27",
+      "titulo": "FinCEN Advisory on the Use of Chinese Money Laundering Networks by Mexico-Based Transnational Criminal Organizations to Launder Illicit Proceeds (FIN-2025-A003)",
+      "editor": "Financial Crimes Enforcement Network (Departamento del Tesoro de EE. UU.)",
+      "fecha": "2025-08-28",
+      "url": "https://www.fincen.gov/system/files/2025-08/FinCEN-Advisory-CMLN-508.pdf",
       "categoria": "oficial",
       "verificada": true
     }

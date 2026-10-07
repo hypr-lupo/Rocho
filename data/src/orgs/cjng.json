@@ -12,7 +12,7 @@
   "pais_origen": "MEX",
   "fundacion": "Julio de 2010, a partir de remanentes del Cártel del Milenio, entonces facción del Cártel de Sinaloa",
   "resumen": "Según el NCTC de EE. UU., el CJNG es uno de los cárteles más poderosos y violentos de México y, en 2026, el principal competidor del Cártel de Sinaloa. Mantiene control de facto del puerto de Manzanillo, por donde importa precursores para producir fentanilo y metanfetamina. Trafica drogas hacia EE. UU., Canadá, Australia, Europa, Asia, África y América Latina. También obtiene ingresos de la extorsión, el robo de combustible, el secuestro, la minería y la tala ilegales, el tráfico de migrantes y el fraude de tiempos compartidos.",
-  "situacion_actual": "Su fundador, Nemesio Oseguera Cervantes (“El Mencho”), murió el 22 de febrero de 2026 tras ser herido en un operativo del Ejército en Tapalpa, Jalisco, que contó con apoyo de inteligencia estadounidense. La represalia incluyó bloqueos en unos 20 estados y la muerte de 25 guardias nacionales; ese mismo día fue abatido en El Grullo su operador Hugo César Macías Ureña (“El Tuli”). EE. UU. identifica como nuevo líder a su hijastro Juan Carlos Valencia González (“El 03”): OFAC lo sancionó el 23 de julio de 2026 y el 5 de agosto EE. UU. anunció nuevas acusaciones y recompensas por más de 100 millones de dólares contra ocho dirigentes del grupo, 25 millones de ellos por Valencia González. El 4 de septiembre García Harfuch confirmó una orden de extradición en su contra, aunque el gobierno mexicano e InSight Crime describen un poder repartido entre liderazgos regionales. Las autoridades mexicanas detuvieron a Audias Flores Silva (“El Jardinero”) el 27 de abril en Nayarit y a Ramón Ángel Álvarez Ayala (“El R1”), jefe de la célula Los Rs y presunto autor intelectual del asesinato del alcalde de Uruapan Carlos Manzo, el 30 de julio en Jalisco; el 19 de agosto Heraclio Guerrero Martínez (“El Tío Lako”) evadió un operativo en Michoacán. No se ha documentado una guerra de sucesión abierta, pero hubo deserciones locales, como la de Los Viagras en Uruapan, y continúa la disputa con el Cártel de Santa Rosa de Lima en Guanajuato. En el exterior, cuatro presuntos integrantes fueron detenidos en Chequia en junio de 2026 por negociar armamento militar a cambio de fentanilo y metanfetamina, y el 24 de septiembre la Policía de Ecuador, con apoyo de EE. UU., desarticuló una red que el gobierno ecuatoriano vinculó al CJNG, con más de 30 detenidos. Argentina declaró al CJNG organización terrorista el 26 de marzo de 2026.",
+  "situacion_actual": "Su fundador, Nemesio Oseguera Cervantes (“El Mencho”), murió el 22 de febrero de 2026 tras ser herido en un operativo del Ejército en Tapalpa, Jalisco, que contó con apoyo de inteligencia estadounidense. La represalia incluyó bloqueos en unos 20 estados y la muerte de 25 guardias nacionales; ese mismo día fue abatido en El Grullo su operador Hugo César Macías Ureña (“El Tuli”). EE. UU. identifica como nuevo líder a su hijastro Juan Carlos Valencia González (“El 03”): OFAC lo sancionó el 23 de julio de 2026 y el 5 de agosto EE. UU. anunció nuevas acusaciones y recompensas por más de 100 millones de dólares contra ocho dirigentes del grupo, 25 millones de ellos por Valencia González. El 4 de septiembre García Harfuch confirmó una orden de extradición en su contra, aunque el gobierno mexicano e InSight Crime describen un poder repartido entre liderazgos regionales. Las autoridades mexicanas detuvieron a Audias Flores Silva (“El Jardinero”) el 27 de abril en Nayarit y a Ramón Ángel Álvarez Ayala (“El R1”), jefe de la célula Los Rs y presunto autor intelectual del asesinato del alcalde de Uruapan Carlos Manzo, el 30 de julio en Jalisco; el 19 de agosto Heraclio Guerrero Martínez (“El Tío Lako”) evadió un operativo en Michoacán. No se ha documentado una guerra de sucesión abierta. Un líder regional detenido afirmó en marzo que Los Viagras se volvieron contra el cártel en Uruapan, mientras que Milenio, citando al gabinete de seguridad, situó en julio a su jefe, Nicolás Sierra Santana, en la cúpula del CJNG; continúa la disputa con el Cártel de Santa Rosa de Lima en Guanajuato. En el exterior, cuatro presuntos integrantes fueron detenidos en Chequia en junio de 2026 por negociar armamento militar a cambio de fentanilo y metanfetamina, y el 24 de septiembre la Policía de Ecuador, con apoyo de EE. UU., desarticuló una red que el gobierno ecuatoriano vinculó al CJNG, con más de 30 detenidos. Argentina declaró al CJNG organización terrorista el 26 de marzo de 2026. El 22 de septiembre de 2026, EE. UU. y otros 14 gobiernos del Escudo de las Américas lo incluyeron entre 24 grupos objeto de sanciones coordinadas.",
   "estructura": "Según el NCTC, el CJNG tiene una estructura jerárquica: líderes regionales manejan las operaciones cotidianas bajo un líder general. Se combina con un modelo de franquicias con cárteles locales fuera de sus bastiones (Jalisco, Nayarit y Colima). Uno de sus brazos armados es el Grupo Élite o Fuerzas Especiales Mencho, que según InSight Crime fundó y coordinó Valencia González; Ricardo Ruiz Velasco dirige otro de sus brazos armados de élite en Jalisco. Los Cuinis, de la familia González Valencia, han sido descritos como su brazo financiero. Entre los lugartenientes señalados figuran Julio Alberto Castillo Rodríguez (“El Chorro”), Hugo Gonzalo Mendoza Gaytán (“El Sapo”, presunto coordinador de la compra de precursores) y Heraclio Guerrero Martínez (“Tío Lako”, robo de combustible). Tiene entre 15.000 y 20.000 miembros (NCTC, junio de 2026).",
   "lideres": [
     {
@@ -172,12 +172,12 @@
       ]
     },
     {
-      "autoridad": "EE. UU. y 14 gobiernos de América Latina y el Caribe (declaración Escudo de las Américas)",
-      "categoria": "Declaración conjunta no vinculante que incluye al grupo entre 24 organizaciones “narcoterroristas” por sancionar",
-      "fecha": "2026-09-23",
+      "autoridad": "Estados Unidos y 14 gobiernos de América Latina y el Caribe (declaración conjunta «Escudo de las Américas»)",
+      "categoria": "Declaración política no vinculante: inclusión entre 24 grupos objeto de sanciones coordinadas (congelamiento de activos, restricción de visas y sanción del apoyo material)",
+      "fecha": "2026-09-22",
       "fuente_ids": [
-        "s39",
-        "s40"
+        "s51",
+        "s52"
       ]
     }
   ],
@@ -644,13 +644,15 @@
       "destino": "clan-del-golfo",
       "tipo": "suministro",
       "desde": "clan-del-golfo",
-      "descripcion": "Facciones del Clan del Golfo y Los Costeños actúan como brazos operativos para el acopio, la custodia y el envío de cocaína a los emisarios del CJNG en el Caribe colombiano; Brookings señala que el CJNG suele alinearse con el Clan del Golfo.",
+      "descripcion": "Facciones del Clan del Golfo y Los Costeños actúan como brazos operativos para el acopio, la custodia y el envío de cocaína a los emisarios del CJNG en el Caribe colombiano. InSight Crime (julio de 2026) cuenta al CJNG entre los aliados clave del Clan del Golfo, GI-TOC señala que el cártel financia y coordina la producción de cocaína con socios locales como ese grupo, y Brookings indica que el CJNG suele alinearse con él.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s26",
-        "s32"
+        "s32",
+        "s56",
+        "s57"
       ],
-      "confianza": "media"
+      "confianza": "alta"
     },
     {
       "destino": "golfo",
@@ -685,22 +687,24 @@
     {
       "destino": "ext-viagras",
       "tipo": "rivalidad",
-      "descripcion": "Tras la muerte de El Mencho, Los Viagras, antiguos aliados del CJNG, se volvieron contra él en Uruapan, según un líder regional del cártel detenido.",
-      "vigencia": "vigente",
+      "descripcion": "Versión disputada: según Gerardo 'N', 'El Congo', líder regional del CJNG detenido en marzo de 2026, Los Viagras, antiguos aliados del cártel, se volvieron contra él en Uruapan tras la muerte de El Mencho (El Financiero, marzo de 2026). Milenio (julio de 2026), citando a una fuente del gabinete de seguridad, sitúa en cambio a su líder, Nicolás Sierra Santana, en la cúpula del CJNG.",
+      "vigencia": "incierta",
       "fuente_ids": [
-        "s18"
+        "s18",
+        "s53"
       ],
-      "confianza": "media"
+      "confianza": "baja"
     },
     {
       "destino": "nfm",
       "tipo": "rivalidad",
-      "descripcion": "Enfrentamientos con La Nueva Familia Michoacana en Michoacán (mayo de 2025); su relación ha alternado entre alianzas y conflicto.",
-      "vigencia": "incierta",
+      "descripcion": "Enfrentamientos con La Nueva Familia Michoacana en Michoacán (mayo de 2025, según el NCTC). Milenio (marzo de 2026) señala que las disputas continúan en municipios de Guerrero y del Estado de México pese a alianzas de coyuntura entre ambos grupos.",
+      "vigencia": "vigente",
       "fuente_ids": [
-        "s20"
+        "s20",
+        "s55"
       ],
-      "confianza": "media"
+      "confianza": "alta"
     },
     {
       "destino": "ext-csrl",
@@ -748,9 +752,64 @@
         "s9"
       ],
       "confianza": "alta"
+    },
+    {
+      "destino": "ext-viagras",
+      "tipo": "alianza",
+      "descripcion": "La OFAC informó en agosto de 2025 que Los Viagras se habían aliado recientemente con el CJNG en su conflicto por el control de Michoacán. Según Milenio (julio de 2026), que cita a una fuente del gabinete de seguridad, la facción de Nicolás Sierra Santana se unió al CJNG en 2024 y él ascendió en la organización tras la muerte de El Mencho. La versión de una ruptura en Uruapan (marzo de 2026) pone en duda la vigencia de la alianza.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s54",
+        "s53",
+        "s18"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "eln",
+      "tipo": "suministro",
+      "desde": "eln",
+      "descripcion": "Según GI-TOC (2025), el CJNG y el Cártel de Sinaloa financian y coordinan la producción de cocaína en Colombia y mantienen vínculos estrechos con actores locales como el ELN.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s57"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "ms13",
+      "tipo": "suministro",
+      "desde": "cjng",
+      "descripcion": "Según InSight Crime, miembros del Programa México de la MS-13 contactaron al CJNG en Celaya y obtuvieron de él un suministro abundante de marihuana, que enviaban a Guatemala y El Salvador. No hay confirmación posterior a 2023.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s58",
+        "s59"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "ext-tiguerones",
+      "tipo": "alianza",
+      "descripcion": "InSight Crime (septiembre de 2026) señala que se cree que Los Tiguerones tienen conexiones directas con el CJNG y le prestan servicios de narcotráfico. El grupo está fragmentado y enfrentado con Los Lobos, principales socios del CJNG en Ecuador, por lo que la vigencia de la relación es incierta.",
+      "vigencia": "incierta",
+      "fuente_ids": [
+        "s60"
+      ],
+      "confianza": "media"
+    },
+    {
+      "destino": "ext-union-tepito",
+      "tipo": "rivalidad",
+      "descripcion": "Según InSight Crime, desde 2020 varios reportes indican que el CJNG envía o arma grupos, como la Fuerza Anti-Unión y el Cártel de Tláhuac, para disputar a La Unión Tepito su territorio en la Ciudad de México. El 14 de julio de 2026 circuló un video atribuido al CJNG que amenaza a La Unión Tepito y al Cártel de Tláhuac; las autoridades no se pronunciaron sobre su autenticidad.",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s61"
+      ],
+      "confianza": "media"
     }
   ],
-  "notas_controversia": "(1) Sucesión: EE. UU. (NCTC, Tesoro, Departamento de Estado) nombra a Juan Carlos Valencia González como líder único. InSight Crime y El Financiero señalan que no hay evidencia pública de un sucesor definido y que el poder está distribuido entre liderazgos regionales; García Harfuch lo describe como el líder regional más destacado, no como jefe único. (2) En febrero de 2026 se reportó que “El Sapo” pudo haber muerto en el operativo. El NCTC (junio de 2026) y el Departamento de Estado (agosto de 2026) lo tratan como activo. (3) La alianza con Los Chapitos se da por terminada según el gobierno mexicano (16 de junio de 2026), pero Infobae (mayo de 2026, con datos de la FGR) e InSight Crime la describen como activa. (4) Las cifras de muertos por la represalia de febrero de 2026 varían: InSight Crime, citando a las autoridades, cuenta 62 (incluidos 25 guardias nacionales), Al Jazeera al menos 56 y CBS más de 70. (5) Relación con Los Huistas: InSight Crime afirma que transportan droga para el CJNG y para Sinaloa; Infobae (septiembre de 2026), citando a Diálogo Américas, indica que el CJNG se asoció con Los Huistas, tradicionalmente aliados de Sinaloa. (6) La cifra de presencia en “al menos 40 países” (Gobierno argentino) es agregada y no viene acompañada de una lista pública. (7) Una supuesta captura de “Doble R” en Mexicali en marzo de 2026 correspondió a otra persona con el mismo alias. (8) Sobre la red desarticulada en Ecuador el 24 de septiembre de 2026, el Ministerio del Interior ecuatoriano afirmó que tenía relación directa con el CJNG y ningún vínculo con bandas locales, mientras la Embajada de EE. UU. la describió como una operación contra Los Choneros.",
+  "notas_controversia": "(1) Sucesión: EE. UU. (NCTC, Tesoro, Departamento de Estado) nombra a Juan Carlos Valencia González como líder único. InSight Crime y El Financiero señalan que no hay evidencia pública de un sucesor definido y que el poder está distribuido entre liderazgos regionales; García Harfuch lo describe como el líder regional más destacado, no como jefe único. (2) En febrero de 2026 se reportó que “El Sapo” pudo haber muerto en el operativo. El NCTC (junio de 2026) y el Departamento de Estado (agosto de 2026) lo tratan como activo. (3) La alianza con Los Chapitos se da por terminada según el gobierno mexicano (16 de junio de 2026), pero Infobae (mayo de 2026, con datos de la FGR) e InSight Crime la describen como activa. (4) Las cifras de muertos por la represalia de febrero de 2026 varían: InSight Crime, citando a las autoridades, cuenta 62 (incluidos 25 guardias nacionales), Al Jazeera al menos 56 y CBS más de 70. (5) Relación con Los Huistas: InSight Crime afirma que transportan droga para el CJNG y para Sinaloa; Infobae (septiembre de 2026), citando a Diálogo Américas, indica que el CJNG se asoció con Los Huistas, tradicionalmente aliados de Sinaloa. (6) La cifra de presencia en “al menos 40 países” (Gobierno argentino) es agregada y no viene acompañada de una lista pública. (7) Una supuesta captura de “Doble R” en Mexicali en marzo de 2026 correspondió a otra persona con el mismo alias. (8) Sobre la red desarticulada en Ecuador el 24 de septiembre de 2026, el Ministerio del Interior ecuatoriano afirmó que tenía relación directa con el CJNG y ningún vínculo con bandas locales, mientras la Embajada de EE. UU. la describió como una operación contra Los Choneros. (9) La relación con Los Viagras es disputada: la OFAC (agosto de 2025) informó de una alianza; 'El Congo' afirmó en marzo de 2026 que el grupo se volvió contra el CJNG en Uruapan, y Milenio (julio de 2026), citando al gabinete de seguridad, sitúa a Nicolás Sierra Santana en la cúpula del cártel.",
   "confianza_general": "alta",
   "fuentes": [
     {
@@ -1078,24 +1137,6 @@
       "verificada": true
     },
     {
-      "id": "s39",
-      "titulo": "Escudo de las Américas: Chile y otros 13 países firman declaración con EE.UU. para sancionar a 24 grupos narcoterroristas, entre ellos el Tren de Aragua",
-      "editor": "Pauta",
-      "fecha": "2026-09-23",
-      "url": "https://www.pauta.cl/actualidad/2026/09/23/escudo-de-las-americas-chile-y-otros-13-paises-firman-declaracion-con-ee-uu-para-sancionar-a-24-grupos-narcoterroristas-entre-ellos-el-tren-de-aragua.html",
-      "categoria": "prensa",
-      "verificada": true
-    },
-    {
-      "id": "s40",
-      "titulo": "Aliados latinoamericanos de Trump planean clasificar a los cárteles como 'terroristas'",
-      "editor": "The New York Times (vía Infobae)",
-      "fecha": "2026-09-22",
-      "url": "https://www.infobae.com/america/the-new-york-times/2026/09/22/aliados-latinoamericanos-de-trump-planean-clasificar-a-los-carteles-como-terroristas/",
-      "categoria": "prensa",
-      "verificada": true
-    },
-    {
       "id": "s42",
       "titulo": "¿CJNG sin líder? El sucesor de ‘El Mencho’ sigue sin aclararse dentro del cártel",
       "editor": "El Financiero",
@@ -1165,6 +1206,105 @@
       "fecha": "2025-12-17",
       "url": "https://home.treasury.gov/news/press-releases/sb0339",
       "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s51",
+      "titulo": "Joint Statement on Defending Hemispheric Sovereignty (Escudo de las Américas)",
+      "editor": "Departamento de Estado de EE. UU.",
+      "fecha": "2026-09-22",
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/joint-statement-on-defending-hemispheric-sovereignty/",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s52",
+      "titulo": "Shield of the Americas Blacklists 24 Criminal Groups | On the Radar",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-24",
+      "url": "https://insightcrime.org/news/shield-of-the-americas-blacklists-24-criminal-groups-on-the-radar/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s53",
+      "titulo": "México y EU van por 'El Gordo', el nuevo líder paralelo del CJNG",
+      "editor": "Milenio",
+      "fecha": "2026-07-24",
+      "url": "https://www.milenio.com/policia/mexico-eu-van-el-gordo-lider-paralelo-del-cjng",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s54",
+      "titulo": "Treasury Takes Decisive Action Against Violent Mexican Cartels (sb0224)",
+      "editor": "Departamento del Tesoro de EE. UU. (OFAC)",
+      "fecha": "2025-08-14",
+      "url": "https://home.treasury.gov/news/press-releases/sb0224",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s55",
+      "titulo": "CJNG y Nueva Familia Michoacana: las claves de sus alianzas",
+      "editor": "Milenio",
+      "fecha": "2026-03-18",
+      "url": "https://www.milenio.com/policia/cjng-y-nueva-familia-michoacana-las-claves-de-sus-alianzas",
+      "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s56",
+      "titulo": "Jobanis de Jesús Ávila Villadiego, alias 'Chiquito Malo'",
+      "editor": "InSight Crime",
+      "fecha": "2026-07-03",
+      "url": "https://insightcrime.org/colombia-organized-crime-news/jobanis-de-jesus-avila-villadiego-chiquito-malo/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s57",
+      "titulo": "Global Organized Crime Index 2025 – Colombia",
+      "editor": "Global Initiative Against Transnational Organized Crime",
+      "fecha": "2025",
+      "url": "https://ocindex.net/assets/downloads/2025/english/ocindex_profile_colombia_2025.pdf",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s58",
+      "titulo": "The Birth of the MS13's Mexico Program",
+      "editor": "InSight Crime",
+      "fecha": "2022-02-15",
+      "url": "https://insightcrime.org/investigations/birth-ms13-mexico-program/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s59",
+      "titulo": "MS13's Mexico Program Key to El Salvador Gang Negotiations",
+      "editor": "InSight Crime",
+      "fecha": "2023-03-01",
+      "url": "https://insightcrime.org/news/ms13-mexico-program-el-salvador-gang-negotiations/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s60",
+      "titulo": "Tiguerones (perfil)",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-17",
+      "url": "https://insightcrime.org/ecuador-organized-crime-news/tiguerones/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s61",
+      "titulo": "La Unión Tepito (perfil)",
+      "editor": "InSight Crime",
+      "fecha": "2026-07-15",
+      "url": "https://insightcrime.org/mexico-organized-crime-news/la-union-tepito-profile/",
+      "categoria": "investigacion",
       "verificada": true
     }
   ]

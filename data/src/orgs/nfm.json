@@ -11,7 +11,7 @@
   "pais_origen": "MEX",
   "fundacion": "Década de 2010, como iteración más reciente de La Familia Michoacana (surgida en 2006)",
   "resumen": "Iteración más reciente de La Familia Michoacana, dirigida por los hermanos Hurtado Olascoaga desde la Tierra Caliente de Guerrero, con presencia en el Estado de México, Michoacán, Morelos, Puebla y la Ciudad de México. Trafica metanfetamina, fentanilo, cocaína y heroína hacia EE. UU. y obtiene ingresos de la extorsión, el secuestro, la minería ilegal y el control de recursos forestales. Usa drones con explosivos contra rivales y comunidades. EE. UU. la designó Organización Terrorista Extranjera y SDGT el 20 de febrero de 2025.",
-  "situacion_actual": "La NFM sigue activa bajo el mando de Johnny Hurtado Olascoaga, 'El Pez', y José Alfredo Hurtado Olascoaga, 'El Fresa', sin reporte público de captura a la fecha de corte. El 15 de abril de 2025 EE. UU. desclasificó acusaciones contra ambos en el Distrito Norte de Georgia, OFAC sancionó a cuatro hermanos Hurtado Olascoaga y el Departamento de Estado ofreció recompensas de hasta 5 y 3 millones de dólares. En 2026 las autoridades mexiquenses detuvieron a un presunto jefe de plaza a cargo de seis municipios del sur del Estado de México (15 de marzo), y el secretario de Seguridad atribuyó, con base en indicios, a La Familia Michoacana la privación de la libertad del alcalde de Taxco y de su padre, localizados el 13 de abril. En septiembre la Fiscalía de Morelos informó que operan en el estado dos grupos de alcance nacional, sin nombrarlos; según información extraoficial, uno de ellos es La Familia Michoacana. El 24 de septiembre hombres armados privaron de la libertad a ocho habitantes del ejido El Balcón (Ajuchitlán del Progreso, Guerrero); los ejidatarios atribuyen el hecho a presuntos integrantes de La Familia Michoacana, que liberaron a un niño el 1 de octubre y, según su testimonio, condicionaron la liberación de los otros siete a la entrega de sus tierras. Su relación con el CJNG combina enfrentamientos en Michoacán, Guerrero y el Estado de México con pactos tácticos.",
+  "situacion_actual": "La NFM sigue activa bajo el mando de Johnny Hurtado Olascoaga, 'El Pez', y José Alfredo Hurtado Olascoaga, 'El Fresa', sin reporte público de captura a la fecha de corte. El 15 de abril de 2025 EE. UU. desclasificó acusaciones contra ambos en el Distrito Norte de Georgia, OFAC sancionó a cuatro hermanos Hurtado Olascoaga y el Departamento de Estado ofreció recompensas de hasta 5 y 3 millones de dólares. En 2026 las autoridades mexiquenses detuvieron a un presunto jefe de plaza a cargo de seis municipios del sur del Estado de México (15 de marzo), y el secretario de Seguridad atribuyó, con base en indicios, a La Familia Michoacana la privación de la libertad del alcalde de Taxco y de su padre, localizados el 13 de abril. En septiembre la Fiscalía de Morelos informó que operan en el estado dos grupos de alcance nacional, sin nombrarlos; según información extraoficial, uno de ellos es La Familia Michoacana. El 22 de septiembre, EE. UU. y otros 14 gobiernos del Escudo de las Américas la incluyeron entre 24 grupos objeto de sanciones coordinadas. El 24 de septiembre hombres armados privaron de la libertad a ocho habitantes del ejido El Balcón (Ajuchitlán del Progreso, Guerrero); los ejidatarios atribuyen el hecho a presuntos integrantes de La Familia Michoacana, que liberaron a un niño el 1 de octubre y, según su testimonio, condicionaron la liberación de los otros siete a la entrega de sus tierras. Su relación con el CJNG combina enfrentamientos en Michoacán, Guerrero y el Estado de México con pactos tácticos.",
   "estructura": "Organización de base familiar. Johnny Hurtado Olascoaga ('El Pez') es el líder principal; José Alfredo ('El Fresa') dirige las operaciones en Guerrero y el Estado de México; Ubaldo supervisa sicarios, extorsión y minería; Adita dirige finanzas y lavado. Por debajo operan lugartenientes regionales (por ejemplo, Rodolfo Maldonado Bustos en el corredor Ciudad Altamirano–Zihuatanejo–Lázaro Cárdenas), un jefe financiero (Josué Ramírez Carrera), jefes de plaza municipales y células urbanas afiliadas en el Valle de México. ODNI estima unos 5.000 integrantes.",
   "lideres": [
     {
@@ -119,6 +119,15 @@
       "fecha": "2025-02-20",
       "fuente_ids": [
         "s22"
+      ]
+    },
+    {
+      "autoridad": "Estados Unidos y 14 gobiernos de América Latina y el Caribe (declaración conjunta «Escudo de las Américas»)",
+      "categoria": "Declaración política no vinculante: inclusión entre 24 grupos objeto de sanciones coordinadas (congelamiento de activos, restricción de visas y sanción del apoyo material)",
+      "fecha": "2026-09-22",
+      "fuente_ids": [
+        "s25",
+        "s26"
       ]
     }
   ],
@@ -491,6 +500,24 @@
       "fecha": "2026-10-03",
       "url": "https://www.proceso.com.mx/nacional/estados/2026/10/3/la-familia-michoacana-libera-a-nino-en-ajuchitlan-dejaran-ir-a-otras-siete-personas-a-cambio-de-sus-381152.html",
       "categoria": "prensa",
+      "verificada": true
+    },
+    {
+      "id": "s25",
+      "titulo": "Joint Statement on Defending Hemispheric Sovereignty (Escudo de las Américas)",
+      "editor": "Departamento de Estado de EE. UU.",
+      "fecha": "2026-09-22",
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/joint-statement-on-defending-hemispheric-sovereignty/",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s26",
+      "titulo": "Shield of the Americas Blacklists 24 Criminal Groups | On the Radar",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-24",
+      "url": "https://insightcrime.org/news/shield-of-the-americas-blacklists-24-criminal-groups-on-the-radar/",
+      "categoria": "investigacion",
       "verificada": true
     }
   ]

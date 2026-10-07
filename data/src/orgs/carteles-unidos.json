@@ -13,7 +13,7 @@
   "pais_origen": "MEX",
   "fundacion": "2019",
   "resumen": "Coalición de grupos criminales de Michoacán formada en 2019 para frenar la expansión del CJNG, encabezada por Juan José Farías Álvarez, 'El Abuelo' (Cártel de Tepalcatepec). Produce metanfetamina, trafica fentanilo, cocaína y heroína hacia EE. UU. y extorsiona a productores de aguacate y limón en la Tierra Caliente. Emplea artefactos explosivos improvisados, drones armados y vehículos blindados. EE. UU. la designó Organización Terrorista Extranjera y SDGT el 20 de febrero de 2025.",
-  "situacion_actual": "Cárteles Unidos enfrenta en 2026 la mayor ofensiva estatal desde su formación. Tras la presentación del Plan Michoacán por la Paz y la Justicia (9 de noviembre de 2025), las fuerzas federales detuvieron a César Alejandro Sepúlveda Arellano, 'El Botox', líder de Los Blancos de Troya (22 de enero de 2026); a Víctor 'N', hijo de 'El Abuelo', en Tepalcatepec (18 de abril); a Alfonso Fernández Magallón, 'Poncho', líder del Cártel de Los Reyes (1 de agosto), y a Edgar Valeriano Orozco Cabadas, 'El Kamoni', en Tepalcatepec (23 de septiembre). Luis Enrique Barragán Chávez, 'R5', que había asumido el mando del Cártel de Los Reyes, murió durante un operativo federal en Tocumbo (31 de agosto). El 1 de julio un gran jurado del Distrito de Columbia acusó a Juan José Farías Mendoza, 'Juanjo', hijo de 'El Abuelo', y a su sobrino Israel Vega Farías. De los cinco dirigentes acusados por EE. UU. el 14 de agosto de 2025, solo 'El Abuelo' y Nicolás Sierra Santana, 'El Gordo' (Los Viagras), no han sido capturados. La coalición se mantiene como alianza laxa contra el CJNG. La posición de Los Viagras es disputada: el DOJ indicó en agosto de 2025 que habían dejado la coalición y OFAC, que se habían aliado con el CJNG; El Financiero informó en marzo de 2026 de una ruptura con el CJNG tras la muerte de Nemesio Oseguera, 'El Mencho' (22 de febrero de 2026), mientras que Milenio, citando a una fuente del gabinete de seguridad, afirmó en julio de 2026 que 'El Gordo' ascendió dentro del CJNG. EE. UU. designó a Los Viagras (con Los Blancos de Troya como alias) como Organización Terrorista Extranjera el 16 de julio de 2026.",
+  "situacion_actual": "Cárteles Unidos enfrenta en 2026 la mayor ofensiva estatal desde su formación. Tras la presentación del Plan Michoacán por la Paz y la Justicia (9 de noviembre de 2025), las fuerzas federales detuvieron a César Alejandro Sepúlveda Arellano, 'El Botox', líder de Los Blancos de Troya (22 de enero de 2026); a Víctor 'N', hijo de 'El Abuelo', en Tepalcatepec (18 de abril); a Alfonso Fernández Magallón, 'Poncho', líder del Cártel de Los Reyes (1 de agosto), y a Edgar Valeriano Orozco Cabadas, 'El Kamoni', en Tepalcatepec (23 de septiembre). Luis Enrique Barragán Chávez, 'R5', que había asumido el mando del Cártel de Los Reyes, murió durante un operativo federal en Tocumbo (31 de agosto). El 1 de julio un gran jurado del Distrito de Columbia acusó a Juan José Farías Mendoza, 'Juanjo', hijo de 'El Abuelo', y a su sobrino Israel Vega Farías. De los cinco dirigentes acusados por EE. UU. el 14 de agosto de 2025, solo 'El Abuelo' y Nicolás Sierra Santana, 'El Gordo' (Los Viagras), no han sido capturados. La coalición se mantiene como alianza laxa contra el CJNG. La posición de Los Viagras es disputada: el DOJ indicó en agosto de 2025 que habían dejado la coalición y OFAC, que se habían aliado con el CJNG; El Financiero informó en marzo de 2026, con base en declaraciones de un líder regional del CJNG detenido, de una ruptura entre Los Viagras y el CJNG en Uruapan tras la muerte de Nemesio Oseguera, 'El Mencho' (22 de febrero de 2026), mientras que Milenio, citando a una fuente del gabinete de seguridad, afirmó en julio de 2026 que 'El Gordo' ascendió dentro del CJNG. EE. UU. designó a Los Viagras (con Los Blancos de Troya como alias) como Organización Terrorista Extranjera el 16 de julio de 2026. El 22 de septiembre de 2026, EE. UU. y otros 14 gobiernos del Escudo de las Américas incluyeron a Cárteles Unidos y a Los Viagras entre 24 grupos objeto de sanciones coordinadas.",
   "estructura": "Coalición laxa sin estructura vertical: cada grupo conserva liderazgo y territorio propios. Según ODNI (enero de 2026), a finales de 2025 la integraban el Cártel del Abuelo/Cártel de Tepalcatepec, Cártel Deal, Cártel de Los Reyes, Caballeros Templarios, Los Blancos de Troya y La Nueva Familia Michoacana. El DOJ (agosto de 2025) identifica a Farías Álvarez como líder máximo, a jefes de facción (Los Reyes) y a jefes de brazos armados regionales. ODNI estima miles de integrantes.",
   "lideres": [
     {
@@ -129,6 +129,15 @@
       "fecha": "2025-02-20",
       "fuente_ids": [
         "s7"
+      ]
+    },
+    {
+      "autoridad": "Estados Unidos y 14 gobiernos de América Latina y el Caribe (declaración conjunta «Escudo de las Américas»)",
+      "categoria": "Declaración política no vinculante: inclusión entre 24 grupos objeto de sanciones coordinadas (congelamiento de activos, restricción de visas y sanción del apoyo material)",
+      "fecha": "2026-09-22",
+      "fuente_ids": [
+        "s24",
+        "s25"
       ]
     }
   ],
@@ -262,7 +271,7 @@
     {
       "destino": "ext-viagras",
       "tipo": "rivalidad",
-      "descripcion": "Los Viagras formaron parte de la coalición, pero según el DOJ la dejaron poco antes de agosto de 2025 y, según OFAC, se aliaron con el CJNG. Milenio (julio de 2026) afirma que en 2024 se dividieron en una facción que siguió con Cárteles Unidos y otra, la de Sierra Santana, que se unió al CJNG; El Financiero (marzo de 2026) informó de una ruptura con el CJNG tras la muerte de 'El Mencho'. Las fuentes discrepan sobre si hoy son aliados o rivales de la coalición.",
+      "descripcion": "Los Viagras formaron parte de la coalición, pero según el DOJ la dejaron poco antes de agosto de 2025 y, según OFAC, se aliaron con el CJNG. Milenio (julio de 2026) afirma que en 2024 se dividieron en una facción que siguió con Cárteles Unidos y otra, la de Sierra Santana, que se unió al CJNG; El Financiero (marzo de 2026) informó de que Los Viagras rompieron su alianza con el CJNG y le disputan Uruapan tras la muerte de 'El Mencho'; esa ruptura se refiere a su relación con el CJNG, no con la coalición. Las fuentes discrepan sobre si hoy son aliados o rivales de la coalición.",
       "vigencia": "incierta",
       "fuente_ids": [
         "s4",
@@ -482,6 +491,24 @@
       "fecha": "2026-07-02",
       "url": "https://www.justice.gov/opa/pr/two-high-ranking-members-united-cartels-charged-drug-trafficking-providing-material-support",
       "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s24",
+      "titulo": "Joint Statement on Defending Hemispheric Sovereignty (Escudo de las Américas)",
+      "editor": "Departamento de Estado de EE. UU.",
+      "fecha": "2026-09-22",
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/joint-statement-on-defending-hemispheric-sovereignty/",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s25",
+      "titulo": "Shield of the Americas Blacklists 24 Criminal Groups | On the Radar",
+      "editor": "InSight Crime",
+      "fecha": "2026-09-24",
+      "url": "https://insightcrime.org/news/shield-of-the-americas-blacklists-24-criminal-groups-on-the-radar/",
+      "categoria": "investigacion",
       "verificada": true
     }
   ]
