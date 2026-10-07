@@ -744,3 +744,7 @@ footer.site-foot {
 @media (forced-colors: active) {
   .cell[data-v] { forced-color-adjust: none; }
 }
+
+/* Los textos de las fichas separan párrafos con una línea en blanco (GUIA_REDACCION.md). */
+.drawer__body p, .pres__note, .note-box, .vinc li > div, .links-table td, .tip div { white-space: pre-line; }
+.drawer__body p + p { margin-top: 10px; }
