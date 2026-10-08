@@ -10,15 +10,15 @@
   "tipo": "cartel",
   "pais_origen": "MEX",
   "fundacion": "2014-2015, como escisión de Los Zetas encabezada por Miguel Ángel y Omar Treviño Morales",
-  "resumen": "Escisión de Los Zetas creada por la familia Treviño Morales, con centro de mando en Nuevo Laredo, Tamaulipas, frente al cruce terrestre más transitado con EE. UU. Su principal fuente de ingresos es el cobro sobre las mercancías lícitas e ilícitas que cruzan la frontera, además del tráfico de drogas, migrantes, armas y combustible, la extorsión y el secuestro. EE. UU. la designó Organización Terrorista Extranjera y SDGT el 20 de febrero de 2025.",
-  "situacion_actual": "El CDN mantiene el control de Nuevo Laredo bajo el liderazgo de Juan Cisneros Treviño, 'Juanito', con Abdón Federico Rodríguez García, 'Cucho', como segundo al mando y Francisco Daniel Esqueda Nieto, 'Franky Esqueda', a cargo de las operaciones tácticas (ODNI, mayo de 2026; InSight Crime, julio de 2026). Sus fundadores Miguel Ángel ('Z-40') y Omar Treviño Morales ('Z-42') fueron trasladados a EE. UU. el 27 de febrero de 2025, y Ricardo González Sauceda, 'El Ricky', detenido el 3 de febrero de 2025, fue enviado a EE. UU. el 20 de enero de 2026. OFAC sancionó a mandos y facilitadores el 21 de mayo de 2025, el 6 de agosto de 2025 y el 14 de abril de 2026; en esta última acción incluyó dos casinos de Nuevo Laredo y Tampico, al abogado defensor de 'Z-40' y al activista Raymundo Ramos, a quien acusa de dirigir campañas de desinformación a favor del cártel. En 2026 las autoridades mexicanas detuvieron en Nuevo León a José Antonio Cortés Huerta, presunto operador de contrabando de combustible (11 de mayo), y en Mérida a Justo Aurelio Rivera Parrazales, presunto operador financiero (anunciado el 19 de julio). El 22 de septiembre de 2026, EE. UU. y otros 14 gobiernos del Escudo de las Américas lo incluyeron entre 24 grupos objeto de sanciones coordinadas. Persiste la disputa con facciones del Cártel del Golfo en Ciudad Mier, Miguel Alemán y Reynosa.",
-  "estructura": "Red de células compartimentadas dirigida por miembros de la familia Treviño. Un líder general (Juan Cisneros Treviño) que controla también el brazo armado; un segundo al mando (Rodríguez García); un jefe de operaciones tácticas en Nuevo Laredo (Esqueda Nieto); jefes de plaza regionales (por ejemplo, Piedras Negras y Ciudad Victoria); responsables de armas, de tráfico de migrantes y estructuras de lavado (casinos, empresas, regalías musicales). ODNI estima más de 1.000 integrantes.",
+  "resumen": "El Cártel del Noreste (CDN) es una escisión de Los Zetas que creó la familia Treviño Morales. Su centro de mando está en Nuevo Laredo (Tamaulipas), frente al cruce terrestre más transitado con Estados Unidos. Su principal fuente de ingresos es el cobro sobre las mercancías lícitas e ilícitas que cruzan la frontera. También obtiene ingresos del tráfico de drogas, migrantes, armas y combustible, de la extorsión y del secuestro. EE. UU. lo designó Organización Terrorista Extranjera (FTO, por su sigla en inglés) el 20 de febrero de 2025. Ese día también lo designó Terrorista Global Especialmente Designado (SDGT, por su sigla en inglés).",
+  "situacion_actual": "El CDN mantiene el control de Nuevo Laredo. Según la Oficina del Director de Inteligencia Nacional (ODNI) de EE. UU. (mayo de 2026) e InSight Crime (julio de 2026), lo dirige Juan Cisneros Treviño, «Juanito». Las mismas fuentes señalan a Abdón Federico Rodríguez García, «Cucho», como segundo al mando. También señalan a Francisco Daniel Esqueda Nieto, «Franky Esqueda», como jefe de las operaciones tácticas. Persiste la disputa con facciones del Cártel del Golfo en Ciudad Mier, Miguel Alemán y Reynosa.\n\nMéxico trasladó a EE. UU. a los fundadores del cártel, Miguel Ángel («Z-40») y Omar Treviño Morales («Z-42»), el 27 de febrero de 2025. Ricardo González Sauceda, «El Ricky», quedó detenido el 3 de febrero de 2025. México lo envió a EE. UU. el 20 de enero de 2026.\n\nLa Oficina de Control de Activos Extranjeros (OFAC) del Tesoro de EE. UU. sancionó a mandos y facilitadores del CDN en tres acciones. Las acciones fueron el 21 de mayo de 2025, el 6 de agosto de 2025 y el 14 de abril de 2026. En la acción de abril de 2026, la OFAC incluyó dos casinos de Nuevo Laredo y Tampico y al abogado defensor de «Z-40». También incluyó al activista Raymundo Ramos, a quien acusa de dirigir campañas de desinformación a favor del cártel.\n\nEn 2026, las autoridades mexicanas detuvieron en Nuevo León a José Antonio Cortés Huerta, presunto operador de contrabando de combustible (11 de mayo). También detuvieron en Mérida a Justo Aurelio Rivera Parrazales, presunto operador financiero. El Gabinete de Seguridad anunció esa detención el 19 de julio. El 22 de septiembre de 2026, EE. UU. y otros 14 gobiernos firmaron la declaración conjunta «Escudo de las Américas». La declaración incluye al CDN entre 24 grupos objeto de sanciones coordinadas.",
+  "estructura": "El CDN es una red de células compartimentadas que dirigen miembros de la familia Treviño. Juan Cisneros Treviño es el líder general y también controla el brazo armado. Rodríguez García es el segundo al mando, y Esqueda Nieto es el jefe de operaciones tácticas en Nuevo Laredo. Por debajo hay jefes regionales de plaza (territorio que controla una organización criminal), por ejemplo en Piedras Negras y Ciudad Victoria. Otros mandos responden por las armas y el tráfico de migrantes, y otras estructuras lavan dinero mediante casinos, empresas y regalías musicales. La ODNI estima que el CDN tiene más de 1.000 integrantes.",
   "lideres": [
     {
       "nombre": "Juan Cisneros Treviño",
       "alias": "Juanito",
       "rol": "Líder del CDN y de su brazo armado desde 2022",
-      "estado": "Prófugo",
+      "estado": "Está prófugo.",
       "fuente_ids": [
         "s1",
         "s7"
@@ -27,8 +27,8 @@
     {
       "nombre": "Abdón Federico Rodríguez García",
       "alias": "Cucho",
-      "rol": "Segundo al mando; narcotráfico, lavado, robo de combustible y extorsión",
-      "estado": "Prófugo; sancionado por OFAC el 6 de agosto de 2025",
+      "rol": "Segundo al mando, con funciones en narcotráfico, lavado, robo de combustible y extorsión",
+      "estado": "Está prófugo. La OFAC lo sancionó el 6 de agosto de 2025.",
       "fuente_ids": [
         "s1",
         "s4",
@@ -39,7 +39,7 @@
       "nombre": "Francisco Daniel Esqueda Nieto",
       "alias": "Franky Esqueda",
       "rol": "Jefe de operaciones tácticas en Nuevo Laredo",
-      "estado": "Prófugo; sancionado por OFAC el 6 de agosto de 2025",
+      "estado": "Está prófugo. La OFAC lo sancionó el 6 de agosto de 2025.",
       "fuente_ids": [
         "s5",
         "s7"
@@ -49,7 +49,7 @@
       "nombre": "Antonio Romero Sánchez",
       "alias": "Romeo",
       "rol": "Mando de alto rango con operaciones en Piedras Negras (Coahuila) y Ciudad Victoria (Tamaulipas)",
-      "estado": "Sin reporte público de captura; sancionado por OFAC el 6 de agosto de 2025",
+      "estado": "No hay reportes públicos de su detención. La OFAC lo sancionó el 6 de agosto de 2025.",
       "fuente_ids": [
         "s5",
         "s7"
@@ -58,8 +58,8 @@
     {
       "nombre": "Miguel Ángel de Anda Ledezma",
       "alias": "",
-      "rol": "Responsable de la adquisición de armas y municiones en EE. UU.",
-      "estado": "Sin reporte público de captura; sancionado por OFAC el 21 de mayo de 2025",
+      "rol": "Responsable de la adquisición de armas y municiones en Estados Unidos",
+      "estado": "No hay reportes públicos de su detención. La OFAC lo sancionó el 21 de mayo de 2025.",
       "fuente_ids": [
         "s6"
       ]
@@ -68,7 +68,7 @@
       "nombre": "Eduardo Javier Islas Valdez",
       "alias": "Crosty",
       "rol": "Responsable del tráfico de migrantes en Nuevo Laredo y de casas de seguridad de efectivo",
-      "estado": "Sin reporte público de captura; sancionado por OFAC el 14 de abril de 2026",
+      "estado": "No hay reportes públicos de su detención. La OFAC lo sancionó el 14 de abril de 2026.",
       "fuente_ids": [
         "s4"
       ]
@@ -77,7 +77,7 @@
       "nombre": "Ricardo González Sauceda",
       "alias": "El Ricky",
       "rol": "Exjefe del brazo armado y exsegundo al mando",
-      "estado": "Detenido el 3 de febrero de 2025; trasladado a EE. UU. el 20 de enero de 2026",
+      "estado": "Lo detuvieron el 3 de febrero de 2025. México lo trasladó a EE. UU. el 20 de enero de 2026.",
       "fuente_ids": [
         "s6",
         "s11"
@@ -87,7 +87,7 @@
       "nombre": "Miguel Ángel Treviño Morales",
       "alias": "Z-40",
       "rol": "Cofundador y exlíder",
-      "estado": "Trasladado a EE. UU. el 27 de febrero de 2025; en espera de juicio",
+      "estado": "México lo trasladó a EE. UU. el 27 de febrero de 2025. Está en espera de juicio.",
       "fuente_ids": [
         "s1",
         "s12"
@@ -97,7 +97,7 @@
       "nombre": "Omar Treviño Morales",
       "alias": "Z-42",
       "rol": "Cofundador y exlíder",
-      "estado": "Trasladado a EE. UU. el 27 de febrero de 2025; en espera de juicio",
+      "estado": "México lo trasladó a EE. UU. el 27 de febrero de 2025. Está en espera de juicio.",
       "fuente_ids": [
         "s1",
         "s12"
@@ -106,8 +106,8 @@
     {
       "nombre": "José Antonio Cortés Huerta",
       "alias": "",
-      "rol": "Presunto líder de una célula dedicada al contrabando de combustible procedente de EE. UU.",
-      "estado": "Detenido en Nuevo León el 11 de mayo de 2026",
+      "rol": "Presunto líder de una célula dedicada al contrabando de combustible procedente de Estados Unidos",
+      "estado": "Lo detuvieron en Nuevo León el 11 de mayo de 2026.",
       "fuente_ids": [
         "s9",
         "s15"
@@ -117,7 +117,7 @@
       "nombre": "Justo Aurelio Rivera Parrazales",
       "alias": "",
       "rol": "Presunto operador financiero y logístico",
-      "estado": "Detenido en Mérida, Yucatán, en julio de 2026 (el Gabinete de Seguridad lo anunció el 19 de julio)",
+      "estado": "Lo detuvieron en Mérida, Yucatán, en julio de 2026. El Gabinete de Seguridad anunció la detención el 19 de julio.",
       "fuente_ids": [
         "s7",
         "s10",
@@ -137,7 +137,7 @@
     },
     {
       "autoridad": "Departamento de Estado de EE. UU.",
-      "categoria": "Terrorista Global Especialmente Designado (SDGT, E.O. 13224)",
+      "categoria": "Terrorista Global Especialmente Designado (SDGT), conforme a la Orden Ejecutiva 13224",
       "fecha": "2025-02-20",
       "fuente_ids": [
         "s3",
@@ -146,7 +146,7 @@
     },
     {
       "autoridad": "Departamento del Tesoro de EE. UU. (OFAC)",
-      "categoria": "Narcotraficante extranjero significativo (Kingpin Act), como Los Zetas",
+      "categoria": "«Narcotraficante extranjero significativo» conforme a la Kingpin Act, con el nombre de Los Zetas",
       "fecha": "2009-04-15",
       "fuente_ids": [
         "s4",
@@ -155,7 +155,7 @@
     },
     {
       "autoridad": "Departamento del Tesoro de EE. UU. (OFAC)",
-      "categoria": "Organización criminal transnacional (E.O. 13581), como Los Zetas",
+      "categoria": "Organización criminal transnacional conforme a la Orden Ejecutiva 13581, con el nombre de Los Zetas",
       "fecha": "2011-07-24",
       "fuente_ids": [
         "s4",
@@ -164,7 +164,7 @@
     },
     {
       "autoridad": "Departamento del Tesoro de EE. UU. (OFAC)",
-      "categoria": "Sanción por narcotráfico (E.O. 14059)",
+      "categoria": "Sanción por narcotráfico conforme a la Orden Ejecutiva 14059",
       "fecha": "2021-12-15",
       "fuente_ids": [
         "s4",
@@ -232,7 +232,7 @@
         "combustible",
         "lavado"
       ],
-      "nota": "Centro de mando en Nuevo Laredo, donde grava casi todo el flujo lícito e ilícito del cruce con Laredo. ODNI ubica su área principal en Coahuila, Nuevo León, San Luis Potosí, Tamaulipas y Zacatecas; la NDTA 2025 de la DEA le atribuye además presencia significativa en la Ciudad de México y presencia en Chihuahua, Hidalgo y Veracruz, aunque InSight Crime señala que no ha logrado una presencia relevante fuera de Nuevo Laredo. Disputa con facciones del Golfo Ciudad Mier, Miguel Alemán y Reynosa. OFAC y la Fiscalía General de la República le atribuyen operaciones financieras en Tampico (casino Diamante), Monterrey y su área metropolitana, y Mérida.",
+      "nota": "Su centro de mando está en Nuevo Laredo. Allí el CDN cobra una cuota sobre casi todo el flujo lícito e ilícito del cruce con Laredo. La ODNI ubica su área principal en Coahuila, Nuevo León, San Luis Potosí, Tamaulipas y Zacatecas. La Administración de Control de Drogas (DEA) de EE. UU. publicó en 2025 su Evaluación Nacional de la Amenaza de las Drogas (NDTA, por su sigla en inglés). La NDTA 2025 le atribuye «presencia significativa» en la Ciudad de México y presencia en Chihuahua, Hidalgo y Veracruz. InSight Crime señala, en cambio, que el CDN no logró una presencia relevante fuera de Nuevo Laredo.\n\nDisputa Ciudad Mier, Miguel Alemán y Reynosa con facciones del Cártel del Golfo. La OFAC y la Fiscalía General de la República (FGR) le atribuyen operaciones financieras en Tampico (casino Diamante), Monterrey y su área metropolitana, y Mérida.",
       "fuente_ids": [
         "s1",
         "s4",
@@ -265,7 +265,7 @@
         "armas",
         "lavado"
       ],
-      "nota": "Controla el tráfico en torno al puerto de entrada de Laredo; centros de distribución en Texas y socios en Oklahoma, Georgia y el Medio Oeste; compra de armas mediante prestanombres en EE. UU. y cruce de migrantes por el río Bravo. OFAC menciona un club nocturno operado por el CDN en Carolina del Sur, intervenido por ICE en junio de 2025.",
+      "nota": "Controla el tráfico en torno al puerto de entrada de Laredo. Tiene centros de distribución en Texas y socios en Oklahoma, Georgia y el Medio Oeste. Compra armas en EE. UU. mediante prestanombres (personas que compran a nombre de otras) y cruza migrantes por el río Bravo. La OFAC menciona un club nocturno que el CDN operaba en Carolina del Sur. El Servicio de Inmigración y Control de Aduanas (ICE) de EE. UU. intervino ese club en junio de 2025.",
       "fuente_ids": [
         "s1",
         "s4",
@@ -279,7 +279,7 @@
     {
       "destino": "golfo",
       "tipo": "rivalidad",
-      "descripcion": "Disputa con Los Escorpiones, Los Ciclones y Los Metros del Cártel del Golfo por Reynosa y municipios fronterizos como Ciudad Mier y Miguel Alemán.",
+      "descripcion": "El Cártel del Noreste disputa Reynosa y municipios fronterizos como Ciudad Mier y Miguel Alemán. Sus rivales allí son Los Escorpiones, Los Ciclones y Los Metros, facciones del Cártel del Golfo.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s13",
@@ -291,7 +291,7 @@
       "destino": "sinaloa",
       "tipo": "suministro",
       "desde": "sinaloa",
-      "descripcion": "La facción Mayiza (Los Mayitos) del Cártel de Sinaloa abastece al CDN de fentanilo, metanfetamina y cocaína que este introduce a EE. UU. por Nuevo Laredo; ambas organizaciones mantienen una alianza.",
+      "descripcion": "La facción Mayiza (Los Mayitos) del Cártel de Sinaloa abastece al Cártel del Noreste de fentanilo, metanfetamina y cocaína. El Cártel del Noreste introduce esas drogas a EE. UU. por Nuevo Laredo. Ambas organizaciones mantienen una alianza.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s7",
@@ -303,7 +303,7 @@
     {
       "destino": "cjng",
       "tipo": "rivalidad",
-      "descripcion": "El CDN se enfrenta desde 2019 con el CJNG y con grupos aliados de este; en 2025 combatía en Ciudad Mier y Miguel Alemán a Los Metros, aliados del CJNG, y ODNI señala que Los Metros se aliaron con el CJNG para protegerse del CDN.",
+      "descripcion": "El Cártel del Noreste se enfrenta desde 2019 con el Cártel Jalisco Nueva Generación (CJNG) y con grupos aliados de este. En 2025 combatía en Ciudad Mier y Miguel Alemán a Los Metros, aliados del CJNG. La ODNI señala que Los Metros se aliaron con el CJNG para protegerse del Cártel del Noreste.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s7",
@@ -313,7 +313,7 @@
       "confianza": "media"
     }
   ],
-  "notas_controversia": "Canadá no incluyó al CDN en la lista de entidades terroristas que publicó el 20 de febrero de 2025, a diferencia de las otras siete organizaciones designadas por EE. UU. ese día (Public Safety Canada). Las fuentes identifican a la facción Mayiza (Los Mayitos) del Cártel de Sinaloa como socia del CDN; otros reportes de prensa de 2025 mencionaban alianzas con Los Chapitos, sin confirmación oficial. Las designaciones estadounidenses tratan 'Los Zetas' como alias del CDN, aunque subsisten remanentes de Los Zetas con identidad propia. La fecha exacta de detención de Rivera Parrazales no es pública: Diario de Yucatán informó que la FGR lo detuvo el 17 de julio de 2026 y el Gabinete de Seguridad anunció la captura el 19 de julio; su relación con 'La Barredora' (Tabasco) no está confirmada judicialmente. La designación del activista Raymundo Ramos por OFAC se basa en acusaciones del Tesoro que no han sido probadas ante un tribunal.",
+  "notas_controversia": "El 20 de febrero de 2025, Canadá publicó una lista de entidades terroristas que no incluyó al CDN (Public Safety Canada). Ese día EE. UU. designó al CDN y a otras siete organizaciones, y la lista de Canadá sí incluyó a esas siete.\n\nLas fuentes identifican a la facción Mayiza (Los Mayitos) del Cártel de Sinaloa como socia del CDN. Otros reportes de prensa de 2025 mencionaban alianzas con Los Chapitos, pero ninguna fuente oficial las confirmó. Las designaciones estadounidenses tratan «Los Zetas» como alias del CDN, aunque subsisten remanentes de Los Zetas con identidad propia.\n\nLa fecha exacta de la detención de Rivera Parrazales no es pública. Diario de Yucatán informó que la FGR lo detuvo el 17 de julio de 2026. El Gabinete de Seguridad anunció la detención el 19 de julio. Ninguna resolución judicial confirma su relación con «La Barredora» (Tabasco).\n\nLa OFAC designó al activista Raymundo Ramos con base en acusaciones del Tesoro. Ningún tribunal probó esas acusaciones.",
   "confianza_general": "alta",
   "fuentes": [
     {
