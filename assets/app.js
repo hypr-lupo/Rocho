@@ -8,7 +8,7 @@
   const GEO = window.ATLAS_GEO;
   if (!A || !GEO || !window.d3 || !window.topojson) {
     document.getElementById('main').textContent =
-      'No se pudieron cargar los datos o las bibliotecas del atlas. Verifique que las carpetas data/ y assets/vendor/ estén junto a index.html.';
+      'El atlas no pudo cargar sus datos o sus bibliotecas. Asegúrese de que las carpetas data/ y assets/vendor/ estén en la misma carpeta que index.html.';
     return;
   }
 
@@ -58,7 +58,7 @@
 
   const MESES = ['ene', 'feb', 'mar', 'abr', 'may', 'jun', 'jul', 'ago', 'sept', 'oct', 'nov', 'dic'];
   function fmtFecha(f) {
-    if (!f) return 's. f.';
+    if (!f) return 'sin fecha';
     const m = /^(\d{4})(?:-(\d{2}))?(?:-(\d{2}))?/.exec(f);
     if (!m) return f;
     const [, y, mo, d] = m;
@@ -207,7 +207,7 @@
               url
                 ? h('a', { href: url, target: '_blank', rel: 'noopener noreferrer', text: f.titulo })
                 : f.titulo,
-              h('span', { class: 'src-meta', text: ` — ${f.editor}, ${fmtFecha(f.fecha)} · ${CAT_NOMBRE[f.cat] || f.cat}` }),
+              h('span', { class: 'src-meta', text: ` · ${f.editor}, ${fmtFecha(f.fecha)} · ${CAT_NOMBRE[f.cat] || f.cat}` }),
               f.ver ? null : h('span', { class: 'badge-unv', text: ' · enlace no verificado' })
             );
           })
@@ -550,7 +550,7 @@
             h('span', { class: 'legend__item' }, h('span', { class: 'swatch', style: `background:var(--seq-${i + 1})` }), binLabel(MAP_BINS, i))
           ),
           h('span', { class: 'legend__item' }, h('span', { class: 'swatch', style: 'background:var(--land)' }), 'Sin registro'),
-          h('span', { class: 'legend__note', text: 'Arrastre para desplazar · rueda o botones para acercar' })
+          h('span', { class: 'legend__note', text: 'Arrastre el mapa para moverlo. Use la rueda del ratón o los botones + y − para acercar o alejar.' })
         );
         // Lista lateral (equivalente tabular del mapa)
         const filas = Object.entries(porPais)
@@ -575,7 +575,7 @@
           h('h3', { text: 'Países por número de organizaciones' }),
           h('p', {
             class: 'side__sub',
-            text: `${pl(filas.length, 'país', 'países')} con registro${state.familia !== 'todas' || state.delito ? ' según el filtro' : ''}. Seleccione uno para ver el detalle.`,
+            text: `${pl(filas.length, 'país', 'países')} con registro${state.familia !== 'todas' || state.delito ? ' según el filtro' : ''}. Seleccione un país para ver su detalle.`,
           }),
           h(
             'ul',
@@ -760,7 +760,7 @@
           h('span', { class: 'dot dot--ext', 'aria-hidden': 'true' }),
           'Actores fuera del catálogo'
         ),
-        h('span', { class: 'legend__note', text: 'Nodos agrupados por región de origen · línea tenue: confianza baja' })
+        h('span', { class: 'legend__note', text: 'Los nodos se agrupan por región de origen. Una línea tenue indica confianza baja.' })
       );
     }
     function edgeSample(tipo) {
@@ -1043,7 +1043,7 @@
       const filas = links
         .map((l) => l.v)
         .sort((a, b) => nodeName(a.a).localeCompare(nodeName(b.a), 'es') || a.tipo.localeCompare(b.tipo));
-      $('#net-count').textContent = `${pl(filas.length, 'vínculo', 'vínculos')} con los filtros actuales.`;
+      $('#net-count').textContent = `Con los filtros actuales, la tabla muestra ${pl(filas.length, 'vínculo', 'vínculos')}.`;
       fill(tabla, 
         h('thead', null, h('tr', null, ['Organización', 'Tipo', 'Contraparte', 'Descripción', 'Confianza', 'Fuentes'].map((t) => h('th', { scope: 'col', text: t })))),
         h(
@@ -1287,14 +1287,14 @@
       fill(m, 
         h('h2', { text: 'Alcance' }),
         h('p', {
-          text: `El atlas reúne ${A.orgs.length} organizaciones criminales latinoamericanas vigentes al ${fmtFecha(A.meta.corte)}: cárteles y redes de narcotráfico, facciones carcelarias, megabandas y pandillas transnacionales, y grupos armados cuyo origen es político o paramilitar pero que hoy dependen de economías ilícitas. Se seleccionaron por su alcance transnacional o por su impacto en la seguridad del país donde operan. No incluye una línea de tiempo: describe la situación a la fecha de corte.`,
+          text: `El atlas reúne ${A.orgs.length} organizaciones criminales latinoamericanas vigentes al ${fmtFecha(A.meta.corte)}. Incluye cárteles y redes de narcotráfico, facciones carcelarias, megabandas y pandillas transnacionales. También incluye grupos armados de origen político o paramilitar que hoy dependen de economías ilícitas. La selección de cada organización se basó en su alcance transnacional o en su impacto en la seguridad del país donde opera. El atlas no incluye una línea de tiempo. Describe la situación a la fecha de corte (la fecha hasta la que llegan los datos).`,
         }),
         h('h2', { text: 'Fuentes y verificación' }),
         h('p', {
-          text: 'Cada presencia, vínculo, líder y designación cita al menos una fuente. Se usaron cuatro categorías, en este orden de preferencia: fuentes oficiales (UNODC, Europol, gobiernos y fiscalías, Departamento de Estado, Tesoro y Departamento de Justicia de EE. UU.), investigación especializada (InSight Crime, Global Initiative Against Transnational Organized Crime, International Crisis Group, centros académicos y de seguridad), prensa de referencia y literatura académica. Se excluyeron enciclopedias abiertas, blogs y medios sin autoría.',
+          text: 'Cada presencia, vínculo, líder y designación cita al menos una fuente. El atlas usa cuatro categorías de fuentes, en este orden de preferencia: fuentes oficiales, investigación especializada, prensa de referencia y literatura académica. Las fuentes oficiales incluyen la Oficina de las Naciones Unidas contra la Droga y el Delito (UNODC, por su sigla en inglés), Europol (la agencia policial de la Unión Europea), gobiernos y fiscalías. También incluyen el Departamento de Estado de EE. UU., su Departamento del Tesoro y su Departamento de Justicia. La investigación especializada incluye InSight Crime, Global Initiative Against Transnational Organized Crime, International Crisis Group y centros académicos y de seguridad. El atlas excluye las enciclopedias abiertas, los blogs y los medios sin autoría.',
         }),
         h('p', {
-          text: 'El proceso tuvo tres etapas. Primero, agentes de investigación recopilaron los datos con búsqueda web. Luego, verificadores independientes revisaron cada ficha con criterio adversarial: abrieron las fuentes, actualizaron los hechos de 2026 y eliminaron o rebajaron las afirmaciones sin respaldo. Por último, una revisión de coherencia entre fichas corrigió contradicciones y agregó vínculos documentados que faltaban. Las fuentes cuyo enlace no pudo abrirse durante la verificación aparecen marcadas como «enlace no verificado».',
+          text: 'El proceso tuvo tres etapas. Primero, agentes de investigación recopilaron los datos con búsquedas en la web. Luego, verificadores independientes revisaron cada ficha con criterio adversarial (una revisión que busca errores). Los verificadores abrieron las fuentes, actualizaron los hechos de 2026 y eliminaron o rebajaron las afirmaciones sin respaldo. Por último, una revisión de coherencia entre fichas corrigió contradicciones y agregó vínculos documentados que faltaban. Si el enlace de una fuente no se pudo abrir durante la verificación, la fuente lleva la marca «enlace no verificado».',
         }),
         h('h2', { text: 'Niveles de presencia' }),
         h('dl', null, T.niveles.map((n) => [h('dt', null, h('span', { class: 'chip chip--lvl-' + n.id, text: n.nombre })), h('dd', { text: n.def })])),
@@ -1308,21 +1308,21 @@
         h(
           'ul',
           null,
-          h('li', { text: 'La ausencia de registro en un país no prueba la ausencia de la organización; refleja lo que las fuentes abiertas documentan.' }),
-          h('li', { text: 'La presencia extrarregional suele corresponder a emisarios, socios o redes de lavado, no a control territorial.' }),
-          h('li', { text: 'Algunas categorías son objeto de controversia (por ejemplo, si una red de funcionarios constituye un cártel jerárquico). Las fichas lo señalan en «Controversias y advertencias».' }),
-          h('li', { text: 'Las designaciones oficiales (por ejemplo, como organización terrorista) son actos políticos y jurídicos de cada Estado; se informan como hechos, sin adoptar su calificación. La declaración conjunta «Escudo de las Américas» (22 de septiembre de 2026) se registra como declaración política no vinculante, no como designación jurídica.' }),
-          h('li', { text: 'La mención de personas como líderes se basa en acusaciones, sanciones o declaraciones oficiales; se trata de presuntos responsables mientras no exista condena.' }),
-          h('li', { text: 'El crimen organizado cambia con rapidez: capturas, muertes, escisiones y alianzas pueden alterar este cuadro después de la fecha de corte.' })
+          h('li', { text: 'La falta de registro en un país no prueba que la organización esté ausente. El registro refleja lo que documentan las fuentes abiertas.' }),
+          h('li', { text: 'Fuera de la región, la presencia suele corresponder a emisarios, socios o redes de lavado de activos, no a control territorial.' }),
+          h('li', { text: 'Algunas categorías son objeto de controversia. Por ejemplo, no hay acuerdo sobre si una red de funcionarios es un cártel jerárquico. Las fichas señalan cada controversia en la sección «Controversias y advertencias».' }),
+          h('li', { text: 'Una designación oficial, por ejemplo como organización terrorista, es un acto político y jurídico de cada Estado. El atlas informa cada designación como un hecho, pero no adopta su calificación. El atlas registra la declaración conjunta «Escudo de las Américas» (22 de septiembre de 2026) como una declaración política no vinculante (sin obligación legal). No la registra como una designación jurídica.' }),
+          h('li', { text: 'El atlas nombra a una persona como líder con base en acusaciones, sanciones o declaraciones oficiales. Mientras no exista una condena, cada persona es un presunto responsable.' }),
+          h('li', { text: 'El crimen organizado cambia con rapidez. Después de la fecha de corte, las detenciones, las muertes, las escisiones y las alianzas pueden cambiar este cuadro.' })
         ),
         h('h2', { text: 'Uso de los datos' }),
-        h('p', null, 'Los datos fuente están en ', h('code', { text: 'data/src/orgs/*.json' }), ' (una ficha por organización) y se compilan con ', h('code', { text: 'python3 tools/build.py' }), ', que valida códigos de país, delitos, vínculos y fuentes antes de generar ', h('code', { text: 'data/atlas.js' }), '.')
+        h('p', null, 'Los datos fuente están en ', h('code', { text: 'data/src/orgs/*.json' }), ', con una ficha por organización. El comando ', h('code', { text: 'python3 tools/build.py' }), ' compila los datos. Antes de generar ', h('code', { text: 'data/atlas.js' }), ', el comando valida los códigos de país, los delitos, los vínculos y las fuentes.')
       );
       // Bibliografía
       const fuentes = Object.entries(A.fuentes);
       const porCat = {};
       fuentes.forEach(([g, f]) => (porCat[f.cat] = porCat[f.cat] || []).push(f));
-      $('#biblio-sum').textContent = `${fuentes.length} fuentes únicas. ${['oficial', 'investigacion', 'prensa', 'academica']
+      $('#biblio-sum').textContent = `${fuentes.length} fuentes distintas. ${['oficial', 'investigacion', 'prensa', 'academica']
         .filter((c) => porCat[c])
         .map((c) => `${CAT_NOMBRE[c]}: ${porCat[c].length}`)
         .join(' · ')}.`;
@@ -1406,7 +1406,7 @@
       nodes.push(
         h('div', { class: 'card__type' }, h('span', { class: `dot dot--${o.familia}`, 'aria-hidden': 'true' }), `${FAM[o.familia].nombre} · ${TIPO[o.tipo].nombre}`),
         h('h2', { id: 'drawer-title', text: o.nombre }),
-        o.alias.length ? h('p', { class: 'card__alias', text: `También: ${o.alias.join(' · ')}` }) : null,
+        o.alias.length ? h('p', { class: 'card__alias', text: `Otros nombres: ${o.alias.join(' · ')}` }) : null,
         h(
           'dl',
           { class: 'facts' },
@@ -1437,7 +1437,7 @@
             'ul',
             { class: 'leaders' },
             o.lideres.map((l) =>
-              h('li', null, h('b', { text: l.nombre }), l.alias ? ` («${l.alias}»)` : '', ` — ${l.rol}. `, h('span', { style: 'color:var(--ink-2)', text: l.estado }), c.ref(l.f))
+              h('li', null, h('b', { text: l.nombre }), l.alias ? ` («${l.alias}»)` : '', `: ${l.rol}. `, h('span', { style: 'color:var(--ink-2)', text: l.estado }), c.ref(l.f))
             )
           )
         );
@@ -1537,7 +1537,7 @@
       fill(body, 
         h('div', { class: 'card__type', text: reg ? reg.nombre : '' }),
         h('h2', { id: 'drawer-title', text: pais(a3) }),
-        h('p', { style: 'color:var(--ink-2)' }, h('b', { text: String(filas.length) }), filas.length === 1 ? ' organización del atlas con presencia documentada' : ' organizaciones del atlas con presencia documentada', filtro.length ? ` (filtro: ${filtro.join(' · ')})` : '', '.'),
+        h('p', { style: 'color:var(--ink-2)' }, h('b', { text: String(filas.length) }), filas.length === 1 ? ' organización del atlas tiene presencia documentada en el país' : ' organizaciones del atlas tienen presencia documentada en el país', filtro.length ? ` (filtro: ${filtro.join(' · ')})` : '', '.'),
         filtro.length && !delito
           ? h('button', {
               class: 'btn',
@@ -1594,7 +1594,7 @@
 
     function renderExt(e) {
       const c = Citer();
-      crumb.textContent = 'Actor externo';
+      crumb.textContent = 'Actor fuera del catálogo';
       const vs = VINC_DE[e.id] || [];
       fill(body, 
         h('div', { class: 'card__type' }, h('span', { class: 'dot dot--ext', 'aria-hidden': 'true' }), 'Actor fuera del catálogo'),

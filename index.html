@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Atlas Criminal de América Latina</title>
-<meta name="description" content="Atlas interactivo de las principales organizaciones criminales vigentes en América Latina: presencia territorial, delitos por país y vínculos internacionales, con fuentes citadas.">
+<meta name="description" content="Este atlas interactivo describe las principales organizaciones criminales vigentes en América Latina. Muestra su presencia territorial, sus delitos por país y sus vínculos internacionales, con fuentes citadas.">
 <meta name="referrer" content="no-referrer">
 <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; base-uri 'none'; form-action 'none'">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -16,9 +16,9 @@
 <!--CUERPO-->
 <header class="masthead">
   <div class="masthead__id">
-    <p class="eyebrow">Crimen organizado · corte <time id="corte" datetime="">—</time></p>
+    <p class="eyebrow">Crimen organizado · fecha de corte <time id="corte" datetime="">…</time></p>
     <h1>Atlas Criminal de América Latina</h1>
-    <p class="lede" id="lede">Organizaciones criminales vigentes, su presencia territorial, los delitos que ejecutan en cada país y sus vínculos internacionales, con fuentes citadas.</p>
+    <p class="lede" id="lede">El atlas describe las organizaciones criminales vigentes de América Latina: su presencia territorial, los delitos que ejecutan en cada país y sus vínculos internacionales. Cada dato cita sus fuentes.</p>
   </div>
   <dl class="tally" id="tally"></dl>
   <div class="masthead__tools">
@@ -52,8 +52,8 @@
 <main id="main">
   <section class="view" id="view-mapa" role="tabpanel" aria-labelledby="tab-mapa">
     <div class="view__head">
-      <h2 id="map-title">Presencia documentada por país</h2>
-      <p id="map-help">Seleccione un país para ver qué organizaciones operan allí, en qué zonas y con qué delitos. Elija una organización en los filtros para ver su alcance.</p>
+      <h2 id="map-title">Organizaciones con presencia documentada, por país</h2>
+      <p id="map-help">Seleccione un país para ver qué organizaciones operan allí, en qué zonas y con qué delitos. Para ver el alcance de una organización, selecciónela en el filtro «Organización».</p>
     </div>
     <div class="map-layout">
       <div class="panel map-wrap">
@@ -77,7 +77,7 @@
   <section class="view" id="view-red" role="tabpanel" aria-labelledby="tab-red" hidden>
     <div class="view__head">
       <h2>Red de vínculos</h2>
-      <p>Alianzas, suministro, lavado, rivalidades y escisiones vigentes entre organizaciones y con actores fuera de la región. Pase el cursor sobre un nodo para aislar sus vínculos; selecciónelo para abrir su ficha. Arrastre para reordenar.</p>
+      <p>La red muestra las alianzas, el suministro, el lavado, las rivalidades y las escisiones vigentes entre organizaciones y con actores fuera de la región. Cada nodo es una organización del atlas o un actor fuera del catálogo. Pase el cursor sobre un nodo para resaltar sus vínculos. Seleccione un nodo para abrir su ficha. Arrastre un nodo para cambiar su posición.</p>
     </div>
     <div class="panel net-wrap">
       <div class="legend" id="net-legend"></div>
@@ -95,7 +95,7 @@
   <section class="view" id="view-matriz" role="tabpanel" aria-labelledby="tab-matriz" hidden>
     <div class="view__head">
       <h2>Delitos × territorio</h2>
-      <p>Cada celda indica cuántas organizaciones del atlas ejecutan ese delito en ese país, según las fuentes citadas. Seleccione una celda para ver cuáles y en qué zonas; seleccione un delito para filtrar todas las vistas.</p>
+      <p>Cada celda indica cuántas organizaciones del atlas ejecutan ese delito en ese país, según las fuentes citadas. Seleccione una celda para ver qué organizaciones son y en qué zonas operan. Seleccione el nombre de un delito para filtrar todas las vistas.</p>
     </div>
     <div class="cards-tools">
       <div class="seg" role="group" aria-label="Orden de filas" id="m-sort">
@@ -112,7 +112,7 @@
   <section class="view" id="view-fichas" role="tabpanel" aria-labelledby="tab-fichas" hidden>
     <div class="view__head">
       <h2>Organizaciones</h2>
-      <p>Fichas con origen, situación a la fecha de corte, liderazgo, designaciones oficiales, presencia, delitos, vínculos y fuentes.</p>
+      <p>Cada ficha describe una organización: origen, situación a la fecha de corte, liderazgo, designaciones oficiales, presencia, delitos, vínculos y fuentes. Seleccione una ficha para abrirla.</p>
     </div>
     <div class="cards-tools">
       <label class="field" for="q">Buscar
@@ -140,7 +140,7 @@
 </main>
 
 <footer class="site-foot">
-  <p id="foot">Atlas elaborado con fuentes abiertas. La presencia y los vínculos reflejan lo documentado por las fuentes citadas a la fecha de corte; no constituyen una imputación judicial.</p>
+  <p id="foot">Este atlas usa fuentes abiertas. La presencia y los vínculos reflejan lo que documentan las fuentes citadas a la fecha de corte. No equivalen a una imputación judicial.</p>
 </footer>
 
 <aside class="drawer" id="drawer" role="dialog" aria-modal="false" aria-labelledby="drawer-title" hidden>

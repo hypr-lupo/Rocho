@@ -210,7 +210,7 @@
     {
       "destino": "embf",
       "tipo": "rivalidad",
-      "descripcion": "El ELN está en guerra con el Frente 33 «Mariscal Antonio José de Sucre» por el control del Catatumbo. La guerra empezó con la ofensiva del ELN de enero de 2025. El Frente 33 pertenece al Bloque Magdalena Medio del Estado Mayor de Bloques y Frente (EMBF).",
+      "descripcion": "El ELN está en guerra con el Frente 33 «Mariscal Antonio José de Sucre» por el control del Catatumbo. La guerra empezó con la ofensiva del ELN de enero de 2025. El Frente 33 pertenece al Bloque Magdalena Medio del EMBF.",
       "vigencia": "vigente",
       "fuente_ids": [
         "s1",
@@ -293,7 +293,7 @@
     {
       "destino": "embf",
       "tipo": "alianza",
-      "descripcion": "En el Bajo Cauca, Antioquia y el Magdalena Medio, frentes del EMBF mantienen alianzas tácticas con el ELN. Su objetivo es resistir la expansión del Clan del Golfo en zonas mineras. Estas alianzas existen en paralelo con la guerra entre ambos grupos en el Catatumbo.",
+      "descripcion": "En el Bajo Cauca, Antioquia y el Magdalena Medio, frentes del Estado Mayor de Bloques y Frente (EMBF) mantienen alianzas tácticas con el ELN. Su objetivo es resistir la expansión del Clan del Golfo en zonas mineras. Estas alianzas existen en paralelo con la guerra entre ambos grupos en el Catatumbo.",
       "vigencia": "incierta",
       "fuente_ids": [
         "s30"

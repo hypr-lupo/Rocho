@@ -1,38 +1,50 @@
 # Atlas Criminal de América Latina
 
-Sitio interactivo y estático que despliega las principales organizaciones criminales vigentes en América Latina y el Caribe: su presencia territorial (país y zonas clave), los delitos que ejecutan en cada territorio y sus vínculos regionales y extrarregionales. Cada afirmación cita sus fuentes.
+Este atlas es un sitio web interactivo y estático (no necesita un servidor). Muestra las principales organizaciones criminales vigentes en América Latina y el Caribe. Para cada organización, muestra su presencia territorial (país y zonas clave), los delitos que comete en cada territorio y sus vínculos dentro y fuera de la región. Cada afirmación cita sus fuentes.
 
-Fecha de corte de los datos: **5 de octubre de 2026**. El atlas describe la situación a esa fecha; no incluye línea de tiempo.
+La fecha de corte de los datos es el 5 de octubre de 2026. El atlas describe la situación a esa fecha y no incluye una línea de tiempo.
 
 ## Vistas
 
 | Vista | Qué muestra |
 |---|---|
-| Mapa de presencia | Número de organizaciones por país o, al elegir una organización, su nivel de presencia en cada país y las líneas desde su país de origen. Encuadre regional o mundial. |
-| Red de vínculos | Grafo de alianzas, suministro, lavado, rivalidades y escisiones, incluidos actores extrarregionales ('Ndrangheta, redes balcánicas, redes chinas de lavado, etc.). Incluye la tabla equivalente. |
-| Delitos × territorio | Matriz país × delito con el número de organizaciones que ejecutan cada delito en cada país. |
-| Organizaciones | Fichas con resumen, situación actual, liderazgo presunto, designaciones oficiales, presencia, vínculos, controversias y fuentes numeradas. |
+| Mapa de presencia | Muestra el número de organizaciones por país. Si elige una organización, muestra su nivel de presencia en cada país y las líneas desde su país de origen. El encuadre puede ser regional o mundial. |
+| Red de vínculos | Diagrama de red con las alianzas, el suministro, el lavado, las rivalidades y las escisiones. Incluye actores de fuera de la región, por ejemplo la 'Ndrangheta, las redes balcánicas y las redes chinas de lavado. También incluye la tabla equivalente. |
+| Delitos × territorio | Tabla de países y delitos. Cada celda indica el número de organizaciones que cometen ese delito en ese país. |
+| Organizaciones | Una ficha por organización, con resumen, situación actual, liderazgo presunto, designaciones oficiales, presencia, vínculos, controversias y fuentes numeradas. |
 | Método y fuentes | Criterios, definiciones, límites y bibliografía completa. |
 
-Los filtros (familia de organización, delito y organización) gobiernan todas las vistas.
+Los filtros de familia de organización, de delito y de organización se aplican a todas las vistas.
 
 ## Uso local (Windows 11)
 
 1. Descargue o clone el repositorio.
-2. Abra `index.html` con doble clic. No requiere servidor ni conexión: d3, topojson, la geometría y los datos están incluidos en el repositorio. Sin conexión, las tipografías recurren a las del sistema.
+2. Haga doble clic en `index.html` para abrirlo en el navegador.
 
-Alternativa con servidor local (PowerShell, desde la carpeta del repositorio):
+El sitio no necesita un servidor ni conexión a internet. El repositorio incluye d3, topojson, la geometría y los datos. Sin conexión, el sitio usa las tipografías del sistema.
+
+Si prefiere usar un servidor local, siga estos pasos:
+
+1. Abra PowerShell en la carpeta del repositorio.
+2. Ejecute este comando:
 
 ```powershell
 python -m http.server 8000
 # luego abra http://localhost:8000
 ```
 
+3. Abra `http://localhost:8000` en el navegador.
+
 ## Publicación en GitHub Pages
 
-En el repositorio: *Settings → Pages → Build and deployment → Source: Deploy from a branch*, rama deseada y carpeta `/ (root)`. El sitio no requiere compilación.
+1. En el repositorio de GitHub, elija *Settings → Pages → Build and deployment → Source: Deploy from a branch*.
+2. Elija la rama que desea publicar y la carpeta `/ (root)`.
+
+El sitio no necesita compilación.
 
 ## Estructura
+
+El repositorio tiene esta estructura:
 
 ```
 index.html                 página
@@ -50,27 +62,58 @@ tools/build_geo.py         regenera data/geo.js y data/src/paises.json
 tools/build_artifact.py    genera dist/atlas-artifact.html (versión de una sola página)
 ```
 
+El script `tools/build.py` genera `data/atlas.js` a partir de `data/src`. No edite `data/atlas.js` a mano. Si necesita cambiar los datos, edite los archivos de `data/src`.
+
 ## Actualizar los datos
 
-1. Edite o agregue fichas en `data/src/orgs/`. Cada presencia, vínculo, líder y designación debe citar al menos una fuente de la lista `fuentes` de la misma ficha.
-2. Ejecute `python3 tools/build.py`. El script valida códigos de país, delitos, niveles, vínculos y fuentes; si hay errores, no genera el archivo.
-3. Recargue `index.html`.
+1. Edite o agregue fichas en `data/src/orgs/`.
 
-Para un vínculo dirigido (suministro o escisión) indique `"desde": "<id>"` con el id del proveedor o de la organización madre.
+2. En cada presencia, vínculo, líder y designación, cite al menos una fuente de la lista `fuentes` de la misma ficha.
+
+3. En un vínculo dirigido (suministro o escisión), indique `"desde": "<id>"` con el id del proveedor o de la organización madre.
+
+4. Ejecute `python3 tools/build.py`. El script valida los códigos de país, los delitos, los niveles, los vínculos y las fuentes. Si hay errores, el script no genera el archivo.
+
+5. Si el script informa errores, corrija los datos que indica. Después ejecute el script otra vez.
+
+6. Recargue `index.html` en el navegador.
 
 ## Proceso de elaboración
 
-1. **Investigación.** Agentes de investigación recopilaron cada ficha con fuentes abiertas, abriendo cada URL citada.
-2. **Verificación adversarial.** Verificadores independientes revisaron cada ficha suponiendo errores: abrieron las fuentes, actualizaron los hechos de 2026 (capturas, muertes, extradiciones, designaciones) y eliminaron o rebajaron lo que no tenía respaldo.
-3. **Coherencia.** Un crítico contrastó todas las fichas entre sí; sus hallazgos (contradicciones, vínculos faltantes, organizaciones omitidas) se integraron con nueva verificación de fuentes. Así se incorporaron el Cártel de Juárez / La Línea y Gran Grif.
+La elaboración del atlas tuvo tres etapas:
+
+1. En la etapa de investigación, agentes de investigación recopilaron cada ficha con fuentes abiertas (fuentes de acceso público). Los agentes abrieron cada URL citada.
+
+2. En la etapa de verificación adversarial, verificadores independientes revisaron cada ficha con el supuesto de que tenía errores. Abrieron las fuentes y actualizaron los hechos de 2026 (detenciones, muertes, extradiciones, designaciones). También eliminaron o rebajaron lo que no tenía respaldo.
+
+3. En la etapa de coherencia, un crítico contrastó todas las fichas entre sí. Sus hallazgos (contradicciones, vínculos faltantes, organizaciones omitidas) se integraron al atlas con una nueva verificación de fuentes. Así se incorporaron el Cártel de Juárez / La Línea y Gran Grif.
 
 ## Criterios de evidencia
 
-- Jerarquía de fuentes: oficiales (UNODC, Europol, gobiernos, fiscalías, Departamento de Estado, Tesoro y Departamento de Justicia de EE. UU.), investigación especializada (InSight Crime, Global Initiative Against Transnational Organized Crime, International Crisis Group, centros académicos), prensa de referencia y literatura académica. Se excluyen enciclopedias abiertas, blogs y medios sin autoría.
-- Confianza **alta**: una fuente oficial o dos independientes. **Media**: una fuente confiable. **Baja**: reportes no corroborados o disputados.
-- Las personas se mencionan como presuntos responsables según acusaciones, sanciones o declaraciones oficiales.
-- Las designaciones oficiales se informan como hechos jurídicos de cada Estado, sin adoptar su calificación. La declaración conjunta «Escudo de las Américas» (22 de septiembre de 2026) se registra como declaración política no vinculante.
+El atlas usa cuatro tipos de fuentes, en este orden de preferencia:
+
+1. Fuentes oficiales: la Oficina de las Naciones Unidas contra la Droga y el Delito (UNODC, por su sigla en inglés), Europol, gobiernos y fiscalías. Esta categoría también incluye el Departamento de Estado, el Tesoro y el Departamento de Justicia de EE. UU.
+
+2. Investigación especializada: InSight Crime, Global Initiative Against Transnational Organized Crime, International Crisis Group y centros académicos.
+
+3. Prensa de referencia.
+
+4. Literatura académica.
+
+El atlas excluye enciclopedias abiertas, blogs y medios sin autoría.
+
+El atlas usa tres grados de confianza:
+
+| Confianza | Respaldo |
+|---|---|
+| Alta | Una fuente oficial o dos fuentes independientes. |
+| Media | Una fuente confiable. |
+| Baja | Reportes no corroborados o disputados. |
+
+El atlas menciona a las personas como presuntos responsables, según acusaciones, sanciones o declaraciones oficiales.
+
+Una designación es la inclusión en un listado oficial de un Estado. El atlas informa cada designación como un hecho jurídico del Estado que la hizo, pero no adopta su calificación. El atlas registra la declaración conjunta «Escudo de las Américas» (22 de septiembre de 2026) como una declaración política no vinculante.
 
 ## Límites
 
-La ausencia de registro no prueba la ausencia de una organización. La presencia extrarregional suele corresponder a emisarios, socios o redes de lavado, no a control territorial. El cuadro puede cambiar con rapidez después de la fecha de corte.
+Si el atlas no registra una organización en un lugar, eso no prueba que la organización esté ausente. La presencia fuera de la región suele corresponder a emisarios, socios o redes de lavado, no a control territorial. La situación puede cambiar con rapidez después de la fecha de corte.
