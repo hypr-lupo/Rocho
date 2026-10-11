@@ -50,7 +50,7 @@
       "nombre": "Luz Amanda Pallares",
       "alias": "Silvana Guerrero",
       "rol": "Cabecilla del Frente de Guerra Nororiental (Catatumbo). Las autoridades la señalan como su comandante",
-      "estado": "Está prófuga. En septiembre de 2026, el gobierno colombiano ofrecía una recompensa de 1.600 millones de pesos por información que permita su detención.",
+      "estado": "Está prófuga. El gobierno colombiano ofrece una recompensa de 1.600 millones de pesos por información que permita su detención. El dato es de septiembre de 2026.",
       "fuente_ids": [
         "s12",
         "s15"
@@ -60,7 +60,7 @@
   "designaciones": [
     {
       "autoridad": "Departamento de Estado de EE. UU.",
-      "categoria": "Organización Terrorista Extranjera (FTO, por su sigla en inglés), según la sección 219 de la Ley de Inmigración y Nacionalidad. El ELN figura en la primera lista de FTO",
+      "categoria": "Organización Terrorista Extranjera (FTO, por su sigla en inglés), conforme a la sección 219 de la Ley de Inmigración y Nacionalidad. El ELN figura en la primera lista de FTO",
       "fecha": "1997-10-08",
       "fuente_ids": [
         "s24",
@@ -311,7 +311,7 @@
       "confianza": "media"
     }
   ],
-  "notas_controversia": "Las estimaciones de tamaño no coinciden. El Ministerio de Defensa calculó entre 2.300 y 2.800 combatientes en 2024. Fuentes no oficiales citadas por la EUAA hablan de hasta unos 3.000. Cifras oficiales de 2025 citadas por InSight Crime hablan de unos 6.300 integrantes, entre combatientes y redes de apoyo. En Venezuela, las cifras van de 250 a 300 combatientes en campamentos fronterizos (Semana, enero de 2026) a unos 2.500 (ABC, citado por la EUAA). Las autoridades venezolanas niegan oficialmente la presencia del ELN.\n\nEn enero de 2026, Semana publicó que EE. UU. y Venezuela iban a coordinar una operación contra el ELN en suelo venezolano. Semana se basó en documentos de inteligencia. No hay confirmación oficial de que esa operación se ejecutara. Petro afirmó que el Cártel de Sinaloa era «el jefe» del ELN. InSight Crime, en cambio, describe la relación como una relación de socios.\n\nEl perfil de InSight Crime fecha en «enero de 2026» el colapso del pacto con el Frente 33. El mismo perfil fecha en «enero de 2025» la detención de Maduro. Otros pasajes del perfil y la EUAA sitúan la ofensiva del Catatumbo en enero de 2025. Esta ficha usa enero de 2025 para la ofensiva y enero de 2026 para la detención de Maduro.\n\nLas autoridades y la prensa colombianas presentan a «Silvana Guerrero» como comandante del Frente de Guerra Nororiental. InSight Crime, en cambio, atribuye ese mando a Leonel Salazar Roa, «Gonzalo Satélite». Hay reportes de prensa sobre presencia del ELN en la frontera norte de Ecuador (Carchi, Esmeraldas). Esos reportes no pudieron corroborarse, y la ficha no incluye ese país.",
+  "notas_controversia": "Las estimaciones de tamaño no coinciden. El Ministerio de Defensa calculó entre 2.300 y 2.800 combatientes en 2024. Fuentes no oficiales citadas por la EUAA hablan de hasta unos 3.000. Cifras oficiales de 2025 citadas por InSight Crime hablan de unos 6.300 integrantes, entre combatientes y redes de apoyo. En Venezuela, las cifras van de 250 a 300 combatientes en campamentos fronterizos (Semana, enero de 2026) a unos 2.500 (ABC, citado por la EUAA). Las autoridades venezolanas niegan oficialmente la presencia del ELN.\n\nEn enero de 2026, Semana publicó que EE. UU. y Venezuela iban a coordinar una operación contra el ELN en suelo venezolano. Semana se basó en documentos de inteligencia. No hay confirmación oficial de que esa operación se ejecutara. Petro afirmó que el Cártel de Sinaloa era «el jefe» del ELN. InSight Crime, en cambio, describe a ambos grupos como socios.\n\nEl perfil de InSight Crime fecha en «enero de 2026» el colapso del pacto con el Frente 33. El mismo perfil fecha en «enero de 2025» la detención de Maduro. Otros pasajes del perfil y la EUAA sitúan la ofensiva del Catatumbo en enero de 2025. Esta ficha usa enero de 2025 para la ofensiva y enero de 2026 para la detención de Maduro.\n\nLas autoridades y la prensa colombianas presentan a «Silvana Guerrero» como comandante del Frente de Guerra Nororiental. InSight Crime, en cambio, atribuye ese mando a Leonel Salazar Roa, «Gonzalo Satélite». Hay reportes de prensa sobre presencia del ELN en la frontera norte de Ecuador (Carchi, Esmeraldas). Esos reportes no pudieron corroborarse, y la ficha no incluye ese país.",
   "confianza_general": "alta",
   "fuentes": [
     {

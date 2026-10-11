@@ -25,7 +25,7 @@ REGLAS = [
     ("raya o guion entre espacios", re.compile(r"—|[^\S\n]–[^\S\n]|[^\S\n]-[^\S\n]")),
     ("modal o duda prohibida", re.compile(r"\b(podr[íi]a|podr[íi]an|deber[íi]a|deber[íi]an|quiz[áa]s?|tal vez|posiblemente)\b", re.I)),
     ("pretérito perfecto compuesto", re.compile(r"\b(he|has|ha|hemos|han)\s+(sido|estado|\w+(ado|ido|ito|isto|ierto|echo|ucho|uelto|esto))\b", re.I)),
-    ("gerundio tras coma", re.compile(r",\s+\w+(ando|iendo|yendo)\b", re.I)),
+    ("gerundio tras coma", re.compile(r",\s+(?!cuando\b)\w+(ando|iendo|yendo)\b", re.I)),
     ("palabra sin contenido", re.compile(
         r"\b(crucial(es)?|fundamental(es)?|significativ[oa]s?|significativamente|poderos[oa]s?|sin precedentes|"
         r"cabe (destacar|señalar|mencionar)|es importante (señalar|destacar|notar)|en este sentido|"

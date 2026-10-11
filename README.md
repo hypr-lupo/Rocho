@@ -9,10 +9,10 @@ La fecha de corte de los datos es el 5 de octubre de 2026. El atlas describe la 
 | Vista | Qué muestra |
 |---|---|
 | Mapa de presencia | Muestra el número de organizaciones por país. Si elige una organización, muestra su nivel de presencia en cada país y las líneas desde su país de origen. El encuadre puede ser regional o mundial. |
-| Red de vínculos | Diagrama de red con las alianzas, el suministro, el lavado, las rivalidades y las escisiones. Incluye actores de fuera de la región, por ejemplo la 'Ndrangheta, las redes balcánicas y las redes chinas de lavado. También incluye la tabla equivalente. |
-| Delitos × territorio | Tabla de países y delitos. Cada celda indica el número de organizaciones que cometen ese delito en ese país. |
-| Organizaciones | Una ficha por organización, con resumen, situación actual, liderazgo presunto, designaciones oficiales, presencia, vínculos, controversias y fuentes numeradas. |
-| Método y fuentes | Criterios, definiciones, límites y bibliografía completa. |
+| Red de vínculos | Muestra un diagrama de red con las alianzas, el suministro, el lavado, las rivalidades y las escisiones. Incluye actores de fuera de la región, por ejemplo la 'Ndrangheta, las redes balcánicas y las redes chinas de lavado. También incluye la tabla equivalente. |
+| Delitos × territorio | Muestra una tabla de países y delitos. Cada celda indica el número de organizaciones que cometen ese delito en ese país. |
+| Organizaciones | Muestra una ficha por organización. Cada ficha tiene resumen, situación actual, liderazgo presunto, designaciones oficiales, presencia, vínculos, controversias y fuentes numeradas. |
+| Método y fuentes | Muestra los criterios, las definiciones, los límites y la bibliografía completa. |
 
 Los filtros de familia de organización, de delito y de organización se aplican a todas las vistas.
 
@@ -28,10 +28,10 @@ Si prefiere usar un servidor local, siga estos pasos:
 1. Abra PowerShell en la carpeta del repositorio.
 2. Ejecute este comando:
 
-```powershell
-python -m http.server 8000
-# luego abra http://localhost:8000
-```
+   ```powershell
+   python -m http.server 8000
+   # luego abra http://localhost:8000
+   ```
 
 3. Abra `http://localhost:8000` en el navegador.
 

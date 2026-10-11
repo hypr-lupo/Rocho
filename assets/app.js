@@ -1,4 +1,4 @@
-/* Atlas Criminal de América Latina — lógica de la interfaz.
+/* Atlas Criminal de América Latina. Lógica de la interfaz.
    Datos: window.ATLAS (data/atlas.js, generado por tools/build.py) y window.ATLAS_GEO (data/geo.js).
    Todo texto proveniente de los datos se inserta con textContent; los enlaces solo admiten http(s). */
 (function () {
@@ -542,7 +542,7 @@
           ];
         });
         $('#map-title').textContent = state.delito
-          ? `Organizaciones que ejecutan ${DEL[state.delito].nombre.toLowerCase()}, por país`
+          ? `Organizaciones con delitos de la categoría «${DEL[state.delito].nombre.toLowerCase()}», por país`
           : 'Organizaciones con presencia documentada, por país';
         fill(legend, 
           h('span', { class: 'legend__title', text: 'Organizaciones por país' }),
@@ -550,7 +550,7 @@
             h('span', { class: 'legend__item' }, h('span', { class: 'swatch', style: `background:var(--seq-${i + 1})` }), binLabel(MAP_BINS, i))
           ),
           h('span', { class: 'legend__item' }, h('span', { class: 'swatch', style: 'background:var(--land)' }), 'Sin registro'),
-          h('span', { class: 'legend__note', text: 'Arrastre el mapa para moverlo. Use la rueda del ratón o los botones + y − para acercar o alejar.' })
+          h('span', { class: 'legend__note', text: 'Arrastre el mapa para moverlo. Use la rueda de desplazamiento o los botones + y − para acercar o alejar el mapa.' })
         );
         // Lista lateral (equivalente tabular del mapa)
         const filas = Object.entries(porPais)
@@ -619,14 +619,14 @@
           const xy = proj(o0);
           if (xy) gMarks.append('circle').attr('class', 'origin').attr('cx', xy[0]).attr('cy', xy[1]).attr('r', 4.5 / k);
         }
-        $('#map-title').textContent = `${org.nombre}: presencia${state.delito ? ' con ' + DEL[state.delito].nombre.toLowerCase() : ''}`;
+        $('#map-title').textContent = `${org.nombre}: presencia${state.delito ? ' con delitos de la categoría «' + DEL[state.delito].nombre.toLowerCase() + '»' : ''}`;
         fill(legend, 
           h('span', { class: 'legend__title', text: 'Nivel de presencia' }),
           T.niveles.map((n) =>
             h('span', { class: 'legend__item', title: n.def }, h('span', { class: 'swatch', style: `background:var(--lvl-${n.id})` }), n.nombre)
           ),
           h('span', { class: 'legend__item' }, h('span', { class: 'swatch', style: 'background:var(--focus);border-radius:50%;width:12px' }), 'Origen'),
-          h('span', { class: 'legend__note', text: 'Las líneas unen el país de origen con cada país de presencia' })
+          h('span', { class: 'legend__note', text: 'Las líneas unen el país de origen con cada país de presencia.' })
         );
         const grupos = T.niveles.map((n) => ({
           n,
@@ -1287,14 +1287,14 @@
       fill(m, 
         h('h2', { text: 'Alcance' }),
         h('p', {
-          text: `El atlas reúne ${A.orgs.length} organizaciones criminales latinoamericanas vigentes al ${fmtFecha(A.meta.corte)}. Incluye cárteles y redes de narcotráfico, facciones carcelarias, megabandas y pandillas transnacionales. También incluye grupos armados de origen político o paramilitar que hoy dependen de economías ilícitas. La selección de cada organización se basó en su alcance transnacional o en su impacto en la seguridad del país donde opera. El atlas no incluye una línea de tiempo. Describe la situación a la fecha de corte (la fecha hasta la que llegan los datos).`,
+          text: `El atlas reúne ${A.orgs.length} organizaciones criminales latinoamericanas vigentes al ${fmtFecha(A.meta.corte)}. Incluye cárteles y redes de narcotráfico, facciones carcelarias, megabandas y pandillas transnacionales. También incluye grupos armados de origen político o paramilitar que hoy dependen de economías ilícitas. Se eligió cada organización por su alcance transnacional o por su impacto en la seguridad del país donde opera. El atlas no incluye una línea de tiempo. Describe la situación a la fecha de corte (la fecha hasta la que llegan los datos).`,
         }),
         h('h2', { text: 'Fuentes y verificación' }),
         h('p', {
-          text: 'Cada presencia, vínculo, líder y designación cita al menos una fuente. El atlas usa cuatro categorías de fuentes, en este orden de preferencia: fuentes oficiales, investigación especializada, prensa de referencia y literatura académica. Las fuentes oficiales incluyen la Oficina de las Naciones Unidas contra la Droga y el Delito (UNODC, por su sigla en inglés), Europol (la agencia policial de la Unión Europea), gobiernos y fiscalías. También incluyen el Departamento de Estado de EE. UU., su Departamento del Tesoro y su Departamento de Justicia. La investigación especializada incluye InSight Crime, Global Initiative Against Transnational Organized Crime, International Crisis Group y centros académicos y de seguridad. El atlas excluye las enciclopedias abiertas, los blogs y los medios sin autoría.',
+          text: 'Cada presencia, vínculo, líder y designación cita al menos una fuente. El atlas usa cuatro categorías de fuentes, en este orden de preferencia: fuentes oficiales, investigación especializada, prensa de referencia y literatura académica. Las fuentes oficiales incluyen la Oficina de las Naciones Unidas contra la Droga y el Delito (UNODC, por su sigla en inglés), Europol (la agencia policial de la Unión Europea), gobiernos y fiscalías. También incluyen tres departamentos del Gobierno de EE. UU.: Estado, Tesoro y Justicia. La investigación especializada incluye InSight Crime, Global Initiative Against Transnational Organized Crime, International Crisis Group y centros académicos y de seguridad. El atlas excluye las enciclopedias abiertas, los blogs y los medios sin autoría.',
         }),
         h('p', {
-          text: 'El proceso tuvo tres etapas. Primero, agentes de investigación recopilaron los datos con búsquedas en la web. Luego, verificadores independientes revisaron cada ficha con criterio adversarial (una revisión que busca errores). Los verificadores abrieron las fuentes, actualizaron los hechos de 2026 y eliminaron o rebajaron las afirmaciones sin respaldo. Por último, una revisión de coherencia entre fichas corrigió contradicciones y agregó vínculos documentados que faltaban. Si el enlace de una fuente no se pudo abrir durante la verificación, la fuente lleva la marca «enlace no verificado».',
+          text: 'El proceso tuvo tres etapas. Primero, agentes de investigación recopilaron los datos con búsquedas en la web. Luego, verificadores independientes revisaron cada ficha con criterio adversarial: su tarea era encontrar errores. Los verificadores abrieron las fuentes, actualizaron los hechos de 2026 y eliminaron o rebajaron las afirmaciones sin respaldo. Por último, una revisión de coherencia entre fichas corrigió contradicciones y agregó vínculos documentados que faltaban. Si el enlace de una fuente no se pudo abrir durante la verificación, la fuente lleva la marca «enlace no verificado».',
         }),
         h('h2', { text: 'Niveles de presencia' }),
         h('dl', null, T.niveles.map((n) => [h('dt', null, h('span', { class: 'chip chip--lvl-' + n.id, text: n.nombre })), h('dd', { text: n.def })])),
@@ -1311,8 +1311,8 @@
           h('li', { text: 'La falta de registro en un país no prueba que la organización esté ausente. El registro refleja lo que documentan las fuentes abiertas.' }),
           h('li', { text: 'Fuera de la región, la presencia suele corresponder a emisarios, socios o redes de lavado de activos, no a control territorial.' }),
           h('li', { text: 'Algunas categorías son objeto de controversia. Por ejemplo, no hay acuerdo sobre si una red de funcionarios es un cártel jerárquico. Las fichas señalan cada controversia en la sección «Controversias y advertencias».' }),
-          h('li', { text: 'Una designación oficial, por ejemplo como organización terrorista, es un acto político y jurídico de cada Estado. El atlas informa cada designación como un hecho, pero no adopta su calificación. El atlas registra la declaración conjunta «Escudo de las Américas» (22 de septiembre de 2026) como una declaración política no vinculante (sin obligación legal). No la registra como una designación jurídica.' }),
-          h('li', { text: 'El atlas nombra a una persona como líder con base en acusaciones, sanciones o declaraciones oficiales. Mientras no exista una condena, cada persona es un presunto responsable.' }),
+          h('li', { text: 'Una designación oficial, por ejemplo como organización terrorista, es un acto político y jurídico de cada Estado. El atlas informa cada designación como un hecho, pero no adopta su calificación. El atlas registra la declaración conjunta «Escudo de las Américas» (22 de septiembre de 2026) como una declaración política no vinculante (que no crea obligaciones jurídicas). No la registra como una designación jurídica.' }),
+          h('li', { text: 'El atlas nombra a una persona como líder con base en acusaciones, sanciones o declaraciones oficiales. Mientras no exista una condena, cada persona nombrada es un presunto responsable.' }),
           h('li', { text: 'El crimen organizado cambia con rapidez. Después de la fecha de corte, las detenciones, las muertes, las escisiones y las alianzas pueden cambiar este cuadro.' })
         ),
         h('h2', { text: 'Uso de los datos' }),

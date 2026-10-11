@@ -4,7 +4,7 @@
     "nombre": "Redes criminales albanesas",
     "corto": "Redes albanesas",
     "pais": "ALB",
-    "descripcion": "Son redes y clanes albaneses activos en la importación de cocaína a puertos europeos y en el lavado de activos. InSight Crime considera probable su cooperación con Los Lobos en Ecuador. El 13 de noviembre de 2025, la Oficina de Control de Activos Extranjeros (OFAC) del Tesoro de EE. UU. sancionó al Hysa Organized Crime Group. Los casinos y restaurantes de esta red familiar albanesa en Sinaloa, Sonora y Baja California lavaban dinero para el Cártel de Sinaloa.",
+    "descripcion": "Son redes y clanes albaneses activos en la importación de cocaína a puertos europeos y en el lavado de activos. InSight Crime considera probable su cooperación con Los Lobos en Ecuador. El 13 de noviembre de 2025, la Oficina de Control de Activos Extranjeros (OFAC) del Tesoro de EE. UU. sancionó al Hysa Organized Crime Group. Este grupo es una red familiar albanesa. Sus casinos y restaurantes en Sinaloa, Sonora y Baja California lavaban dinero para el Cártel de Sinaloa.",
     "fuentes": [
       {
         "titulo": "Lobos",
@@ -29,7 +29,7 @@
     "nombre": "Redes de tráfico de armas y municiones EE. UU.–República Dominicana hacia Haití",
     "corto": "Armas EE. UU.–R. Dominicana",
     "pais": "USA",
-    "descripcion": "Estas redes exportan armas y municiones desde EE. UU. a Haití, por mar o a través de República Dominicana. También desvían munición de arsenales dominicanos. Estas actividades benefician a 400 Mawozo, Canaan y otras pandillas de Viv Ansanm. El Panel de Expertos de la Organización de las Naciones Unidas (ONU) documentó estas redes.",
+    "descripcion": "El Panel de Expertos de la Organización de las Naciones Unidas (ONU) documentó estas redes. Según el Panel, exportan armas y municiones desde EE. UU. a Haití, por mar o a través de República Dominicana. También desvían munición de arsenales dominicanos. Estas actividades benefician a 400 Mawozo, Canaan y otras pandillas de Viv Ansanm.",
     "fuentes": [
       {
         "titulo": "Interim report of the Panel of Experts on Haiti submitted pursuant to resolution 2794 (2025) [S/2026/241]",
@@ -105,7 +105,7 @@
     "nombre": "Chone Killers",
     "corto": "Chone Killers",
     "pais": "ECU",
-    "descripcion": "Es una banda con bastión en Durán (Guayas). Se separó de Los Choneros en 2020, tras la muerte de su líder Rasquiña. EE. UU. la designó Organización Terrorista Extranjera en un aviso publicado el 2 de julio de 2026. También figura en la lista del Escudo de las Américas. Está fragmentada en facciones con alineamientos distintos.",
+    "descripcion": "Es una banda con bastión en Durán (Guayas). Se separó de Los Choneros en 2020, tras la muerte de Rasquiña, líder de Los Choneros. EE. UU. la designó Organización Terrorista Extranjera en un aviso publicado el 2 de julio de 2026. También figura en la lista del Escudo de las Américas. Está fragmentada en facciones con alineamientos distintos.",
     "fuentes": [
       {
         "titulo": "The InSight Take: Los Chone Killers, el nuevo grupo en la lista de organizaciones terroristas de EE. UU.",
@@ -231,7 +231,7 @@
     "nombre": "Disidencias de las FARC en la Amazonía colombiana (facción no especificada)",
     "corto": "Disidencias (Amazonía)",
     "pais": "COL",
-    "descripcion": "Son grupos disidentes de las Fuerzas Armadas Revolucionarias de Colombia (FARC). Según la Global Initiative Against Transnational Organized Crime (GI-TOC, 2026), tienen una alianza de larga data con el Comando Vermelho (CV). Según la misma fuente, la alianza sirve para mover cocaína por la Amazonía colombiana hacia Brasil. La fuente no identifica la facción. Pueden corresponder a frentes del Estado Mayor Central (EMC) o del Estado Mayor de Bloques y Frente (EMBF), pero no hay confirmación.",
+    "descripcion": "Son grupos disidentes de las Fuerzas Armadas Revolucionarias de Colombia (FARC). Según la Global Initiative Against Transnational Organized Crime (GI-TOC, 2026), tienen una alianza de larga data con el Comando Vermelho (CV). Según la misma fuente, la alianza sirve para mover cocaína por la Amazonía colombiana hacia Brasil. La fuente no identifica la facción. Se desconoce si son frentes del Estado Mayor Central (EMC) o del Estado Mayor de Bloques y Frente (EMBF).",
     "fuentes": [
       {
         "titulo": "Brazilian Amazon: New trafficking corridors and expanding criminal control (Gabriel Funari)",
@@ -248,7 +248,7 @@
     "nombre": "La eMe (Mafia Mexicana)",
     "corto": "La eMe",
     "pais": "USA",
-    "descripcion": "Es una organización criminal carcelaria con sede en California. Cobra cuotas y ofrece protección a pandillas sureñas (pandillas latinas del sur de California). Mantiene relaciones históricas con la Mara Salvatrucha (MS-13) y Barrio 18.",
+    "descripcion": "Es una organización criminal carcelaria con sede en California. Cobra cuotas y ofrece protección a pandillas sureñas (pandillas latinas originarias del sur de California). Mantiene relaciones históricas con la Mara Salvatrucha (MS-13) y Barrio 18.",
     "fuentes": [
       {
         "titulo": "The MS13: Who it is, How it Operates, and What Changed in 2026?",
@@ -265,7 +265,7 @@
     "nombre": "Frente Oliver Sinisterra (FOS)",
     "corto": "Frente Oliver Sinisterra",
     "pais": "COL",
-    "descripcion": "Es una estructura disidente de las Fuerzas Armadas Revolucionarias de Colombia (FARC), con presencia en Nariño y Esmeraldas (Ecuador). Con base en las Defensorías del Pueblo de Colombia y Ecuador, InSight Crime informa que el frente suministra cocaína al Cártel de Sinaloa. Según la misma fuente, el frente subcontrata a grupos ecuatorianos para almacenar y embarcar esa cocaína. La Policía ecuatoriana le atribuyó una alianza con la Coordinadora Guerrillera del Pacífico (CNEB). En septiembre de 2026, las autoridades lo vincularon con un operador de Los Choneros.",
+    "descripcion": "Es una estructura disidente de las Fuerzas Armadas Revolucionarias de Colombia (FARC), con presencia en Nariño y Esmeraldas (Ecuador). Con base en las Defensorías del Pueblo de Colombia y Ecuador, InSight Crime informa que el frente suministra cocaína al Cártel de Sinaloa. Según la misma fuente, el frente subcontrata a grupos ecuatorianos para almacenar y embarcar esa cocaína. La Policía ecuatoriana le atribuyó una alianza con la Coordinadora Guerrillera del Pacífico, que forma parte de la CNEB. En septiembre de 2026, las autoridades lo vincularon con un operador de Los Choneros.",
     "fuentes": [
       {
         "titulo": "Así fue el operativo en el que alias 'Charlie', de Los Choneros, fue abatido por las Fuerzas Armadas con apoyo del Comando Sur",
@@ -323,7 +323,7 @@
     "nombre": "Guardiões do Estado (GDE)",
     "corto": "Guardiões do Estado",
     "pais": "BRA",
-    "descripcion": "Es un grupo criminal de Ceará que controlaba municipios como Caucaia y Maranguape. Según InSight Crime, el Terceiro Comando Puro lo absorbió en 2025, mientras atravesaba una crisis interna. La misma fuente indica que antes estaba aliado con el Primeiro Comando da Capital (PCC) contra el Comando Vermelho (CV).",
+    "descripcion": "Es un grupo criminal de Ceará que controlaba municipios como Caucaia y Maranguape. Según InSight Crime, el Terceiro Comando Puro lo absorbió en 2025. En ese momento, Guardiões do Estado atravesaba una crisis interna. La misma fuente indica que antes estaba aliado con el Primeiro Comando da Capital (PCC) contra el Comando Vermelho (CV).",
     "fuentes": [
       {
         "titulo": "The Crime Wars Driving Rising Homicides in Ceará, Brazil",
@@ -517,7 +517,7 @@
     "nombre": "Proveedores de precursores químicos (China/India)",
     "corto": "Precursores (China/India)",
     "pais": "CHN",
-    "descripcion": "Son empresas y corredores de China y, en menor medida, de India. Venden a cárteles mexicanos precursores químicos (sustancias para fabricar drogas) para producir fentanilo y metanfetamina. Así lo indica la guía antiterrorista sobre el Cártel de Sinaloa del Centro Nacional de Contraterrorismo (NCTC) de EE. UU.",
+    "descripcion": "Son empresas y corredores de China y, en menor medida, de India. Venden a cárteles mexicanos precursores químicos (sustancias para fabricar drogas) para producir fentanilo y metanfetamina. Así lo indica la guía antiterrorista del Centro Nacional de Contraterrorismo (NCTC) de EE. UU. sobre el Cártel de Sinaloa.",
     "fuentes": [
       {
         "titulo": "Counterterrorism Guide: Sinaloa Cartel (as of May 2026)",
@@ -618,7 +618,7 @@
     "nombre": "Los Viagras (incluye Los Blancos de Troya)",
     "corto": "Los Viagras",
     "pais": "MEX",
-    "descripcion": "Es una organización de la Tierra Caliente de Michoacán dedicada a drogas sintéticas, extorsión y secuestro. Su líder es Nicolás Sierra Santana, «El Gordo». La organización operó dentro de Cárteles Unidos. Según la Oficina de Control de Activos Extranjeros (OFAC) de EE. UU., se alió con el Cártel de Jalisco Nueva Generación (CJNG). La OFAC informó esa alianza en agosto de 2025 y la describió como reciente.\n\nEn 2026 las fuentes discrepan. Según el líder del CJNG «El Congo» (El Financiero, marzo de 2026), Los Viagras se volvieron contra el CJNG. Otra versión de prensa sitúa a Sierra Santana dentro de la cúpula del CJNG. EE. UU. la designó Organización Terrorista Extranjera el 16 de julio de 2026.",
+    "descripcion": "Es una organización de la Tierra Caliente de Michoacán dedicada a drogas sintéticas, extorsión y secuestro. Su líder es Nicolás Sierra Santana, «El Gordo». La organización operó dentro de Cárteles Unidos. Según la Oficina de Control de Activos Extranjeros (OFAC) del Tesoro de EE. UU., se alió con el Cártel de Jalisco Nueva Generación (CJNG). La OFAC informó esa alianza en agosto de 2025 y la describió como reciente.\n\nEn 2026 las fuentes discrepan. Según el líder del CJNG «El Congo» (El Financiero, marzo de 2026), Los Viagras se volvieron contra el CJNG. Otra versión de prensa sitúa a Sierra Santana dentro de la cúpula del CJNG. EE. UU. la designó Organización Terrorista Extranjera el 16 de julio de 2026.",
     "fuentes": [
       {
         "titulo": "Foreign Terrorist Organization Designation of Juarez Cartel and Los Viagras (Public Notice 13065)",
