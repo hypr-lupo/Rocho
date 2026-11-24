@@ -355,7 +355,7 @@
       "confianza": "media"
     },
     {
-      "destino": "ext-chone-killers",
+      "destino": "chone-killers",
       "tipo": "alianza",
       "descripcion": "Según InSight Crime, los Chone Killers, antigua facción de la confederación, volvieron a asociarse con Los Choneros, pero esos lazos se debilitan. La fragmentación de los Chone Killers en múltiples subgrupos, algunos cercanos a Los Lobos, hace incierta la relación.",
       "vigencia": "incierta",
@@ -412,7 +412,7 @@
       "confianza": "alta"
     },
     {
-      "destino": "ext-chone-killers",
+      "destino": "chone-killers",
       "tipo": "escision",
       "desde": "choneros",
       "descripcion": "Según el Departamento de Estado, los Chone Killers se originaron como facción de Los Choneros y se separaron en 2020. InSight Crime precisa que el grupo existía antes en Durán como facción de los Ñetas. Según la misma fuente, adoptó el nombre bajo la confederación de Rasquiña y actúa con autonomía desde el asesinato de este en 2020.",

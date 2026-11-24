@@ -216,7 +216,8 @@
     "contrabando",
     "lavado",
     "fraude",
-    "robo"
+    "robo",
+    "drogas_sd"
   ],
   "presencia": [
     {
@@ -311,7 +312,10 @@
         "Región Metropolitana (Santiago, Lampa)",
         "Región de Valparaíso (Viña del Mar)",
         "Frontera con Perú",
-        "Frontera con Bolivia"
+        "Frontera con Bolivia",
+        "Región de Arica y Parinacota (Arica)",
+        "Región de Tarapacá (Iquique, Colchane)",
+        "Región del Biobío (Concepción)"
       ],
       "delitos": [
         "extorsion",
@@ -320,9 +324,13 @@
         "trata",
         "armas",
         "narcomenudeo",
-        "lavado"
+        "lavado",
+        "drogas_sd",
+        "migrantes",
+        "contrabando",
+        "robo"
       ],
-      "nota": "Varias células operan en el país, entre ellas Los Piratas y el Tren del Mar. En julio de 2026, condenaron a los 11 integrantes del Tren del Mar a penas que suman 167 años. Las condenas fueron por homicidio, tráfico de drogas y armas y lavado.\n\nLa Operación Tokio (2 de junio de 2026, 19 detenidos) expuso una red de lavado que sacó del país unos 78.000 millones de pesos. Esa red lavaba ganancias de la extorsión a locales nocturnos, de los secuestros y de la trata.\n\nEn agosto de 2026, extraditaron a Chile a dos acusados por el caso Ojeda, y Perú entregó a R15. El 1 de octubre de 2026, un tribunal declaró culpable al primer acusado por el secuestro y homicidio del exteniente Ronald Ojeda (febrero de 2024). La sentencia se leerá el 15 de octubre.",
+      "nota": "Varias células operan en el país, entre ellas Los Piratas y el Tren del Mar. En julio de 2026, condenaron a los 11 integrantes del Tren del Mar a penas que suman 167 años. Las condenas fueron por homicidio, tráfico de drogas y armas y lavado.\n\nLa Operación Tokio (2 de junio de 2026, 19 detenidos) expuso una red de lavado que sacó del país unos 78.000 millones de pesos. Esa red lavaba ganancias de la extorsión a locales nocturnos, de los secuestros y de la trata.\n\nEn agosto de 2026, extraditaron a Chile a dos acusados por el caso Ojeda, y Perú entregó a R15. El 1 de octubre de 2026, un tribunal declaró culpable al primer acusado por el secuestro y homicidio del exteniente Ronald Ojeda (febrero de 2024). La sentencia se leerá el 15 de octubre.\n\nEl Informe de Crimen Organizado en Chile 2026 de la Fiscalía detecta su presencia en la mayoría de las regiones. Reconoce como células en Chile a Los Gallegos, Hermanos Cartier, Los Piratas, Los Hijos de Dios y La Hermandad. Le atribuye tráfico de drogas y de migrantes, trata de personas, extorsión, secuestro, homicidio, lavado, contrabando, tráfico de armas y robos.\n\nEn 2025, los tribunales condenaron a integrantes de la organización en Arica, Iquique y Concepción. El 6 de marzo de 2025, el tribunal de Arica condenó a 34 integrantes de Los Gallegos a penas que suman más de 500 años. El 15 de julio de 2025, el tribunal de Iquique condenó a 12 integrantes de la estructura de Tarapacá. Su líder recibió presidio perpetuo calificado. El 11 de septiembre de 2025, el tribunal de Concepción condenó a dos líderes de una asociación por trata de 11 mujeres venezolanas.\n\nLas sentencias describen un mismo mecanismo de trata. La organización capta mujeres venezolanas con engaños y las ingresa por pasos no habilitados. Luego les impone una deuda o «multa» que deben pagar con su explotación sexual. En Iquique, la deuda era de entre 3.000.000 y 3.600.000 pesos. El tráfico de migrantes seguía la ruta Venezuela, Colombia, Ecuador, Perú y Bolivia, con casas de acopio en Pisiga y Colchane.\n\nEn junio de 2025, una investigación por lavado dejó 52 detenidos en siete regiones. La Fiscalía les imputó el envío a siete países de más de 13,5 millones de dólares, en parte como activos virtuales. La operación congeló más de 250 cuentas. La mayoría de los detenidos prestaba soporte financiero y no participaba en los delitos violentos.\n\nLa Fiscalía la acerca al modelo de control territorial. También advierte que la atribución de un hecho al Tren de Aragua debe acreditarse. Algunas bandas locales imitan su marca para explotar su reputación.",
       "fuente_ids": [
         "s1",
         "s14",
@@ -332,7 +340,8 @@
         "s19",
         "s44",
         "s45",
-        "s46"
+        "s46",
+        "s54"
       ],
       "confianza": "alta"
     },
@@ -999,6 +1008,16 @@
       "url": "https://www.meganoticias.cl/nacional/533165-prision-preventiva-integrantes-primera-celula-pcc-brasil-detectada-en-chile-04-10-2026.html",
       "categoria": "prensa",
       "verificada": true
+    },
+    {
+      "id": "s54",
+      "titulo": "Informe de Crimen Organizado en Chile 2026",
+      "editor": "Fiscalía de Chile (Ministerio Público), Unidad Especializada en Crimen Organizado y Drogas",
+      "fecha": "2026-11-17",
+      "url": "https://www.fiscaliadechile.cl/sites/default/files/2026-11/Informe_crimen_organizado_2026_vf_17_11_final.pdf",
+      "categoria": "oficial",
+      "verificada": true
     }
-  ]
+  ],
+  "modelo_chile": "control"
 }

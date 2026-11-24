@@ -1,0 +1,165 @@
+{
+  "id": "chone-killers",
+  "nombre": "Chone Killers",
+  "corto": "Chone Killers",
+  "alias": [
+    "Chone Killer gang"
+  ],
+  "tipo": "banda",
+  "pais_origen": "ECU",
+  "fundacion": "Surgió en Durán (Guayas) como facción de los Ñetas, una pandilla carcelaria nacida en Puerto Rico. Luego se unió a la confederación de Los Choneros y adoptó el nombre «Chone» como homenaje a ese grupo. Según el Departamento de Estado de EE. UU., se separó de Los Choneros en 2020.",
+  "resumen": "Los Chone Killers son una banda criminal con bastión en Durán, en el área metropolitana de Guayaquil (Ecuador). Comenzó como una pandilla callejera de jóvenes dedicada al narcomenudeo (venta de drogas al por menor). Según InSight Crime, tiene unos pocos cientos de integrantes.\n\nRasquiña, líder de Los Choneros, murió asesinado en 2020. Desde entonces, la banda actúa con autonomía y elige sus propias alianzas. El Departamento de Estado de EE. UU. la designó Organización Terrorista Extranjera (FTO, por su sigla en inglés) en 2026. La Fiscalía de Chile la incorporó ese año a su lista de organizaciones transnacionales con presencia en el país.\n\nLa Fiscalía de Chile la acerca al modelo de control territorial. En ese modelo, la organización combina la extorsión, el secuestro o el sicariato con mercados ilícitos.",
+  "situacion_actual": "El Departamento de Estado firmó la designación como FTO el 12 de junio de 2026. La designación rige desde su publicación en el Federal Register, el 2 de julio de 2026. Según InSight Crime, la banda acumula ataques contra civiles, agentes de seguridad y funcionarios públicos, incluidos asesinatos de alto perfil.\n\nSegún InSight Crime, la Policía de Durán identifica al menos cinco facciones que se disputan el territorio. Los choques entre ellas explican una parte importante de los homicidios de Durán. En 2026, las autoridades detectaron acercamientos entre Los Lobos y algunas facciones de la banda.\n\nEn Chile, la Fiscalía la ubica en Iquique y Alto Hospicio (Región de Tarapacá). Le atribuye tráfico de drogas, extorsión y sicariato. Es una de las dos organizaciones nuevas en la lista de 2026.",
+  "estructura": "La banda está fragmentada en facciones que combaten entre sí. Sus líderes dirigen las operaciones en Durán y el área de Guayaquil. Algunas facciones cooperan con Los Choneros y otras se acercan a Los Lobos.",
+  "lideres": [
+    {
+      "nombre": "Alias Ben Diez (nombre no divulgado)",
+      "alias": "Ben Diez",
+      "rol": "Líder original, junto con su hermano Trampudo",
+      "estado": "Según InSight Crime, murió en un atentado en Colombia en 2024.",
+      "fuente_ids": [
+        "s2"
+      ]
+    },
+    {
+      "nombre": "Alias Trampudo (nombre no divulgado)",
+      "alias": "Trampudo",
+      "rol": "Líder original y hermano de Ben Diez",
+      "estado": "Según InSight Crime, sigue prófugo (julio de 2026).",
+      "fuente_ids": [
+        "s2"
+      ]
+    },
+    {
+      "nombre": "Alias Negro Tulio (nombre no divulgado)",
+      "alias": "Negro Tulio",
+      "rol": "Cabecilla",
+      "estado": "Lo detuvieron en Panamá. Según InSight Crime, está en prisión. La fuente no indica la fecha de la detención.",
+      "fuente_ids": [
+        "s2"
+      ]
+    },
+    {
+      "nombre": "Alias Bob Marley (nombre no divulgado)",
+      "alias": "Bob Marley",
+      "rol": "Cabecilla",
+      "estado": "Según InSight Crime, lo detuvieron y está en prisión. La fuente no indica la fecha de la detención.",
+      "fuente_ids": [
+        "s2"
+      ]
+    },
+    {
+      "nombre": "Alias Gato Selly (nombre no divulgado)",
+      "alias": "Gato Selly",
+      "rol": "Cabecilla",
+      "estado": "Según InSight Crime, lo detuvieron y está en prisión. La fuente no indica la fecha de la detención.",
+      "fuente_ids": [
+        "s2"
+      ]
+    }
+  ],
+  "designaciones": [
+    {
+      "autoridad": "Departamento de Estado de EE. UU.",
+      "categoria": "Organización Terrorista Extranjera (FTO, por su sigla en inglés), según la sección 219 de la Ley de Inmigración y Nacionalidad. La designación se firmó el 12 de junio de 2026 y rige desde su publicación en el Federal Register, el 2 de julio de 2026",
+      "fecha": "2026-07-02",
+      "fuente_ids": [
+        "s3",
+        "s4"
+      ]
+    }
+  ],
+  "delitos": [
+    "narcomenudeo",
+    "sicariato",
+    "drogas_sd",
+    "extorsion"
+  ],
+  "presencia": [
+    {
+      "pais": "ECU",
+      "nivel": "base",
+      "zonas": [
+        "Guayas: Durán (área metropolitana de Guayaquil)"
+      ],
+      "delitos": [
+        "narcomenudeo",
+        "sicariato"
+      ],
+      "nota": "Durán es su bastión. La banda nació allí como pandilla de narcomenudeo. Hoy se le atribuyen ataques contra civiles, agentes de seguridad y funcionarios. Sus facciones se disputan el territorio, y esos choques explican una parte importante de los homicidios locales.",
+      "fuente_ids": [
+        "s2",
+        "s5"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "pais": "CHL",
+      "nivel": "operativa",
+      "zonas": [
+        "Región de Tarapacá (Iquique, Alto Hospicio)"
+      ],
+      "delitos": [
+        "drogas_sd",
+        "extorsion",
+        "sicariato"
+      ],
+      "nota": "La Fiscalía de Chile incorporó la organización a su lista de 2026. Le atribuye tráfico de drogas, extorsión y sicariato en Iquique y Alto Hospicio. El informe no indica qué drogas trafica.",
+      "fuente_ids": [
+        "s1"
+      ],
+      "confianza": "alta"
+    }
+  ],
+  "vinculos": [],
+  "notas_controversia": "Las fuentes discrepan sobre su alcance internacional. En julio de 2026, un analista de InSight Crime afirmó que la banda nunca había operado fuera de Ecuador. En noviembre de 2026, la Fiscalía de Chile acreditó su presencia en Tarapacá.\n\nLas fuentes también discrepan sobre el número de facciones. InSight Crime cita al menos cinco, según la Policía de Durán. Infobae menciona unos diez subgrupos.\n\nEl atlas no pudo confirmar si la organización figura en la lista de la declaración del Escudo de las Américas (septiembre de 2026).",
+  "confianza_general": "media",
+  "modelo_chile": "control",
+  "fuentes": [
+    {
+      "id": "s1",
+      "titulo": "Informe de Crimen Organizado en Chile 2026",
+      "editor": "Fiscalía de Chile (Ministerio Público), Unidad Especializada en Crimen Organizado y Drogas",
+      "fecha": "2026-11-17",
+      "url": "https://www.fiscaliadechile.cl/sites/default/files/2026-11/Informe_crimen_organizado_2026_vf_17_11_final.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s2",
+      "titulo": "The InSight Take: Los Chone Killers, el nuevo grupo en la lista de organizaciones terroristas de EE. UU.",
+      "editor": "InSight Crime",
+      "fecha": "2026-07-06",
+      "url": "https://insightcrime.org/es/noticias/insight-take-chone-killers-nuevo-grupo-lista-organizaciones-terroristas-ee-uu/",
+      "categoria": "investigacion",
+      "verificada": true
+    },
+    {
+      "id": "s3",
+      "titulo": "Foreign Terrorist Organization Designation of Chone Killers (FR Doc. 2026-13349)",
+      "editor": "Federal Register (Departamento de Estado)",
+      "fecha": "2026-07-02",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-07-02/html/2026-13349.htm",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s4",
+      "titulo": "Terrorist Designation of Chone Killers",
+      "editor": "U.S. Department of State",
+      "fecha": "2026-07-01",
+      "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/terrorist-designation-of-chone-killers",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s5",
+      "titulo": "Guerra entre bandas en Ecuador: los antiguos aliados se enfrentan y los enemigos ahora pactan",
+      "editor": "Infobae",
+      "fecha": "2026-10-01",
+      "url": "https://www.infobae.com/america/america-latina/2026/10/01/guerra-entre-bandas-en-ecuador-los-antiguos-aliados-se-enfrentan-y-los-enemigos-ahora-pactan/",
+      "categoria": "prensa",
+      "verificada": true
+    }
+  ]
+}

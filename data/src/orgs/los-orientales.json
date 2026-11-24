@@ -1,0 +1,79 @@
+{
+  "id": "los-orientales",
+  "nombre": "Los Orientales",
+  "corto": "Los Orientales",
+  "alias": [],
+  "tipo": "banda",
+  "pais_origen": "VEN",
+  "fundacion": "",
+  "resumen": "Los Orientales son una organización criminal de origen venezolano. La integran sobre todo ciudadanos venezolanos. La Fiscalía de Chile la incluye entre las 15 organizaciones criminales transnacionales con presencia acreditada en el país. Esa lista figura en su Informe de Crimen Organizado en Chile 2026.\n\nLa Fiscalía de Chile la acerca al modelo de control territorial. En ese modelo, la organización combina la extorsión, el secuestro o el sicariato con mercados ilícitos.",
+  "situacion_actual": "La organización ya figuraba en la lista del informe de 2025. En 2025, la Fiscalía obtuvo la primera condena contra un integrante de la organización.\n\nSegún la sentencia, el condenado trasladaba a las adolescentes desde el lugar donde las mantenían cautivas hasta el lugar de explotación sexual. También recibía los pagos de los clientes en cuentas de testaferros (personas que prestan su nombre). El tribunal lo vinculó con el homicidio de un integrante del Tren de Aragua, cometido el 30 de junio de 2022 en Puente Alto.",
+  "estructura": "La Fiscalía destaca dos rasgos. El primero es su rivalidad con el Tren de Aragua. El segundo es la captación y explotación sexual de víctimas menores de edad, en su mayoría compatriotas.",
+  "lideres": [],
+  "designaciones": [],
+  "delitos": [
+    "secuestro",
+    "extorsion",
+    "migrantes",
+    "trata"
+  ],
+  "presencia": [
+    {
+      "pais": "VEN",
+      "nivel": "base",
+      "zonas": [],
+      "delitos": [],
+      "nota": "El informe de la Fiscalía de Chile indica este origen. El atlas no investigó aún la actividad actual de la organización en este país.",
+      "fuente_ids": [
+        "s1"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "CHL",
+      "nivel": "operativa",
+      "zonas": [
+        "Región Metropolitana (Santiago, Puente Alto)",
+        "Región de Los Lagos"
+      ],
+      "delitos": [
+        "secuestro",
+        "extorsion",
+        "migrantes",
+        "trata"
+      ],
+      "nota": "Según la Fiscalía de Chile, la organización comete en Chile secuestros, extorsión, tráfico de migrantes y trata de personas.\n\nEl 2 de abril de 2025, el 4.º Tribunal de Juicio Oral en lo Penal de Santiago condenó a uno de sus integrantes. Los delitos fueron trata de personas con fines de explotación sexual y tráfico de migrantes. El tribunal acreditó que el condenado captaba adolescentes en Venezuela con promesas de trabajo. La organización las ingresaba a Chile por pasos no habilitados del sector Tacna-Arica, para eludir el Complejo Fronterizo Chacalluta.",
+      "fuente_ids": [
+        "s1"
+      ],
+      "confianza": "alta"
+    }
+  ],
+  "vinculos": [
+    {
+      "destino": "tren-de-aragua",
+      "tipo": "rivalidad",
+      "descripcion": "La Fiscalía de Chile destaca la rivalidad de Los Orientales con el Tren de Aragua. Una sentencia de 2025 vinculó a un integrante de Los Orientales con el homicidio de un miembro del Tren de Aragua (Puente Alto, 2022).",
+      "vigencia": "vigente",
+      "fuente_ids": [
+        "s1"
+      ],
+      "confianza": "media"
+    }
+  ],
+  "notas_controversia": "Esta ficha es preliminar. Se basa solo en el Informe de Crimen Organizado en Chile 2026 de la Fiscalía de Chile. El atlas no investigó aún la presencia y las actividades de la organización en su país de origen.\n\nLa Fiscalía advierte que no todas las organizaciones de su lista tienen el mismo nivel de presencia en Chile. La lista considera las investigaciones formalizadas hasta 2025 (la formalización es el acto en que el fiscal comunica cargos ante un juez).",
+  "confianza_general": "media",
+  "registro_nacional": "CHL",
+  "modelo_chile": "control",
+  "fuentes": [
+    {
+      "id": "s1",
+      "titulo": "Informe de Crimen Organizado en Chile 2026",
+      "editor": "Fiscalía de Chile (Ministerio Público), Unidad Especializada en Crimen Organizado y Drogas",
+      "fecha": "2026-11-17",
+      "url": "https://www.fiscaliadechile.cl/sites/default/files/2026-11/Informe_crimen_organizado_2026_vf_17_11_final.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    }
+  ]
+}

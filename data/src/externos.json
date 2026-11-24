@@ -101,31 +101,6 @@
     ]
   },
   {
-    "id": "ext-chone-killers",
-    "nombre": "Chone Killers",
-    "corto": "Chone Killers",
-    "pais": "ECU",
-    "descripcion": "Es una banda con bastión en Durán (Guayas). Se separó de Los Choneros en 2020, tras la muerte de Rasquiña, líder de Los Choneros. EE. UU. la designó Organización Terrorista Extranjera en un aviso publicado el 2 de julio de 2026. También figura en la lista del Escudo de las Américas. Está fragmentada en facciones con alineamientos distintos.",
-    "fuentes": [
-      {
-        "titulo": "The InSight Take: Los Chone Killers, el nuevo grupo en la lista de organizaciones terroristas de EE. UU.",
-        "editor": "InSight Crime",
-        "fecha": "2026-07-06",
-        "url": "https://insightcrime.org/es/noticias/insight-take-chone-killers-nuevo-grupo-lista-organizaciones-terroristas-ee-uu/",
-        "categoria": "investigacion",
-        "verificada": true
-      },
-      {
-        "titulo": "Foreign Terrorist Organization Designation of Chone Killers (FR Doc. 2026-13349)",
-        "editor": "Federal Register (Departamento de Estado)",
-        "fecha": "2026-07-02",
-        "url": "https://www.govinfo.gov/content/pkg/FR-2026-07-02/html/2026-13349.htm",
-        "categoria": "oficial",
-        "verificada": true
-      }
-    ]
-  },
-  {
     "id": "ext-clan-alvarado",
     "nombre": "Clan Alvarado (organización de Esteban Lindor Alvarado)",
     "corto": "Clan Alvarado",

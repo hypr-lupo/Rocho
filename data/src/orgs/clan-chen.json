@@ -1,0 +1,63 @@
+{
+  "id": "clan-chen",
+  "nombre": "Clan Chen",
+  "corto": "Clan Chen",
+  "alias": [],
+  "tipo": "red",
+  "pais_origen": "CHN",
+  "fundacion": "",
+  "resumen": "El Clan Chen es una organización integrada por ciudadanos chinos. Opera desde Iquique y lava dinero de fraudes cometidos contra víctimas en el extranjero. La Fiscalía de Chile la incluye entre las 15 organizaciones criminales transnacionales con presencia acreditada en el país. Esa lista figura en su Informe de Crimen Organizado en Chile 2026.\n\nLa Fiscalía de Chile la considera el ejemplo más claro del modelo de plataforma. En ese modelo, la organización usa el sistema financiero y societario para mover y ocultar dinero.",
+  "situacion_actual": "En mayo de 2025, una denuncia internacional canalizada por la Oficina Federal de Investigaciones (FBI, por su sigla en inglés) dio origen a la investigación. La dirige la Fiscalía Regional de Tarapacá. Las detenciones se ejecutaron en enero de 2026. La organización no figuraba en la lista del informe de 2025.\n\nLa Fiscalía destaca que el Clan Chen no controla territorio y no tiene imputados delitos violentos. Por eso no aparece en los indicadores de violencia, y su detección dependió de la cooperación internacional.",
+  "estructura": "Socios y representantes legales de fachada prestaban su nombre a las sociedades. Entre ellos había personas de bajos ingresos. Las facilidades de la Zona Franca de Iquique daban a los movimientos apariencia de comercio exterior. Según la Fiscalía, la organización también usaba criptoactivos (activos digitales como las criptomonedas).",
+  "lideres": [],
+  "designaciones": [],
+  "delitos": [
+    "lavado"
+  ],
+  "presencia": [
+    {
+      "pais": "CHN",
+      "nivel": "base",
+      "zonas": [],
+      "delitos": [],
+      "nota": "El informe de la Fiscalía de Chile indica este origen. El atlas no investigó aún la actividad actual de la organización en este país.",
+      "fuente_ids": [
+        "s1"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "CHL",
+      "nivel": "operativa",
+      "zonas": [
+        "Región de Tarapacá (Iquique, Zona Franca de Iquique)",
+        "Región Metropolitana",
+        "Otras regiones no indicadas"
+      ],
+      "delitos": [
+        "lavado"
+      ],
+      "nota": "Según la Fiscalía de Chile, la organización lavaba desde Iquique el producto de fraudes de inversión en línea. Los fraudes afectaron a cientos de personas en el extranjero, en su mayoría adultos mayores de Estados Unidos.\n\nLa Fiscalía imputa un flujo de más de 180 millones de dólares, según los antecedentes expuestos en enero de 2026. El dinero pasaba por más de un centenar de sociedades organizadas en tres niveles. Las sociedades «kamikaze» recibían las transferencias de las víctimas. Las sociedades intermediarias fragmentaban y triangulaban los fondos. Las sociedades con actividad real integraban el dinero a la economía formal.",
+      "fuente_ids": [
+        "s1"
+      ],
+      "confianza": "alta"
+    }
+  ],
+  "vinculos": [],
+  "notas_controversia": "Esta ficha es preliminar. Se basa solo en el Informe de Crimen Organizado en Chile 2026 de la Fiscalía de Chile. El atlas no investigó aún la presencia y las actividades de la organización en su país de origen.\n\nLa Fiscalía advierte que no todas las organizaciones de su lista tienen el mismo nivel de presencia en Chile. La lista considera las investigaciones formalizadas hasta 2025 (la formalización es el acto en que el fiscal comunica cargos ante un juez).\n\nLos montos corresponden a imputaciones de la Fiscalía y no a hechos establecidos por un tribunal.",
+  "confianza_general": "media",
+  "registro_nacional": "CHL",
+  "modelo_chile": "plataforma",
+  "fuentes": [
+    {
+      "id": "s1",
+      "titulo": "Informe de Crimen Organizado en Chile 2026",
+      "editor": "Fiscalía de Chile (Ministerio Público), Unidad Especializada en Crimen Organizado y Drogas",
+      "fecha": "2026-11-17",
+      "url": "https://www.fiscaliadechile.cl/sites/default/files/2026-11/Informe_crimen_organizado_2026_vf_17_11_final.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    }
+  ]
+}

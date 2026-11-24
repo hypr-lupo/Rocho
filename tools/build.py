@@ -9,6 +9,7 @@ Estructura de entrada:
   data/src/paises.json        nombres en español por código ISO 3166-1 alfa-3 (tools/build_geo.py)
   data/src/externos.json      actores fuera del catálogo (mafias extrarregionales, etc.)
   data/src/orgs/<id>.json     una ficha por organización
+  data/src/contexto/<A3>.json contexto nacional de un país (cifras y secciones con fuentes)
 """
 import json
 import pathlib
@@ -83,6 +84,7 @@ def main(solo_validar=False):
     VIN = {v["id"] for v in tax["vinculos"]}
     TIPOS = {t["id"]: t["familia"] for t in tax["tipos"]}
     CONF = {c["id"] for c in tax["confianza"]}
+    MODELOS = {m["id"] for m in tax.get("modelos", [])}
 
     archivos = sorted((SRC / "orgs").glob("*.json"))
     orgs_src = [cargar(p) for p in archivos]
@@ -132,6 +134,54 @@ def main(solo_validar=False):
             "pais": e["pais"], "descripcion": e["descripcion"], "_f": [c for c in claves if c],
         })
 
+    # ---- Contexto nacional ----
+    contexto = {}
+    for p in sorted((SRC / "contexto").glob("*.json")) if (SRC / "contexto").exists() else []:
+        c = cargar(p)
+        ctx = f"contexto {p.stem}"
+        a3 = c.get("pais")
+        if a3 != p.stem or a3 not in nombres:
+            err(f"{ctx}: el campo pais debe ser {p.stem} y existir en paises.json")
+            continue
+        local_c = {}
+        for f in c.get("fuentes", []):
+            if f["id"] in local_c:
+                err(f"{ctx}: id de fuente repetido {f['id']}")
+            local_c[f["id"]] = registrar(f, f"{ctx} fuente {f['id']}")
+
+        def refs_c(ids, c2):
+            out = [local_c[i] for i in ids or [] if i in local_c and local_c[i]]
+            for i in ids or []:
+                if i not in local_c:
+                    err(f"{c2}: fuente inexistente {i!r}")
+            if not out:
+                err(f"{c2}: sin fuentes")
+            return list(dict.fromkeys(out))
+
+        for campo in ("titulo", "resumen", "cifras", "secciones", "fuentes"):
+            if not c.get(campo):
+                err(f"{ctx}: falta el campo {campo}")
+        cifras = []
+        for i, x in enumerate(c.get("cifras", [])):
+            for campo in ("valor", "etiqueta"):
+                if not str(x.get(campo, "")).strip():
+                    err(f"{ctx} cifra {i + 1}: falta {campo}")
+            cifras.append({"valor": x.get("valor", ""), "etiqueta": x.get("etiqueta", ""),
+                           "detalle": x.get("detalle", ""), "_f": refs_c(x.get("fuente_ids"), f"{ctx} cifra {i + 1}")})
+        secciones = []
+        for i, x in enumerate(c.get("secciones", [])):
+            if not x.get("titulo") or not x.get("texto"):
+                err(f"{ctx} sección {i + 1}: falta titulo o texto")
+            for d in x.get("delitos", []):
+                if d not in DEL:
+                    err(f"{ctx} sección {i + 1}: delito inválido {d!r}")
+            secciones.append({"titulo": x.get("titulo", ""), "texto": x.get("texto", ""),
+                              "delitos": tax_orden(tax, x.get("delitos", [])),
+                              "_f": refs_c(x.get("fuente_ids"), f"{ctx} sección {x.get('titulo')}")})
+        contexto[a3] = {"titulo": c["titulo"], "resumen": c.get("resumen", ""), "fecha": c.get("fecha", ""),
+                        "limites": c.get("limites", ""), "cifras": cifras, "secciones": secciones,
+                        "_f": refs_c(c.get("fuente_principal"), f"{ctx} fuente_principal")}
+
     # ---- Organizaciones ----
     orgs = []
     vinc_raw = []
@@ -148,6 +198,16 @@ def main(solo_validar=False):
             err(f"{ctx}: confianza_general inválida")
         if o.get("pais_origen") not in nombres:
             err(f"{ctx}: país de origen desconocido {o.get('pais_origen')}")
+        reg = o.get("registro_nacional")
+        if reg is not None and reg not in nombres:
+            err(f"{ctx}: registro_nacional desconocido {reg!r}")
+        if reg and reg not in {p.get("pais") for p in o.get("presencia", [])}:
+            err(f"{ctx}: el país del registro nacional no figura en la presencia")
+        modelo = o.get("modelo_chile")
+        if modelo is not None and modelo not in MODELOS:
+            err(f"{ctx}: modelo_chile inválido {modelo!r}")
+        if modelo and "CHL" not in {p.get("pais") for p in o.get("presencia", [])}:
+            err(f"{ctx}: modelo_chile sin presencia en Chile")
         usados.add(o.get("pais_origen"))
 
         local = {}
@@ -241,6 +301,7 @@ def main(solo_validar=False):
             "lideres": lideres, "designaciones": designaciones, "delitos": delitos_tot,
             "presencia": presencia, "notas_controversia": o.get("notas_controversia", ""),
             "confianza_general": o["confianza_general"],
+            "registro_nacional": o.get("registro_nacional", ""), "modelo_chile": o.get("modelo_chile", ""),
         })
 
     # ---- Fusión de vínculos ----
@@ -294,6 +355,10 @@ def main(solo_validar=False):
         recolectar(v["_f"])
     for e in externos:
         recolectar(e["_f"])
+    for c in contexto.values():
+        recolectar(c["_f"])
+        for x in c["cifras"] + c["secciones"]:
+            recolectar(x["_f"])
     orden = sorted(set(claves_usadas))
     gid = {k: f"f{i + 1:03d}" for i, k in enumerate(orden)}
     no_citadas = set(registro) - set(orden)
@@ -310,6 +375,10 @@ def main(solo_validar=False):
         mapear(v)
     for e in externos:
         mapear(e)
+    for c in contexto.values():
+        mapear(c)
+        for x in c["cifras"] + c["secciones"]:
+            mapear(x)
     fuentes = {gid[k]: registro[k] for k in orden}
 
     sin_region = sorted(c for c in usados if c and c not in REGION_DE)
@@ -336,10 +405,11 @@ def main(solo_validar=False):
         "orgs": sorted(orgs, key=lambda o: o["nombre"]),
         "externos": externos,
         "vinculos": sorted(vinculos, key=lambda v: (v["a"], v["b"], v["tipo"])),
+        "contexto": contexto,
         "fuentes": fuentes,
     }
     print(f"OK: {len(orgs)} organizaciones · {len(externos)} externos · {len(vinculos)} vínculos · "
-          f"{len(fuentes)} fuentes · {len(paises)} países")
+          f"{len(fuentes)} fuentes · {len(paises)} países · contexto: {', '.join(contexto) or 'ninguno'}")
     if solo_validar:
         return 0
     SALIDA.write_text(

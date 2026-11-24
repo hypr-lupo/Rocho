@@ -6,7 +6,7 @@ Uso:  python3 tools/lint_redaccion.py              (informe completo)
       python3 tools/lint_redaccion.py --resumen    (solo totales por regla)
 
 El script revisa los campos de texto de data/src/orgs/*.json, data/src/externos.json,
-data/src/taxonomia.json, README.md y GUIA_REDACCION.md. No revisa nombres, alias, zonas ni títulos de fuentes.
+data/src/contexto/*.json, data/src/taxonomia.json, README.md y GUIA_REDACCION.md. No revisa nombres, alias, zonas ni títulos de fuentes.
 El código de salida es 1 si encuentra infracciones.
 """
 import glob
@@ -25,7 +25,7 @@ REGLAS = [
     ("raya o guion entre espacios", re.compile(r"—|[^\S\n]–[^\S\n]|[^\S\n]-[^\S\n]")),
     ("modal o duda prohibida", re.compile(r"\b(podr[íi]a|podr[íi]an|deber[íi]a|deber[íi]an|quiz[áa]s?|tal vez|posiblemente)\b", re.I)),
     ("pretérito perfecto compuesto", re.compile(r"\b(he|has|ha|hemos|han)\s+(sido|estado|\w+(ado|ido|ito|isto|ierto|echo|ucho|uelto|esto))\b", re.I)),
-    ("gerundio tras coma", re.compile(r",\s+(?!cuando\b)\w+(ando|iendo|yendo)\b", re.I)),
+    ("gerundio tras coma", re.compile(r",\s+(?!(cuando|contrabando|comando|mando|bando)\b)\w+(ando|iendo|yendo)\b", re.I)),
     ("palabra sin contenido", re.compile(
         r"\b(crucial(es)?|fundamental(es)?|significativ[oa]s?|significativamente|poderos[oa]s?|sin precedentes|"
         r"cabe (destacar|señalar|mencionar)|es importante (señalar|destacar|notar)|en este sentido|"
@@ -98,6 +98,15 @@ def main():
     if not args:
         for e in json.load(open(RAIZ / "data/src/externos.json", encoding="utf-8")):
             revisar(e.get("descripcion", ""), f"externo {e['id']}", salida)
+        for p in sorted(glob.glob(str(RAIZ / "data/src/contexto/*.json"))):
+            c = json.load(open(p, encoding="utf-8"))
+            donde = f"contexto {c.get('pais')}"
+            for campo in ("resumen", "limites"):
+                revisar(c.get(campo, ""), f"{donde} · {campo}", salida)
+            for i, x in enumerate(c.get("cifras", [])):
+                revisar(x.get("detalle", ""), f"{donde} · cifra {i + 1}", salida)
+            for x in c.get("secciones", []):
+                revisar(x.get("texto", ""), f"{donde} · {x.get('titulo', '')}", salida)
         tax = json.load(open(RAIZ / "data/src/taxonomia.json", encoding="utf-8"))
         for grupo, items in tax.items():
             for it in items:

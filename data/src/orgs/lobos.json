@@ -112,7 +112,8 @@
     "robo",
     "trata",
     "reclutamiento",
-    "contrabando"
+    "contrabando",
+    "drogas_sd"
   ],
   "presencia": [
     {
@@ -243,19 +244,21 @@
     },
     {
       "pais": "CHL",
-      "nivel": "limitada",
+      "nivel": "operativa",
       "zonas": [
         "Región Metropolitana (Santiago, Puente Alto)"
       ],
       "delitos": [
+        "drogas_sd",
         "armas"
       ],
-      "nota": "El informe de crimen organizado de la Fiscalía Nacional de Chile incluye a Los Lobos entre las 16 organizaciones extranjeras con presencia en el país. El informe ubica esa presencia en la Región Metropolitana y les atribuye tráfico de drogas y de armas. Hubo detenciones de prófugos ecuatorianos en Puente Alto en 2023 y en Santiago en 2024.",
+      "nota": "El Informe de Crimen Organizado en Chile 2026 de la Fiscalía incluye a Los Lobos entre 15 organizaciones transnacionales con presencia acreditada. Ubica esa presencia en la Región Metropolitana y le atribuye tráfico de drogas y de armas. El informe no indica qué drogas trafica. La Fiscalía la acerca al modelo de infraestructura, centrado en la logística del tráfico de drogas.\n\nHubo detenciones de prófugos ecuatorianos en Puente Alto en 2023 y en Santiago en 2024.",
       "fuente_ids": [
         "s18",
-        "s19"
+        "s19",
+        "s43"
       ],
-      "confianza": "media"
+      "confianza": "alta"
     },
     {
       "pais": "USA",
@@ -382,7 +385,7 @@
       "desde": "lobos"
     },
     {
-      "destino": "ext-chone-killers",
+      "destino": "chone-killers",
       "tipo": "alianza",
       "descripcion": "Las autoridades detectaron en 2026 acercamientos entre Los Lobos y algunas facciones de los Chone Killers en Durán. La fragmentación de ese grupo en unos diez subgrupos hace incierto el alcance de la alianza.",
       "vigencia": "incierta",
@@ -795,6 +798,16 @@
       "url": "https://insightcrime.org/ecuador-organized-crime-news/tiguerones/",
       "categoria": "investigacion",
       "verificada": true
+    },
+    {
+      "id": "s43",
+      "titulo": "Informe de Crimen Organizado en Chile 2026",
+      "editor": "Fiscalía de Chile (Ministerio Público), Unidad Especializada en Crimen Organizado y Drogas",
+      "fecha": "2026-11-17",
+      "url": "https://www.fiscaliadechile.cl/sites/default/files/2026-11/Informe_crimen_organizado_2026_vf_17_11_final.pdf",
+      "categoria": "oficial",
+      "verificada": true
     }
-  ]
+  ],
+  "modelo_chile": "infraestructura"
 }

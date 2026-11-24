@@ -1,0 +1,230 @@
+{
+  "pais": "CHL",
+  "titulo": "Contexto nacional: Chile",
+  "fecha": "2026-11-17",
+  "fuente_principal": [
+    "s1",
+    "s2"
+  ],
+  "resumen": "Este panel resume el Informe de Crimen Organizado en Chile 2026 de la Fiscalía de Chile (Ministerio Público). La Fiscalía presentó el informe el 18 de noviembre de 2026. El informe examina sobre todo el año 2025 y agrega datos de 2026 con su fecha.\n\nLas cifras miden la actividad de la persecución penal: causas, incautaciones y sentencias. No miden directamente el tamaño de los mercados ilícitos.",
+  "cifras": [
+    {
+      "valor": "6.121",
+      "etiqueta": "Ingresos de causas vinculadas al crimen organizado (2025)",
+      "detalle": "Un ingreso es una causa que entra al sistema de la Fiscalía. La cifra sube 6,8% desde 5.733 en 2024. Sin el microtráfico, los demás delitos bajan 5,7%.",
+      "fuente_ids": [
+        "s1"
+      ]
+    },
+    {
+      "valor": "+49,6%",
+      "etiqueta": "Alza de los ingresos por microtráfico (2025)",
+      "detalle": "El microtráfico es la venta de drogas en pequeñas cantidades. Sus ingresos suben de 1.297 a 1.940. Los delitos del mercado de drogas pasan del 44,0% al 52,6% del total.",
+      "fuente_ids": [
+        "s1"
+      ]
+    },
+    {
+      "valor": "107",
+      "etiqueta": "Víctimas de homicidio vinculadas al crimen organizado (2025)",
+      "detalle": "La cifra baja 46,2% desde 199 en 2024. El total nacional de homicidios baja por tercer año seguido, hasta 1.091 víctimas (5,4 por cada 100.000 habitantes).",
+      "fuente_ids": [
+        "s1"
+      ]
+    },
+    {
+      "valor": "849",
+      "etiqueta": "Ingresos por secuestro (2025)",
+      "detalle": "La cifra baja 2,2% desde 868 en 2024. La Fiscalía vincula el 19% de los secuestros de 2025 al crimen organizado. Vincula otro 21% a actividades delictivas grupales o con fines económicos.",
+      "fuente_ids": [
+        "s1"
+      ]
+    },
+    {
+      "valor": "157",
+      "etiqueta": "Causas por delitos asociativos (2025)",
+      "detalle": "Los delitos asociativos castigan la participación en una asociación delictiva o criminal. Las causas suben de 59 en 2023 y 102 en 2024 a 157 en 2025. El alza coincide con la Ley N° 21.577, vigente desde junio de 2023.",
+      "fuente_ids": [
+        "s1"
+      ]
+    },
+    {
+      "valor": "15",
+      "etiqueta": "Organizaciones transnacionales con presencia acreditada",
+      "detalle": "La lista considera las investigaciones formalizadas hasta 2025 y la del Clan Chen. Salen de la lista Mafia del Norte, Los Vilches y Los Costeños. Entran los Chone Killers y el Clan Chen.",
+      "fuente_ids": [
+        "s1"
+      ]
+    },
+    {
+      "valor": "83,1 t",
+      "etiqueta": "Cannabis elaborada incautada (2025)",
+      "detalle": "Es un récord histórico y sube 81,6% respecto de 2024. La ketamina sólida incautada sube 10,8%, hasta 1.467,5 kilos.",
+      "fuente_ids": [
+        "s1"
+      ]
+    },
+    {
+      "valor": "245",
+      "etiqueta": "Víctimas de trata de personas (2025)",
+      "detalle": "La cifra sube 36,9% desde 179 en 2024. Del total, 30 víctimas eran menores de 18 años.",
+      "fuente_ids": [
+        "s1"
+      ]
+    },
+    {
+      "valor": "15.500",
+      "etiqueta": "Vehículos robados no recuperados (2025, cifra aproximada)",
+      "detalle": "La recuperación se mantiene cerca del 60% de los encargos. Los vehículos no recuperados alimentan cadenas de receptación, desarme y exportación ilegal.",
+      "fuente_ids": [
+        "s1"
+      ]
+    },
+    {
+      "valor": "57",
+      "etiqueta": "Causas con crimen organizado y corrupción (2021 a 2025)",
+      "detalle": "En general, los funcionarios involucrados ocupaban cargos de menor jerarquía con funciones operativas.",
+      "fuente_ids": [
+        "s1"
+      ]
+    },
+    {
+      "valor": "5,48",
+      "etiqueta": "Puntaje de criminalidad en el Índice Global de Crimen Organizado 2025",
+      "detalle": "El índice de la Global Initiative Against Transnational Organized Crime ubica a Chile en el lugar 76 entre 193 países. Los actores extranjeros reciben el puntaje más alto entre los tipos de actores (6,50 sobre 10). El índice se basa en evaluaciones de expertos.",
+      "fuente_ids": [
+        "s1"
+      ]
+    }
+  ],
+  "secciones": [
+    {
+      "titulo": "Rutas de las drogas",
+      "delitos": [
+        "cocaina",
+        "otras_drogas",
+        "sinteticas"
+      ],
+      "fuente_ids": [
+        "s1"
+      ],
+      "texto": "La cocaína que ingresa a Chile proviene sobre todo de Bolivia y Perú, y en menor medida de Colombia. Entra por las regiones de Arica y Parinacota, Tarapacá y Antofagasta. Buena parte llega luego a la Región Metropolitana, que cumple funciones de acopio y redistribución. Otra parte sale hacia Europa y Oceanía, en especial por los puertos de San Antonio y Valparaíso.\n\nPor tierra, el tráfico usa pasos habilitados y no habilitados en las fronteras con Bolivia y Perú. En el centro, el sur y el extremo austral, ganan importancia las conexiones con Argentina. La cannabis entra sobre todo por la frontera norte y convive con producción nacional en Coquimbo y O'Higgins. La ketamina llega desde Bolivia, Perú y Paraguay, entre otros países. El MDMA (éxtasis) llega sobre todo por vía aérea desde Europa.\n\nEl sistema portuario es el punto más sensible de la cadena. Las investigaciones detectan la contaminación de cargas y contenedores antes del embarque y en otras etapas de la cadena logística."
+    },
+    {
+      "titulo": "Chile como plataforma logística",
+      "delitos": [
+        "sinteticas",
+        "cocaina"
+      ],
+      "fuente_ids": [
+        "s1"
+      ],
+      "texto": "En enero de 2025, la operación Cristales del Pacífico descubrió un laboratorio de cristalización en Lolol (valle de Colchagua). Allí se procesaban 844 kilos de metanfetamina. La droga salió del puerto mexicano de Manzanillo, diluida en tinajas de pintura, y llegó a Antofagasta y luego a Valparaíso. La Fiscalía señala que Manzanillo es un nodo asociado habitualmente al Cártel Jalisco Nueva Generación. El informe indica como destino probable Europa y Oceanía.\n\nEn septiembre de 2025, la Fiscalía Regional de Valparaíso detectó 34,39 kilos de cocaína ocultos en dos brocas mineras con destino a Sídney. La organización importaba las brocas desde Buenaventura (Colombia) por San Antonio y Valparaíso. Luego las preparaba en la Región Metropolitana y las exportaba por vía aérea a Australia. Una entrega controlada (un envío vigilado que avanza hasta sus receptores) permitió detener en Australia a dos integrantes.\n\nSegún la Fiscalía, Chile ya no solo recibe y distribuye drogas. También presta servicios logísticos a cadenas que terminan en otros continentes."
+    },
+    {
+      "titulo": "Armas de fuego",
+      "delitos": [
+        "armas"
+      ],
+      "fuente_ids": [
+        "s1"
+      ],
+      "texto": "El informe de 2025 concluyó que el mercado ilegal de armas se nutre sobre todo de armas prohibidas. Esas armas provienen de la internación ilegal desde el extranjero y de la fabricación o adaptación de elementos. En 2025, la internación ilegal (43,4%) y el comercio ilegal dentro del país (42,5%) predominan entre 106 causas clasificadas.\n\nEl Servicio Nacional de Aduanas incautó 83 armas en 2024 y 2025. El 90,4% de ellas entró por vía terrestre, y la Aduana de Los Andes concentró 38 unidades. En 2025, el puerto de Talcahuano subió de 1 a 10 unidades. Según la Fiscalía, los datos sugieren rutas cambiantes más que una ruta única.\n\nEl sistema IBIS (sigla en inglés de Sistema Integrado de Identificación Balística) vinculó una misma arma con cinco homicidios entre diciembre de 2023 y julio de 2024."
+    },
+    {
+      "titulo": "Vehículos robados",
+      "delitos": [
+        "robo",
+        "contrabando"
+      ],
+      "fuente_ids": [
+        "s1"
+      ],
+      "texto": "Las redes trasladan vehículos robados de alta gama, camionetas 4x4 y SUV hacia Tarapacá y Antofagasta, a menudo en caravanas con escolta. Bolivia es el destino principal. En el altiplano, las redes cambian los vehículos por dinero, drogas (pasta base o cocaína) o armas. Algunas redes también exportan vehículos en contenedores por San Antonio o Valparaíso.\n\nDentro del país, las redes clonan vehículos con documentos de autos declarados en pérdida total. También los desarman para vender piezas, o los usan una sola vez para cometer otros delitos. En 2025, los registros de Carabineros muestran 22.189 vehículos robados recuperados, 9,5% menos que en 2024."
+    },
+    {
+      "titulo": "Trata de personas y tráfico de migrantes",
+      "delitos": [
+        "trata",
+        "migrantes"
+      ],
+      "fuente_ids": [
+        "s1"
+      ],
+      "texto": "Las principales víctimas extranjeras de trata son venezolanas y colombianas. Las organizaciones suelen captar a compatriotas con falsas promesas de trabajo. Las víctimas bolivianas se concentran en el norte, sobre todo en Tarapacá. La Fiscalía también detectó víctimas chinas de trata laboral, que ingresan por vía aérea con visa de turista.\n\nLas sentencias de 2025 contra el Tren de Aragua y Los Orientales muestran un modelo de negocio. Las organizaciones captan con engaños, imponen deudas y explotan sexualmente a las víctimas. También ejercen control violento sobre las víctimas y sus familias. En esos casos, el tráfico de migrantes y la trata aparecen unidos."
+    },
+    {
+      "titulo": "Lavado de activos",
+      "delitos": [
+        "lavado"
+      ],
+      "fuente_ids": [
+        "s1"
+      ],
+      "texto": "En junio de 2025, una investigación contra la red financiera del Tren de Aragua dejó 52 detenidos en siete regiones. La Fiscalía les imputó el envío a siete países de más de 13,5 millones de dólares. El sistema financiero respondió fuera del horario hábil, y la Fiscalía congeló más de 250 cuentas a la vez.\n\nEn diciembre de 2025, la Fiscalía formalizó a 18 integrantes de una organización del barrio Meiggs (Santiago), en su mayoría ciudadanos chinos. Los cargos incluyen secuestro extorsivo, lavado y tráfico de drogas. Entre los formalizados figura un excarabinero, imputado por entregar información policial a cambio de pagos. La organización movía dinero mediante hawala, un sistema informal de transferencias que opera al margen de los bancos.\n\nSegún la Fiscalía, el Clan Chen lavaba desde Iquique más de 180 millones de dólares de fraudes cometidos en el extranjero. Los montos de estos casos corresponden a imputaciones y no a hechos establecidos por un tribunal. En 2025, las incautaciones sumaron 3.655 vehículos, 196 inmuebles y unos 6.984 millones de pesos."
+    },
+    {
+      "titulo": "Cárceles y corrupción",
+      "delitos": [],
+      "fuente_ids": [
+        "s1"
+      ],
+      "texto": "En cuatro investigaciones de 2025, 66 de los 115 imputados eran funcionarios de Gendarmería. La Fiscalía aclara que esa proporción no describe al personal penitenciario en su conjunto. Las investigaciones describen una economía de servicios ilícitos dentro de las cárceles. Incluye el ingreso y la venta de drogas y teléfonos, el cobro por estadías en módulos seguros y la facilitación de estafas telefónicas.\n\nLa Fiscalía advierte que las organizaciones no necesitan derrotar al Estado. Les basta con controlar algunos de sus accesos, como puertos, aduanas, cárceles y entidades financieras."
+    },
+    {
+      "titulo": "Adolescentes",
+      "delitos": [
+        "reclutamiento"
+      ],
+      "fuente_ids": [
+        "s1"
+      ],
+      "texto": "En 2025, los delitos vinculados al crimen organizado con participación de adolescentes suben 5,4%. En el mercado de drogas, el alza es de 24%, y las drogas pasan al primer lugar. Los adultos coimputados tienen en su mayoría entre 18 y 29 años. Según la Fiscalía, los registros aún no permiten distinguir el reclutamiento entre pares de la coautoría entre personas de edad similar."
+    },
+    {
+      "titulo": "Hipótesis de riesgo: la endogenización",
+      "delitos": [],
+      "fuente_ids": [
+        "s1"
+      ],
+      "texto": "La Fiscalía presenta la endogenización como un riesgo y no como un hecho comprobado. Algunas organizaciones chilenas incorporan integrantes, métodos o la marca de estructuras extranjeras. Esas organizaciones pueden avanzar hacia formas de gobernanza criminal, en que parte de la población depende de la organización que regula su entorno. Ese proceso puede consolidarse justamente cuando la violencia disminuye.\n\nLa Fiscalía observa señales tempranas. Entre ellas están la colaboración entre bandas locales y células transnacionales y el aumento de infractores adolescentes. También menciona el mando desde las cárceles y la narcoagricultura del norte chico. Sin embargo, aún no existe evidencia de gobernanza criminal consolidada.\n\nLa mayoría de los imputados en causas asociativas son chilenos: 1.977 personas, de las cuales 128 son extranjeros con RUT chileno (el número de identificación tributaria). Los imputados extranjeros son sobre todo venezolanos, colombianos y peruanos."
+    },
+    {
+      "titulo": "Escenarios y señales de alerta",
+      "delitos": [],
+      "fuente_ids": [
+        "s1"
+      ],
+      "texto": "El informe plantea cuatro escenarios. No son predicciones y no tienen probabilidades asignadas.\n\nEn el escenario A (reacomodo silencioso), las estructuras dominantes consolidan mercados de drogas y extorsión con menos homicidios. Una señal es el peso del secuestro extorsivo, que pasa del 18,6% de los casos en 2025 al 22,5% en el primer semestre de 2026.\n\nEn el escenario B (rebrote por fragmentación), la caída de liderazgos y células abre disputas entre grupos más pequeños, jóvenes y violentos. Una señal es el alza de los secuestros por disputas entre organizaciones, del 1,2% al 4,6% de los casos. Otra es la violencia en provincias rurales donde antes no estaba presente, como Limarí y Choapa.\n\nEn el escenario C (captura de economías locales), las organizaciones controlan economías legales o informales, como loteos, transporte o contratos municipales. En el escenario D (plataforma logística y financiera), Chile se consolida como nodo de tránsito y reexportación de drogas y como plataforma de lavado."
+    },
+    {
+      "titulo": "Datos de 2026: cautela",
+      "delitos": [],
+      "fuente_ids": [
+        "s1"
+      ],
+      "texto": "Los datos del primer semestre de 2026 apuntan en direcciones distintas. Bajan los homicidios totales y los ingresos por secuestro. Sin embargo, las víctimas de homicidio en contexto de delito o grupo organizado suben de 165 a 195, respecto del mismo semestre de 2025. Esa categoría es más amplia que la calificación de la Fiscalía, y el dato aún es exploratorio. El informe toma la cifra del reporte del Ministerio de Seguridad Pública sobre el primer semestre de 2026."
+    }
+  ],
+  "limites": "La Fiscalía advierte que sus cifras miden detección y persecución, no el tamaño real de los mercados. Los registros no permiten atribuir la baja de los homicidios a intervenciones específicas. La clasificación de las organizaciones por modelo es provisional y descansa solo en las actividades registradas. El atlas resume el informe y no verificó por separado cada dato.",
+  "fuentes": [
+    {
+      "id": "s1",
+      "titulo": "Informe de Crimen Organizado en Chile 2026",
+      "editor": "Fiscalía de Chile (Ministerio Público), Unidad Especializada en Crimen Organizado y Drogas",
+      "fecha": "2026-11-17",
+      "url": "https://www.fiscaliadechile.cl/sites/default/files/2026-11/Informe_crimen_organizado_2026_vf_17_11_final.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    },
+    {
+      "id": "s2",
+      "titulo": "Presentan tercer Informe de Crimen Organizado en Chile 2026",
+      "editor": "Fiscalía de Chile",
+      "fecha": "2026-11-18",
+      "url": "https://www.fiscaliadechile.cl/actualidad/noticias/nacionales/presentan-tercer-informe-de-crimen-organizado-en-chile-2026",
+      "categoria": "oficial",
+      "verificada": true
+    }
+  ]
+}

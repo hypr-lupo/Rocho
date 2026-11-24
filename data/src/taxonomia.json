@@ -3,6 +3,7 @@
     {"id": "cocaina", "nombre": "Tráfico de cocaína", "corto": "Cocaína", "def": "Producción, acopio, transporte o exportación de cocaína y pasta base."},
     {"id": "sinteticas", "nombre": "Drogas sintéticas", "corto": "Sintéticas", "def": "Producción o tráfico de fentanilo, metanfetamina y otras drogas sintéticas. Incluye el desvío de precursores (sustancias químicas para fabricar drogas)."},
     {"id": "otras_drogas", "nombre": "Marihuana, heroína y otras drogas", "corto": "Otras drogas", "def": "Cultivo o tráfico de marihuana, amapola y heroína, y otras sustancias de origen vegetal."},
+    {"id": "drogas_sd", "nombre": "Tráfico de drogas (sustancia no indicada)", "corto": "Drogas (s. i.)", "def": "Tráfico de drogas cuando la fuente no indica la sustancia. El atlas usa esta categoría para no atribuir una droga sin respaldo."},
     {"id": "narcomenudeo", "nombre": "Narcomenudeo", "corto": "Narcomenudeo", "def": "Venta de drogas al por menor, también llamada microtráfico, y control de los puntos de venta."},
     {"id": "extorsion", "nombre": "Extorsión", "corto": "Extorsión", "def": "Cobro de piso o vacunas (pagos periódicos que la organización exige bajo amenaza), control de mercados legales y préstamos usureros (gota a gota)."},
     {"id": "secuestro", "nombre": "Secuestro", "corto": "Secuestro", "def": "Privación ilegítima de libertad con fines económicos o de control. Incluye el secuestro de migrantes."},
@@ -35,15 +36,23 @@
   "tipos": [
     {"id": "cartel", "nombre": "Cártel", "familia": "narco"},
     {"id": "red_estatal", "nombre": "Red con agentes estatales", "familia": "narco"},
+    {"id": "red", "nombre": "Red criminal", "familia": "narco"},
     {"id": "faccion", "nombre": "Facción carcelaria", "familia": "faccion"},
     {"id": "megabanda", "nombre": "Megabanda", "familia": "faccion"},
     {"id": "pandilla", "nombre": "Pandilla", "familia": "faccion"},
-    {"id": "grupo_armado", "nombre": "Grupo armado", "familia": "armado"}
+    {"id": "grupo_armado", "nombre": "Grupo armado", "familia": "armado"},
+    {"id": "banda", "nombre": "Banda criminal", "familia": "faccion"}
   ],
   "familias": [
-    {"id": "narco", "nombre": "Cárteles y redes de narcotráfico"},
-    {"id": "faccion", "nombre": "Facciones, megabandas y pandillas"},
+    {"id": "narco", "nombre": "Cárteles y redes criminales"},
+    {"id": "faccion", "nombre": "Facciones, bandas y pandillas"},
     {"id": "armado", "nombre": "Grupos armados"}
+  ],
+  "modelos": [
+    {"id": "control", "nombre": "Control territorial", "def": "La organización se instala en barrios o en cárceles y ejerce violencia directa. Obtiene rentas con vacunas, extorsión, secuestro y control de mercados locales de drogas."},
+    {"id": "infraestructura", "nombre": "Infraestructura", "def": "La organización busca capacidad productiva y logística (cultivos, laboratorios, acopio, contaminación de cargas). No busca control de barrios y funciona como nodo de cadenas nacionales y transnacionales."},
+    {"id": "renta", "nombre": "Renta predatoria", "def": "La organización obtiene rentas con extorsión y usura, sin la base del mercado de drogas. La Fiscalía la compara con el modelo de control territorial."},
+    {"id": "plataforma", "nombre": "Plataforma", "def": "La organización no necesita territorio ni mercados locales. Usa el sistema financiero y societario para mover y ocultar ganancias propias o de terceros. El lavado es su actividad principal."}
   ],
   "confianza": [
     {"id": "alta", "nombre": "Alta", "def": "Respaldo de una fuente oficial o de dos fuentes independientes."},

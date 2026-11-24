@@ -104,13 +104,14 @@
         "sicariato",
         "lavado"
       ],
-      "nota": "La Fiscalía Nacional la incluye entre las organizaciones extranjeras con presencia relativamente estable en Chile. La ubica en la Región Metropolitana y le atribuye extorsiones. Desde 2021, el grupo extorsiona a comerciantes peruanos con control territorial en Independencia y Recoleta. Se le atribuye un homicidio en febrero de 2025. También se investiga el lavado de sus ganancias mediante fiestas y discotecas.\n\nLa Operación Trujillo de la Policía de Investigaciones de Chile (PDI) dejó 50 detenidos entre 2023 y 2025. En enero de 2026 dejó 20 detenidos más. Después, las autoridades consideraron la célula prácticamente desarticulada. Algunos medios mencionan presencia en Arica, Iquique y Antofagasta, sin confirmación oficial.",
+      "nota": "La Fiscalía Nacional la incluye entre las organizaciones extranjeras con presencia relativamente estable en Chile. La ubica en la Región Metropolitana y le atribuye extorsiones. Desde 2021, el grupo extorsiona a comerciantes peruanos con control territorial en Independencia y Recoleta. Se le atribuye un homicidio en febrero de 2025. También se investiga el lavado de sus ganancias mediante fiestas y discotecas.\n\nLa Operación Trujillo de la Policía de Investigaciones de Chile (PDI) dejó 50 detenidos entre 2023 y 2025. En enero de 2026 dejó 20 detenidos más. Después, las autoridades consideraron la célula prácticamente desarticulada. Algunos medios mencionan presencia en Arica, Iquique y Antofagasta, sin confirmación oficial.\n\nEl Informe de Crimen Organizado en Chile 2026 de la Fiscalía confirma su presencia en la Región Metropolitana y le atribuye extorsión. La Fiscalía la ubica entre las organizaciones de renta predatoria, que viven de la extorsión y la usura sin la base del mercado de drogas.",
       "fuente_ids": [
         "s9",
         "s10",
         "s1",
         "s14",
-        "s20"
+        "s20",
+        "s27"
       ],
       "confianza": "alta"
     },
@@ -420,6 +421,16 @@
       "url": "https://larepublica.pe/sociedad/2026/09/16/de-socio-a-enemigo-jurado-de-jhonsson-pulpo-ofrecen-s-300000-por-la-captura-de-alias-jolin-cabecilla-de-la-nueva-jauria-1577616",
       "categoria": "prensa",
       "verificada": true
+    },
+    {
+      "id": "s27",
+      "titulo": "Informe de Crimen Organizado en Chile 2026",
+      "editor": "Fiscalía de Chile (Ministerio Público), Unidad Especializada en Crimen Organizado y Drogas",
+      "fecha": "2026-11-17",
+      "url": "https://www.fiscaliadechile.cl/sites/default/files/2026-11/Informe_crimen_organizado_2026_vf_17_11_final.pdf",
+      "categoria": "oficial",
+      "verificada": true
     }
-  ]
+  ],
+  "modelo_chile": "renta"
 }

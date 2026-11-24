@@ -1,0 +1,76 @@
+{
+  "id": "los-shottas",
+  "nombre": "Los Shottas",
+  "corto": "Los Shottas",
+  "alias": [],
+  "tipo": "banda",
+  "pais_origen": "COL",
+  "fundacion": "",
+  "resumen": "Los Shottas son una organización criminal originaria de Buenaventura, en el departamento colombiano del Valle del Cauca. La Fiscalía de Chile la incluye entre las 15 organizaciones criminales transnacionales con presencia acreditada en el país. Esa lista figura en su Informe de Crimen Organizado en Chile 2026.\n\nLa Fiscalía de Chile la acerca al modelo de control territorial. En ese modelo, la organización combina la extorsión, el secuestro o el sicariato con mercados ilícitos.",
+  "situacion_actual": "La organización ya figuraba en la lista del informe de 2025. El informe de 2026 no describe causas específicas contra sus integrantes en Chile.",
+  "estructura": "",
+  "lideres": [],
+  "designaciones": [],
+  "delitos": [
+    "drogas_sd",
+    "sicariato",
+    "armas",
+    "extorsion",
+    "secuestro",
+    "robo"
+  ],
+  "presencia": [
+    {
+      "pais": "COL",
+      "nivel": "base",
+      "zonas": [
+        "Valle del Cauca: Buenaventura"
+      ],
+      "delitos": [],
+      "nota": "El informe de la Fiscalía de Chile indica este origen. El atlas no investigó aún la actividad actual de la organización en este país.",
+      "fuente_ids": [
+        "s1"
+      ],
+      "confianza": "media"
+    },
+    {
+      "pais": "CHL",
+      "nivel": "operativa",
+      "zonas": [
+        "Región de Tarapacá",
+        "Región de Antofagasta",
+        "Región de Atacama",
+        "Región Metropolitana"
+      ],
+      "delitos": [
+        "drogas_sd",
+        "sicariato",
+        "armas",
+        "extorsion",
+        "secuestro",
+        "robo"
+      ],
+      "nota": "Según la Fiscalía de Chile, la organización comete en Chile tráfico de drogas, homicidios, tráfico de armas, extorsión, secuestros, amenazas y robos. El informe no indica qué drogas trafica.",
+      "fuente_ids": [
+        "s1"
+      ],
+      "confianza": "alta"
+    }
+  ],
+  "vinculos": [],
+  "notas_controversia": "Esta ficha es preliminar. Se basa solo en el Informe de Crimen Organizado en Chile 2026 de la Fiscalía de Chile. El atlas no investigó aún la presencia y las actividades de la organización en su país de origen.\n\nLa Fiscalía advierte que no todas las organizaciones de su lista tienen el mismo nivel de presencia en Chile. La lista considera las investigaciones formalizadas hasta 2025 (la formalización es el acto en que el fiscal comunica cargos ante un juez).",
+  "confianza_general": "media",
+  "registro_nacional": "CHL",
+  "modelo_chile": "control",
+  "fuentes": [
+    {
+      "id": "s1",
+      "titulo": "Informe de Crimen Organizado en Chile 2026",
+      "editor": "Fiscalía de Chile (Ministerio Público), Unidad Especializada en Crimen Organizado y Drogas",
+      "fecha": "2026-11-17",
+      "url": "https://www.fiscaliadechile.cl/sites/default/files/2026-11/Informe_crimen_organizado_2026_vf_17_11_final.pdf",
+      "categoria": "oficial",
+      "verificada": true
+    }
+  ]
+}
