@@ -86,6 +86,9 @@
   const TIPO = byId(T.tipos);
   const FAM = byId(T.familias);
   const CONF = byId(T.confianza);
+  const MOD = byId(T.modelos || []);
+  const CTX = A.contexto || {};
+  const N_REG = A.orgs.filter((o) => o.registro_nacional).length;
   const ORG = byId(A.orgs);
   const EXT = byId(A.externos);
   const NIV_ORD = { base: 0, consolidada: 1, operativa: 2, limitada: 3 };
@@ -113,17 +116,19 @@
     q: '',
     edges: Object.fromEntries(T.vinculos.map((v) => [v.id, true])),
     ext: true,
+    registro: true,
   };
 
-  const orgPasa = (o) =>
-    (state.familia === 'todas' || o.familia === state.familia) &&
-    (!state.delito || o.delitos.includes(state.delito));
+  // Familia y registro nacional (sin el filtro de delito).
+  const famPasa = (o) =>
+    (state.familia === 'todas' || o.familia === state.familia) && (state.registro || !o.registro_nacional);
+  const orgPasa = (o) => famPasa(o) && (!state.delito || o.delitos.includes(state.delito));
 
   // Presencias que cumplen los filtros (familia + delito en ese país).
   function presencias() {
     const out = [];
     for (const o of A.orgs) {
-      if (state.familia !== 'todas' && o.familia !== state.familia) continue;
+      if (!famPasa(o)) continue;
       for (const p of o.presencia) {
         if (state.delito && !p.delitos.includes(state.delito)) continue;
         out.push({ o, p });
@@ -294,7 +299,7 @@
       A.orgs
         .filter((o) => o.familia === f.id)
         .sort((a, b) => a.nombre.localeCompare(b.nombre, 'es'))
-        .forEach((o) => g.append(h('option', { value: o.id, text: o.nombre })));
+        .forEach((o) => g.append(h('option', { value: o.id, text: o.registro_nacional ? `${o.nombre} (registro nacional)` : o.nombre })));
       so.append(g);
     });
     so.addEventListener('change', () => {
@@ -302,25 +307,35 @@
       update();
     });
 
+    const sr = $('#f-registro');
+    sr.addEventListener('change', () => {
+      state.registro = sr.checked;
+      if (!state.registro && state.org && ORG[state.org] && ORG[state.org].registro_nacional) state.org = '';
+      update();
+    });
+
     $('#f-limpiar').addEventListener('click', () => {
       state.familia = 'todas';
       state.delito = '';
       state.org = '';
+      state.registro = true;
       update();
     });
   }
-  const FAMILIA_CORTA = { narco: 'Narcotráfico', faccion: 'Facciones y pandillas', armado: 'Grupos armados' };
+  const FAMILIA_CORTA = { narco: 'Cárteles y redes', faccion: 'Facciones y bandas', armado: 'Grupos armados' };
 
   function syncFilters() {
     $$('#f-familia button').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.fam === state.familia)));
     $('#f-delito').value = state.delito;
     $('#f-org').value = state.org;
-    const activo = state.familia !== 'todas' || state.delito || state.org;
+    $('#f-registro').checked = state.registro;
+    const activo = state.familia !== 'todas' || state.delito || state.org || !state.registro;
     $('#f-limpiar').hidden = !activo;
     const n = A.orgs.filter(orgPasa).length;
     const partes = [];
     if (state.familia !== 'todas') partes.push(FAMILIA_CORTA[state.familia]);
     if (state.delito) partes.push(DEL[state.delito].nombre);
+    if (!state.registro) partes.push('sin registro nacional');
     $('#f-status').textContent = partes.length
       ? `${n} de ${A.orgs.length} organizaciones ${n === 1 ? "cumple" : "cumplen"} el filtro`
       : `${A.orgs.length} organizaciones`;
@@ -575,7 +590,7 @@
           h('h3', { text: 'Países por número de organizaciones' }),
           h('p', {
             class: 'side__sub',
-            text: `${pl(filas.length, 'país', 'países')} con registro${state.familia !== 'todas' || state.delito ? ' según el filtro' : ''}. Seleccione un país para ver su detalle.`,
+            text: `${pl(filas.length, 'país', 'países')} con registro${state.familia !== 'todas' || state.delito || !state.registro ? ' según el filtro' : ''}. Seleccione un país para ver su detalle.`,
           }),
           h(
             'ul',
@@ -760,7 +775,7 @@
           h('span', { class: 'dot dot--ext', 'aria-hidden': 'true' }),
           'Actores fuera del catálogo'
         ),
-        h('span', { class: 'legend__note', text: 'Los nodos se agrupan por región de origen. Una línea tenue indica confianza baja.' })
+        h('span', { class: 'legend__note', text: 'Los nodos se agrupan por región de origen. Una línea tenue indica confianza baja. La red omite las organizaciones sin vínculos documentados.' })
       );
     }
     function edgeSample(tipo) {
@@ -823,6 +838,9 @@
         grado[v.a] = (grado[v.a] || 0) + 1;
         grado[v.b] = (grado[v.b] || 0) + 1;
       });
+      // Las organizaciones sin vínculos visibles no aparecen, salvo la seleccionada en el filtro.
+      const aislados = Array.from(nodeIds).filter((id) => !grado[id] && id !== state.org);
+      aislados.forEach((id) => nodeIds.delete(id));
       const nodes = Array.from(nodeIds).map((id) => {
         const o = ORG[id];
         const n = {
@@ -839,7 +857,7 @@
         }
         return n;
       });
-      return { nodes, links: links.map((v) => ({ v, source: v.a, target: v.b })) };
+      return { nodes, links: links.map((v) => ({ v, source: v.a, target: v.b })), aislados };
     }
 
     function curva(l) {
@@ -865,7 +883,7 @@
 
     function render() {
       legend();
-      const { nodes, links } = datos();
+      const { nodes, links, aislados } = datos();
       // Curvatura para pares con varios vínculos
       const pares = {};
       links.forEach((l) => {
@@ -1043,7 +1061,11 @@
       const filas = links
         .map((l) => l.v)
         .sort((a, b) => nodeName(a.a).localeCompare(nodeName(b.a), 'es') || a.tipo.localeCompare(b.tipo));
-      $('#net-count').textContent = `Con los filtros actuales, la tabla muestra ${pl(filas.length, 'vínculo', 'vínculos')}.`;
+      $('#net-count').textContent =
+        `Con los filtros actuales, la tabla muestra ${pl(filas.length, 'vínculo', 'vínculos')}.` +
+        (aislados.length
+          ? ` La red omite ${pl(aislados.length, 'organización', 'organizaciones')} sin vínculos documentados: ${aislados.map(nodeName).sort((a, b) => a.localeCompare(b, 'es')).join(', ')}.`
+          : '');
       fill(tabla, 
         h('thead', null, h('tr', null, ['Organización', 'Tipo', 'Contraparte', 'Descripción', 'Confianza', 'Fuentes'].map((t) => h('th', { scope: 'col', text: t })))),
         h(
@@ -1116,7 +1138,7 @@
       })
     );
     function render() {
-      const orgs = A.orgs.filter((o) => state.familia === 'todas' || o.familia === state.familia);
+      const orgs = A.orgs.filter(famPasa);
       const celdas = {};
       const total = {};
       orgs.forEach((o) =>
@@ -1236,7 +1258,7 @@
         render();
       })
     );
-    const norm = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+    const norm = (s) => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
     function render() {
       const q = norm(state.q);
       let orgs = A.orgs.filter(orgPasa).filter((o) => !q || norm([o.nombre, o.corto].concat(o.alias).join(' ')).includes(q));
@@ -1260,6 +1282,7 @@
               onclick: () => Drawer.open({ kind: 'org', id: o.id }),
             },
             h('span', { class: 'card__type' }, h('span', { class: `dot dot--${o.familia}`, 'aria-hidden': 'true' }), TIPO[o.tipo].nombre),
+            o.registro_nacional ? h('span', { class: 'chip chip--reg', text: `Registro nacional · ${pais(o.registro_nacional)}` }) : null,
             h('h3', { text: o.nombre }),
             o.alias.length ? h('p', { class: 'card__alias', text: o.alias.slice(0, 3).join(' · ') }) : null,
             h(
@@ -1287,7 +1310,10 @@
       fill(m, 
         h('h2', { text: 'Alcance' }),
         h('p', {
-          text: `El atlas reúne ${A.orgs.length} organizaciones criminales latinoamericanas vigentes al ${fmtFecha(A.meta.corte)}. Incluye cárteles y redes de narcotráfico, facciones carcelarias, megabandas y pandillas transnacionales. También incluye grupos armados de origen político o paramilitar que hoy dependen de economías ilícitas. Se eligió cada organización por su alcance transnacional o por su impacto en la seguridad del país donde opera. El atlas no incluye una línea de tiempo. Describe la situación a la fecha de corte (la fecha hasta la que llegan los datos).`,
+          text: `El atlas reúne ${A.orgs.length} organizaciones criminales que operan en América Latina, vigentes al ${fmtFecha(A.meta.corte)}. Incluye cárteles y redes criminales, facciones carcelarias, megabandas, bandas y pandillas transnacionales. También incluye grupos armados de origen político o paramilitar que hoy dependen de economías ilícitas. Se eligió cada organización por su alcance transnacional o por su impacto en la seguridad del país donde opera.`,
+        }),
+        h('p', {
+          text: `${N_REG} de las organizaciones son fichas preliminares del registro nacional de Chile (vea la sección siguiente). El atlas no incluye una línea de tiempo. Describe la situación a la fecha de corte (la fecha hasta la que llegan los datos).`,
         }),
         h('h2', { text: 'Fuentes y verificación' }),
         h('p', {
@@ -1296,6 +1322,24 @@
         h('p', {
           text: 'El proceso tuvo tres etapas. Primero, agentes de investigación recopilaron los datos con búsquedas en la web. Luego, verificadores independientes revisaron cada ficha con criterio adversarial: su tarea era encontrar errores. Los verificadores abrieron las fuentes, actualizaron los hechos de 2026 y eliminaron o rebajaron las afirmaciones sin respaldo. Por último, una revisión de coherencia entre fichas corrigió contradicciones y agregó vínculos documentados que faltaban. Si el enlace de una fuente no se pudo abrir durante la verificación, la fuente lleva la marca «enlace no verificado».',
         }),
+        h('h2', { text: 'Registro nacional de Chile' }),
+        h('p', {
+          text: 'El 18 de noviembre de 2026, la Fiscalía de Chile presentó su Informe de Crimen Organizado en Chile 2026. El informe lista 15 organizaciones criminales transnacionales con presencia acreditada en el país. El atlas incorpora las 15. Tres ya tenían ficha: el Tren de Aragua, Los Lobos y Los Pulpos. Los Chone Killers tienen ahora una ficha propia, con fuentes de Ecuador y EE. UU.',
+        }),
+        h('p', {
+          text: `Las otras ${N_REG} organizaciones son fichas preliminares del registro nacional. Esas fichas se basan solo en el informe de la Fiscalía. Su presencia en Chile tiene nivel operativo y confianza alta, porque la fuente es oficial. Su presencia en el país de origen tiene confianza media y no indica delitos, porque el atlas no la investigó aún.`,
+        }),
+        h('p', {
+          text: 'El filtro «Registro nacional» permite excluir estas fichas. Sin esa exclusión, el mapa y la matriz pueden sobrerrepresentar a Chile frente a países sin un registro equivalente. Al abrir Chile en el mapa o en la matriz, el panel «Contexto nacional» resume las cifras y las rutas del informe.',
+        }),
+        h('p', {
+          text: 'El atlas asigna el tipo de estas organizaciones según el modelo de la Fiscalía. Las organizaciones de control territorial y de renta predatoria son bandas criminales. Las de infraestructura y de plataforma son redes criminales.',
+        }),
+        h('h2', { text: 'Modelos de organización (Fiscalía de Chile)' }),
+        h('p', {
+          text: 'La Fiscalía de Chile clasifica a las organizaciones de su lista según sus actividades registradas. La clasificación es provisional. Las fichas muestran el modelo en el campo «Modelo (Fiscalía de Chile)».',
+        }),
+        h('dl', null, (T.modelos || []).map((m) => [h('dt', { text: m.nombre }), h('dd', { text: m.def })])),
         h('h2', { text: 'Niveles de presencia' }),
         h('dl', null, T.niveles.map((n) => [h('dt', null, h('span', { class: 'chip chip--lvl-' + n.id, text: n.nombre })), h('dd', { text: n.def })])),
         h('h2', { text: 'Grado de confianza' }),
@@ -1313,10 +1357,11 @@
           h('li', { text: 'Algunas categorías son objeto de controversia. Por ejemplo, no hay acuerdo sobre si una red de funcionarios es un cártel jerárquico. Las fichas señalan cada controversia en la sección «Controversias y advertencias».' }),
           h('li', { text: 'Una designación oficial, por ejemplo como organización terrorista, es un acto político y jurídico de cada Estado. El atlas informa cada designación como un hecho, pero no adopta su calificación. El atlas registra la declaración conjunta «Escudo de las Américas» (22 de septiembre de 2026) como una declaración política no vinculante (que no crea obligaciones jurídicas). No la registra como una designación jurídica.' }),
           h('li', { text: 'El atlas nombra a una persona como líder con base en acusaciones, sanciones o declaraciones oficiales. Mientras no exista una condena, cada persona nombrada es un presunto responsable.' }),
+          h('li', { text: 'Las fichas del registro nacional repiten la información de un solo documento oficial. Una investigación posterior debe completar su actividad en el país de origen.' }),
           h('li', { text: 'El crimen organizado cambia con rapidez. Después de la fecha de corte, las detenciones, las muertes, las escisiones y las alianzas pueden cambiar este cuadro.' })
         ),
         h('h2', { text: 'Uso de los datos' }),
-        h('p', null, 'Los datos fuente están en ', h('code', { text: 'data/src/orgs/*.json' }), ', con una ficha por organización. El comando ', h('code', { text: 'python3 tools/build.py' }), ' compila los datos. Antes de generar ', h('code', { text: 'data/atlas.js' }), ', el comando valida los códigos de país, los delitos, los vínculos y las fuentes.')
+        h('p', null, 'Los datos fuente están en ', h('code', { text: 'data/src/orgs/*.json' }), ', con una ficha por organización. El contexto nacional está en ', h('code', { text: 'data/src/contexto/*.json' }), '. El comando ', h('code', { text: 'python3 tools/build.py' }), ' compila los datos. Antes de generar ', h('code', { text: 'data/atlas.js' }), ', el comando valida los códigos de país, los delitos, los vínculos y las fuentes.')
       );
       // Bibliografía
       const fuentes = Object.entries(A.fuentes);
@@ -1415,8 +1460,18 @@
           h('dt', { text: 'Presencia' }),
           h('dd', { text: pl(o.presencia.length, 'país', 'países') }),
           h('dt', { text: 'Confianza general' }),
-          h('dd', { text: CONF[o.confianza_general].nombre })
+          h('dd', { text: CONF[o.confianza_general].nombre }),
+          o.modelo_chile && MOD[o.modelo_chile] ? h('dt', { text: 'Modelo (Fiscalía de Chile)' }) : null,
+          o.modelo_chile && MOD[o.modelo_chile] ? h('dd', { title: MOD[o.modelo_chile].def, text: MOD[o.modelo_chile].nombre }) : null
         ),
+        o.registro_nacional
+          ? h(
+              'div',
+              { class: 'note-box note-box--reg', style: 'margin-top:12px' },
+              h('b', { text: 'Ficha preliminar del registro nacional. ' }),
+              `La ficha se basa en el registro oficial de ${pais(o.registro_nacional)}. El atlas no investigó aún esta organización en su país de origen. Para excluir estas fichas, desmarque el filtro «Registro nacional».`
+            )
+          : null,
         h(
           'div',
           { class: 'chips', style: 'margin-top:12px' },
@@ -1426,7 +1481,12 @@
         ),
         h('h3', { text: 'Resumen' }),
         h('p', { text: o.resumen }),
-        h('h3', { text: `Situación al ${fmtFecha(A.meta.corte)}` }),
+        h('h3', {
+          text:
+            o.registro_nacional && CTX[o.registro_nacional]
+              ? `Situación según el registro nacional (${fmtFecha(CTX[o.registro_nacional].fecha)})`
+              : `Situación al ${fmtFecha(A.meta.corte)}`,
+        }),
         h('p', { text: o.situacion_actual })
       );
       if (o.estructura) nodes.push(h('h3', { text: 'Estructura' }), h('p', { text: o.estructura }));
@@ -1519,7 +1579,7 @@
       crumb.textContent = delito ? `País · ${DEL[delito].nombre}` : 'País';
       let filas = [];
       A.orgs.forEach((o) => {
-        if (state.familia !== 'todas' && o.familia !== state.familia) return;
+        if (!famPasa(o)) return;
         o.presencia.forEach((p) => {
           if (p.pais !== a3) return;
           const d = delito || state.delito;
@@ -1533,6 +1593,7 @@
       const filtro = [];
       if (state.familia !== 'todas') filtro.push(FAMILIA_CORTA[state.familia]);
       if (delito || state.delito) filtro.push(DEL[delito || state.delito].nombre);
+      if (!state.registro) filtro.push('sin registro nacional');
       const reg = A.paises[a3] ? A.regiones.find((r) => r.id === A.paises[a3].r) : null;
       fill(body, 
         h('div', { class: 'card__type', text: reg ? reg.nombre : '' }),
@@ -1546,11 +1607,13 @@
               onclick: () => {
                 state.familia = 'todas';
                 state.delito = '';
+                state.registro = true;
                 update();
                 show({ kind: 'pais', id: a3 }, false);
               },
             })
           : null,
+        CTX[a3] ? contexto(a3, CTX[a3], c, delito || state.delito) : null,
         Object.keys(delitosPais).length
           ? [
               h('h3', { text: 'Delitos documentados en el país' }),
@@ -1589,6 +1652,71 @@
           )
         ),
         c.size() ? [h('h3', { text: `Fuentes (${c.size()})` }), c.list()] : null
+      );
+    }
+
+    // Panel «Contexto nacional»: cifras y secciones del registro oficial del país.
+    function contexto(a3, x, c, delito) {
+      const porModelo = {};
+      if (a3 === 'CHL')
+        A.orgs.forEach((o) => {
+          if (o.modelo_chile && MOD[o.modelo_chile]) (porModelo[o.modelo_chile] = porModelo[o.modelo_chile] || []).push(o);
+        });
+      const modelos = (T.modelos || []).filter((m) => porModelo[m.id]);
+      return h(
+        'details',
+        { class: 'ctx', open: '' },
+        h('summary', null, h('span', { class: 'ctx__title', text: 'Contexto nacional' }), h('span', { class: 'ctx__src' }, `Informe oficial · ${fmtFecha(x.fecha)}`, c.ref(x.f))),
+        h('p', { text: x.resumen }),
+        h('p', { class: 'ctx__hint', text: 'Pulse una cifra para ver su detalle y su fuente.' }),
+        h(
+          'ul',
+          { class: 'ctx__cifras' },
+          x.cifras.map((k) =>
+            h(
+              'li',
+              null,
+              h(
+                'details',
+                null,
+                h('summary', null, h('span', { class: 'ctx__valor', text: k.valor }), h('span', { class: 'ctx__etq', text: k.etiqueta })),
+                h('span', { class: 'ctx__det' }, k.detalle, c.ref(k.f))
+              )
+            )
+          )
+        ),
+        x.secciones.map((sec) =>
+          h(
+            'details',
+            { class: 'ctx__sec', open: delito && sec.delitos.includes(delito) ? '' : null },
+            h('summary', { text: sec.titulo }),
+            h('p', null, sec.texto, c.ref(sec.f)),
+            sec.delitos.length ? h('div', { class: 'chips' }, sec.delitos.map((d) => h('span', { class: 'chip', title: DEL[d].def, text: DEL[d].corto }))) : null
+          )
+        ),
+        modelos.length
+          ? h(
+              'details',
+              { class: 'ctx__sec' },
+              h('summary', { text: 'Organizaciones de la lista oficial, por modelo' }),
+              h('p', { text: 'La Fiscalía clasifica a las organizaciones de su lista según sus actividades. La clasificación es provisional.' }),
+              h(
+                'dl',
+                { class: 'facts' },
+                modelos.map((m) => [
+                  h('dt', { title: m.def, text: m.nombre }),
+                  h(
+                    'dd',
+                    null,
+                    porModelo[m.id]
+                      .sort((a, b) => a.nombre.localeCompare(b.nombre, 'es'))
+                      .map((o, i) => [i ? ', ' : '', h('button', { class: 'linkbtn', type: 'button', text: o.nombre, onclick: () => open({ kind: 'org', id: o.id }) })])
+                  ),
+                ])
+              )
+            )
+          : null,
+        x.limites ? h('div', { class: 'note-box', style: 'margin-top:10px', text: x.limites }) : null
       );
     }
 

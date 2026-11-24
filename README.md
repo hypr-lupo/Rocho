@@ -2,7 +2,7 @@
 
 Este atlas es un sitio web interactivo y estático (no necesita un servidor). Muestra las principales organizaciones criminales vigentes en América Latina y el Caribe. Para cada organización, muestra su presencia territorial (país y zonas clave), los delitos que comete en cada territorio y sus vínculos dentro y fuera de la región. Cada afirmación cita sus fuentes.
 
-La fecha de corte de los datos es el 5 de octubre de 2026. El atlas describe la situación a esa fecha y no incluye una línea de tiempo.
+La fecha de corte de los datos es el 5 de octubre de 2026. El atlas describe la situación a esa fecha y no incluye una línea de tiempo. El registro nacional de Chile agrega datos del Informe de Crimen Organizado en Chile 2026 (Fiscalía de Chile, 17 de noviembre de 2026).
 
 ## Vistas
 
@@ -14,7 +14,21 @@ La fecha de corte de los datos es el 5 de octubre de 2026. El atlas describe la 
 | Organizaciones | Muestra una ficha por organización. Cada ficha tiene resumen, situación actual, liderazgo presunto, designaciones oficiales, presencia, vínculos, controversias y fuentes numeradas. |
 | Método y fuentes | Muestra los criterios, las definiciones, los límites y la bibliografía completa. |
 
-Los filtros de familia de organización, de delito y de organización se aplican a todas las vistas.
+Los filtros de familia de organización, de delito y de organización se aplican a todas las vistas. El filtro «Registro nacional» incluye o excluye las fichas preliminares del registro nacional de Chile.
+
+## Registro nacional de Chile
+
+El Informe de Crimen Organizado en Chile 2026 de la Fiscalía de Chile lista 15 organizaciones criminales transnacionales con presencia acreditada en el país. El atlas incorpora las 15:
+
+1. Tres organizaciones ya tenían ficha: el Tren de Aragua, Los Lobos y Los Pulpos. Sus fichas suman ahora los datos del informe.
+
+2. Los Chone Killers tienen ahora una ficha propia, con fuentes de Ecuador y EE. UU.
+
+3. Las otras 11 organizaciones tienen fichas preliminares, marcadas con `"registro_nacional": "CHL"`. Esas fichas se basan solo en el informe. El atlas no investigó aún su actividad en el país de origen.
+
+Las fichas preliminares pueden sobrerrepresentar a Chile en el mapa y en la matriz. Para comparar países, desmarque el filtro «Registro nacional».
+
+Al abrir Chile en el mapa o en la matriz, el panel «Contexto nacional» resume las cifras, las rutas y los escenarios del informe. El campo `modelo_chile` registra el modelo de organización que asigna la Fiscalía: control territorial, infraestructura, renta predatoria o plataforma.
 
 ## Uso local (Windows 11)
 
@@ -53,13 +67,15 @@ assets/app.js              lógica de las vistas
 assets/vendor/             d3 7.9.0 y topojson 3.0.2 (copias locales)
 data/geo.js                geometría mundial (Natural Earth 1:50m, vía world-atlas 2.0.2)
 data/atlas.js              datos compilados (generado; no editar a mano)
-data/src/taxonomia.json    delitos, niveles de presencia, tipos de vínculo y de organización
+data/src/taxonomia.json    delitos, niveles, tipos de vínculo y de organización, modelos de la Fiscalía de Chile
 data/src/paises.json       nombres de países en español (ISO 3166-1 alfa-3)
 data/src/externos.json     actores fuera del catálogo con vínculos documentados
 data/src/orgs/<id>.json    una ficha por organización (fuente de verdad)
+data/src/contexto/<A3>.json contexto nacional de un país (cifras y secciones con fuentes)
 tools/build.py             valida data/src y genera data/atlas.js
 tools/build_geo.py         regenera data/geo.js y data/src/paises.json
 tools/build_artifact.py    genera dist/atlas-artifact.html (versión de una sola página)
+tools/lint_redaccion.py    revisa los textos según GUIA_REDACCION.md
 ```
 
 El script `tools/build.py` genera `data/atlas.js` a partir de `data/src`. No edite `data/atlas.js` a mano. Si necesita cambiar los datos, edite los archivos de `data/src`.

@@ -748,3 +748,28 @@ footer.site-foot {
 /* Los textos de las fichas separan párrafos con una línea en blanco (GUIA_REDACCION.md). */
 .drawer__body p, .pres__note, .note-box, .vinc li > div, .links-table td, .tip div { white-space: pre-line; }
 .drawer__body p + p { margin-top: 10px; }
+
+/* Registro nacional y contexto nacional */
+.check { display: inline-flex; align-items: center; gap: 6px; font-size: var(--fs-s); color: var(--ink-2); cursor: pointer; }
+.check input { width: 16px; height: 16px; margin: 0; accent-color: var(--link); }
+.chip--reg { border-style: dashed; color: var(--ink-2); align-self: flex-start; }
+.card .chip--reg { margin-top: 2px; }
+.note-box--reg { border-style: solid; border-left: 3px solid var(--focus); }
+.ctx { margin: 14px 0 4px; border: 1px solid var(--rule); border-radius: var(--radius); background: var(--surface); padding: 10px 12px; }
+.ctx > summary { cursor: pointer; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; }
+.ctx__title { font-family: var(--font-display); font-weight: 700; font-size: 1.05rem; color: var(--ink); }
+.ctx__src { font-size: var(--fs-xs); color: var(--muted); }
+.ctx__cifras { list-style: none; margin: 10px 0; padding: 0; display: grid; grid-auto-flow: dense; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 8px; }
+.ctx__cifras li { padding: 8px 10px; border-radius: var(--radius); background: var(--sea); border: 1px solid var(--rule); min-width: 0; }
+.ctx__cifras details[open] { grid-column: 1 / -1; }
+.ctx__cifras li:has(details[open]) { grid-column: 1 / -1; }
+.ctx__cifras summary { cursor: pointer; list-style: none; display: flex; flex-direction: column; gap: 2px; }
+.ctx__cifras summary::-webkit-details-marker { display: none; }
+.ctx__cifras details[open] .ctx__det { display: block; margin-top: 6px; }
+.ctx__hint { font-size: var(--fs-xs); color: var(--muted); margin: 4px 0 0; }
+.ctx__valor { font-family: var(--font-display); font-weight: 700; font-size: 1.25rem; color: var(--ink); line-height: 1.1; font-variant-numeric: tabular-nums; }
+.ctx__etq { font-size: var(--fs-xs); font-weight: 600; color: var(--ink-2); }
+.ctx__det { font-size: var(--fs-s); color: var(--ink-2); }
+.ctx__sec { border-top: 1px solid var(--rule); padding: 6px 0; }
+.ctx__sec > summary { cursor: pointer; font-weight: 600; font-size: var(--fs-s); color: var(--ink); padding: 2px 0; }
+.ctx__sec p { font-size: var(--fs-s); color: var(--ink-2); margin: 6px 0; }
